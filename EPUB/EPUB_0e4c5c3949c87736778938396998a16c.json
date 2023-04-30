@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phu-nu_20036.html",
+    "title" : "Phụ Nữ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Osho",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 21445,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_0e4c5c3949c87736778938396998a16c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_0e4c5c3949c87736778938396998a16c.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1663,
+    "title" : "phu-nu-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1250,
+    "title" : "phu-nu-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1232,
+    "title" : "phu-nu-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1062,
+    "title" : "phu-nu-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1742,
+    "title" : "phu-nu-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1888,
+    "title" : "phu-nu-06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2529,
+    "title" : "phu-nu-07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1678,
+    "title" : "phu-nu-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2143,
+    "title" : "phu-nu-09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1646,
+    "title" : "phu-nu-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3699,
+    "title" : "phu-nu-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 913,
+    "title" : "phu-nu-12",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-01.mp3",
+    "title" : "phu-nu-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-02.mp3",
+    "title" : "phu-nu-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-03.mp3",
+    "title" : "phu-nu-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-04.mp3",
+    "title" : "phu-nu-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-05.mp3",
+    "title" : "phu-nu-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-06.mp3",
+    "title" : "phu-nu-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-07.mp3",
+    "title" : "phu-nu-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-08.mp3",
+    "title" : "phu-nu-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-09.mp3",
+    "title" : "phu-nu-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-10.mp3",
+    "title" : "phu-nu-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-11.mp3",
+    "title" : "phu-nu-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phu-nu-11/phu-nu-12.mp3",
+    "title" : "phu-nu-12",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
