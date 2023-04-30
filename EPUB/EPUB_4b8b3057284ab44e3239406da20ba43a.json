@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khoanh-khac-cau-vong_20155.html",
+    "title" : "Khoảnh Khắc Cầu Vồng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Edward M. Hallowell",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 28468,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_4b8b3057284ab44e3239406da20ba43a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_4b8b3057284ab44e3239406da20ba43a.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2198,
+    "title" : "KHOANH KHAC CAU VONG 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3538,
+    "title" : "KHOANH KHAC CAU VONG 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1989,
+    "title" : "KHOANH KHAC CAU VONG 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2786,
+    "title" : "KHOANH KHAC CAU VONG 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2953,
+    "title" : "KHOANH KHAC CAU VONG 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1481,
+    "title" : "KHOANH KHAC CAU VONG 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1548,
+    "title" : "KHOANH KHAC CAU VONG 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2693,
+    "title" : "KHOANH KHAC CAU VONG 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2656,
+    "title" : "KHOANH KHAC CAU VONG 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3038,
+    "title" : "KHOANH KHAC CAU VONG 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1571,
+    "title" : "KHOANH KHAC CAU VONG 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2017,
+    "title" : "KHOANH KHAC CAU VONG 12",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_01.mp3",
+    "title" : "KHOANH KHAC CAU VONG 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_02.mp3",
+    "title" : "KHOANH KHAC CAU VONG 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_03.mp3",
+    "title" : "KHOANH KHAC CAU VONG 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_04.mp3",
+    "title" : "KHOANH KHAC CAU VONG 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_05.mp3",
+    "title" : "KHOANH KHAC CAU VONG 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_06.mp3",
+    "title" : "KHOANH KHAC CAU VONG 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_07.mp3",
+    "title" : "KHOANH KHAC CAU VONG 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_08.mp3",
+    "title" : "KHOANH KHAC CAU VONG 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_09.mp3",
+    "title" : "KHOANH KHAC CAU VONG 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_10.mp3",
+    "title" : "KHOANH KHAC CAU VONG 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_11.mp3",
+    "title" : "KHOANH KHAC CAU VONG 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoanh-khac-cau-vong.sna/KHOANH_KHAC_CAU_VONG_12.mp3",
+    "title" : "KHOANH KHAC CAU VONG 12",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

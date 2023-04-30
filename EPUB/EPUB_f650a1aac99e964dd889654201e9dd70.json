@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nuoc-nguon-xuoi-mai_20151.html",
+    "title" : "Nước Nguồn Xuôi Mãi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dạ Ngân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 28544,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_f650a1aac99e964dd889654201e9dd70.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_f650a1aac99e964dd889654201e9dd70.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1590,
+    "title" : "NUOC NGUON XUOI MAI 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2857,
+    "title" : "NUOC NGUON XUOI MAI 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3276,
+    "title" : "NUOC NGUON XUOI MAI 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2631,
+    "title" : "NUOC NGUON XUOI MAI 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2629,
+    "title" : "NUOC NGUON XUOI MAI 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2448,
+    "title" : "NUOC NGUON XUOI MAI 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2525,
+    "title" : "NUOC NGUON XUOI MAI 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2935,
+    "title" : "NUOC NGUON XUOI MAI 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2205,
+    "title" : "NUOC NGUON XUOI MAI 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2783,
+    "title" : "NUOC NGUON XUOI MAI 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2665,
+    "title" : "NUOC NGUON XUOI MAI 11",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_01.mp3",
+    "title" : "NUOC NGUON XUOI MAI 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_02.mp3",
+    "title" : "NUOC NGUON XUOI MAI 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_03.mp3",
+    "title" : "NUOC NGUON XUOI MAI 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_04.mp3",
+    "title" : "NUOC NGUON XUOI MAI 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_05.mp3",
+    "title" : "NUOC NGUON XUOI MAI 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_06.mp3",
+    "title" : "NUOC NGUON XUOI MAI 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_07.mp3",
+    "title" : "NUOC NGUON XUOI MAI 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_08.mp3",
+    "title" : "NUOC NGUON XUOI MAI 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_09.mp3",
+    "title" : "NUOC NGUON XUOI MAI 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_10.mp3",
+    "title" : "NUOC NGUON XUOI MAI 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nuoc-nguon-xuoi-mai.sna/NUOC_NGUON_XUOI_MAI_11.mp3",
+    "title" : "NUOC NGUON XUOI MAI 11",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

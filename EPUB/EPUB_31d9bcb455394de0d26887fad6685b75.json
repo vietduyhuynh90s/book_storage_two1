@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nga-hai_20127.html",
+    "title" : "Ngã Hai",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hiệp",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-30",
+    "duration" : 13220,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_31d9bcb455394de0d26887fad6685b75.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_31d9bcb455394de0d26887fad6685b75.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nga-hai.sna/NGA_HAI_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1841,
+    "title" : "NGA HAI 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nga-hai.sna/NGA_HAI_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1266,
+    "title" : "NGA HAI 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nga-hai.sna/NGA_HAI_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1544,
+    "title" : "NGA HAI 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nga-hai.sna/NGA_HAI_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1677,
+    "title" : "NGA HAI 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nga-hai.sna/NGA_HAI_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1675,
+    "title" : "NGA HAI 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nga-hai.sna/NGA_HAI_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2671,
+    "title" : "NGA HAI 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nga-hai.sna/NGA_HAI_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2546,
+    "title" : "NGA HAI 07",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nga-hai.sna/NGA_HAI_01.mp3",
+    "title" : "NGA HAI 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nga-hai.sna/NGA_HAI_02.mp3",
+    "title" : "NGA HAI 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nga-hai.sna/NGA_HAI_03.mp3",
+    "title" : "NGA HAI 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nga-hai.sna/NGA_HAI_04.mp3",
+    "title" : "NGA HAI 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nga-hai.sna/NGA_HAI_05.mp3",
+    "title" : "NGA HAI 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nga-hai.sna/NGA_HAI_06.mp3",
+    "title" : "NGA HAI 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nga-hai.sna/NGA_HAI_07.mp3",
+    "title" : "NGA HAI 07",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
