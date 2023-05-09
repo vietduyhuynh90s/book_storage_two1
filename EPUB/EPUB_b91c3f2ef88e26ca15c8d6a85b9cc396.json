@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bay-buoc-toi-mua-he_12535.html",
+    "title" : "Bảy Bước Tới Mùa Hè",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Nhật Ánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 21634,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_b91c3f2ef88e26ca15c8d6a85b9cc396.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_b91c3f2ef88e26ca15c8d6a85b9cc396.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bay-buoc-toi-mua-he.sna/Bay%20buoc%20toi%20mua%20he%20%281%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3570,
+    "title" : "Bay buoc toi mua he (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-buoc-toi-mua-he.sna/Bay%20buoc%20toi%20mua%20he%20%282%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3618,
+    "title" : "Bay buoc toi mua he (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-buoc-toi-mua-he.sna/Bay%20buoc%20toi%20mua%20he%20%283%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3629,
+    "title" : "Bay buoc toi mua he (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-buoc-toi-mua-he.sna/Bay%20buoc%20toi%20mua%20he%20%284%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3628,
+    "title" : "Bay buoc toi mua he (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-buoc-toi-mua-he.sna/Bay%20buoc%20toi%20mua%20he%20%285%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3593,
+    "title" : "Bay buoc toi mua he (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bay-buoc-toi-mua-he.sna/Bay%20buoc%20toi%20mua%20he%20%286%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3596,
+    "title" : "Bay buoc toi mua he (6)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bay-buoc-toi-mua-he.sna/Bay%20buoc%20toi%20mua%20he%20%281%29.mp3",
+    "title" : "Bay buoc toi mua he (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-buoc-toi-mua-he.sna/Bay%20buoc%20toi%20mua%20he%20%282%29.mp3",
+    "title" : "Bay buoc toi mua he (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-buoc-toi-mua-he.sna/Bay%20buoc%20toi%20mua%20he%20%283%29.mp3",
+    "title" : "Bay buoc toi mua he (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-buoc-toi-mua-he.sna/Bay%20buoc%20toi%20mua%20he%20%284%29.mp3",
+    "title" : "Bay buoc toi mua he (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-buoc-toi-mua-he.sna/Bay%20buoc%20toi%20mua%20he%20%285%29.mp3",
+    "title" : "Bay buoc toi mua he (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bay-buoc-toi-mua-he.sna/Bay%20buoc%20toi%20mua%20he%20%286%29.mp3",
+    "title" : "Bay buoc toi mua he (6)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

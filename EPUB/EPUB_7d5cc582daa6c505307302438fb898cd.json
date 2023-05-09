@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mat-biec_12534.html",
+    "title" : "Mắt Biếc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Nhật Ánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 20327,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_7d5cc582daa6c505307302438fb898cd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_7d5cc582daa6c505307302438fb898cd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/matbiec-nguyen-nna/mat%20biec%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3382,
+    "title" : "mat biec 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/matbiec-nguyen-nna/mat%20biec%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3460,
+    "title" : "mat biec 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/matbiec-nguyen-nna/mat%20biec%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3485,
+    "title" : "mat biec 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/matbiec-nguyen-nna/mat%20biec%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3274,
+    "title" : "mat biec 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/matbiec-nguyen-nna/mat%20biec%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3251,
+    "title" : "mat biec 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/matbiec-nguyen-nna/mat%20biec%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3475,
+    "title" : "mat biec 6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/matbiec-nguyen-nna/mat%20biec%201.mp3",
+    "title" : "mat biec 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/matbiec-nguyen-nna/mat%20biec%202.mp3",
+    "title" : "mat biec 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/matbiec-nguyen-nna/mat%20biec%203.mp3",
+    "title" : "mat biec 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/matbiec-nguyen-nna/mat%20biec%204.mp3",
+    "title" : "mat biec 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/matbiec-nguyen-nna/mat%20biec%205.mp3",
+    "title" : "mat biec 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/matbiec-nguyen-nna/mat%20biec%206.mp3",
+    "title" : "mat biec 6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
