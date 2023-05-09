@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ung-thu-su-that-hu-cau-gian-lan-va-nhung-phuong-phap-chua-lanh-khong-doc-hai_14918.html",
+    "title" : "Ung Thư - Sự Thật, Hư Cấu, Gian Lận Và Những Phương Pháp Chữa Lành Không Độc Hại",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ty Bollinger",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 32490,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_89e463cf5ed399f88d17ec2f093953a3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_89e463cf5ed399f88d17ec2f093953a3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/su-that-1/su-that-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5460,
+    "title" : "su-that-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/su-that-1/su-that-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5460,
+    "title" : "su-that-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/su-that-1/su-that-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5460,
+    "title" : "su-that-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/su-that-1/su-that-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5460,
+    "title" : "su-that-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/su-that-1/su-that-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5460,
+    "title" : "su-that-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/su-that-1/su-that-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5190,
+    "title" : "su-that-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/su-that-1/su-that-1.mp3",
+    "title" : "su-that-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-that-1/su-that-2.mp3",
+    "title" : "su-that-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-that-1/su-that-3.mp3",
+    "title" : "su-that-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-that-1/su-that-4.mp3",
+    "title" : "su-that-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-that-1/su-that-5.mp3",
+    "title" : "su-that-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/su-that-1/su-that-6.mp3",
+    "title" : "su-that-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
