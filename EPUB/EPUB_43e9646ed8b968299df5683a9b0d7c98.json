@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dich-hoc-tinh-hoa_20150.html",
+    "title" : "Dịch Học Tinh Hoa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Duy Cần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 20833,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_43e9646ed8b968299df5683a9b0d7c98.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_43e9646ed8b968299df5683a9b0d7c98.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dich-hoc-5/dich-hoc-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3056,
+    "title" : "dich-hoc-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-hoc-5/dich-hoc-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2929,
+    "title" : "dich-hoc-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-hoc-5/dich-hoc-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2397,
+    "title" : "dich-hoc-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-hoc-5/dich-hoc-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2542,
+    "title" : "dich-hoc-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-hoc-5/dich-hoc-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3184,
+    "title" : "dich-hoc-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-hoc-5/dich-hoc-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2677,
+    "title" : "dich-hoc-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-hoc-5/dich-hoc-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2131,
+    "title" : "dich-hoc-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dich-hoc-5/dich-hoc-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1917,
+    "title" : "dich-hoc-8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dich-hoc-5/dich-hoc-1.mp3",
+    "title" : "dich-hoc-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-hoc-5/dich-hoc-2.mp3",
+    "title" : "dich-hoc-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-hoc-5/dich-hoc-3.mp3",
+    "title" : "dich-hoc-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-hoc-5/dich-hoc-4.mp3",
+    "title" : "dich-hoc-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-hoc-5/dich-hoc-5.mp3",
+    "title" : "dich-hoc-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-hoc-5/dich-hoc-6.mp3",
+    "title" : "dich-hoc-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-hoc-5/dich-hoc-7.mp3",
+    "title" : "dich-hoc-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dich-hoc-5/dich-hoc-8.mp3",
+    "title" : "dich-hoc-8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

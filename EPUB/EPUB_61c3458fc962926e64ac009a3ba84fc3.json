@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dao_19531.html",
+    "title" : "Đảo",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Ngọc Tư",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 10238,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_61c3458fc962926e64ac009a3ba84fc3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_61c3458fc962926e64ac009a3ba84fc3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cui-muc/ao-do.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 670,
+    "title" : "ao-do",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cui-muc/bang-quo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 487,
+    "title" : "bang-quo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cui-muc/bien-mat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 797,
+    "title" : "bien-mat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cui-muc/coi-tay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 609,
+    "title" : "coi-tay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cui-muc/cui-muc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1270,
+    "title" : "cui-muc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cui-muc/danh-mat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 718,
+    "title" : "danh-mat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cui-muc/dao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1084,
+    "title" : "dao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cui-muc/di-bui.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 647,
+    "title" : "di-bui",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cui-muc/luu-lac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 621,
+    "title" : "luu-lac",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cui-muc/mua-qua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 882,
+    "title" : "mua-qua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cui-muc/so-long.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 869,
+    "title" : "so-long",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cui-muc/tro-tan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 944,
+    "title" : "tro-tan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cui-muc/vi-cua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 640,
+    "title" : "vi-cua",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cui-muc/ao-do.mp3",
+    "title" : "ao-do",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cui-muc/bang-quo.mp3",
+    "title" : "bang-quo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cui-muc/bien-mat.mp3",
+    "title" : "bien-mat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cui-muc/coi-tay.mp3",
+    "title" : "coi-tay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cui-muc/cui-muc.mp3",
+    "title" : "cui-muc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cui-muc/danh-mat.mp3",
+    "title" : "danh-mat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cui-muc/dao.mp3",
+    "title" : "dao",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cui-muc/di-bui.mp3",
+    "title" : "di-bui",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cui-muc/luu-lac.mp3",
+    "title" : "luu-lac",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cui-muc/mua-qua.mp3",
+    "title" : "mua-qua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cui-muc/so-long.mp3",
+    "title" : "so-long",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cui-muc/tro-tan.mp3",
+    "title" : "tro-tan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cui-muc/vi-cua.mp3",
+    "title" : "vi-cua",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

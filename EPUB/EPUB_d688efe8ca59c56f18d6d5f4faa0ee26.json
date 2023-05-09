@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cap-tren-xin-bao-nuoi_15471.html",
+    "title" : "Cấp Trên, Xin Bao Nuôi!",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bát Trà Hương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 28503,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_d688efe8ca59c56f18d6d5f4faa0ee26.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_d688efe8ca59c56f18d6d5f4faa0ee26.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cap-tren-xin-bao-nuoi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4060,
+    "title" : "Top truyện ngôn tình hay đặc sắc về quân nhân.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cap-tren-xin-bao-nuoi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3774,
+    "title" : "Top truyện ngôn tình quân nhân - ngắn gọn nhưng đặc sắc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cap-tren-xin-bao-nuoi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4734,
+    "title" : "Top truyện hay - ngôn tình về quân nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cap-tren-xin-bao-nuoi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4082,
+    "title" : "Top truyện ngôn tình hay bá đạo - trước đám cưới quân nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cap-tren-xin-bao-nuoi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3904,
+    "title" : "Top truyện ngôn tình hay bá đạo - quân nhân và kiều nữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cap-tren-xin-bao-nuoi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3577,
+    "title" : "Top truyện ngôn tình mới bá đạo giữa quân nhân và kiều nữ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cap-tren-xin-bao-nuoi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4372,
+    "title" : "Top truyện ngôn tình của Vị Hy - quân nhân và kiều nữ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cap-tren-xin-bao-nuoi/1.mp3",
+    "title" : "Top truyện ngôn tình hay đặc sắc về quân nhân.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cap-tren-xin-bao-nuoi/2.mp3",
+    "title" : "Top truyện ngôn tình quân nhân - ngắn gọn nhưng đặc sắc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cap-tren-xin-bao-nuoi/3.mp3",
+    "title" : "Top truyện hay - ngôn tình về quân nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cap-tren-xin-bao-nuoi/4.mp3",
+    "title" : "Top truyện ngôn tình hay bá đạo - trước đám cưới quân nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cap-tren-xin-bao-nuoi/5.mp3",
+    "title" : "Top truyện ngôn tình hay bá đạo - quân nhân và kiều nữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cap-tren-xin-bao-nuoi/6.mp3",
+    "title" : "Top truyện ngôn tình mới bá đạo giữa quân nhân và kiều nữ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cap-tren-xin-bao-nuoi/7.mp3",
+    "title" : "Top truyện ngôn tình của Vị Hy - quân nhân và kiều nữ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

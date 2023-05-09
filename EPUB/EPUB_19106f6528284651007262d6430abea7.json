@@ -1,0 +1,485 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khom-lung_14507.html",
+    "title" : "Khom Lưng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bồng Lai Khách",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 164003,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_19106f6528284651007262d6430abea7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_19106f6528284651007262d6430abea7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khom-lung/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2685,
+    "title" : "Bồng Lai Khách - P1 (C1-4) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4381,
+    "title" : "Bồng Lai Khách - P10 (C32-35) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4457,
+    "title" : "Bồng Lai Khách - P11 (C36-40) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4961,
+    "title" : "Bồng Lai Khách - P12 (C41-45) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4750,
+    "title" : "Bồng Lai Khách - P13 (C46-50) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4782,
+    "title" : "Bồng Lai Khách - P14 (C51-55) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5340,
+    "title" : "Bồng Lai Khách - P15 (C56-60) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4705,
+    "title" : "Bồng Lai Khách - P16 (C61-65) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4873,
+    "title" : "Bồng Lai Khách - P17 (C66-70) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5476,
+    "title" : "Bồng Lai Khách - P18 (C71-75) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5463,
+    "title" : "Bồng Lai Khách - P19 (C76-80) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3532,
+    "title" : "Bồng Lai Khách - P2 (C5-7) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4716,
+    "title" : "Bồng Lai Khách - P20 (C81-85) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4853,
+    "title" : "Bồng Lai Khách - P21 (C86-90) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4085,
+    "title" : "Bồng Lai Khách - P22 (C91-95) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4231,
+    "title" : "Bồng Lai Khách - P23 (C96-100) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4801,
+    "title" : "Bồng Lai Khách - P24 (C100-105) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4430,
+    "title" : "Bồng Lai Khách - P25 (C106-110) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4388,
+    "title" : "Bồng Lai Khách - P26 (C111-115) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4041,
+    "title" : "Bồng Lai Khách - P27 (C116-120) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4675,
+    "title" : "Bồng Lai Khách - P28 (C121-126) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4022,
+    "title" : "Bồng Lai Khách - P29 (C127-131) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2719,
+    "title" : "Bồng Lai Khách - P3 (C8-10) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3902,
+    "title" : "Bồng Lai Khách - P30 (C132-135) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4438,
+    "title" : "Bồng Lai Khách - P31 (C136 - 138) - đọc truyện ngôn tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4569,
+    "title" : "Bồng Lai Khách - P32 (C139-142) - đọc truyện ngôn tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5104,
+    "title" : "Bồng Lai Khách - P33 (C144-148) - đọc truyện ngôn tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4047,
+    "title" : "Bồng Lai Khách - P34 (C149-153) - đọc truyện ngôn tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3920,
+    "title" : "Bồng Lai Khách - P35 (C154-158) - đọc truyện ngôn tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5998,
+    "title" : "Bồng Lai Khách - P36 (C159-163) - đọc truyện ngôn tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8534,
+    "title" : "Bồng Lai Khách - P37 (C164-171) Kết thúc - đọc truyện ngôn tình Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3691,
+    "title" : "Bồng Lai Khách - P4 (C11-14) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3654,
+    "title" : "Bồng Lai Khách - P5 (C15-18) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2491,
+    "title" : "Bồng Lai Khách - P6 (C19-20) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4021,
+    "title" : "Bồng Lai Khách - P7 (C21-24) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3754,
+    "title" : "Bồng Lai Khách - P8 (C25-27) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/khom-lung/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3514,
+    "title" : "Bồng Lai Khách - P9 (C28-31) - đọc truyện ngôn tình audio",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khom-lung/1.mp3",
+    "title" : "Bồng Lai Khách - P1 (C1-4) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/10.mp3",
+    "title" : "Bồng Lai Khách - P10 (C32-35) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/11.mp3",
+    "title" : "Bồng Lai Khách - P11 (C36-40) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/12.mp3",
+    "title" : "Bồng Lai Khách - P12 (C41-45) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/13.mp3",
+    "title" : "Bồng Lai Khách - P13 (C46-50) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/14.mp3",
+    "title" : "Bồng Lai Khách - P14 (C51-55) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/15.mp3",
+    "title" : "Bồng Lai Khách - P15 (C56-60) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/16.mp3",
+    "title" : "Bồng Lai Khách - P16 (C61-65) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/17.mp3",
+    "title" : "Bồng Lai Khách - P17 (C66-70) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/18.mp3",
+    "title" : "Bồng Lai Khách - P18 (C71-75) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/19.mp3",
+    "title" : "Bồng Lai Khách - P19 (C76-80) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/2.mp3",
+    "title" : "Bồng Lai Khách - P2 (C5-7) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/20.mp3",
+    "title" : "Bồng Lai Khách - P20 (C81-85) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/21.mp3",
+    "title" : "Bồng Lai Khách - P21 (C86-90) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/22.mp3",
+    "title" : "Bồng Lai Khách - P22 (C91-95) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/23.mp3",
+    "title" : "Bồng Lai Khách - P23 (C96-100) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/24.mp3",
+    "title" : "Bồng Lai Khách - P24 (C100-105) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/25.mp3",
+    "title" : "Bồng Lai Khách - P25 (C106-110) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/26.mp3",
+    "title" : "Bồng Lai Khách - P26 (C111-115) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/27.mp3",
+    "title" : "Bồng Lai Khách - P27 (C116-120) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/28.mp3",
+    "title" : "Bồng Lai Khách - P28 (C121-126) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/29.mp3",
+    "title" : "Bồng Lai Khách - P29 (C127-131) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/3.mp3",
+    "title" : "Bồng Lai Khách - P3 (C8-10) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/30.mp3",
+    "title" : "Bồng Lai Khách - P30 (C132-135) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/31.mp3",
+    "title" : "Bồng Lai Khách - P31 (C136 - 138) - đọc truyện ngôn tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/32.mp3",
+    "title" : "Bồng Lai Khách - P32 (C139-142) - đọc truyện ngôn tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/33.mp3",
+    "title" : "Bồng Lai Khách - P33 (C144-148) - đọc truyện ngôn tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/34.mp3",
+    "title" : "Bồng Lai Khách - P34 (C149-153) - đọc truyện ngôn tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/35.mp3",
+    "title" : "Bồng Lai Khách - P35 (C154-158) - đọc truyện ngôn tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/36.mp3",
+    "title" : "Bồng Lai Khách - P36 (C159-163) - đọc truyện ngôn tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/37.mp3",
+    "title" : "Bồng Lai Khách - P37 (C164-171) Kết thúc - đọc truyện ngôn tình Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/4.mp3",
+    "title" : "Bồng Lai Khách - P4 (C11-14) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/5.mp3",
+    "title" : "Bồng Lai Khách - P5 (C15-18) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/6.mp3",
+    "title" : "Bồng Lai Khách - P6 (C19-20) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/7.mp3",
+    "title" : "Bồng Lai Khách - P7 (C21-24) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/8.mp3",
+    "title" : "Bồng Lai Khách - P8 (C25-27) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khom-lung/9.mp3",
+    "title" : "Bồng Lai Khách - P9 (C28-31) - đọc truyện ngôn tình audio",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

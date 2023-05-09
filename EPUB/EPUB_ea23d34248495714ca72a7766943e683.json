@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nu-phap-y-thien-tai_14509.html",
+    "title" : "Nữ Pháp Y Thiên Tài",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiên Định Phong Lưu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 86616,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_ea23d34248495714ca72a7766943e683.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_ea23d34248495714ca72a7766943e683.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thien-tai-phap-y/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3510,
+    "title" : "Phần 1 - Truyện trinh thám cực hay - Mc Lạc lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3939,
+    "title" : "Phần 10 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4060,
+    "title" : "Phần 11 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4035,
+    "title" : "Phần 12 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3962,
+    "title" : "Phần 13 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3977,
+    "title" : "Phần 14 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4082,
+    "title" : "Phần 15 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3967,
+    "title" : "Phần 16 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3959,
+    "title" : "Phần 17 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3947,
+    "title" : "Phần 18 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4672,
+    "title" : "Phần 19 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4087,
+    "title" : "Phần 2 - Truyện trinh thám đặc sắc - Mc Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5735,
+    "title" : "Phần 20 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5574,
+    "title" : "Phần 21 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4015,
+    "title" : "Phần 3: Truyện trinh thám hay 2020 - Mc Lạc lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3843,
+    "title" : "Phần 4 - Truyện trinh thám do mc Lạc Lạc diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3928,
+    "title" : "Phần 5 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3901,
+    "title" : "Phần 6 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3926,
+    "title" : "Phần 7 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3897,
+    "title" : "Phần 8 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "Phần 9 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thien-tai-phap-y/1.mp3",
+    "title" : "Phần 1 - Truyện trinh thám cực hay - Mc Lạc lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/10.mp3",
+    "title" : "Phần 10 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/11.mp3",
+    "title" : "Phần 11 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/12.mp3",
+    "title" : "Phần 12 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/13.mp3",
+    "title" : "Phần 13 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/14.mp3",
+    "title" : "Phần 14 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/15.mp3",
+    "title" : "Phần 15 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/16.mp3",
+    "title" : "Phần 16 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/17.mp3",
+    "title" : "Phần 17 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/18.mp3",
+    "title" : "Phần 18 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/19.mp3",
+    "title" : "Phần 19 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/2.mp3",
+    "title" : "Phần 2 - Truyện trinh thám đặc sắc - Mc Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/20.mp3",
+    "title" : "Phần 20 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/21.mp3",
+    "title" : "Phần 21 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/3.mp3",
+    "title" : "Phần 3: Truyện trinh thám hay 2020 - Mc Lạc lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/4.mp3",
+    "title" : "Phần 4 - Truyện trinh thám do mc Lạc Lạc diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/5.mp3",
+    "title" : "Phần 5 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/6.mp3",
+    "title" : "Phần 6 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/7.mp3",
+    "title" : "Phần 7 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/8.mp3",
+    "title" : "Phần 8 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thien-tai-phap-y/9.mp3",
+    "title" : "Phần 9 - Truyện trinh thám do Mc Lạc Lạc diễn đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/con-se-lam-duoc_16764.html",
+    "title" : "Con Sẽ Làm Được!",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ph.D Donna M. Genett",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 7310,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_7648326451b4a83212561c4a4f75851c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_7648326451b4a83212561c4a4f75851c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/CSLD01LoiTacGia/CSLD-01-loi_tac_gia.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 256,
+    "title" : "CSLD-01-loi tac gia",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/CSLD01LoiTacGia/CSLD-02-chuong_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 594,
+    "title" : "CSLD-02-chuong 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/CSLD01LoiTacGia/CSLD-03-chuong_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 812,
+    "title" : "CSLD-03-chuong 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/CSLD01LoiTacGia/CSLD-04-chuong_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 944,
+    "title" : "CSLD-04-chuong 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/CSLD01LoiTacGia/CSLD-05-chuong_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 876,
+    "title" : "CSLD-05-chuong 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/CSLD01LoiTacGia/CSLD-06-chuong_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1108,
+    "title" : "CSLD-06-chuong 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/CSLD01LoiTacGia/CSLD-07-chuong_8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1090,
+    "title" : "CSLD-07-chuong 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/CSLD01LoiTacGia/CSLD-08-chuong_7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1110,
+    "title" : "CSLD-08-chuong 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/CSLD01LoiTacGia/CSLD-09-chuong_8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 430,
+    "title" : "CSLD-09-chuong 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/CSLD01LoiTacGia/CSLD-10-Doi_dieu_ve_tac_gia.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 90,
+    "title" : "CSLD-10-Doi dieu ve tac gia",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/CSLD01LoiTacGia/CSLD-01-loi_tac_gia.mp3",
+    "title" : "CSLD-01-loi tac gia",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/CSLD01LoiTacGia/CSLD-02-chuong_1.mp3",
+    "title" : "CSLD-02-chuong 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/CSLD01LoiTacGia/CSLD-03-chuong_2.mp3",
+    "title" : "CSLD-03-chuong 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/CSLD01LoiTacGia/CSLD-04-chuong_3.mp3",
+    "title" : "CSLD-04-chuong 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/CSLD01LoiTacGia/CSLD-05-chuong_4.mp3",
+    "title" : "CSLD-05-chuong 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/CSLD01LoiTacGia/CSLD-06-chuong_5.mp3",
+    "title" : "CSLD-06-chuong 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/CSLD01LoiTacGia/CSLD-07-chuong_8.mp3",
+    "title" : "CSLD-07-chuong 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/CSLD01LoiTacGia/CSLD-08-chuong_7.mp3",
+    "title" : "CSLD-08-chuong 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/CSLD01LoiTacGia/CSLD-09-chuong_8.mp3",
+    "title" : "CSLD-09-chuong 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/CSLD01LoiTacGia/CSLD-10-Doi_dieu_ve_tac_gia.mp3",
+    "title" : "CSLD-10-Doi dieu ve tac gia",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

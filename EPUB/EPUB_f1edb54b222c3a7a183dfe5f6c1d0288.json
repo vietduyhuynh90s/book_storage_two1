@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/on-nhu-cung-la-quyen-ru_14857.html",
+    "title" : "Ôn Nhu Cũng Là Quyến Rũ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cổ Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 23218,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_f1edb54b222c3a7a183dfe5f6c1d0288.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_f1edb54b222c3a7a183dfe5f6c1d0288.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ONCLQR/%C3%94n%20nhu%20c%C5%A9ng%20l%C3%A0%20quy%E1%BA%BFn%20r%C5%A9%20-%20C%E1%BB%95%20Minh%20%28128kbit_AAC%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 23218,
+    "title" : "Ôn nhu cũng là quyến rũ - Cổ Minh (128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ONCLQR/%C3%94n%20nhu%20c%C5%A9ng%20l%C3%A0%20quy%E1%BA%BFn%20r%C5%A9%20-%20C%E1%BB%95%20Minh%20%28128kbit_AAC%29.mp3",
+    "title" : "Ôn nhu cũng là quyến rũ - Cổ Minh (128kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

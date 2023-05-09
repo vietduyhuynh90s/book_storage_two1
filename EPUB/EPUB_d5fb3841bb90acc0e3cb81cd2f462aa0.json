@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cong-thuc-thien-tam_20228.html",
+    "title" : "Công Thức Thiện Tâm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mikhail Samarsky",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 27093,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_d5fb3841bb90acc0e3cb81cd2f462aa0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_d5fb3841bb90acc0e3cb81cd2f462aa0.png",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1750,
+    "title" : "cau-vong-2-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2787,
+    "title" : "cau-vong-2-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2532,
+    "title" : "cau-vong-2-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2020,
+    "title" : "cau-vong-2-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1646,
+    "title" : "cau-vong-2-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2529,
+    "title" : "cau-vong-2-06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2156,
+    "title" : "cau-vong-2-07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1964,
+    "title" : "cau-vong-2-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2192,
+    "title" : "cau-vong-2-09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2218,
+    "title" : "cau-vong-2-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2308,
+    "title" : "cau-vong-2-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2991,
+    "title" : "cau-vong-2-12",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-01.mp3",
+    "title" : "cau-vong-2-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-02.mp3",
+    "title" : "cau-vong-2-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-03.mp3",
+    "title" : "cau-vong-2-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-04.mp3",
+    "title" : "cau-vong-2-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-05.mp3",
+    "title" : "cau-vong-2-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-06.mp3",
+    "title" : "cau-vong-2-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-07.mp3",
+    "title" : "cau-vong-2-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-08.mp3",
+    "title" : "cau-vong-2-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-09.mp3",
+    "title" : "cau-vong-2-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-10.mp3",
+    "title" : "cau-vong-2-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-11.mp3",
+    "title" : "cau-vong-2-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cau-vong-2-12/cau-vong-2-12.mp3",
+    "title" : "cau-vong-2-12",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

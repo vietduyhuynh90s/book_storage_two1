@@ -1,0 +1,869 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chien-quoc-tung-hoanh-the-cuc-quy-coc-tu_17814.html",
+    "title" : "Chiến Quốc Tung Hoành - Thế Cục Quỷ Cốc Tử",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hàn Xuyên Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 370746,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_2a6475c845c97236307089559b004b54.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_2a6475c845c97236307089559b004b54.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5955,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 001",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5630,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 002",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5220,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 003",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5605,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 004",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6008,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 005",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6185,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 006",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5956,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 007",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6779,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 008",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5901,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 009",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5823,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 010",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5604,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 011",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5365,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 012",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5641,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 013",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_014.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6096,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 014",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_015.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5895,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 015",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_016.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5751,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 016",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_017.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5861,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7165,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6010,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_020.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7085,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_021.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6518,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_022.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6809,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 022",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_023.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6601,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 023",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_024.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6982,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 024",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_025.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6828,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 025",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_026.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7113,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 026",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_027.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6094,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 027",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_028.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6283,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 028",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_029.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6052,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 029",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_030.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6820,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 030",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_031.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5919,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 031",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_032.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6922,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 032",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_033.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3702,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 033",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_034.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3206,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 034",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_035.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6482,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 035",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_036.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7874,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 036",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_037.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4205,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 037",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_038.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3909,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 038",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_039.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6202,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 039",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_040.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4748,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 040",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_041.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2316,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 041",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_042.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3584,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 042",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_043.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4673,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 043",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_044.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3887,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 044",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_045.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4556,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 045",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_046.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3415,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 046",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_047.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4407,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 047",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_048.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4429,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 048",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_049.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3595,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 049",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_050.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3946,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 050",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_051.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4435,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 051",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_052.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4612,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 052",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_053.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4543,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 053",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_054.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3988,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 054",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_055.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4336,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 055",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_056.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4043,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 056",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_057.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7420,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 057",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_058.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5193,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 058",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_059.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6906,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 059",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_060.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5244,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 060",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_061.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4711,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 061",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_062.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4786,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 062",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_063.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4557,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 063",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_064.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4538,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 064",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_065.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4605,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 065",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_066.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4450,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 066",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_067.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4280,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 067",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_068.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4855,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 068",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_069.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5632,
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 069",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_001.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 001",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_002.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 002",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_003.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 003",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_004.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 004",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_005.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 005",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_006.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 006",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_007.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 007",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_008.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 008",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_009.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 009",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_010.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 010",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_011.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 011",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_012.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 012",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_013.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 013",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_014.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 014",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_015.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 015",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_016.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 016",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_017.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_018.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_019.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_020.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_021.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_022.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 022",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_023.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 023",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_024.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 024",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_025.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 025",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_026.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 026",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_027.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 027",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_028.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 028",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_029.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 029",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_030.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 030",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_031.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 031",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_032.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 032",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_033.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 033",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_034.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 034",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_035.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 035",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_036.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 036",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_037.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 037",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_038.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 038",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_039.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 039",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_040.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 040",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_041.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 041",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_042.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 042",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_043.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 043",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_044.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 044",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_045.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 045",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_046.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 046",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_047.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 047",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_048.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 048",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_049.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 049",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_050.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 050",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_051.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 051",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_052.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 052",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_053.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 053",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_054.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 054",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_055.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 055",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_056.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 056",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_057.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 057",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_058.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 058",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_059.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 059",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_060.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 060",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_061.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 061",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_062.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 062",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_063.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 063",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_064.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 064",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_065.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 065",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_066.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 066",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_067.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 067",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_068.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 068",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lachoncoc.com-chien-quoc-tung-hoanh-the-cuc-quy-coc-tu-006/%28lachoncoc.com%29%20Chi%E1%BA%BFn%20Qu%E1%BB%91c%20Tung%20Ho%C3%A0nh-%20Th%E1%BA%BF%20C%E1%BB%A5c%20Qu%E1%BB%B7%20C%E1%BB%91c%20T%E1%BB%AD_069.mp3",
+    "title" : "(lachoncoc.com) Chiến Quốc Tung Hoành- Thế Cục Quỷ Cốc Tử 069",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

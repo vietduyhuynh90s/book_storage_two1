@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ganh-nghiep-am_14880.html",
+    "title" : "Gánh Nghiệp Âm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khuyết Danh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 18869,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_9c2bfaee40bc3014c410bd5048b2e581.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_9c2bfaee40bc3014c410bd5048b2e581.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ganh-nghiep-am/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3851,
+    "title" : "Truyện Ma Có Thật Ở Bãi Tha Ma Ngọc Lâm Kể Rợn Quá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ganh-nghiep-am/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3791,
+    "title" : "Truyện Ma Có Thật Ở Bãi Tha Ma Ngọc Lâm Kể Rợn Quá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ganh-nghiep-am/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4119,
+    "title" : "Truyện Ma Có Thật Ở Bãi Tha Ma Ngọc Lâm Kể Rợn Quá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ganh-nghiep-am/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3827,
+    "title" : "Truyện Ma Có Thật Ở Bãi Tha Ma Ngọc Lâm Kể Rợn Quá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ganh-nghiep-am/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3281,
+    "title" : "Truyện Ma Có Thật Ở Bãi Tha Ma Ngọc Lâm Kể Rợn Quá",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ganh-nghiep-am/1.mp3",
+    "title" : "Truyện Ma Có Thật Ở Bãi Tha Ma Ngọc Lâm Kể Rợn Quá",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ganh-nghiep-am/2.mp3",
+    "title" : "Truyện Ma Có Thật Ở Bãi Tha Ma Ngọc Lâm Kể Rợn Quá",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ganh-nghiep-am/3.mp3",
+    "title" : "Truyện Ma Có Thật Ở Bãi Tha Ma Ngọc Lâm Kể Rợn Quá",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ganh-nghiep-am/4.mp3",
+    "title" : "Truyện Ma Có Thật Ở Bãi Tha Ma Ngọc Lâm Kể Rợn Quá",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ganh-nghiep-am/5.mp3",
+    "title" : "Truyện Ma Có Thật Ở Bãi Tha Ma Ngọc Lâm Kể Rợn Quá",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

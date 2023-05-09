@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/luc-tinh-giai-thoai-ky_15702.html",
+    "title" : "Lục Tỉnh Giai Thoại Ký",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phúc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 41132,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_d1b7074de6ffee0f35ed63871c870b1e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_d1b7074de6ffee0f35ed63871c870b1e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3859,
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4006,
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3784,
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3642,
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3572,
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3447,
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3822,
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3695,
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3813,
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3767,
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3725,
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/1.mp3",
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/10.mp3",
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/11.mp3",
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/2.mp3",
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/3.mp3",
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/4.mp3",
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/5.mp3",
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/6.mp3",
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/7.mp3",
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/8.mp3",
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luc-tinh-giai-thoai/9.mp3",
+    "title" : "Truyện ma tâm linh miền Tây xưa Nguyễn Huy diễn đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

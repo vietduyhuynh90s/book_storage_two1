@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dung-lua-chon-an-nhan-khi-con-tre_15264.html",
+    "title" : "Đừng Lựa Chọn An Nhàn Khi Còn Trẻ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cảnh Thiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 21162,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_b0ed366c514b9b88f000f0c92b953104.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_b0ed366c514b9b88f000f0c92b953104.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dung-lua-chon-an-nhan-khi-con-tre/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2828,
+    "title" : "Phần 1 - Cảnh Thiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-lua-chon-an-nhan-khi-con-tre/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2896,
+    "title" : "Phần 2 - Cảnh Thiên [Sách nói]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-lua-chon-an-nhan-khi-con-tre/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2746,
+    "title" : "Phần 3 - Cảnh Thiên [Sách nói]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-lua-chon-an-nhan-khi-con-tre/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2781,
+    "title" : "Phần 4 - Cảnh Thiên [Sách nói]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-lua-chon-an-nhan-khi-con-tre/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1866,
+    "title" : "Phần 5 - Cảnh Thiên [Sách nói]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-lua-chon-an-nhan-khi-con-tre/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1969,
+    "title" : "Phần 6 - Cảnh Thiên [Sách nói]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-lua-chon-an-nhan-khi-con-tre/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3493,
+    "title" : "Phần 7 - Cảnh Thiên [Sách nói]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dung-lua-chon-an-nhan-khi-con-tre/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2583,
+    "title" : "Phần 8/8 - Cảnh Thiên [Sách nói]",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dung-lua-chon-an-nhan-khi-con-tre/1.mp3",
+    "title" : "Phần 1 - Cảnh Thiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-lua-chon-an-nhan-khi-con-tre/2.mp3",
+    "title" : "Phần 2 - Cảnh Thiên [Sách nói]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-lua-chon-an-nhan-khi-con-tre/3.mp3",
+    "title" : "Phần 3 - Cảnh Thiên [Sách nói]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-lua-chon-an-nhan-khi-con-tre/4.mp3",
+    "title" : "Phần 4 - Cảnh Thiên [Sách nói]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-lua-chon-an-nhan-khi-con-tre/5.mp3",
+    "title" : "Phần 5 - Cảnh Thiên [Sách nói]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-lua-chon-an-nhan-khi-con-tre/6.mp3",
+    "title" : "Phần 6 - Cảnh Thiên [Sách nói]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-lua-chon-an-nhan-khi-con-tre/7.mp3",
+    "title" : "Phần 7 - Cảnh Thiên [Sách nói]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dung-lua-chon-an-nhan-khi-con-tre/8.mp3",
+    "title" : "Phần 8/8 - Cảnh Thiên [Sách nói]",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

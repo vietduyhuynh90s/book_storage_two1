@@ -1,0 +1,845 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tong-giam-doc-doat-tinh-gianh-lai-vo-yeu_15152.html",
+    "title" : "Tổng Giám Đốc Đoạt Tình: Giành Lại Vợ Yêu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diêp Phi Dạ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 234719,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_76e66e3c7e888b88f97f716708d31790.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_76e66e3c7e888b88f97f716708d31790.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3646,
+    "title" : "MC phương Thúy- Audio truyện ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3143,
+    "title" : "MC phương thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3488,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn [Tập 9] - Truyện Ngôn Tình Hấp Dãn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3004,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - MC phương thúy kể hấp dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3597,
+    "title" : "Đoạt Lại Vợ Yêu - Tập 13 Truyện Ngôn Tình Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3618,
+    "title" : "Đoạt Lại Vợ Yêu - Ông xã Tổng Tài Muốn Tái Hôn -Tập 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3273,
+    "title" : "Đoạt Lại Vợ Yêu - Truyện Ngôn Tình Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3602,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3641,
+    "title" : "[Tập 17] Ông Xã Tổng Tài Muốn Tái Hôn -Đoạt Lại Vợ Yêu MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3635,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - MC Phương Thúy - Tập 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3639,
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3929,
+    "title" : "MC Phương Thúy - Audio truyện ngôn tình hay nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3689,
+    "title" : "Ông Xã Tổng Tài Muồn Tái Hôn - Đoạt Lại Vợ Yêu - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3779,
+    "title" : "Đoạt Lại Vợ Yêu - Tập 21 - MC phương Thúy.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3639,
+    "title" : "Đoạt Lại Vợ Yêu - MC phương Thúy - Tập 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3749,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - MC phương thúy - Đoạt Lại Vợ Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3876,
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muôn Tái Hôn - MC phương thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3609,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3436,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3612,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt lại Vợ Yêu - MC phương thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3549,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Tập 28 - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3827,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3719,
+    "title" : "MC Phương THúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3539,
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3648,
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3855,
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3515,
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3593,
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3717,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3338,
+    "title" : "Ông Xã Tổng Tài Muốn Hôn - Đoạt Lại Vợ Yêu - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3598,
+    "title" : "Đoạt Lại Vợ Yêu - MC Phương Thúy Kể Rất Hấp Dẫn [Tập 37]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3413,
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - Truyện Ngôn tinh hay 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3055,
+    "title" : "Đoạt Lại Vợ Yêu - Tập 39 - Truyện ngôn tình hay nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3753,
+    "title" : "Truyện Ngôn Tình Hat Nhất 2020 - MC phương Thúy Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3554,
+    "title" : "MC phương Thúy - Ông Xã Tổng Tài Muốn tái Hôn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3497,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3498,
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3703,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy Kể Hấp Dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3592,
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3339,
+    "title" : "Ông Xã Tổng Tài Muốn Hôn - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3757,
+    "title" : "Đoạt lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC phương thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3604,
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3783,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - MC phương thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3654,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Tập 49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3758,
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3620,
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC phương thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3146,
+    "title" : "Đoạt Lại Vợ Yêu - MC phương thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3531,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Tập 57 MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3760,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3392,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu - MC phương thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3857,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3606,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy -Tập 57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3353,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy - Tập 58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3725,
+    "title" : "Ỗng Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu - M Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3639,
+    "title" : "Đoạt Lại Vợ Yêu - Tập 6 - Mc Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3776,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - MC Phương Thúy - Tập 61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3646,
+    "title" : "Đoạt Lại Vợ Yêu - Ỗng Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3605,
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3493,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3791,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yeu - MC phương thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1813,
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn-- Chương (526 - 530)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2764,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1987,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Tập 69 MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3613,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn- tập 7 MC phương thúy kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2048,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3649,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ yêu - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3443,
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn- Đoạt lại Vợ Yêu- MC phương thúy Truyên Ngôn tình Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/1.mp3",
+    "title" : "MC phương Thúy- Audio truyện ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/10.mp3",
+    "title" : "MC phương thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/11.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn [Tập 9] - Truyện Ngôn Tình Hấp Dãn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/12.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - MC phương thúy kể hấp dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/13.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Tập 13 Truyện Ngôn Tình Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/14.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Ông xã Tổng Tài Muốn Tái Hôn -Tập 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/15.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Truyện Ngôn Tình Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/16.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/17.mp3",
+    "title" : "[Tập 17] Ông Xã Tổng Tài Muốn Tái Hôn -Đoạt Lại Vợ Yêu MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/18.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - MC Phương Thúy - Tập 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/19.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/2.mp3",
+    "title" : "MC Phương Thúy - Audio truyện ngôn tình hay nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/20.mp3",
+    "title" : "Ông Xã Tổng Tài Muồn Tái Hôn - Đoạt Lại Vợ Yêu - MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/21.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Tập 21 - MC phương Thúy.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/22.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - MC phương Thúy - Tập 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/23.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - MC phương thúy - Đoạt Lại Vợ Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/24.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muôn Tái Hôn - MC phương thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/25.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu - MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/26.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu - MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/27.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt lại Vợ Yêu - MC phương thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/28.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Tập 28 - MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/29.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu - MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/3.mp3",
+    "title" : "MC Phương THúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/30.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/31.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/32.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/33.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/34.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/35.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu - MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/36.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Hôn - Đoạt Lại Vợ Yêu - MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/37.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - MC Phương Thúy Kể Rất Hấp Dẫn [Tập 37]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/38.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - Truyện Ngôn tinh hay 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/39.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Tập 39 - Truyện ngôn tình hay nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/4.mp3",
+    "title" : "Truyện Ngôn Tình Hat Nhất 2020 - MC phương Thúy Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/40.mp3",
+    "title" : "MC phương Thúy - Ông Xã Tổng Tài Muốn tái Hôn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/41.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/42.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/43.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy Kể Hấp Dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/44.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/45.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Hôn - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/46.mp3",
+    "title" : "Đoạt lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC phương thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/47.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/48.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - MC phương thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/49.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Tập 49",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/5.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/50.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC phương thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/52.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - MC phương thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/53.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Tập 57 MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/54.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/55.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu - MC phương thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/56.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/57.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy -Tập 57",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/58.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy - Tập 58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/59.mp3",
+    "title" : "Ỗng Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu - M Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/6.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Tập 6 - Mc Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/61.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - MC Phương Thúy - Tập 61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/62.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Ỗng Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/63.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn - MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/65.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu - MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/66.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yeu - MC phương thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/67.mp3",
+    "title" : "Đoạt Lại Vợ Yêu - Ông Xã Tổng Tài Muốn Tái Hôn-- Chương (526 - 530)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/68.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/69.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Tập 69 MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/7.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn- tập 7 MC phương thúy kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/70.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/8.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn - Đoạt Lại Vợ yêu - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/doat-lai-vo-yeu/9.mp3",
+    "title" : "Ông Xã Tổng Tài Muốn Tái Hôn- Đoạt lại Vợ Yêu- MC phương thúy Truyên Ngôn tình Hay Nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

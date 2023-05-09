@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cam-tu-my-nhan_14981.html",
+    "title" : "Cẩm Tú Mỹ Nhân",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Điền Tiểu Điền",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 17454,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_b0f167109aaafcbe884bf104bd24902a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_b0f167109aaafcbe884bf104bd24902a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cam-tu-my-nhan/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3665,
+    "title" : "Cẩm tú mỹ nhân. Truyện xuyên không, điền văn, cổ đại tập 1. Tuệ nhi audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-tu-my-nhan/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4235,
+    "title" : "Cẩm tú mỹ nhân. Truyện xuyên không, điền văn, cổ đại tập 2. Tuệ nhi audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-tu-my-nhan/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3850,
+    "title" : "Cẩm tú mỹ nhân. Truyện xuyên không, điền văn, cổ đại tập 3. Tuệ nhi audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cam-tu-my-nhan/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5704,
+    "title" : "Cẩm tú mỹ nhân. Truyện xuyên không, điền văn, cổ đại tập cuối. Tuệ nhi audio",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cam-tu-my-nhan/1.mp3",
+    "title" : "Cẩm tú mỹ nhân. Truyện xuyên không, điền văn, cổ đại tập 1. Tuệ nhi audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-tu-my-nhan/2.mp3",
+    "title" : "Cẩm tú mỹ nhân. Truyện xuyên không, điền văn, cổ đại tập 2. Tuệ nhi audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-tu-my-nhan/3.mp3",
+    "title" : "Cẩm tú mỹ nhân. Truyện xuyên không, điền văn, cổ đại tập 3. Tuệ nhi audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cam-tu-my-nhan/4.mp3",
+    "title" : "Cẩm tú mỹ nhân. Truyện xuyên không, điền văn, cổ đại tập cuối. Tuệ nhi audio",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

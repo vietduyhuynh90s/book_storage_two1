@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tac-nhan-thu-hut_15448.html",
+    "title" : "Tác Nhân Thu Hút",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Joe Vitale",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 29926,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_fa1507a0816b7b875d366663e4028ae0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_fa1507a0816b7b875d366663e4028ae0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tac-nhan-thu-hut/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Kho Sách Nói | Tác Nhân Thu Hút | Audio Books Dạy Kinh Doanh Làm Giàu Hay Nhất !!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tac-nhan-thu-hut/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Kho Sách Nói | Tác Nhân Thu Hút | Audio Books Dạy Kinh Doanh Làm Giàu Hay Nhất !!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tac-nhan-thu-hut/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Kho Sách Nói | Tác Nhân Thu Hút | Audio Books Dạy Kinh Doanh Làm Giàu Hay Nhất !!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tac-nhan-thu-hut/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8326,
+    "title" : "Kho Sách Nói | Tác Nhân Thu Hút | Audio Books Dạy Kinh Doanh Làm Giàu Hay Nhất !!!",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tac-nhan-thu-hut/1.mp3",
+    "title" : "Kho Sách Nói | Tác Nhân Thu Hút | Audio Books Dạy Kinh Doanh Làm Giàu Hay Nhất !!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tac-nhan-thu-hut/2.mp3",
+    "title" : "Kho Sách Nói | Tác Nhân Thu Hút | Audio Books Dạy Kinh Doanh Làm Giàu Hay Nhất !!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tac-nhan-thu-hut/3.mp3",
+    "title" : "Kho Sách Nói | Tác Nhân Thu Hút | Audio Books Dạy Kinh Doanh Làm Giàu Hay Nhất !!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tac-nhan-thu-hut/4.mp3",
+    "title" : "Kho Sách Nói | Tác Nhân Thu Hút | Audio Books Dạy Kinh Doanh Làm Giàu Hay Nhất !!!",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

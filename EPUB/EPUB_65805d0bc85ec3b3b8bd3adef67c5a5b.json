@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/loi-nhip-trai-tim_15464.html",
+    "title" : "Lỗi Nhịp Trái Tim",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thụy Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 28858,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_65805d0bc85ec3b3b8bd3adef67c5a5b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_65805d0bc85ec3b3b8bd3adef67c5a5b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/loi-nhip-trai-tim_202009/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nhip-trai-tim_202009/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nhip-trai-tim_202009/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7200,
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/loi-nhip-trai-tim_202009/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7258,
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/loi-nhip-trai-tim_202009/1.mp3",
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nhip-trai-tim_202009/2.mp3",
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nhip-trai-tim_202009/3.mp3",
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/loi-nhip-trai-tim_202009/4.mp3",
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,917 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/xuyen-viet-chi-phao-hoi-nam-xung_15636.html",
+    "title" : "Xuyên Việt Chi Pháo Hôi Nam Xứng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diệp Ức Lạc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 274417,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_1fddd87bf4a65d6c72f9c641ad7d09b4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_1fddd87bf4a65d6c72f9c641ad7d09b4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Chương 14 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3669,
+    "title" : "Chương 82 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Chương 87 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3862,
+    "title" : "Chương 92 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3422,
+    "title" : "Chương 96 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3882,
+    "title" : "Chương 101 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3302,
+    "title" : "Chương 105 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3922,
+    "title" : "Chương 110 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3922,
+    "title" : "Chương 115 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3922,
+    "title" : "Chương 120 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3922,
+    "title" : "Chương 125 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Chương 28 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3922,
+    "title" : "Chương 130 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3982,
+    "title" : "Chương 135 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3792,
+    "title" : "Chương 140 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3942,
+    "title" : "Chương 145 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3942,
+    "title" : "Chương 150 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3942,
+    "title" : "Chương 155 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Chương 160 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3822,
+    "title" : "Chương 165 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3822,
+    "title" : "Chương 170 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3822,
+    "title" : "Chương 175 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3631,
+    "title" : "Chương 36 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Chương 180 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3822,
+    "title" : "Chương 186 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Chương 191 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Chương 196 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Chương 201 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3022,
+    "title" : "Chương 205 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Chương 210 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3822,
+    "title" : "Chương 215 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Chương 220 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Chương 225 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Chương 45 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Chương 230 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3942,
+    "title" : "Chương 235 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3942,
+    "title" : "Chương 240 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3942,
+    "title" : "Chương 245 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3242,
+    "title" : "Chương 249 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4062,
+    "title" : "Chương 254 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Chương 259 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3952,
+    "title" : "Chương 264 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3952,
+    "title" : "Chương 269 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4122,
+    "title" : "Chương 274 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3500,
+    "title" : "Chương 53 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4122,
+    "title" : "Chương 279 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3942,
+    "title" : "Chương 284 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3942,
+    "title" : "Chương 289 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4142,
+    "title" : "Chương 294 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3942,
+    "title" : "Chương 299 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3942,
+    "title" : "Chương 304 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3942,
+    "title" : "Chương 309 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Chương 314 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Chương 319 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3528,
+    "title" : "Chương 323 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Chương 62 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3822,
+    "title" : "Chương 328 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Chương 333 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Chương 338 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3822,
+    "title" : "Chương 343 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3822,
+    "title" : "Chương 348 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3882,
+    "title" : "Chương 353 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3882,
+    "title" : "Chương 358 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3882,
+    "title" : "Chương 363 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Chương 368 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3882,
+    "title" : "Chương 373 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3312,
+    "title" : "Chương 67 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3537,
+    "title" : "Chương 378 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3763,
+    "title" : "Chương 383 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3650,
+    "title" : "Chương 388 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1540,
+    "title" : "Chương 390 ) - ( END )",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3537,
+    "title" : "Chương 72 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3556,
+    "title" : "Chương 77 ) - Diệp Ức Lạc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/1.mp3",
+    "title" : "Chương 14 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/10.mp3",
+    "title" : "Chương 82 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/11.mp3",
+    "title" : "Chương 87 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/12.mp3",
+    "title" : "Chương 92 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/13.mp3",
+    "title" : "Chương 96 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/14.mp3",
+    "title" : "Chương 101 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/15.mp3",
+    "title" : "Chương 105 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/16.mp3",
+    "title" : "Chương 110 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/17.mp3",
+    "title" : "Chương 115 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/18.mp3",
+    "title" : "Chương 120 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/19.mp3",
+    "title" : "Chương 125 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/2.mp3",
+    "title" : "Chương 28 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/20.mp3",
+    "title" : "Chương 130 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/21.mp3",
+    "title" : "Chương 135 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/22.mp3",
+    "title" : "Chương 140 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/23.mp3",
+    "title" : "Chương 145 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/24.mp3",
+    "title" : "Chương 150 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/25.mp3",
+    "title" : "Chương 155 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/26.mp3",
+    "title" : "Chương 160 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/27.mp3",
+    "title" : "Chương 165 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/28.mp3",
+    "title" : "Chương 170 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/29.mp3",
+    "title" : "Chương 175 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/3.mp3",
+    "title" : "Chương 36 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/30.mp3",
+    "title" : "Chương 180 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/31.mp3",
+    "title" : "Chương 186 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/32.mp3",
+    "title" : "Chương 191 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/33.mp3",
+    "title" : "Chương 196 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/34.mp3",
+    "title" : "Chương 201 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/35.mp3",
+    "title" : "Chương 205 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/36.mp3",
+    "title" : "Chương 210 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/37.mp3",
+    "title" : "Chương 215 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/38.mp3",
+    "title" : "Chương 220 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/39.mp3",
+    "title" : "Chương 225 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/4.mp3",
+    "title" : "Chương 45 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/40.mp3",
+    "title" : "Chương 230 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/41.mp3",
+    "title" : "Chương 235 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/42.mp3",
+    "title" : "Chương 240 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/43.mp3",
+    "title" : "Chương 245 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/44.mp3",
+    "title" : "Chương 249 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/45.mp3",
+    "title" : "Chương 254 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/46.mp3",
+    "title" : "Chương 259 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/47.mp3",
+    "title" : "Chương 264 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/48.mp3",
+    "title" : "Chương 269 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/49.mp3",
+    "title" : "Chương 274 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/5.mp3",
+    "title" : "Chương 53 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/50.mp3",
+    "title" : "Chương 279 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/51.mp3",
+    "title" : "Chương 284 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/52.mp3",
+    "title" : "Chương 289 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/53.mp3",
+    "title" : "Chương 294 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/54.mp3",
+    "title" : "Chương 299 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/55.mp3",
+    "title" : "Chương 304 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/56.mp3",
+    "title" : "Chương 309 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/57.mp3",
+    "title" : "Chương 314 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/58.mp3",
+    "title" : "Chương 319 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/59.mp3",
+    "title" : "Chương 323 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/6.mp3",
+    "title" : "Chương 62 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/60.mp3",
+    "title" : "Chương 328 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/61.mp3",
+    "title" : "Chương 333 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/62.mp3",
+    "title" : "Chương 338 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/63.mp3",
+    "title" : "Chương 343 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/64.mp3",
+    "title" : "Chương 348 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/65.mp3",
+    "title" : "Chương 353 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/66.mp3",
+    "title" : "Chương 358 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/67.mp3",
+    "title" : "Chương 363 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/68.mp3",
+    "title" : "Chương 368 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/69.mp3",
+    "title" : "Chương 373 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/7.mp3",
+    "title" : "Chương 67 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/70.mp3",
+    "title" : "Chương 378 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/71.mp3",
+    "title" : "Chương 383 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/72.mp3",
+    "title" : "Chương 388 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/73.mp3",
+    "title" : "Chương 390 ) - ( END )",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/8.mp3",
+    "title" : "Chương 72 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuyen-viet-chi-phao-hoi-nam-xung/9.mp3",
+    "title" : "Chương 77 ) - Diệp Ức Lạc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

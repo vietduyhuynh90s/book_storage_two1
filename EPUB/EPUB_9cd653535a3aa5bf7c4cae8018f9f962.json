@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hua-di-anh-se-ve_14625.html",
+    "title" : "Hứa Đi Anh Sẽ Về",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà Quỳnh Vân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 59371,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_9cd653535a3aa5bf7c4cae8018f9f962.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_9cd653535a3aa5bf7c4cae8018f9f962.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3006,
+    "title" : "Truyện ngắn 2020 Hứa Đi Anh Sẽ Về ♥ TG Hà Quỳnh Vân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3920,
+    "title" : ".N.g.o.ạ.i. .t.ì.n.h. ♥ Truyện ngắn hay Hứa Đi Anh Sẽ Về",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3447,
+    "title" : "Tùng trở về ♥ Truyện ngắn hay Hứa Đi Anh Sẽ Về",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4123,
+    "title" : "Gán nợ ♥ Kể chuyện ngắn Hứa Đi Anh Sẽ Về",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4989,
+    "title" : "Quay lại có được không? ♥ Truyện 2020 Hứa Đi Anh Sẽ Về",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5961,
+    "title" : "Hối lỗi ♥ Truyện ngắn mới Hứa Đi Anh Sẽ Về",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2273,
+    "title" : "Ngoại truyện ♥ Truyện ngắn hay Hứa Đi Anh Sẽ Về",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3057,
+    "title" : "Làm .n.g.ư.ờ.i. .y.ê.u. chú nhé ♥ Truyện hay Hứa Đi Anh Sẽ Về",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4036,
+    "title" : "Cháu sẽ đợi ♥ Kim Thanh kể chuyện Hứa Đi Anh Sẽ Về",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3027,
+    "title" : ".Y.ê.u. thầm ♥ Truyện mới 2020 Hứa Đi Anh Sẽ Về",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4588,
+    "title" : "Rào cản gia đình ♥ Kể truyện ngắn Hứa Đi Anh Sẽ Về",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3719,
+    "title" : ".V.ụ.n.g. .t.r.ộ.m. ♥ Nghe truyện ngắn Hứa Đi Anh Sẽ Về",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4602,
+    "title" : "Sóng gió ♥ Kim Thanh kể Hứa Đi Anh Sẽ Về",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4304,
+    "title" : "Chia tay ♥ Đọc truyện mới Hứa Đi Anh Sẽ Về",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4319,
+    "title" : "Đám cưới ♥ Truyện ngắn hay Hứa Đi Anh Sẽ Về",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/1.mp3",
+    "title" : "Truyện ngắn 2020 Hứa Đi Anh Sẽ Về ♥ TG Hà Quỳnh Vân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/10.mp3",
+    "title" : ".N.g.o.ạ.i. .t.ì.n.h. ♥ Truyện ngắn hay Hứa Đi Anh Sẽ Về",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/11.mp3",
+    "title" : "Tùng trở về ♥ Truyện ngắn hay Hứa Đi Anh Sẽ Về",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/12.mp3",
+    "title" : "Gán nợ ♥ Kể chuyện ngắn Hứa Đi Anh Sẽ Về",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/13.mp3",
+    "title" : "Quay lại có được không? ♥ Truyện 2020 Hứa Đi Anh Sẽ Về",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/14.mp3",
+    "title" : "Hối lỗi ♥ Truyện ngắn mới Hứa Đi Anh Sẽ Về",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/15.mp3",
+    "title" : "Ngoại truyện ♥ Truyện ngắn hay Hứa Đi Anh Sẽ Về",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/2.mp3",
+    "title" : "Làm .n.g.ư.ờ.i. .y.ê.u. chú nhé ♥ Truyện hay Hứa Đi Anh Sẽ Về",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/3.mp3",
+    "title" : "Cháu sẽ đợi ♥ Kim Thanh kể chuyện Hứa Đi Anh Sẽ Về",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/4.mp3",
+    "title" : ".Y.ê.u. thầm ♥ Truyện mới 2020 Hứa Đi Anh Sẽ Về",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/5.mp3",
+    "title" : "Rào cản gia đình ♥ Kể truyện ngắn Hứa Đi Anh Sẽ Về",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/6.mp3",
+    "title" : ".V.ụ.n.g. .t.r.ộ.m. ♥ Nghe truyện ngắn Hứa Đi Anh Sẽ Về",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/7.mp3",
+    "title" : "Sóng gió ♥ Kim Thanh kể Hứa Đi Anh Sẽ Về",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/8.mp3",
+    "title" : "Chia tay ♥ Đọc truyện mới Hứa Đi Anh Sẽ Về",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hua-di-anh-se-ve/9.mp3",
+    "title" : "Đám cưới ♥ Truyện ngắn hay Hứa Đi Anh Sẽ Về",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

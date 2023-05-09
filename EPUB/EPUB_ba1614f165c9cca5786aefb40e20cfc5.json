@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vong-xuyen_15635.html",
+    "title" : "Vong Xuyên",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Sắc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 16044,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_ba1614f165c9cca5786aefb40e20cfc5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_ba1614f165c9cca5786aefb40e20cfc5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vong-xuyen/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1290,
+    "title" : "Audio Đam Mỹ Vong Xuyen 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 951,
+    "title" : "Audio Đam Mỹ Vong Xuyên 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1021,
+    "title" : "Audio Đam Mỹ Vong Xuyên 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 961,
+    "title" : "Audio Đam Mỹ Vong Xuyên 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1131,
+    "title" : "Audio Đam Mỹ Vong Xuyên 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 973,
+    "title" : "Audio Đam Mỹ Vong Xuyên 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 799,
+    "title" : "Audio Đam Mỹ Vong Xuyên 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 910,
+    "title" : "Audio Đam Mỹ Vong Xuyen 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 971,
+    "title" : "Audio Đam Mỹ Vong Xuyên 17- END",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 561,
+    "title" : "Audio Đam Mỹ Vong Xuyen 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 581,
+    "title" : "Audio Đam Mỹ Vong Xuyên 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 983,
+    "title" : "Audio Đam Mỹ Vong Xuyên 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1068,
+    "title" : "Audio Đam Mỹ Vong Xuyên 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1354,
+    "title" : "Audio Đam Mỹ Vong Xuyen 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 343,
+    "title" : "Audio Đam Mỹ Vong Xuyên 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1082,
+    "title" : "Audio Đam Mỹ Vong Xuyên 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1065,
+    "title" : "Audio Đam Mỹ Vong Xuyên 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vong-xuyen/1.mp3",
+    "title" : "Audio Đam Mỹ Vong Xuyen 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/10.mp3",
+    "title" : "Audio Đam Mỹ Vong Xuyên 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/11.mp3",
+    "title" : "Audio Đam Mỹ Vong Xuyên 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/12.mp3",
+    "title" : "Audio Đam Mỹ Vong Xuyên 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/13.mp3",
+    "title" : "Audio Đam Mỹ Vong Xuyên 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/14.mp3",
+    "title" : "Audio Đam Mỹ Vong Xuyên 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/15.mp3",
+    "title" : "Audio Đam Mỹ Vong Xuyên 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/16.mp3",
+    "title" : "Audio Đam Mỹ Vong Xuyen 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/17.mp3",
+    "title" : "Audio Đam Mỹ Vong Xuyên 17- END",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/2.mp3",
+    "title" : "Audio Đam Mỹ Vong Xuyen 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/3.mp3",
+    "title" : "Audio Đam Mỹ Vong Xuyên 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/4.mp3",
+    "title" : "Audio Đam Mỹ Vong Xuyên 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/5.mp3",
+    "title" : "Audio Đam Mỹ Vong Xuyên 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/6.mp3",
+    "title" : "Audio Đam Mỹ Vong Xuyen 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/7.mp3",
+    "title" : "Audio Đam Mỹ Vong Xuyên 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/8.mp3",
+    "title" : "Audio Đam Mỹ Vong Xuyên 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vong-xuyen/9.mp3",
+    "title" : "Audio Đam Mỹ Vong Xuyên 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

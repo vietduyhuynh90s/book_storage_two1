@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lang-ma_15625.html",
+    "title" : "Làng Ma",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diễm Quỳnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 15166,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_eebb74e00ea95cdec76313da8989a889.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_eebb74e00ea95cdec76313da8989a889.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lang-ma_202010/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3779,
+    "title" : "Truyện ma dân gian làng quê hay Nguyễn Huy kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lang-ma_202010/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3708,
+    "title" : "Truyện ma dân gian làng quê hay Nguyễn Huy kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lang-ma_202010/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3937,
+    "title" : "Truyện ma dân gian làng quê hay Nguyễn Huy kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lang-ma_202010/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3742,
+    "title" : "Truyện ma dân gian làng quê hay Nguyễn Huy kể",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lang-ma_202010/1.mp3",
+    "title" : "Truyện ma dân gian làng quê hay Nguyễn Huy kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lang-ma_202010/2.mp3",
+    "title" : "Truyện ma dân gian làng quê hay Nguyễn Huy kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lang-ma_202010/3.mp3",
+    "title" : "Truyện ma dân gian làng quê hay Nguyễn Huy kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lang-ma_202010/4.mp3",
+    "title" : "Truyện ma dân gian làng quê hay Nguyễn Huy kể",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

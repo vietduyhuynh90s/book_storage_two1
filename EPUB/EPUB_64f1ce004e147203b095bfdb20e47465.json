@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hanh-phuc-tai-tam_19243.html",
+    "title" : "Hạnh Phúc Tại Tâm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Osho",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 12969,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_64f1ce004e147203b095bfdb20e47465.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_64f1ce004e147203b095bfdb20e47465.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "hanh-phuc-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "hanh-phuc-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "hanh-phuc-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2169,
+    "title" : "hanh-phuc-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-1.mp3",
+    "title" : "hanh-phuc-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-2.mp3",
+    "title" : "hanh-phuc-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-3.mp3",
+    "title" : "hanh-phuc-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-4.mp3",
+    "title" : "hanh-phuc-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

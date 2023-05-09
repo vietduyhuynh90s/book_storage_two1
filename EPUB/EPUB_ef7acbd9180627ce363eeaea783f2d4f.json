@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/truong-doi_15637.html",
+    "title" : "Trường Đời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Văn Trương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 22011,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_ef7acbd9180627ce363eeaea783f2d4f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_ef7acbd9180627ce363eeaea783f2d4f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/truong-doi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3326,
+    "title" : "Tập 01 - Truyện tiểu thuyết xã hội hiện thực rất hay - Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truong-doi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3605,
+    "title" : "Tập 02 - Truyện tiểu thuyết xã hội hiện thực rất hay - Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truong-doi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2914,
+    "title" : "Tập 03 - Truyện tiểu thuyết xã hội hiện thực | Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truong-doi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3024,
+    "title" : "Tập 04 - Truyện tiểu thuyết xã hội hiện thực | Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truong-doi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3003,
+    "title" : "Tập 05 - Hiểm nguy rình rập - Truyện tiểu thuyết rất hay MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truong-doi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3116,
+    "title" : "Tập 06 - Nhận được thư nhà - Truyện tiểu thuyết rất hay MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truong-doi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3023,
+    "title" : "Tập 07 (HẾT) - Kết thúc hạnh phúc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/truong-doi/1.mp3",
+    "title" : "Tập 01 - Truyện tiểu thuyết xã hội hiện thực rất hay - Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truong-doi/2.mp3",
+    "title" : "Tập 02 - Truyện tiểu thuyết xã hội hiện thực rất hay - Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truong-doi/3.mp3",
+    "title" : "Tập 03 - Truyện tiểu thuyết xã hội hiện thực | Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truong-doi/4.mp3",
+    "title" : "Tập 04 - Truyện tiểu thuyết xã hội hiện thực | Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truong-doi/5.mp3",
+    "title" : "Tập 05 - Hiểm nguy rình rập - Truyện tiểu thuyết rất hay MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truong-doi/6.mp3",
+    "title" : "Tập 06 - Nhận được thư nhà - Truyện tiểu thuyết rất hay MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truong-doi/7.mp3",
+    "title" : "Tập 07 (HẾT) - Kết thúc hạnh phúc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

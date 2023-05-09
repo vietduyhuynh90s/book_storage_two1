@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ban-tinh-ca-buon_15075.html",
+    "title" : "Bản Tình Ca Buồn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tạ Trang Trang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 22412,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_9555af7b3b70374f72442174ad2ff837.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_9555af7b3b70374f72442174ad2ff837.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ban-tinh-ca-buon/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4464,
+    "title" : "Bản tình ca buồn | Phê Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-tinh-ca-buon/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3832,
+    "title" : "Bản Tình Ca Buồn Tập 2 | Phê Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-tinh-ca-buon/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3596,
+    "title" : "Bản Tình Ca Buồn Tập 3 | Phê Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-tinh-ca-buon/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2982,
+    "title" : "Bản Tình Ca Buồn Tập 4 | Phê Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-tinh-ca-buon/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3808,
+    "title" : "Bản Tình Ca Buồn Tập 5 | Phê Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ban-tinh-ca-buon/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3730,
+    "title" : "Bản Tình Ca Buồn Tập Cuối | Phê Truyện",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ban-tinh-ca-buon/1.mp3",
+    "title" : "Bản tình ca buồn | Phê Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-tinh-ca-buon/2.mp3",
+    "title" : "Bản Tình Ca Buồn Tập 2 | Phê Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-tinh-ca-buon/3.mp3",
+    "title" : "Bản Tình Ca Buồn Tập 3 | Phê Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-tinh-ca-buon/4.mp3",
+    "title" : "Bản Tình Ca Buồn Tập 4 | Phê Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-tinh-ca-buon/5.mp3",
+    "title" : "Bản Tình Ca Buồn Tập 5 | Phê Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ban-tinh-ca-buon/6.mp3",
+    "title" : "Bản Tình Ca Buồn Tập Cuối | Phê Truyện",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

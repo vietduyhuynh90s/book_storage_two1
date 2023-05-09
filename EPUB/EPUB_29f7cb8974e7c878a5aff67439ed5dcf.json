@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/999-la-thu-gui-cho-chinh-minh_14174.html",
+    "title" : "999 Lá Thư Gửi Cho Chính Mình",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Miêu Công Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 26175,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_29f7cb8974e7c878a5aff67439ed5dcf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_29f7cb8974e7c878a5aff67439ed5dcf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/999LTGCCM/999%20l%C3%A1%20th%C6%B0%20g%E1%BB%ADi%20cho%20ch%C3%ADnh%20m%C3%ACnh%20-%20Mi%C3%AAu%20C%C3%B4ng%20T%E1%BB%AD%20Ph%E1%BA%A7n%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14472,
+    "title" : "999 lá thư gửi cho chính mình - Miêu Công Tử Phần 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/999LTGCCM/999%20l%C3%A1%20th%C6%B0%20g%E1%BB%ADi%20cho%20ch%C3%ADnh%20m%C3%ACnh%20-%20Mi%C3%AAu%20C%C3%B4ng%20T%E1%BB%AD%20Ph%E1%BA%A7n%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11703,
+    "title" : "999 lá thư gửi cho chính mình - Miêu Công Tử Phần 02",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/999LTGCCM/999%20l%C3%A1%20th%C6%B0%20g%E1%BB%ADi%20cho%20ch%C3%ADnh%20m%C3%ACnh%20-%20Mi%C3%AAu%20C%C3%B4ng%20T%E1%BB%AD%20Ph%E1%BA%A7n%2001.mp3",
+    "title" : "999 lá thư gửi cho chính mình - Miêu Công Tử Phần 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/999LTGCCM/999%20l%C3%A1%20th%C6%B0%20g%E1%BB%ADi%20cho%20ch%C3%ADnh%20m%C3%ACnh%20-%20Mi%C3%AAu%20C%C3%B4ng%20T%E1%BB%AD%20Ph%E1%BA%A7n%2002.mp3",
+    "title" : "999 lá thư gửi cho chính mình - Miêu Công Tử Phần 02",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,821 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/xuong-rong-dot-ruong_17840.html",
+    "title" : "Xương Rồng Đốt Rương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vĩ Ngư",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 210765,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_1be0d2df1936fbee238279409e7549c0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_1be0d2df1936fbee238279409e7549c0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q01_C01-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4083,
+    "title" : "Xương Rồng Đốt Rương Q01 C01-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q01_C05-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4441,
+    "title" : "Xương Rồng Đốt Rương Q01 C05-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q01_C09-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4501,
+    "title" : "Xương Rồng Đốt Rương Q01 C09-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q02_C01-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4046,
+    "title" : "Xương Rồng Đốt Rương Q02 C01-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q02_C05-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5064,
+    "title" : "Xương Rồng Đốt Rương Q02 C05-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q02_C09-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5880,
+    "title" : "Xương Rồng Đốt Rương Q02 C09-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q03_C01-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3397,
+    "title" : "Xương Rồng Đốt Rương Q03 C01-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q03_C04-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3632,
+    "title" : "Xương Rồng Đốt Rương Q03 C04-06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q03_C07-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4352,
+    "title" : "Xương Rồng Đốt Rương Q03 C07-09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q03_C10-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2427,
+    "title" : "Xương Rồng Đốt Rương Q03 C10-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q03_C12-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2565,
+    "title" : "Xương Rồng Đốt Rương Q03 C12-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q04_C01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2808,
+    "title" : "Xương Rồng Đốt Rương Q04 C01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q04_C02-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2700,
+    "title" : "Xương Rồng Đốt Rương Q04 C02-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q04_C04-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2571,
+    "title" : "Xương Rồng Đốt Rương Q04 C04-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q04_C06-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2732,
+    "title" : "Xương Rồng Đốt Rương Q04 C06-07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q04_C08-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2697,
+    "title" : "Xương Rồng Đốt Rương Q04 C08-09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q04_C10-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3114,
+    "title" : "Xương Rồng Đốt Rương Q04 C10-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q04_C12-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2669,
+    "title" : "Xương Rồng Đốt Rương Q04 C12-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q04_C14-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4536,
+    "title" : "Xương Rồng Đốt Rương Q04 C14-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q05_16-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2906,
+    "title" : "Xương Rồng Đốt Rương Q05 16-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q05_C01-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2860,
+    "title" : "Xương Rồng Đốt Rương Q05 C01-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q05_C03-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2668,
+    "title" : "Xương Rồng Đốt Rương Q05 C03-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q05_C05-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2691,
+    "title" : "Xương Rồng Đốt Rương Q05 C05-06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q05_C07-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2754,
+    "title" : "Xương Rồng Đốt Rương Q05 C07-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q05_C09-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4145,
+    "title" : "Xương Rồng Đốt Rương Q05 C09-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q05_C12-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2747,
+    "title" : "Xương Rồng Đốt Rương Q05 C12-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q05_C14-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2680,
+    "title" : "Xương Rồng Đốt Rương Q05 C14-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q06_01-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2828,
+    "title" : "Xương Rồng Đốt Rương Q06 01-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q06_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1375,
+    "title" : "Xương Rồng Đốt Rương Q06 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q06_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2697,
+    "title" : "Xương Rồng Đốt Rương Q06 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q06_05-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2655,
+    "title" : "Xương Rồng Đốt Rương Q06 05-06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q06_07-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2627,
+    "title" : "Xương Rồng Đốt Rương Q06 07-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q06_09-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "Xương Rồng Đốt Rương Q06 09-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q06_11-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2443,
+    "title" : "Xương Rồng Đốt Rương Q06 11-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q06_13-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2870,
+    "title" : "Xương Rồng Đốt Rương Q06 13-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q07_01-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2749,
+    "title" : "Xương Rồng Đốt Rương Q07 01-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q07_03-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2247,
+    "title" : "Xương Rồng Đốt Rương Q07 03-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q07_05-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2689,
+    "title" : "Xương Rồng Đốt Rương Q07 05-06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q07_07-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2339,
+    "title" : "Xương Rồng Đốt Rương Q07 07-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q07_09-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2710,
+    "title" : "Xương Rồng Đốt Rương Q07 09-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q07_11-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2459,
+    "title" : "Xương Rồng Đốt Rương Q07 11-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q07_13-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2973,
+    "title" : "Xương Rồng Đốt Rương Q07 13-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q07_16-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3965,
+    "title" : "Xương Rồng Đốt Rương Q07 16-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q08_01-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3912,
+    "title" : "Xương Rồng Đốt Rương Q08 01-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q08_04-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2843,
+    "title" : "Xương Rồng Đốt Rương Q08 04-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q08_06-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3435,
+    "title" : "Xương Rồng Đốt Rương Q08 06-07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q08_08-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2369,
+    "title" : "Xương Rồng Đốt Rương Q08 08-09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q08_10-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2677,
+    "title" : "Xương Rồng Đốt Rương Q08 10-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q08_12-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3929,
+    "title" : "Xương Rồng Đốt Rương Q08 12-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q08_15-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3894,
+    "title" : "Xương Rồng Đốt Rương Q08 15-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q08_18-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2993,
+    "title" : "Xương Rồng Đốt Rương Q08 18-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q08_20-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3627,
+    "title" : "Xương Rồng Đốt Rương Q08 20-22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_01-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3461,
+    "title" : "Xương Rồng Đốt Rương Q09 01-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_03-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4063,
+    "title" : "Xương Rồng Đốt Rương Q09 03-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_06-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3590,
+    "title" : "Xương Rồng Đốt Rương Q09 06-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_09-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3699,
+    "title" : "Xương Rồng Đốt Rương Q09 09-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_12-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3238,
+    "title" : "Xương Rồng Đốt Rương Q09 12-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_15-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3283,
+    "title" : "Xương Rồng Đốt Rương Q09 15-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_18-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3234,
+    "title" : "Xương Rồng Đốt Rương Q09 18-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_21-23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3268,
+    "title" : "Xương Rồng Đốt Rương Q09 21-23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_24-26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4066,
+    "title" : "Xương Rồng Đốt Rương Q09 24-26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_27-29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3449,
+    "title" : "Xương Rồng Đốt Rương Q09 27-29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_30-31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3268,
+    "title" : "Xương Rồng Đốt Rương Q09 30-31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_32-34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4731,
+    "title" : "Xương Rồng Đốt Rương Q09 32-34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_35-37%28end%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3583,
+    "title" : "Xương Rồng Đốt Rương Q09 35-37(end)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q01_C01-04.mp3",
+    "title" : "Xương Rồng Đốt Rương Q01 C01-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q01_C05-08.mp3",
+    "title" : "Xương Rồng Đốt Rương Q01 C05-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q01_C09-12.mp3",
+    "title" : "Xương Rồng Đốt Rương Q01 C09-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q02_C01-04.mp3",
+    "title" : "Xương Rồng Đốt Rương Q02 C01-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q02_C05-08.mp3",
+    "title" : "Xương Rồng Đốt Rương Q02 C05-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q02_C09-13.mp3",
+    "title" : "Xương Rồng Đốt Rương Q02 C09-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q03_C01-03.mp3",
+    "title" : "Xương Rồng Đốt Rương Q03 C01-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q03_C04-06.mp3",
+    "title" : "Xương Rồng Đốt Rương Q03 C04-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q03_C07-09.mp3",
+    "title" : "Xương Rồng Đốt Rương Q03 C07-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q03_C10-11.mp3",
+    "title" : "Xương Rồng Đốt Rương Q03 C10-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q03_C12-13.mp3",
+    "title" : "Xương Rồng Đốt Rương Q03 C12-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q04_C01.mp3",
+    "title" : "Xương Rồng Đốt Rương Q04 C01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q04_C02-03.mp3",
+    "title" : "Xương Rồng Đốt Rương Q04 C02-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q04_C04-05.mp3",
+    "title" : "Xương Rồng Đốt Rương Q04 C04-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q04_C06-07.mp3",
+    "title" : "Xương Rồng Đốt Rương Q04 C06-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q04_C08-09.mp3",
+    "title" : "Xương Rồng Đốt Rương Q04 C08-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q04_C10-11.mp3",
+    "title" : "Xương Rồng Đốt Rương Q04 C10-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q04_C12-13.mp3",
+    "title" : "Xương Rồng Đốt Rương Q04 C12-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q04_C14-16.mp3",
+    "title" : "Xương Rồng Đốt Rương Q04 C14-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q05_16-17.mp3",
+    "title" : "Xương Rồng Đốt Rương Q05 16-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q05_C01-02.mp3",
+    "title" : "Xương Rồng Đốt Rương Q05 C01-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q05_C03-04.mp3",
+    "title" : "Xương Rồng Đốt Rương Q05 C03-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q05_C05-06.mp3",
+    "title" : "Xương Rồng Đốt Rương Q05 C05-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q05_C07-08.mp3",
+    "title" : "Xương Rồng Đốt Rương Q05 C07-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q05_C09-11.mp3",
+    "title" : "Xương Rồng Đốt Rương Q05 C09-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q05_C12-13.mp3",
+    "title" : "Xương Rồng Đốt Rương Q05 C12-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q05_C14-15.mp3",
+    "title" : "Xương Rồng Đốt Rương Q05 C14-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q06_01-02.mp3",
+    "title" : "Xương Rồng Đốt Rương Q06 01-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q06_03.mp3",
+    "title" : "Xương Rồng Đốt Rương Q06 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q06_04.mp3",
+    "title" : "Xương Rồng Đốt Rương Q06 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q06_05-06.mp3",
+    "title" : "Xương Rồng Đốt Rương Q06 05-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q06_07-08.mp3",
+    "title" : "Xương Rồng Đốt Rương Q06 07-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q06_09-10.mp3",
+    "title" : "Xương Rồng Đốt Rương Q06 09-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q06_11-12.mp3",
+    "title" : "Xương Rồng Đốt Rương Q06 11-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q06_13-14.mp3",
+    "title" : "Xương Rồng Đốt Rương Q06 13-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q07_01-02.mp3",
+    "title" : "Xương Rồng Đốt Rương Q07 01-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q07_03-04.mp3",
+    "title" : "Xương Rồng Đốt Rương Q07 03-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q07_05-06.mp3",
+    "title" : "Xương Rồng Đốt Rương Q07 05-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q07_07-08.mp3",
+    "title" : "Xương Rồng Đốt Rương Q07 07-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q07_09-10.mp3",
+    "title" : "Xương Rồng Đốt Rương Q07 09-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q07_11-12.mp3",
+    "title" : "Xương Rồng Đốt Rương Q07 11-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q07_13-15.mp3",
+    "title" : "Xương Rồng Đốt Rương Q07 13-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q07_16-18.mp3",
+    "title" : "Xương Rồng Đốt Rương Q07 16-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q08_01-03.mp3",
+    "title" : "Xương Rồng Đốt Rương Q08 01-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q08_04-05.mp3",
+    "title" : "Xương Rồng Đốt Rương Q08 04-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q08_06-07.mp3",
+    "title" : "Xương Rồng Đốt Rương Q08 06-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q08_08-09.mp3",
+    "title" : "Xương Rồng Đốt Rương Q08 08-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q08_10-11.mp3",
+    "title" : "Xương Rồng Đốt Rương Q08 10-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q08_12-14.mp3",
+    "title" : "Xương Rồng Đốt Rương Q08 12-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q08_15-17.mp3",
+    "title" : "Xương Rồng Đốt Rương Q08 15-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q08_18-19.mp3",
+    "title" : "Xương Rồng Đốt Rương Q08 18-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q08_20-22.mp3",
+    "title" : "Xương Rồng Đốt Rương Q08 20-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_01-02.mp3",
+    "title" : "Xương Rồng Đốt Rương Q09 01-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_03-05.mp3",
+    "title" : "Xương Rồng Đốt Rương Q09 03-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_06-08.mp3",
+    "title" : "Xương Rồng Đốt Rương Q09 06-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_09-11.mp3",
+    "title" : "Xương Rồng Đốt Rương Q09 09-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_12-14.mp3",
+    "title" : "Xương Rồng Đốt Rương Q09 12-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_15-17.mp3",
+    "title" : "Xương Rồng Đốt Rương Q09 15-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_18-20.mp3",
+    "title" : "Xương Rồng Đốt Rương Q09 18-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_21-23.mp3",
+    "title" : "Xương Rồng Đốt Rương Q09 21-23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_24-26.mp3",
+    "title" : "Xương Rồng Đốt Rương Q09 24-26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_27-29.mp3",
+    "title" : "Xương Rồng Đốt Rương Q09 27-29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_30-31.mp3",
+    "title" : "Xương Rồng Đốt Rương Q09 30-31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_32-34.mp3",
+    "title" : "Xương Rồng Đốt Rương Q09 32-34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xuong-rong-dot-ruong-q-01-c-05-08/X%C6%B0%C6%A1ng%20R%E1%BB%93ng%20%C4%90%E1%BB%91t%20R%C6%B0%C6%A1ng_Q09_35-37%28end%29.mp3",
+    "title" : "Xương Rồng Đốt Rương Q09 35-37(end)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

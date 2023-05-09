@@ -1,0 +1,365 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tieu-giai-nhan-khuynh-thanh_15497.html",
+    "title" : "Tiểu Giai Nhân Khuynh Thành",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nữ Vương Bất Tại Gia",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 91086,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_0c9b514f28ce928ab7b87f45398b7eb3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_0c9b514f28ce928ab7b87f45398b7eb3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3842,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3186,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3309,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3585,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3701,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3496,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3288,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 15 ko co tap 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3286,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 17 ko co tap 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3374,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3555,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3669,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3574,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3517,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3634,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3229,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3768,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2808,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3879,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3589,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2164,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 28 end",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2921,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3453,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3626,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3232,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2979,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3450,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2972,
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/1.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/10.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/11.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/12.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/13.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/14.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/15.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 15 ko co tap 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/16.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 17 ko co tap 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/17.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/18.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/19.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/2.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/20.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/21.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/22.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/23.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/24.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/25.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/26.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/27.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 28 end",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/3.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/4.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/5.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/6.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/7.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/8.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tieu-giai-nhan-khuynh-thanh/9.mp3",
+    "title" : "Truyện trọng sinh TIỂU GIAI NHÂN KHUYNH THÀNH tác giả:Nữ Vương Bất Tại Gia tập 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

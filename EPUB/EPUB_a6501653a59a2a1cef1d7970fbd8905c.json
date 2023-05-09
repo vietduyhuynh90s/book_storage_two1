@@ -1,0 +1,401 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nam-the-cua-te-tuong_14980.html",
+    "title" : "Nam thê của Tể Tướng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mạc Tà",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 65249,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_a6501653a59a2a1cef1d7970fbd8905c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_a6501653a59a2a1cef1d7970fbd8905c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2794,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2024,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1932,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2003,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2619,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2277,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1535,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2006,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1894,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2054,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2197,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2983,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2208,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2420,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2737,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1960,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2059,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1977,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1772,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1955,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2101,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1654,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1597,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2651,
+    "title" : "Phiên Ngoại(Hết) - Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1929,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2843,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2534,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2172,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2116,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2246,
+    "title" : "Audio Đam mỹ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/1.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/10.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/11.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/12.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/13.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/14.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/15.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/16.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/17.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/18.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/19.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/2.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/20.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/21.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/22.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/23.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/24.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/25.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/26.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/27.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/28.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/29.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/3.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/30.mp3",
+    "title" : "Phiên Ngoại(Hết) - Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/4.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/5.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/6.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/7.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/8.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nam-the-cua-te-tuong/9.mp3",
+    "title" : "Audio Đam mỹ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

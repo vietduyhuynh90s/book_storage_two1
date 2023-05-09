@@ -1,0 +1,365 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/song-trong-di-dong-cua-tong-tai-quy-toc_15804.html",
+    "title" : "Sống Trong Di Động Của Tổng Tài Quý Tộc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phong Thập Nhất",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 103383,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_34402c1063ad4a8bce1a8a21a02a1270.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_34402c1063ad4a8bce1a8a21a02a1270.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3870,
+    "title" : "Xuyên làm nữ phụ trong di động tổng tài| Truyện ngôn tình trọng sinh, xuyên không sủng ngọt hay lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3941,
+    "title" : "[P10] Xuyên làm nữ phụ của tổng tài| Em là người đặc biệt| Truyện xuyên sách, sủng ngọt cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3692,
+    "title" : "[P11] Xuyên làm nữ phụ của tổng tài| Mình gặp nhau đi| Truyện xuyên sách, nữ phụ văn siêu hay 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3573,
+    "title" : "[P12] Xuyên làm nữ phụ của tổng tài| Nữ phụ sập bẫy của Sở Tổng| Truyện xuyên sách nữ phụ cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3399,
+    "title" : "[p14] Xuyên làm nữ phụ của tổng tài| Nữ phụ rơi vào lưới tình| Truyện xuyên sách, nữ phụ cưc hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3788,
+    "title" : "[P14] Xuyên làm nữ phu của tổng tài| Anh sẽ bảo vệ em| Truyện xuyên sách, nữ phụ sủng ngọt cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3795,
+    "title" : "[P15] Xuyên làm nữ phụ của tổng tài| Muốn làm công chúa của anh không? Truyện xuyên sách sủng ngọt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3696,
+    "title" : "[P16] Xuyên làm nữ phụ của tổng tài| Ăn diện lấy lòng Sở Tổng| Truyện xuyên sách sủng ngọt siêu hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3785,
+    "title" : "[P17] Xuyên làm nữ phụ của tổng tài| Sở Tổng, đùi anh em ôm chặt rồi|Truyện xuyên sách sủng ngọt hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3854,
+    "title" : "[P18] Xuyên làm nữ phụ của tổng tài| Em cố gắng vì thích anh| Truyện xuyên sách, nữ phụ cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3650,
+    "title" : "[P19] Xuyên làm nữ phụ của tổng tài| Thật sự là yêu sao? Truyện xuyên sách nữ phụ sủng ngọt cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3351,
+    "title" : "[P2] Xuyên làm nữ phụ trong di động tổng tài| Nam chính giúp em với| Truyện xuyên không, nữ phụ hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3813,
+    "title" : "[P20] Xuyên làm nữ phụ của tổng tài| Qua đêm tại nhà Sở Tổng| Truyện xuyên sách nữ phụ sủng ngọt hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3789,
+    "title" : "[P21] Xuyên làm nữ phụ của Tổng tài| Nữ phụ giúp Sở Tổng trả thù|Truyện xuyên sách sủng ngọt cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3826,
+    "title" : "[P22] Xuyên làm nữ phụ của tổng tài| Một đêm say mượn rượu tỏ tình| Truyện xuyên sách sủng ngọt hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4029,
+    "title" : "[P23] Xuyên làm nữ phụ của tổng tài| Ngoan nào..cho anh| Truyện xuyên sách nữ phụ sủng ngọt cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3752,
+    "title" : "[P24] Xuyên làm nữ phụ của tổng tài| Lời tỏ tình khác người| Truyện xuyên không sủng ngọt cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3804,
+    "title" : "[P25] Xuyên làm nữ phụ của tổng tài| Bị người khác theo đuổi| Truyện xuyên sách cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3728,
+    "title" : "[P26] Xuyên làm nữ phụ của tổng tài| Cả thế giới biết anh yêu em| Truyện xuyên sách cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4431,
+    "title" : "[Tập cuối cực hay]] Xuyên làm nữ phụ của tổng tài| Xây dựng gia đình hanh phúc| Truyện xuyên sách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3814,
+    "title" : "[p3]Xuyên làm nữ phụ trong di động tổng tài| Nam chủ đừng giận em nữa| Truyện xuyên không,trọng sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3965,
+    "title" : "[P4] Xuyên làm nữ phụ trong di động tổng tài| Thiết lập mối quan hệ với nam chủ| Truyện xuyên sách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4257,
+    "title" : "[P5] Xuyên làm nữ phụ trong di động nam chính| Nam chủ anh tuyệt vời nhất| Truyện xuyên sách cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4256,
+    "title" : "[P6] Xuyên làm nữ phụ của tổng tài|Cuộc trả thù của Tổng Gíam Đốc Sở| Truyện xuyên không, nữ phụ hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3833,
+    "title" : "[P7] Xuyên làm nữ phụ trong di động tổng tài| Chuyến công tác bí mật của Sở Tổng| Truyện xuyên sách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3833,
+    "title" : "[P8] Xuyên làm nữ phụ của tổng tài| Thay nam chủ cứu nữ chủ| Truyện xuyên sách sủng ngọt cực hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3859,
+    "title" : "[P9] Xuyên làm nữ phụ của nam chính| Cốt truyện trật đường ray|Truyện ngôn tình xuyên sách, sủng hay",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/1.mp3",
+    "title" : "Xuyên làm nữ phụ trong di động tổng tài| Truyện ngôn tình trọng sinh, xuyên không sủng ngọt hay lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/10.mp3",
+    "title" : "[P10] Xuyên làm nữ phụ của tổng tài| Em là người đặc biệt| Truyện xuyên sách, sủng ngọt cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/11.mp3",
+    "title" : "[P11] Xuyên làm nữ phụ của tổng tài| Mình gặp nhau đi| Truyện xuyên sách, nữ phụ văn siêu hay 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/12.mp3",
+    "title" : "[P12] Xuyên làm nữ phụ của tổng tài| Nữ phụ sập bẫy của Sở Tổng| Truyện xuyên sách nữ phụ cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/13.mp3",
+    "title" : "[p14] Xuyên làm nữ phụ của tổng tài| Nữ phụ rơi vào lưới tình| Truyện xuyên sách, nữ phụ cưc hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/14.mp3",
+    "title" : "[P14] Xuyên làm nữ phu của tổng tài| Anh sẽ bảo vệ em| Truyện xuyên sách, nữ phụ sủng ngọt cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/15.mp3",
+    "title" : "[P15] Xuyên làm nữ phụ của tổng tài| Muốn làm công chúa của anh không? Truyện xuyên sách sủng ngọt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/16.mp3",
+    "title" : "[P16] Xuyên làm nữ phụ của tổng tài| Ăn diện lấy lòng Sở Tổng| Truyện xuyên sách sủng ngọt siêu hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/17.mp3",
+    "title" : "[P17] Xuyên làm nữ phụ của tổng tài| Sở Tổng, đùi anh em ôm chặt rồi|Truyện xuyên sách sủng ngọt hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/18.mp3",
+    "title" : "[P18] Xuyên làm nữ phụ của tổng tài| Em cố gắng vì thích anh| Truyện xuyên sách, nữ phụ cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/19.mp3",
+    "title" : "[P19] Xuyên làm nữ phụ của tổng tài| Thật sự là yêu sao? Truyện xuyên sách nữ phụ sủng ngọt cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/2.mp3",
+    "title" : "[P2] Xuyên làm nữ phụ trong di động tổng tài| Nam chính giúp em với| Truyện xuyên không, nữ phụ hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/20.mp3",
+    "title" : "[P20] Xuyên làm nữ phụ của tổng tài| Qua đêm tại nhà Sở Tổng| Truyện xuyên sách nữ phụ sủng ngọt hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/21.mp3",
+    "title" : "[P21] Xuyên làm nữ phụ của Tổng tài| Nữ phụ giúp Sở Tổng trả thù|Truyện xuyên sách sủng ngọt cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/22.mp3",
+    "title" : "[P22] Xuyên làm nữ phụ của tổng tài| Một đêm say mượn rượu tỏ tình| Truyện xuyên sách sủng ngọt hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/23.mp3",
+    "title" : "[P23] Xuyên làm nữ phụ của tổng tài| Ngoan nào..cho anh| Truyện xuyên sách nữ phụ sủng ngọt cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/24.mp3",
+    "title" : "[P24] Xuyên làm nữ phụ của tổng tài| Lời tỏ tình khác người| Truyện xuyên không sủng ngọt cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/25.mp3",
+    "title" : "[P25] Xuyên làm nữ phụ của tổng tài| Bị người khác theo đuổi| Truyện xuyên sách cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/26.mp3",
+    "title" : "[P26] Xuyên làm nữ phụ của tổng tài| Cả thế giới biết anh yêu em| Truyện xuyên sách cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/27.mp3",
+    "title" : "[Tập cuối cực hay]] Xuyên làm nữ phụ của tổng tài| Xây dựng gia đình hanh phúc| Truyện xuyên sách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/3.mp3",
+    "title" : "[p3]Xuyên làm nữ phụ trong di động tổng tài| Nam chủ đừng giận em nữa| Truyện xuyên không,trọng sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/4.mp3",
+    "title" : "[P4] Xuyên làm nữ phụ trong di động tổng tài| Thiết lập mối quan hệ với nam chủ| Truyện xuyên sách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/5.mp3",
+    "title" : "[P5] Xuyên làm nữ phụ trong di động nam chính| Nam chủ anh tuyệt vời nhất| Truyện xuyên sách cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/6.mp3",
+    "title" : "[P6] Xuyên làm nữ phụ của tổng tài|Cuộc trả thù của Tổng Gíam Đốc Sở| Truyện xuyên không, nữ phụ hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/7.mp3",
+    "title" : "[P7] Xuyên làm nữ phụ trong di động tổng tài| Chuyến công tác bí mật của Sở Tổng| Truyện xuyên sách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/8.mp3",
+    "title" : "[P8] Xuyên làm nữ phụ của tổng tài| Thay nam chủ cứu nữ chủ| Truyện xuyên sách sủng ngọt cực hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-trong-di-dong-cua-tong-tai-hao-mon/9.mp3",
+    "title" : "[P9] Xuyên làm nữ phụ của nam chính| Cốt truyện trật đường ray|Truyện ngôn tình xuyên sách, sủng hay",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

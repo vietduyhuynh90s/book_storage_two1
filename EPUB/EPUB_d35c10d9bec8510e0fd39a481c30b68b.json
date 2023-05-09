@@ -1,0 +1,905 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ngu-dai-than-thu_15048.html",
+    "title" : "Ngũ Đại Thần Thú",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 235534,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_d35c10d9bec8510e0fd39a481c30b68b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_d35c10d9bec8510e0fd39a481c30b68b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3667,
+    "title" : "Truyện m.a có thật Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3634,
+    "title" : "Truyện ma Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3361,
+    "title" : "Tập 2] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký - Truyện ma Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3283,
+    "title" : "Tập 3] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký - Truyện ma Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3479,
+    "title" : "Tập 4] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký - Truyện ma Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3255,
+    "title" : "Tập 5] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký - Truyện ma Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3202,
+    "title" : "Tập 6] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký - Truyện ma Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3084,
+    "title" : "Tập 7] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký - Truyện ma Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3426,
+    "title" : "kết ] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký - Truyện ma Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3385,
+    "title" : "Truyện ma Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3406,
+    "title" : "Tập 2] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký 2 - Truyện ma Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3546,
+    "title" : "Truyện m.a Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3273,
+    "title" : "Tập 3] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký 2 - Truyện ma Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3148,
+    "title" : "Tập 4] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký 2 - Truyện ma Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3016,
+    "title" : "Tập 5] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký 2 - Truyện ma Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3145,
+    "title" : "Tập 6] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký 2 - Truyện ma Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3117,
+    "title" : "Tập 7] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký 2 - Truyện ma Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3408,
+    "title" : "Cuốn 4] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký 2 - Truyện ma Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3672,
+    "title" : "Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3110,
+    "title" : "Tập 2] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2990,
+    "title" : "Tập 3] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn Kể Rợn Qúa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3498,
+    "title" : "Tập 4] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn Kể Rợn & Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3415,
+    "title" : "Truyện m.a có thật Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2975,
+    "title" : "Tập 5] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn Kể Rợn & Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3236,
+    "title" : "Tập 6] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Mc Đình Soạn Diễn Đọc Rơn Lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3413,
+    "title" : "Tập 7] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn Kể Lạnh Gáy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3272,
+    "title" : "Tập 8] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn Kể Hãi Lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2951,
+    "title" : "Tập 9] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn Kể Hãi Lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3296,
+    "title" : "Tập 10] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn Kể Rợn Lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3242,
+    "title" : "Tập 11] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn Kể Rợn Lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3282,
+    "title" : "Tập 12] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3354,
+    "title" : "Tập 13] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn Kể Hãi Lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3044,
+    "title" : "Tập Kết] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3323,
+    "title" : "Truyện m.a có thật Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3337,
+    "title" : "Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3196,
+    "title" : "Tâp 2] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3323,
+    "title" : "Tâp 3] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3256,
+    "title" : "Tâp 4] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3107,
+    "title" : "Tâp 5] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3443,
+    "title" : "Tâp 6] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3356,
+    "title" : "Tâp 7] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3266,
+    "title" : "Tâp 8] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3186,
+    "title" : "Tâp 9] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3095,
+    "title" : "Tâp 10] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3311,
+    "title" : "Truyện m a Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2368,
+    "title" : "Tâp 11 Kết] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3303,
+    "title" : "Tập 1] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn Diễn Đọc Sợ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3170,
+    "title" : "Tập 2] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn Diễn Đọc Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3443,
+    "title" : "Tập 3] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn Diễn Đọc Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3276,
+    "title" : "Tập 4] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn Diễn Kể Rợn Lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3356,
+    "title" : "Tập 5] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn Diễn Đọc Hãi lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3315,
+    "title" : "Tập 6] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn kể Rợn Lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3501,
+    "title" : "Tập 7] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn kể Rợn Lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3476,
+    "title" : "Tập 8] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn kể Rợn Lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3339,
+    "title" : "Tập 9] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn kể Rợn Lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3110,
+    "title" : "Truyện m a Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3275,
+    "title" : "Tập 10] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn kể Rợn Lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3292,
+    "title" : "Tập 11] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn kể Rợn Lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3112,
+    "title" : "Tập 12] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn kể Rợn Lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3249,
+    "title" : "Tập 13] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn kể Rợn Lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3170,
+    "title" : "Tập 14] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn kể Rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3240,
+    "title" : "Tập 15] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn kể Rợn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3299,
+    "title" : "Tập 16] Huyền Linh Di Giới Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3399,
+    "title" : "Tập 17] Huyền Linh Di Giới Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3359,
+    "title" : "Tập 18] Huyền Linh Di Giới Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3549,
+    "title" : "Tập 19] Huyền Linh Di Giới Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2745,
+    "title" : "KẾT] CHUNG CƯ M A 727 - Truyện m a Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3427,
+    "title" : "Tập 20] Huyền Linh Di Giới Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3192,
+    "title" : "Tập 21] Huyền Linh Di Giới Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3192,
+    "title" : "Tập 22 Kết] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn Diễn Kể Rợn Lắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3088,
+    "title" : "Truyện ma có thật Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3505,
+    "title" : "Truyện ma có thật Mc Đình Soạn mới nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/1.mp3",
+    "title" : "Truyện m.a có thật Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/10.mp3",
+    "title" : "Truyện ma Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/11.mp3",
+    "title" : "Tập 2] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký - Truyện ma Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/12.mp3",
+    "title" : "Tập 3] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký - Truyện ma Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/13.mp3",
+    "title" : "Tập 4] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký - Truyện ma Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/14.mp3",
+    "title" : "Tập 5] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký - Truyện ma Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/15.mp3",
+    "title" : "Tập 6] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký - Truyện ma Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/16.mp3",
+    "title" : "Tập 7] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký - Truyện ma Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/17.mp3",
+    "title" : "kết ] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký - Truyện ma Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/18.mp3",
+    "title" : "Truyện ma Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/19.mp3",
+    "title" : "Tập 2] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký 2 - Truyện ma Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/2.mp3",
+    "title" : "Truyện m.a Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/20.mp3",
+    "title" : "Tập 3] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký 2 - Truyện ma Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/21.mp3",
+    "title" : "Tập 4] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký 2 - Truyện ma Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/22.mp3",
+    "title" : "Tập 5] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký 2 - Truyện ma Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/23.mp3",
+    "title" : "Tập 6] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký 2 - Truyện ma Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/24.mp3",
+    "title" : "Tập 7] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký 2 - Truyện ma Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/25.mp3",
+    "title" : "Cuốn 4] Ngũ Đại Thần Thú : Hậu Lê Du Hành Ký 2 - Truyện ma Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/26.mp3",
+    "title" : "Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/27.mp3",
+    "title" : "Tập 2] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/28.mp3",
+    "title" : "Tập 3] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn Kể Rợn Qúa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/29.mp3",
+    "title" : "Tập 4] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn Kể Rợn & Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/3.mp3",
+    "title" : "Truyện m.a có thật Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/30.mp3",
+    "title" : "Tập 5] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn Kể Rợn & Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/31.mp3",
+    "title" : "Tập 6] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Mc Đình Soạn Diễn Đọc Rơn Lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/32.mp3",
+    "title" : "Tập 7] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn Kể Lạnh Gáy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/33.mp3",
+    "title" : "Tập 8] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn Kể Hãi Lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/34.mp3",
+    "title" : "Tập 9] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn Kể Hãi Lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/35.mp3",
+    "title" : "Tập 10] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn Kể Rợn Lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/36.mp3",
+    "title" : "Tập 11] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn Kể Rợn Lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/37.mp3",
+    "title" : "Tập 12] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/38.mp3",
+    "title" : "Tập 13] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn Kể Hãi Lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/39.mp3",
+    "title" : "Tập Kết] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/4.mp3",
+    "title" : "Truyện m.a có thật Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/40.mp3",
+    "title" : "Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/41.mp3",
+    "title" : "Tâp 2] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/42.mp3",
+    "title" : "Tâp 3] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/43.mp3",
+    "title" : "Tâp 4] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/44.mp3",
+    "title" : "Tâp 5] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/45.mp3",
+    "title" : "Tâp 6] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/46.mp3",
+    "title" : "Tâp 7] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/47.mp3",
+    "title" : "Tâp 8] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/48.mp3",
+    "title" : "Tâp 9] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/49.mp3",
+    "title" : "Tâp 10] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/5.mp3",
+    "title" : "Truyện m a Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/50.mp3",
+    "title" : "Tâp 11 Kết] Hậu Lê Du Hành Ký - Truyện Ma Dài Kỳ Có Thật Đến Rợn Đình Soạn Diễn Đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/51.mp3",
+    "title" : "Tập 1] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn Diễn Đọc Sợ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/52.mp3",
+    "title" : "Tập 2] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn Diễn Đọc Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/53.mp3",
+    "title" : "Tập 3] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn Diễn Đọc Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/54.mp3",
+    "title" : "Tập 4] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn Diễn Kể Rợn Lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/55.mp3",
+    "title" : "Tập 5] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn Diễn Đọc Hãi lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/56.mp3",
+    "title" : "Tập 6] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn kể Rợn Lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/57.mp3",
+    "title" : "Tập 7] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn kể Rợn Lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/58.mp3",
+    "title" : "Tập 8] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn kể Rợn Lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/59.mp3",
+    "title" : "Tập 9] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn kể Rợn Lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/6.mp3",
+    "title" : "Truyện m a Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/60.mp3",
+    "title" : "Tập 10] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn kể Rợn Lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/61.mp3",
+    "title" : "Tập 11] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn kể Rợn Lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/62.mp3",
+    "title" : "Tập 12] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn kể Rợn Lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/63.mp3",
+    "title" : "Tập 13] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn kể Rợn Lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/64.mp3",
+    "title" : "Tập 14] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn kể Rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/65.mp3",
+    "title" : "Tập 15] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn kể Rợn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/66.mp3",
+    "title" : "Tập 16] Huyền Linh Di Giới Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/67.mp3",
+    "title" : "Tập 17] Huyền Linh Di Giới Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/68.mp3",
+    "title" : "Tập 18] Huyền Linh Di Giới Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/69.mp3",
+    "title" : "Tập 19] Huyền Linh Di Giới Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/7.mp3",
+    "title" : "KẾT] CHUNG CƯ M A 727 - Truyện m a Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/70.mp3",
+    "title" : "Tập 20] Huyền Linh Di Giới Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/71.mp3",
+    "title" : "Tập 21] Huyền Linh Di Giới Truyện Ma Dài Kỳ Có Thật Mc Đình Soạn kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/72.mp3",
+    "title" : "Tập 22 Kết] HUYỀN LINH DỊ GIỚI- Truyện Ma Dài Kỳ Có Thật MC Đình Soạn Diễn Kể Rợn Lắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/8.mp3",
+    "title" : "Truyện ma có thật Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-dai-than-thu/9.mp3",
+    "title" : "Truyện ma có thật Mc Đình Soạn mới nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

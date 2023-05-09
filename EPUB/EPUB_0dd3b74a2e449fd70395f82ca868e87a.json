@@ -1,0 +1,905 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/de-nhat-sung_15805.html",
+    "title" : "Đệ Nhất Sủng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sơ Cửu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 225842,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_0dd3b74a2e449fd70395f82ca868e87a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_0dd3b74a2e449fd70395f82ca868e87a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/de-nhat-sung/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3295,
+    "title" : "ĐÀO HÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3554,
+    "title" : "GẶP LẠI MỘ BÁC VĂN - Truyện Ngôn Tình hay nhất 2020 - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3754,
+    "title" : "PHÁT SỐT LÚC NỬA ĐÊM - MC PHƯƠNG THÚY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2686,
+    "title" : "BẤT CÔNG - MC Phương Thúy - Truyện hay 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3557,
+    "title" : "ĐỆ NHẤT SỦNG - CỐ Ý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3497,
+    "title" : "OAN GIA NGÕ HẸP",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3232,
+    "title" : "THẤT BẠI CỦA DƯƠNG BĂNG BĂNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3563,
+    "title" : "ĐẤU GIÁ - MC PHƯƠNG THÚY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3032,
+    "title" : "TRỞ LẠI - SƠ CỬU",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3158,
+    "title" : "KẾ HOẠCH MỞ CÂU LẠC BỘ VẼ TRANH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3428,
+    "title" : "[TẬP 19] NGƯỜI CỦA HAI THẾ GIỚI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3473,
+    "title" : "AI DÁM ĐỘNG NGƯỜI CỦA TÔI?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3415,
+    "title" : "CÔ NÀNG HOÀN MỸ - TRUYỆN NGÔN TÌNH 2020 - MC PHƯƠNG THÚY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3823,
+    "title" : "MC PHƯƠNG THÚY - TRUYỆN HAY 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3146,
+    "title" : "MC PHƯƠNG THÚY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3790,
+    "title" : "Lời xin lỗi chân thành của cậu cả nhà họ Mộ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3615,
+    "title" : "Mặt Ngoan Ngoãn, đáng yêu của cậu cả Mộ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3364,
+    "title" : "Bàn Tay Vàng Trong Làng Vẽ Tranh - MC Phương Thúy - Truyện hay 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3635,
+    "title" : "[TẬP 26] Nâng Cao Cảnh Giác Ngập Tràn Phòng Bị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3420,
+    "title" : "Vòng Chung Kết (1) - Sơ Cửu - Mc Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3766,
+    "title" : "[Tập 28] LỜI HỨA CỦA TÂN CHI CHÂU",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3520,
+    "title" : "VỞ KỊCH ĐẶC SẮC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3377,
+    "title" : "THẺ KIM CƯƠNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3427,
+    "title" : "[TẬP 30] ĐẰNG SAU ĐỨA TRẺ NGHỊCH NGỢM LÀ CẢ MỘT GIA ĐÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3546,
+    "title" : "Đệ Nhất Sủng - Sợ Mình Quá Xinh Đẹp",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "{TẬP 32} ĐỐI TÁC MỚI CỦA TẬP ĐOÀN NHÀ HỌ GIANG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3613,
+    "title" : "Gặp Lại Tại Buổi Tiệc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3698,
+    "title" : "SỰ THẬT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3636,
+    "title" : "Từ Bỏ Giấc Mơ Century",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3605,
+    "title" : "Đệ Nhất Sủng - Lấy Mẫu Xét Nghiệm ADN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3777,
+    "title" : "Người Đàn Ông Công Bằng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3672,
+    "title" : "[TẬP 38] CHUYẾN DU LỊCH TRÊN ĐẢO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3806,
+    "title" : "Đệ Nhất Sủng - Người Đàn Ông Bí Ẩn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3086,
+    "title" : "HỢP ĐỒNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3678,
+    "title" : "[TAP 40] QUAY LẠI VỌNG GIANG CÁC GẶP MỘ TU KIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3497,
+    "title" : "NGHI NGỜ GIANG NAM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3612,
+    "title" : "[TẬP 42] SỰ TRỞ LẠI CỦA LANG VƯƠNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3749,
+    "title" : "[TẬP 43] CẢ ĐỜI LÀ ANH EM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3681,
+    "title" : "ÂM MƯU HAY TRÙNG HỢP",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3054,
+    "title" : "BẠN GÁI NHỎ CỦA GIANG NAM",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3315,
+    "title" : "KỂ LẠI CÂU CHUYỆN TỐI QUA",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3098,
+    "title" : "TÔ TỬ LẠP GẶP NẠN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2480,
+    "title" : "DƯƠNG HIỂU NHA BỎ TRỐN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2384,
+    "title" : "[TẬP 49] QUAY LẠI VỌNG GIANG CÁC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3232,
+    "title" : "ĐÍNH HÔN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2558,
+    "title" : "Trở Lại Vọng Giang Các Làm Người Giúp Việc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2404,
+    "title" : "Bí Mật Dưới Đáy Hồ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2473,
+    "title" : "CHỈ CẦN ANH TIN CÔ LÀ ĐỦ RỒI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2549,
+    "title" : "KẾT THÚC CHUYỆN BÊN HỒ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2511,
+    "title" : "TÔI MỆT RỒI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2422,
+    "title" : "Đến Lăng Châu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2605,
+    "title" : "Tình Cảm Có Thể Dùng Tiền Tài Để Đo Đếm Sao?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2597,
+    "title" : "[TẬP 57] NÓI SỰ THẬT CHO CỐ TĨNH VIỄN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2509,
+    "title" : "EM HỌ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2550,
+    "title" : "Cố Cơ Uyển Mang Thai Lần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3464,
+    "title" : "NGƯỜI ĐỨNG SAU VỤ BẮT CÓC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2615,
+    "title" : "Tình Thân Hay Áy Náy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2633,
+    "title" : "MẤT NIỀM TIN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2482,
+    "title" : "Quá Khứ Hé Lộ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2668,
+    "title" : "Quay Về, Cùng Nhau Đối Mặt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2628,
+    "title" : "Điều Kiện Trao Đổi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2538,
+    "title" : "Tô Tử Lạp Tỉnh Lại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2655,
+    "title" : "Rời Đi Cùng Mộ Hạo Phong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2649,
+    "title" : "THANH MAI TRÚC MÃ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2718,
+    "title" : "CHÍ ÍT, CHÚNG TA ĐÃ CỐ GẮNG",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2567,
+    "title" : "GIỐNG NHAU NHƯ KHUÔN ĐÚC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3251,
+    "title" : "[TẬP 7] ẢNH HƯỞNG TỪ MẠNG XÃ HỘI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2714,
+    "title" : "PHIÊN BẢN NHÍ CỦA MỘ TU KIỆT",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2533,
+    "title" : "LẦN ĐẦU ĐƯA VỢ CON ĐI CHƠI CÔNG VIÊN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2122,
+    "title" : "ĐẠI KẾT CỤC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3440,
+    "title" : "SƠ CỬU [TẬP 8]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2641,
+    "title" : "ĐỆ NHẤT SỦNG - MUA TÚI SÁCH",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/de-nhat-sung/1.mp3",
+    "title" : "ĐÀO HÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/10.mp3",
+    "title" : "GẶP LẠI MỘ BÁC VĂN - Truyện Ngôn Tình hay nhất 2020 - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/11.mp3",
+    "title" : "PHÁT SỐT LÚC NỬA ĐÊM - MC PHƯƠNG THÚY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/12.mp3",
+    "title" : "BẤT CÔNG - MC Phương Thúy - Truyện hay 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/13.mp3",
+    "title" : "ĐỆ NHẤT SỦNG - CỐ Ý",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/14.mp3",
+    "title" : "OAN GIA NGÕ HẸP",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/15.mp3",
+    "title" : "THẤT BẠI CỦA DƯƠNG BĂNG BĂNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/16.mp3",
+    "title" : "ĐẤU GIÁ - MC PHƯƠNG THÚY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/17.mp3",
+    "title" : "TRỞ LẠI - SƠ CỬU",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/18.mp3",
+    "title" : "KẾ HOẠCH MỞ CÂU LẠC BỘ VẼ TRANH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/19.mp3",
+    "title" : "[TẬP 19] NGƯỜI CỦA HAI THẾ GIỚI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/2.mp3",
+    "title" : "AI DÁM ĐỘNG NGƯỜI CỦA TÔI?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/20.mp3",
+    "title" : "CÔ NÀNG HOÀN MỸ - TRUYỆN NGÔN TÌNH 2020 - MC PHƯƠNG THÚY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/21.mp3",
+    "title" : "MC PHƯƠNG THÚY - TRUYỆN HAY 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/22.mp3",
+    "title" : "MC PHƯƠNG THÚY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/23.mp3",
+    "title" : "Lời xin lỗi chân thành của cậu cả nhà họ Mộ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/24.mp3",
+    "title" : "Mặt Ngoan Ngoãn, đáng yêu của cậu cả Mộ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/25.mp3",
+    "title" : "Bàn Tay Vàng Trong Làng Vẽ Tranh - MC Phương Thúy - Truyện hay 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/26.mp3",
+    "title" : "[TẬP 26] Nâng Cao Cảnh Giác Ngập Tràn Phòng Bị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/27.mp3",
+    "title" : "Vòng Chung Kết (1) - Sơ Cửu - Mc Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/28.mp3",
+    "title" : "[Tập 28] LỜI HỨA CỦA TÂN CHI CHÂU",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/29.mp3",
+    "title" : "VỞ KỊCH ĐẶC SẮC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/3.mp3",
+    "title" : "THẺ KIM CƯƠNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/30.mp3",
+    "title" : "[TẬP 30] ĐẰNG SAU ĐỨA TRẺ NGHỊCH NGỢM LÀ CẢ MỘT GIA ĐÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/31.mp3",
+    "title" : "Đệ Nhất Sủng - Sợ Mình Quá Xinh Đẹp",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/32.mp3",
+    "title" : "{TẬP 32} ĐỐI TÁC MỚI CỦA TẬP ĐOÀN NHÀ HỌ GIANG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/33.mp3",
+    "title" : "Gặp Lại Tại Buổi Tiệc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/34.mp3",
+    "title" : "SỰ THẬT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/35.mp3",
+    "title" : "Từ Bỏ Giấc Mơ Century",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/36.mp3",
+    "title" : "Đệ Nhất Sủng - Lấy Mẫu Xét Nghiệm ADN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/37.mp3",
+    "title" : "Người Đàn Ông Công Bằng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/38.mp3",
+    "title" : "[TẬP 38] CHUYẾN DU LỊCH TRÊN ĐẢO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/39.mp3",
+    "title" : "Đệ Nhất Sủng - Người Đàn Ông Bí Ẩn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/4.mp3",
+    "title" : "HỢP ĐỒNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/40.mp3",
+    "title" : "[TAP 40] QUAY LẠI VỌNG GIANG CÁC GẶP MỘ TU KIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/41.mp3",
+    "title" : "NGHI NGỜ GIANG NAM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/42.mp3",
+    "title" : "[TẬP 42] SỰ TRỞ LẠI CỦA LANG VƯƠNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/43.mp3",
+    "title" : "[TẬP 43] CẢ ĐỜI LÀ ANH EM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/44.mp3",
+    "title" : "ÂM MƯU HAY TRÙNG HỢP",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/45.mp3",
+    "title" : "BẠN GÁI NHỎ CỦA GIANG NAM",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/46.mp3",
+    "title" : "KỂ LẠI CÂU CHUYỆN TỐI QUA",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/47.mp3",
+    "title" : "TÔ TỬ LẠP GẶP NẠN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/48.mp3",
+    "title" : "DƯƠNG HIỂU NHA BỎ TRỐN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/49.mp3",
+    "title" : "[TẬP 49] QUAY LẠI VỌNG GIANG CÁC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/5.mp3",
+    "title" : "ĐÍNH HÔN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/50.mp3",
+    "title" : "Trở Lại Vọng Giang Các Làm Người Giúp Việc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/51.mp3",
+    "title" : "Bí Mật Dưới Đáy Hồ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/52.mp3",
+    "title" : "CHỈ CẦN ANH TIN CÔ LÀ ĐỦ RỒI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/53.mp3",
+    "title" : "KẾT THÚC CHUYỆN BÊN HỒ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/54.mp3",
+    "title" : "TÔI MỆT RỒI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/55.mp3",
+    "title" : "Đến Lăng Châu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/56.mp3",
+    "title" : "Tình Cảm Có Thể Dùng Tiền Tài Để Đo Đếm Sao?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/57.mp3",
+    "title" : "[TẬP 57] NÓI SỰ THẬT CHO CỐ TĨNH VIỄN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/58.mp3",
+    "title" : "EM HỌ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/59.mp3",
+    "title" : "Cố Cơ Uyển Mang Thai Lần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/6.mp3",
+    "title" : "NGƯỜI ĐỨNG SAU VỤ BẮT CÓC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/60.mp3",
+    "title" : "Tình Thân Hay Áy Náy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/61.mp3",
+    "title" : "MẤT NIỀM TIN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/62.mp3",
+    "title" : "Quá Khứ Hé Lộ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/63.mp3",
+    "title" : "Quay Về, Cùng Nhau Đối Mặt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/64.mp3",
+    "title" : "Điều Kiện Trao Đổi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/65.mp3",
+    "title" : "Tô Tử Lạp Tỉnh Lại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/66.mp3",
+    "title" : "Rời Đi Cùng Mộ Hạo Phong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/67.mp3",
+    "title" : "THANH MAI TRÚC MÃ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/68.mp3",
+    "title" : "CHÍ ÍT, CHÚNG TA ĐÃ CỐ GẮNG",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/69.mp3",
+    "title" : "GIỐNG NHAU NHƯ KHUÔN ĐÚC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/7.mp3",
+    "title" : "[TẬP 7] ẢNH HƯỞNG TỪ MẠNG XÃ HỘI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/70.mp3",
+    "title" : "PHIÊN BẢN NHÍ CỦA MỘ TU KIỆT",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/71.mp3",
+    "title" : "LẦN ĐẦU ĐƯA VỢ CON ĐI CHƠI CÔNG VIÊN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/72.mp3",
+    "title" : "ĐẠI KẾT CỤC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/8.mp3",
+    "title" : "SƠ CỬU [TẬP 8]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/de-nhat-sung/9.mp3",
+    "title" : "ĐỆ NHẤT SỦNG - MUA TÚI SÁCH",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

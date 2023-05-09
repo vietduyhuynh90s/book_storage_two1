@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ma-nu-bao-thu_14715.html",
+    "title" : "Ma Nữ Báo Thù",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Hoàng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 14790,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_707f6131a5a61ced9c516f9b39e1355e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_707f6131a5a61ced9c516f9b39e1355e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ma-nu-bao-thu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3939,
+    "title" : "Truyện Ma Có Thật Rợn Và Nổi Da Gà Khi Nghe Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-nu-bao-thu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3954,
+    "title" : "Truyện Ma Có Thật Rợn Khi Nghe Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-nu-bao-thu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3464,
+    "title" : "Truyện Ma Có Thật Rợn Khi Nghe Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ma-nu-bao-thu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3433,
+    "title" : "Truyện Ma Có Thật Rợn Khi Nghe Đình Soạn Kể",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ma-nu-bao-thu/1.mp3",
+    "title" : "Truyện Ma Có Thật Rợn Và Nổi Da Gà Khi Nghe Đình Soạn Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-nu-bao-thu/2.mp3",
+    "title" : "Truyện Ma Có Thật Rợn Khi Nghe Đình Soạn Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-nu-bao-thu/3.mp3",
+    "title" : "Truyện Ma Có Thật Rợn Khi Nghe Đình Soạn Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ma-nu-bao-thu/4.mp3",
+    "title" : "Truyện Ma Có Thật Rợn Khi Nghe Đình Soạn Kể",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

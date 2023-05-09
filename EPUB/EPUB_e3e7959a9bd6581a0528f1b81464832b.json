@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/an-mang-chuot-chin-dau_15693.html",
+    "title" : "Án Mạng Chuột Chín Đầu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lãng Nhân Môn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 8116,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_e3e7959a9bd6581a0528f1b81464832b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_e3e7959a9bd6581a0528f1b81464832b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/an-mang-chuot-9-dau/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3238,
+    "title" : "37 bức thư tố giác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/an-mang-chuot-9-dau/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4878,
+    "title" : "Chuột Chín Đầu và Thủy Thần Giáo",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/an-mang-chuot-9-dau/1.mp3",
+    "title" : "37 bức thư tố giác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/an-mang-chuot-9-dau/2.mp3",
+    "title" : "Chuột Chín Đầu và Thủy Thần Giáo",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

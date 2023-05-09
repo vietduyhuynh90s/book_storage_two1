@@ -1,0 +1,509 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ba-duong-luan-hoi_15699.html",
+    "title" : "Ba Đường Luân Hồi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vĩ Ngư",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 144456,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_6ee37badd0457d5d9890e2e3f34a2c88.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_6ee37badd0457d5d9890e2e3f34a2c88.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3234,
+    "title" : "Ba Đường Luân Hồi (Chương 0-1-2) | Quyển 1 | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4465,
+    "title" : "Ba Đường Luân Hồi (Chương 27-28-29-30) | Quyển 1 | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3160,
+    "title" : "Ba Đường Luân Hồi (Chương 1-2-3) | Quyển 2-Lịch Canh Vàng | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3244,
+    "title" : "Ba Đường Luân Hồi (Chương 4-5-6) | Quyển 2-Lịch Canh Vàng | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3182,
+    "title" : "Ba Đường Luân Hồi (Chương 7-8-9) | Quyển 2-Lịch Canh Vàng | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3278,
+    "title" : "Ba Đường Luân Hồi (Chương 10-11-12) | Quyển 2-Lịch Canh Vàng | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3415,
+    "title" : "Lịch Canh Vàng | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3376,
+    "title" : "Lịch Canh Vàng | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3771,
+    "title" : "Lịch Canh Vàng | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2980,
+    "title" : "Lịch Canh Vàng | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3374,
+    "title" : "Lịch Canh Vàng | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3018,
+    "title" : "Ba Đường Luân Hồi (Chương 3-4-5) | Quyển 1 | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3303,
+    "title" : "Ba Đường Luân Hồi (Chương 28-29-30) | Quyển 2 | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2333,
+    "title" : "Ba Đường Luân Hồi (Chương 31-32) | Quyển 2 | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2845,
+    "title" : "Bến Đò Luân Hồi | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3059,
+    "title" : "Bến Đò Luân Hồi | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4787,
+    "title" : "Bến Đò Luân Hồi | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4881,
+    "title" : "Bến Đò Luân Hồi | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4978,
+    "title" : "Bến Đò Luân Hồi | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4966,
+    "title" : "Bến Đò Luân Hồi | Vĩ Ngư | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4966,
+    "title" : "Bến Đò Luân Hồi | Vĩ Ngư | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3982,
+    "title" : "Hầm Đất Trôi Nổi | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3008,
+    "title" : "Ba Đường Luân Hồi (Chương 6-7-8) | Quyển 1 | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5146,
+    "title" : "Hầm Đất Trôi Nổi | Vĩ Ngư | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5043,
+    "title" : "Hầm Đất Trôi Nổi | Vĩ Ngư | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3734,
+    "title" : "Hầm Đất Trôi Nổi | Vĩ Ngư | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4641,
+    "title" : "Hầm Đất Trôi Nổi | Vĩ Ngư | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3779,
+    "title" : "Hầm Đất Trôi Nổi | Vĩ Ngư | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4721,
+    "title" : "Hầm Đất Trôi Nổi | Vĩ Ngư | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4335,
+    "title" : "Hầm Đất Trôi Nổi | Vĩ Ngư | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4065,
+    "title" : "Ba Đường Luân Hồi (Chương 1-2-3) | Quyển 5 | Vĩ Ngư | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2918,
+    "title" : "Ba Đường Luân Hồi (Chương 4-5-6) | Quyển 5 | Vĩ Ngư | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4729,
+    "title" : "Ba Đường Luân Hồi (Chương 7-8-9-10) (The End) | Quyển 5 | Vĩ Ngư | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2948,
+    "title" : "Ba Đường Luân Hồi (Chương 9-10-11) | Quyển 1 | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2737,
+    "title" : "Ba Đường Luân Hồi (Chương 12-13-14) | Quyển 1 | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2723,
+    "title" : "Ba Đường Luân Hồi (Chương 15-16-17) | Quyển 1 | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2996,
+    "title" : "Ba Đường Luân Hồi (Chương 18-19-20) | Quyển 1 | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3167,
+    "title" : "Ba Đường Luân Hồi (Chương 21-22-23) | Quyển 1 | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3169,
+    "title" : "Ba Đường Luân Hồi (Chương 24-25-26) | Quyển 1 | Linh Dị Truyện",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/1.mp3",
+    "title" : "Ba Đường Luân Hồi (Chương 0-1-2) | Quyển 1 | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/10.mp3",
+    "title" : "Ba Đường Luân Hồi (Chương 27-28-29-30) | Quyển 1 | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/11.mp3",
+    "title" : "Ba Đường Luân Hồi (Chương 1-2-3) | Quyển 2-Lịch Canh Vàng | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/12.mp3",
+    "title" : "Ba Đường Luân Hồi (Chương 4-5-6) | Quyển 2-Lịch Canh Vàng | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/13.mp3",
+    "title" : "Ba Đường Luân Hồi (Chương 7-8-9) | Quyển 2-Lịch Canh Vàng | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/14.mp3",
+    "title" : "Ba Đường Luân Hồi (Chương 10-11-12) | Quyển 2-Lịch Canh Vàng | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/15.mp3",
+    "title" : "Lịch Canh Vàng | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/16.mp3",
+    "title" : "Lịch Canh Vàng | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/17.mp3",
+    "title" : "Lịch Canh Vàng | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/18.mp3",
+    "title" : "Lịch Canh Vàng | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/19.mp3",
+    "title" : "Lịch Canh Vàng | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/2.mp3",
+    "title" : "Ba Đường Luân Hồi (Chương 3-4-5) | Quyển 1 | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/20.mp3",
+    "title" : "Ba Đường Luân Hồi (Chương 28-29-30) | Quyển 2 | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/21.mp3",
+    "title" : "Ba Đường Luân Hồi (Chương 31-32) | Quyển 2 | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/22.mp3",
+    "title" : "Bến Đò Luân Hồi | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/23.mp3",
+    "title" : "Bến Đò Luân Hồi | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/24.mp3",
+    "title" : "Bến Đò Luân Hồi | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/25.mp3",
+    "title" : "Bến Đò Luân Hồi | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/26.mp3",
+    "title" : "Bến Đò Luân Hồi | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/27.mp3",
+    "title" : "Bến Đò Luân Hồi | Vĩ Ngư | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/28.mp3",
+    "title" : "Bến Đò Luân Hồi | Vĩ Ngư | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/29.mp3",
+    "title" : "Hầm Đất Trôi Nổi | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/3.mp3",
+    "title" : "Ba Đường Luân Hồi (Chương 6-7-8) | Quyển 1 | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/30.mp3",
+    "title" : "Hầm Đất Trôi Nổi | Vĩ Ngư | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/31.mp3",
+    "title" : "Hầm Đất Trôi Nổi | Vĩ Ngư | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/32.mp3",
+    "title" : "Hầm Đất Trôi Nổi | Vĩ Ngư | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/33.mp3",
+    "title" : "Hầm Đất Trôi Nổi | Vĩ Ngư | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/34.mp3",
+    "title" : "Hầm Đất Trôi Nổi | Vĩ Ngư | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/35.mp3",
+    "title" : "Hầm Đất Trôi Nổi | Vĩ Ngư | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/36.mp3",
+    "title" : "Hầm Đất Trôi Nổi | Vĩ Ngư | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/37.mp3",
+    "title" : "Ba Đường Luân Hồi (Chương 1-2-3) | Quyển 5 | Vĩ Ngư | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/38.mp3",
+    "title" : "Ba Đường Luân Hồi (Chương 4-5-6) | Quyển 5 | Vĩ Ngư | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/39.mp3",
+    "title" : "Ba Đường Luân Hồi (Chương 7-8-9-10) (The End) | Quyển 5 | Vĩ Ngư | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/4.mp3",
+    "title" : "Ba Đường Luân Hồi (Chương 9-10-11) | Quyển 1 | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/5.mp3",
+    "title" : "Ba Đường Luân Hồi (Chương 12-13-14) | Quyển 1 | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/6.mp3",
+    "title" : "Ba Đường Luân Hồi (Chương 15-16-17) | Quyển 1 | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/7.mp3",
+    "title" : "Ba Đường Luân Hồi (Chương 18-19-20) | Quyển 1 | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/8.mp3",
+    "title" : "Ba Đường Luân Hồi (Chương 21-22-23) | Quyển 1 | Linh Dị Truyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-duong-luan-hoi/9.mp3",
+    "title" : "Ba Đường Luân Hồi (Chương 24-25-26) | Quyển 1 | Linh Dị Truyện",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

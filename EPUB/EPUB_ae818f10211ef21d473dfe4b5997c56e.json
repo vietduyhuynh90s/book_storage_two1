@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/giam-cam-trai-tim_15692.html",
+    "title" : "Giam Cầm Trái Tim",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ry Hoàng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 31690,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_ae818f10211ef21d473dfe4b5997c56e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_ae818f10211ef21d473dfe4b5997c56e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/giam-cam-trai-tim/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4934,
+    "title" : "[BÁCH HỢP AUDIO](18+)GIAM CẦM TRÁI TIM (TẬP 1)(hiện đại,ngược,sm..)||phát hành cn hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giam-cam-trai-tim/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5074,
+    "title" : "[BÁCH HỢP AUDIO](18+) GIAM CẦM TRÁI TIM(TẬP 2)(hiện đại, ngược,sm..)||Phát hành cn hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giam-cam-trai-tim/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5099,
+    "title" : "[BÁCH HỢP AUDIO](18+)GIAM CẦM TRÁI TIM (TẬP 3)(hiện đại,ngược,sm..)||Phát hành cn hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giam-cam-trai-tim/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5608,
+    "title" : "[BÁCH HỢP AUDIO](18+) GIAM CẦM TRÁI TIM(TẬP 4)(hiện đại, ngược, sm..)||Phát hành chủ nhật hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giam-cam-trai-tim/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6150,
+    "title" : "[BÁCH HỢP AUDIO] (18+) GIAM CẦM TRÁI TIM (TẬP 5) (hiện đại, ngược..sm)|| phát hành cn hàng tuần!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giam-cam-trai-tim/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4825,
+    "title" : "[BÁCH HỢP AUDIO] (18+) GIAM CẦM TRÁI TIM (TẬP 6) (hiện đại, ngược..sm)|| KẾT HOÀN !",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/giam-cam-trai-tim/1.mp3",
+    "title" : "[BÁCH HỢP AUDIO](18+)GIAM CẦM TRÁI TIM (TẬP 1)(hiện đại,ngược,sm..)||phát hành cn hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giam-cam-trai-tim/2.mp3",
+    "title" : "[BÁCH HỢP AUDIO](18+) GIAM CẦM TRÁI TIM(TẬP 2)(hiện đại, ngược,sm..)||Phát hành cn hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giam-cam-trai-tim/3.mp3",
+    "title" : "[BÁCH HỢP AUDIO](18+)GIAM CẦM TRÁI TIM (TẬP 3)(hiện đại,ngược,sm..)||Phát hành cn hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giam-cam-trai-tim/4.mp3",
+    "title" : "[BÁCH HỢP AUDIO](18+) GIAM CẦM TRÁI TIM(TẬP 4)(hiện đại, ngược, sm..)||Phát hành chủ nhật hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giam-cam-trai-tim/5.mp3",
+    "title" : "[BÁCH HỢP AUDIO] (18+) GIAM CẦM TRÁI TIM (TẬP 5) (hiện đại, ngược..sm)|| phát hành cn hàng tuần!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giam-cam-trai-tim/6.mp3",
+    "title" : "[BÁCH HỢP AUDIO] (18+) GIAM CẦM TRÁI TIM (TẬP 6) (hiện đại, ngược..sm)|| KẾT HOÀN !",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,545 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/manh-dat-lam-nguoi-nhieu-ma_13496.html",
+    "title" : "Mảnh Đất Lắm Người Nhiều Ma",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Khắc Trường",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 36072,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_f9e841667048c79cd7fa0ad098e5d10c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_f9e841667048c79cd7fa0ad098e5d10c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1077,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1374,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 984,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 824,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 701,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 700,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 850,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 904,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 926,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 568,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 594,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 762,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 880,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 936,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 778,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 610,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 522,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 534,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 804,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 760,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 854,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 778,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 830,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 756,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 966,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1066,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 932,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 834,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 874,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1018,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 622,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 880,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 746,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 862,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1034,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 840,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1006,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 42 END",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 850,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1246,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1256,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1010,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 724,
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/1.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/10.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/11.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/12.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/13.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/14.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/15.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/16.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/17.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/18.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/19.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/2.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/20.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/21.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/22.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/23.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/24.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/25.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/26.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/27.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/28.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/29.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/3.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/30.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/31.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/32.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/33.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/34.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/35.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/36.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/37.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/38.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/39.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/4.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/40.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/41.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/42.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 42 END",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/5.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/6.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/7.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/8.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/manh-dat-lam-nguoi-nhieu-ma/9.mp3",
+    "title" : "Audio Mảnh đất lắm người nhiều ma, Phần 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

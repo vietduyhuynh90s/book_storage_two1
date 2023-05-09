@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/81-an-tay-du_19034.html",
+    "title" : "81 Án Tây Du",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Tiệm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 50253,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_50003cfdfe575558be7caf03518c1d02.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_50003cfdfe575558be7caf03518c1d02.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/81-an-tay-du-quyen-3-dai-duong-pham-thien-ky-02/81%20%C3%A1n%20t%C3%A2y%20du%20%28quy%E1%BB%83n%203%29%20%C4%90%E1%BA%A1i%20%C4%90%C6%B0%E1%BB%9Dng%20ph%E1%BA%A1m%20thi%C3%AAn%20k%C3%BD_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5969,
+    "title" : "81 án tây du (quyển 3) Đại Đường phạm thiên ký 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/81-an-tay-du-quyen-3-dai-duong-pham-thien-ky-02/81%20%C3%A1n%20t%C3%A2y%20du%20%28quy%E1%BB%83n%203%29%20%C4%90%E1%BA%A1i%20%C4%90%C6%B0%E1%BB%9Dng%20ph%E1%BA%A1m%20thi%C3%AAn%20k%C3%BD_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6184,
+    "title" : "81 án tây du (quyển 3) Đại Đường phạm thiên ký 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/81-an-tay-du-quyen-3-dai-duong-pham-thien-ky-02/81%20%C3%A1n%20t%C3%A2y%20du%20%28quy%E1%BB%83n%203%29%20%C4%90%E1%BA%A1i%20%C4%90%C6%B0%E1%BB%9Dng%20ph%E1%BA%A1m%20thi%C3%AAn%20k%C3%BD_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4558,
+    "title" : "81 án tây du (quyển 3) Đại Đường phạm thiên ký 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/81-an-tay-du-quyen-3-dai-duong-pham-thien-ky-02/81%20%C3%A1n%20t%C3%A2y%20du%20%28quy%E1%BB%83n%203%29%20%C4%90%E1%BA%A1i%20%C4%90%C6%B0%E1%BB%9Dng%20ph%E1%BA%A1m%20thi%C3%AAn%20k%C3%BD_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4954,
+    "title" : "81 án tây du (quyển 3) Đại Đường phạm thiên ký 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/81-an-tay-du-quyen-3-dai-duong-pham-thien-ky-02/81%20%C3%A1n%20t%C3%A2y%20du%20%28quy%E1%BB%83n%203%29%20%C4%90%E1%BA%A1i%20%C4%90%C6%B0%E1%BB%9Dng%20ph%E1%BA%A1m%20thi%C3%AAn%20k%C3%BD_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5485,
+    "title" : "81 án tây du (quyển 3) Đại Đường phạm thiên ký 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/81-an-tay-du-quyen-3-dai-duong-pham-thien-ky-02/81%20%C3%A1n%20t%C3%A2y%20du%20%28quy%E1%BB%83n%203%29%20%C4%90%E1%BA%A1i%20%C4%90%C6%B0%E1%BB%9Dng%20ph%E1%BA%A1m%20thi%C3%AAn%20k%C3%BD_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4234,
+    "title" : "81 án tây du (quyển 3) Đại Đường phạm thiên ký 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/81-an-tay-du-quyen-3-dai-duong-pham-thien-ky-02/81%20%C3%A1n%20t%C3%A2y%20du%20%28quy%E1%BB%83n%203%29%20%C4%90%E1%BA%A1i%20%C4%90%C6%B0%E1%BB%9Dng%20ph%E1%BA%A1m%20thi%C3%AAn%20k%C3%BD_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4197,
+    "title" : "81 án tây du (quyển 3) Đại Đường phạm thiên ký 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/81-an-tay-du-quyen-3-dai-duong-pham-thien-ky-02/81%20%C3%A1n%20t%C3%A2y%20du%20%28quy%E1%BB%83n%203%29%20%C4%90%E1%BA%A1i%20%C4%90%C6%B0%E1%BB%9Dng%20ph%E1%BA%A1m%20thi%C3%AAn%20k%C3%BD_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5492,
+    "title" : "81 án tây du (quyển 3) Đại Đường phạm thiên ký 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/81-an-tay-du-quyen-3-dai-duong-pham-thien-ky-02/81%20%C3%A1n%20t%C3%A2y%20du%20%28quy%E1%BB%83n%203%29%20%C4%90%E1%BA%A1i%20%C4%90%C6%B0%E1%BB%9Dng%20ph%E1%BA%A1m%20thi%C3%AAn%20k%C3%BD_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6007,
+    "title" : "81 án tây du (quyển 3) Đại Đường phạm thiên ký 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/81-an-tay-du-quyen-3-dai-duong-pham-thien-ky-02/81%20%C3%A1n%20t%C3%A2y%20du%20%28quy%E1%BB%83n%203%29%20%C4%90%E1%BA%A1i%20%C4%90%C6%B0%E1%BB%9Dng%20ph%E1%BA%A1m%20thi%C3%AAn%20k%C3%BD_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3173,
+    "title" : "81 án tây du (quyển 3) Đại Đường phạm thiên ký 10",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/81-an-tay-du-quyen-3-dai-duong-pham-thien-ky-02/81%20%C3%A1n%20t%C3%A2y%20du%20%28quy%E1%BB%83n%203%29%20%C4%90%E1%BA%A1i%20%C4%90%C6%B0%E1%BB%9Dng%20ph%E1%BA%A1m%20thi%C3%AAn%20k%C3%BD_01.mp3",
+    "title" : "81 án tây du (quyển 3) Đại Đường phạm thiên ký 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/81-an-tay-du-quyen-3-dai-duong-pham-thien-ky-02/81%20%C3%A1n%20t%C3%A2y%20du%20%28quy%E1%BB%83n%203%29%20%C4%90%E1%BA%A1i%20%C4%90%C6%B0%E1%BB%9Dng%20ph%E1%BA%A1m%20thi%C3%AAn%20k%C3%BD_02.mp3",
+    "title" : "81 án tây du (quyển 3) Đại Đường phạm thiên ký 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/81-an-tay-du-quyen-3-dai-duong-pham-thien-ky-02/81%20%C3%A1n%20t%C3%A2y%20du%20%28quy%E1%BB%83n%203%29%20%C4%90%E1%BA%A1i%20%C4%90%C6%B0%E1%BB%9Dng%20ph%E1%BA%A1m%20thi%C3%AAn%20k%C3%BD_03.mp3",
+    "title" : "81 án tây du (quyển 3) Đại Đường phạm thiên ký 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/81-an-tay-du-quyen-3-dai-duong-pham-thien-ky-02/81%20%C3%A1n%20t%C3%A2y%20du%20%28quy%E1%BB%83n%203%29%20%C4%90%E1%BA%A1i%20%C4%90%C6%B0%E1%BB%9Dng%20ph%E1%BA%A1m%20thi%C3%AAn%20k%C3%BD_04.mp3",
+    "title" : "81 án tây du (quyển 3) Đại Đường phạm thiên ký 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/81-an-tay-du-quyen-3-dai-duong-pham-thien-ky-02/81%20%C3%A1n%20t%C3%A2y%20du%20%28quy%E1%BB%83n%203%29%20%C4%90%E1%BA%A1i%20%C4%90%C6%B0%E1%BB%9Dng%20ph%E1%BA%A1m%20thi%C3%AAn%20k%C3%BD_05.mp3",
+    "title" : "81 án tây du (quyển 3) Đại Đường phạm thiên ký 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/81-an-tay-du-quyen-3-dai-duong-pham-thien-ky-02/81%20%C3%A1n%20t%C3%A2y%20du%20%28quy%E1%BB%83n%203%29%20%C4%90%E1%BA%A1i%20%C4%90%C6%B0%E1%BB%9Dng%20ph%E1%BA%A1m%20thi%C3%AAn%20k%C3%BD_06.mp3",
+    "title" : "81 án tây du (quyển 3) Đại Đường phạm thiên ký 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/81-an-tay-du-quyen-3-dai-duong-pham-thien-ky-02/81%20%C3%A1n%20t%C3%A2y%20du%20%28quy%E1%BB%83n%203%29%20%C4%90%E1%BA%A1i%20%C4%90%C6%B0%E1%BB%9Dng%20ph%E1%BA%A1m%20thi%C3%AAn%20k%C3%BD_07.mp3",
+    "title" : "81 án tây du (quyển 3) Đại Đường phạm thiên ký 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/81-an-tay-du-quyen-3-dai-duong-pham-thien-ky-02/81%20%C3%A1n%20t%C3%A2y%20du%20%28quy%E1%BB%83n%203%29%20%C4%90%E1%BA%A1i%20%C4%90%C6%B0%E1%BB%9Dng%20ph%E1%BA%A1m%20thi%C3%AAn%20k%C3%BD_08.mp3",
+    "title" : "81 án tây du (quyển 3) Đại Đường phạm thiên ký 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/81-an-tay-du-quyen-3-dai-duong-pham-thien-ky-02/81%20%C3%A1n%20t%C3%A2y%20du%20%28quy%E1%BB%83n%203%29%20%C4%90%E1%BA%A1i%20%C4%90%C6%B0%E1%BB%9Dng%20ph%E1%BA%A1m%20thi%C3%AAn%20k%C3%BD_09.mp3",
+    "title" : "81 án tây du (quyển 3) Đại Đường phạm thiên ký 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/81-an-tay-du-quyen-3-dai-duong-pham-thien-ky-02/81%20%C3%A1n%20t%C3%A2y%20du%20%28quy%E1%BB%83n%203%29%20%C4%90%E1%BA%A1i%20%C4%90%C6%B0%E1%BB%9Dng%20ph%E1%BA%A1m%20thi%C3%AAn%20k%C3%BD_10.mp3",
+    "title" : "81 án tây du (quyển 3) Đại Đường phạm thiên ký 10",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

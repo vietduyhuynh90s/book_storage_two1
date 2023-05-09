@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/can-dam-bien-thach-thuc-thanh-suc-manh_20231.html",
+    "title" : "Can Đảm - Biến Thách Thức Thành Sức Mạnh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Osho",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19433,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_270ce5b70304e90c13068d2766b316aa.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_270ce5b70304e90c13068d2766b316aa.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/can-dam-9/can-dam-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2216,
+    "title" : "can-dam-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/can-dam-9/can-dam-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1572,
+    "title" : "can-dam-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/can-dam-9/can-dam-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1711,
+    "title" : "can-dam-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/can-dam-9/can-dam-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2022,
+    "title" : "can-dam-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/can-dam-9/can-dam-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1052,
+    "title" : "can-dam-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/can-dam-9/can-dam-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2397,
+    "title" : "can-dam-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/can-dam-9/can-dam-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1528,
+    "title" : "can-dam-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/can-dam-9/can-dam-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1999,
+    "title" : "can-dam-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/can-dam-9/can-dam-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2369,
+    "title" : "can-dam-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/can-dam-9/can-dam-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2567,
+    "title" : "can-dam-9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/can-dam-9/can-dam-1.mp3",
+    "title" : "can-dam-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/can-dam-9/can-dam-10.mp3",
+    "title" : "can-dam-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/can-dam-9/can-dam-2.mp3",
+    "title" : "can-dam-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/can-dam-9/can-dam-3.mp3",
+    "title" : "can-dam-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/can-dam-9/can-dam-4.mp3",
+    "title" : "can-dam-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/can-dam-9/can-dam-5.mp3",
+    "title" : "can-dam-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/can-dam-9/can-dam-6.mp3",
+    "title" : "can-dam-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/can-dam-9/can-dam-7.mp3",
+    "title" : "can-dam-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/can-dam-9/can-dam-8.mp3",
+    "title" : "can-dam-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/can-dam-9/can-dam-9.mp3",
+    "title" : "can-dam-9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

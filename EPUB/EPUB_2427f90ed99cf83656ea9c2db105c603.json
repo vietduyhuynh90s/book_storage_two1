@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/loi-nguyen-cua-hoang-de_17849.html",
+    "title" : "Lời Nguyền Của Hoàng Đế",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hô Diên Vân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 53235,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_2427f90ed99cf83656ea9c2db105c603.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_2427f90ed99cf83656ea9c2db105c603.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/16-end/01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3328,
+    "title" : "01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/16-end/02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3207,
+    "title" : "02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/16-end/03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3043,
+    "title" : "03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/16-end/04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3426,
+    "title" : "04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/16-end/05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3036,
+    "title" : "05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/16-end/06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3410,
+    "title" : "06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/16-end/07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3117,
+    "title" : "07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/16-end/08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3294,
+    "title" : "08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/16-end/09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3190,
+    "title" : "09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/16-end/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3412,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/16-end/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3705,
+    "title" : "11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/16-end/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3068,
+    "title" : "12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/16-end/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3378,
+    "title" : "13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/16-end/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3073,
+    "title" : "14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/16-end/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3360,
+    "title" : "15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/16-end/16%20%28END%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4188,
+    "title" : "16 (END)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/16-end/01.mp3",
+    "title" : "01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/16-end/02.mp3",
+    "title" : "02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/16-end/03.mp3",
+    "title" : "03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/16-end/04.mp3",
+    "title" : "04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/16-end/05.mp3",
+    "title" : "05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/16-end/06.mp3",
+    "title" : "06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/16-end/07.mp3",
+    "title" : "07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/16-end/08.mp3",
+    "title" : "08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/16-end/09.mp3",
+    "title" : "09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/16-end/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/16-end/11.mp3",
+    "title" : "11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/16-end/12.mp3",
+    "title" : "12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/16-end/13.mp3",
+    "title" : "13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/16-end/14.mp3",
+    "title" : "14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/16-end/15.mp3",
+    "title" : "15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/16-end/16%20%28END%29.mp3",
+    "title" : "16 (END)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

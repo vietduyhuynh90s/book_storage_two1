@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/xin-dung-lam-me-khoc_20234.html",
+    "title" : "Xin Đừng Làm Mẹ Khóc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 16296,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_9854655118442b93b0312fec4720e4ac.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_9854655118442b93b0312fec4720e4ac.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/xin-dung-5/xin-dung-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1992,
+    "title" : "xin-dung-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xin-dung-5/xin-dung-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1902,
+    "title" : "xin-dung-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xin-dung-5/xin-dung-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2186,
+    "title" : "xin-dung-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xin-dung-5/xin-dung-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2171,
+    "title" : "xin-dung-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xin-dung-5/xin-dung-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2595,
+    "title" : "xin-dung-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xin-dung-5/xin-dung-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2159,
+    "title" : "xin-dung-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xin-dung-5/xin-dung-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2202,
+    "title" : "xin-dung-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/xin-dung-5/xin-dung-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1089,
+    "title" : "xin-dung-8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/xin-dung-5/xin-dung-1.mp3",
+    "title" : "xin-dung-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xin-dung-5/xin-dung-2.mp3",
+    "title" : "xin-dung-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xin-dung-5/xin-dung-3.mp3",
+    "title" : "xin-dung-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xin-dung-5/xin-dung-4.mp3",
+    "title" : "xin-dung-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xin-dung-5/xin-dung-5.mp3",
+    "title" : "xin-dung-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xin-dung-5/xin-dung-6.mp3",
+    "title" : "xin-dung-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xin-dung-5/xin-dung-7.mp3",
+    "title" : "xin-dung-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/xin-dung-5/xin-dung-8.mp3",
+    "title" : "xin-dung-8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

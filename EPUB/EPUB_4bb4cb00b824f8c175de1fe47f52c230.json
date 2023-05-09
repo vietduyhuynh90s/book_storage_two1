@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/co-dinh-mot-dam-may_19188.html",
+    "title" : "Cố Định Một Đám Mây",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Ngọc Tư",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 8720,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_4bb4cb00b824f8c175de1fe47f52c230.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_4bb4cb00b824f8c175de1fe47f52c230.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhung-chuyen/bao-dem.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1419,
+    "title" : "bao-dem",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-chuyen/chuyen-cua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1375,
+    "title" : "chuyen-cua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-chuyen/con-nuoc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1613,
+    "title" : "con-nuoc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-chuyen/nhung-chuyen.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1672,
+    "title" : "nhung-chuyen",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-chuyen/tham-met.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1528,
+    "title" : "tham-met",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-chuyen/tu-bo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1113,
+    "title" : "tu-bo",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhung-chuyen/bao-dem.mp3",
+    "title" : "bao-dem",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-chuyen/chuyen-cua.mp3",
+    "title" : "chuyen-cua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-chuyen/con-nuoc.mp3",
+    "title" : "con-nuoc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-chuyen/nhung-chuyen.mp3",
+    "title" : "nhung-chuyen",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-chuyen/tham-met.mp3",
+    "title" : "tham-met",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-chuyen/tu-bo.mp3",
+    "title" : "tu-bo",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

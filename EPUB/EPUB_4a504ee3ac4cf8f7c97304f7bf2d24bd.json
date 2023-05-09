@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tan-cung-la-cai-chet_15671.html",
+    "title" : "Tận Cùng Là Cái Chết",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Agatha Christie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 27987,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_4a504ee3ac4cf8f7c97304f7bf2d24bd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_4a504ee3ac4cf8f7c97304f7bf2d24bd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2133,
+    "title" : "TAN CUNG LA CAI CHET 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2330,
+    "title" : "TAN CUNG LA CAI CHET 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2084,
+    "title" : "TAN CUNG LA CAI CHET 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2232,
+    "title" : "TAN CUNG LA CAI CHET 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2344,
+    "title" : "TAN CUNG LA CAI CHET 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1465,
+    "title" : "TAN CUNG LA CAI CHET 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1979,
+    "title" : "TAN CUNG LA CAI CHET 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1431,
+    "title" : "TAN CUNG LA CAI CHET 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1596,
+    "title" : "TAN CUNG LA CAI CHET 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1363,
+    "title" : "TAN CUNG LA CAI CHET 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1994,
+    "title" : "TAN CUNG LA CAI CHET 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1792,
+    "title" : "TAN CUNG LA CAI CHET 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1352,
+    "title" : "TAN CUNG LA CAI CHET 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1994,
+    "title" : "TAN CUNG LA CAI CHET 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1898,
+    "title" : "TAN CUNG LA CAI CHET 15",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_01.mp3",
+    "title" : "TAN CUNG LA CAI CHET 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_02.mp3",
+    "title" : "TAN CUNG LA CAI CHET 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_03.mp3",
+    "title" : "TAN CUNG LA CAI CHET 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_04.mp3",
+    "title" : "TAN CUNG LA CAI CHET 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_05.mp3",
+    "title" : "TAN CUNG LA CAI CHET 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_06.mp3",
+    "title" : "TAN CUNG LA CAI CHET 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_07.mp3",
+    "title" : "TAN CUNG LA CAI CHET 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_08.mp3",
+    "title" : "TAN CUNG LA CAI CHET 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_09.mp3",
+    "title" : "TAN CUNG LA CAI CHET 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_10.mp3",
+    "title" : "TAN CUNG LA CAI CHET 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_11.mp3",
+    "title" : "TAN CUNG LA CAI CHET 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_12.mp3",
+    "title" : "TAN CUNG LA CAI CHET 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_13.mp3",
+    "title" : "TAN CUNG LA CAI CHET 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_14.mp3",
+    "title" : "TAN CUNG LA CAI CHET 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tancunglacaichet05/TAN_CUNG_LA_CAI_CHET_15.mp3",
+    "title" : "TAN CUNG LA CAI CHET 15",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

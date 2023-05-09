@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cuon-sach-hoan-hao-ve-ngon-ngu-co-the_15462.html",
+    "title" : "Cuốn Sách Hoàn Hảo Về Ngôn Ngữ Cơ Thể",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Allan Pease",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 36972,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_2c84c41621d7fd3901b1aa799ca78397.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_2c84c41621d7fd3901b1aa799ca78397.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2710,
+    "title" : "Full (nguyên cuốn)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3565,
+    "title" : "Phần 10 | Book Audio | Đọc Sách Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "Phần 11 | Book Audio | Đọc Sách Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2856,
+    "title" : "Phần cuối | Book Audio | Đọc Sách Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3110,
+    "title" : "Full (nguyên cuốn)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2890,
+    "title" : "Full (nguyên cuốn)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3190,
+    "title" : "Full (nguyên cuốn)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3130,
+    "title" : "Phần 5 | Book Audio | Đọc Sách Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3210,
+    "title" : "Phần 6 | Book Audio | Đọc Sách Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2860,
+    "title" : "Phần 7 | Book Audio | Đọc Sách Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3610,
+    "title" : "Phần 8 | Book Audio | Đọc Sách Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2980,
+    "title" : "Phần 9 | Book Audio | Đọc Sách Mỗi Ngày",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/1.mp3",
+    "title" : "Full (nguyên cuốn)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/10.mp3",
+    "title" : "Phần 10 | Book Audio | Đọc Sách Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/11.mp3",
+    "title" : "Phần 11 | Book Audio | Đọc Sách Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/12.mp3",
+    "title" : "Phần cuối | Book Audio | Đọc Sách Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/2.mp3",
+    "title" : "Full (nguyên cuốn)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/3.mp3",
+    "title" : "Full (nguyên cuốn)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/4.mp3",
+    "title" : "Full (nguyên cuốn)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/5.mp3",
+    "title" : "Phần 5 | Book Audio | Đọc Sách Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/6.mp3",
+    "title" : "Phần 6 | Book Audio | Đọc Sách Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/7.mp3",
+    "title" : "Phần 7 | Book Audio | Đọc Sách Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/8.mp3",
+    "title" : "Phần 8 | Book Audio | Đọc Sách Mỗi Ngày",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cuon-sach-hoan-hao-ve-ngon-ngu-co-the/9.mp3",
+    "title" : "Phần 9 | Book Audio | Đọc Sách Mỗi Ngày",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,3065 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bat-diet-long-de_18968.html",
+    "title" : "Bất Diệt Long Đế",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Yêu Dạ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 1200830,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_a5a03c1cac7cba1d374deb5001957f7d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_a5a03c1cac7cba1d374deb5001957f7d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bat-diet-long-de/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3736,
+    "title" : "Lục Ly-Thiếu niên kéo quan tài | Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3895,
+    "title" : "Mỹ nhân yến | Chương 88-97| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3784,
+    "title" : "Lãnh Vô Hinh | Chương 957-965| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3994,
+    "title" : "Hỗn độn luyện ngục | Chương 966-975| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3748,
+    "title" : "Tuyệt mỹ thiếu nữ | Chương 976-984| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4068,
+    "title" : "Trung Hoàng Giới | Chương 985-994| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3984,
+    "title" : "Quý công tử | Chương 995-1004| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3740,
+    "title" : "Thiên Vận Đạo Ngân | Chương 1005-1013| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/106.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3719,
+    "title" : "Chấn g.i.ết Địa Tiên | Chương 1014-1022| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/107.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3605,
+    "title" : "Khống chế Linh Phong | Chương 1023-1031| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/108.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3729,
+    "title" : "Khống chế Linh Phong | Chương 1032-1042| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/109.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3538,
+    "title" : "Khói lửa tái khởi | Chương 1041-1048| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4083,
+    "title" : "﹔hâ/ͮ Ha.ͩ .š#ͩ tha/＃渀栀 簀 䌀栀뀁ꄁ渀最 㤀㠀ⴀ㄀　㜀 簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/110.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4138,
+    "title" : "Chân chính lòng dạ ác độc chính là các ngươi |Chương 1049-1058| Lê Tuyên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/111.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4046,
+    "title" : "﹔hiên Ta/＃渀 氀愀̃漀 渀栀渀 簀䌀栀뀁ꄁ渀最 ㄀　㔀㤀ⴀ㄀　㘀㠀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀  吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3562,
+    "title" : "﹃ô.̠Thâ/＃渀 吀爀⌃渀 簀䌀栀뀁ꄁ渀最 ㄀　㘀㤀ⴀ㄀　㜀㜀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/113.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3703,
+    "title" : "Thông thiên chi lộ |Chương 1078-1087| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/114.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3924,
+    "title" : "﹖ê/̠nha/＃ 簀䌀栀뀁ꄁ渀最 ㄀　㠀㠀ⴀ㄀　㤀㜀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀  吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/115.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3670,
+    "title" : "Tử thương thảm trọng |Chương 1098-1107| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/116.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3637,
+    "title" : "﹔hiên kiêu thi/＃ 最栀 氀́ă洀 挀栀́ă挀㼀 簀䌀栀뀁ꄁ渀最 ㄀㄀　㠀ⴀ㄀㄀㄀㜀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/117.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3582,
+    "title" : "︐š#ͩ chiê.ͮ ha#̠ma/＃渀 簀䌀栀뀁ꄁ渀最 ㄀㄀㄀㠀ⴀ㄀㄀㈀㜀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀  吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/118.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3975,
+    "title" : "Bí mật răng thú |Chương 1128-1137| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/119.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4277,
+    "title" : "Đại hôn |Chương 1138-1147| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3762,
+    "title" : "Lục Ly xuất chiến | Chương 108-116| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4332,
+    "title" : "BẤT DIỆT LONG ĐẾ 120 -Thiên địa yêu ma |Chương 1148-1157| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/121.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4119,
+    "title" : "Đại Ma Thần |Chương 1158-1167| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/122.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3853,
+    "title" : "122",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/123.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "123",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/124.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10771,
+    "title" : "124",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/125.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11241,
+    "title" : "125",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/126.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10816,
+    "title" : "126",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/127.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10775,
+    "title" : "127",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/128.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11000,
+    "title" : "128",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/129.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10042,
+    "title" : "129",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3843,
+    "title" : "Hỏa Phượng Thiên Thai | Chương 117-126| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/130.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10375,
+    "title" : "130",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/131.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3364,
+    "title" : "BẤT DIỆT LONG ĐẾ | 1370 -1377 |Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/132.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3836,
+    "title" : "1386 |Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/133.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3928,
+    "title" : "BẤT DIỆT LONG ĐẾ | 1387-1395 |Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/134.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3309,
+    "title" : "BẤT DIỆT LONG ĐẾ 1396-1403 | 4 Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/135.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2299,
+    "title" : "BẤT DIỆT LONG ĐẾ 1404-1409 | 5 Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/136.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2911,
+    "title" : "BẤT DIỆT LONG ĐẾ 1410-1416 | 6 Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/137.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2855,
+    "title" : "BẤT DIỆT LONG ĐẾ 1417-1423 | 7 Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/138.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1855,
+    "title" : "BẤT DIỆT LONG ĐẾ 1424-1428|8 Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/139.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1901,
+    "title" : "BẤT DIỆT LONG ĐẾ 1429-1433| 9 Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3829,
+    "title" : "﹔hiên .š.ͯ Hô/＃ 簀 䌀栀뀁ꄁ渀最 ㄀㈀㜀ⴀ㄀㘀㘀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/140.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6443,
+    "title" : "140",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/141.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6483,
+    "title" : "141",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/142.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7391,
+    "title" : "142",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/143.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 19694,
+    "title" : "143",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/144.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10828,
+    "title" : "144",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/145.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18347,
+    "title" : "145",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/146.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17084,
+    "title" : "146",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/147.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15321,
+    "title" : "147",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/148.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15421,
+    "title" : "148",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/149.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14266,
+    "title" : "149",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3667,
+    "title" : "Tộc trưởng chi tranh | Chương 137-145| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/150.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14661,
+    "title" : "150",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/151.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12256,
+    "title" : "151",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/152.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10123,
+    "title" : "152",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/153.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4373,
+    "title" : "BẤT DIỆT LONG ĐẾ 52 | 1824-1833 | Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/154.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3972,
+    "title" : "BẤT DIỆT LONG ĐẾ 53 | 1834-1842 | Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/155.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3874,
+    "title" : "BẤT DIỆT LONG ĐẾ 54 | 1843-1851 | Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/156.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3717,
+    "title" : "BẤT DIỆT LONG ĐẾ 55 | 1852-1860 | Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/157.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3809,
+    "title" : "BẤT DIỆT LONG ĐẾ 56 | 1861-1869 | Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/158.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3984,
+    "title" : "BẤT DIỆT LONG ĐẾ 57 | 1870-1879 | Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/159.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9996,
+    "title" : "BẤT DIỆT LONG ĐẾ 58 | 1880-1904 | Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3848,
+    "title" : "Thiên Ngục đảo | Chương 146-155| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/160.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7225,
+    "title" : "BẤT DIỆT LONG ĐẾ 59 |1905-1924| Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/161.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10158,
+    "title" : "BẤT DIỆT LONG ĐẾ 60 | 1925 | Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/162.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9485,
+    "title" : "DIỆT LONG ĐẾ 61 _1950-1973_ Lê Tuyên_Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/163.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8197,
+    "title" : "BẤT DIỆT LONG ĐẾ 62 |1974-1995| Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/164.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3538,
+    "title" : "BẤT DIỆT LONG ĐẾ 63 | 1996-2004 | Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/165.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3688,
+    "title" : "BẤT DIỆT LONG ĐẾ 64 | 2005-2013 | Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/166.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3081,
+    "title" : "BẤT DIỆT LONG ĐẾ 65 | 2014-2021 | Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/167.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4516,
+    "title" : "167",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/168.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3340,
+    "title" : "BẤT DIỆT LONG ĐẾ | Tập 199 : Đã xông qua được 2032-2040| Lê Tuyên Audio | Tiên Hiệp Huyền Huyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/169.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3505,
+    "title" : "BẤT DIỆT LONG ĐẾ | Tập 200 : Như ngươi mong muốn 2041-2050| Lê Tuyên Audio | Tiên Hiệp Huyền Huyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3797,
+    "title" : "ﻂn ti/＃渀栀 挀甀ः愀 䰀甀⌃挀 䰀礀簀 䌀栀뀁ꄁ渀最 ㄀㔀㘀ⴀ㄀㘀㔀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/170.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3229,
+    "title" : "BẤT DIỆT LONG ĐẾ | Tập 201 : Cổ Ma Tử Địa 2051-2059| Lê Tuyên Audio | Tiên Hiệp Huyền Huyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/171.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3403,
+    "title" : "BẤT DIỆT LONG ĐẾ | Tập 202 : Ma Tôn 2060-2069| Lê Tuyên Audio | Tiên Hiệp Huyền Huyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/172.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7884,
+    "title" : "BẤT DIỆT LONG ĐẾ 203 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/173.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7761,
+    "title" : "BẤT DIỆT LONG ĐẾ 204 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/174.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8621,
+    "title" : "BẤT DIỆT LONG ĐẾ 205 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/175.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7247,
+    "title" : "BẤT DIỆT LONG ĐẾ 206 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/176.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7366,
+    "title" : "BẤT DIỆT LONG ĐẾ 207 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/177.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7512,
+    "title" : "BẤT DIỆT LONG ĐẾ 208 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/178.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7180,
+    "title" : "BẤT DIỆT LONG ĐẾ 209 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/179.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5916,
+    "title" : "BẤT DIỆT LONG ĐẾ 210 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3961,
+    "title" : "﹋i/＃渀栀 吀栀椀渀 䬀椀ă挀栀簀 䌀栀뀁ꄁ渀最 ㄀㘀㘀ⴀ㄀㜀㔀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/180.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4137,
+    "title" : "BẤT DIỆT LONG ĐẾ 211 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/181.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5135,
+    "title" : "BẤT DIỆT LONG ĐẾ 212 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/182.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3556,
+    "title" : "BẤT DIỆT LONG ĐẾ 213 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/183.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3993,
+    "title" : "BẤT DIỆT LONG ĐẾ 214 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/184.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3704,
+    "title" : "BẤT DIỆT LONG ĐẾ 215 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/185.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3720,
+    "title" : "BẤT DIỆT LONG ĐẾ 216 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/186.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3686,
+    "title" : "BẤT DIỆT LONG ĐẾ 217 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/187.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7233,
+    "title" : "BẤT DIỆT LONG ĐẾ 218 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/188.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5549,
+    "title" : "BẤT DIỆT LONG ĐẾ 219 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/189.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3861,
+    "title" : "BẤT DIỆT LONG ĐẾ 220 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "Đạp bằng Huyết Sát Đảo| Chương 176-184| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/190.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3612,
+    "title" : "BẤT DIỆT LONG ĐẾ 221 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/191.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3942,
+    "title" : "BẤT DIỆT LONG ĐẾ 222 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/192.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5308,
+    "title" : "BẤT DIỆT LONG ĐẾ 223 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/193.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4863,
+    "title" : "BẤT DIỆT LONG ĐẾ 224 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/194.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4079,
+    "title" : "BẤT DIỆT LONG ĐẾ 225 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/195.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3758,
+    "title" : "BẤT DIỆT LONG ĐẾ 226 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/196.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7277,
+    "title" : "BẤT DIỆT LONG ĐẾ 227 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/197.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7601,
+    "title" : "BẤT DIỆT LONG ĐẾ 228 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/198.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3845,
+    "title" : "BẤT DIỆT LONG ĐẾ 229 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/199.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3258,
+    "title" : "BẤT DIỆT LONG ĐẾ 230 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3593,
+    "title" : "Thú Triều| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3755,
+    "title" : "Lục đảo chủ| Chương 185-194| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/200.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3428,
+    "title" : "BẤT DIỆT LONG ĐẾ 231 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3363,
+    "title" : "BẤT DIỆT LONG ĐẾ 232 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3233,
+    "title" : "BẤT DIỆT LONG ĐẾ 233 | LÊ TUYÊN TRUYỆN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3290,
+    "title" : "BẤT DIỆT LONG ĐẾ 234 | LÊ TUYÊN TRUYỆN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3454,
+    "title" : "BẤT DIỆT LONG ĐẾ 235 | LÊ TUYÊN TRUYỆN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4828,
+    "title" : "BẤT DIỆT LONG ĐẾ 236 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4852,
+    "title" : "BẤT DIỆT LONG ĐẾ 237 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3510,
+    "title" : "BẤT DIỆT LONG ĐẾ 238 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3927,
+    "title" : "BẤT DIỆT LONG ĐẾ 239 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3408,
+    "title" : "BẤT DIỆT LONG ĐẾ 240 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3937,
+    "title" : "Tiểu thế giới| Chương 195-205| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/210.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3496,
+    "title" : "BẤT DIỆT LONG ĐẾ 241 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/211.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6906,
+    "title" : "BẤT DIỆT LONG ĐẾ 242 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/212.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7241,
+    "title" : "BẤT DIỆT LONG ĐẾ 243 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/213.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3902,
+    "title" : "BẤT DIỆT LONG ĐẾ 244 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/214.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4066,
+    "title" : "BẤT DIỆT LONG ĐẾ 245 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/215.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3695,
+    "title" : "BẤT DIỆT LONG ĐẾ 246 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/216.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3771,
+    "title" : "BẤT DIỆT LONG ĐẾ 247 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/217.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3579,
+    "title" : "BẤT DIỆT LONG ĐẾ 248 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/218.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3632,
+    "title" : "BẤT DIỆT LONG ĐẾ 249 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/219.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3602,
+    "title" : "BẤT DIỆT LONG ĐẾ 250 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4009,
+    "title" : "Thiên Sách Thuật| Chương 206-215| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/220.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3715,
+    "title" : "BẤT DIỆT LONG ĐẾ 251 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/221.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3759,
+    "title" : "BẤT DIỆT LONG ĐẾ 252 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/222.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3745,
+    "title" : "BẤT DIỆT LONG ĐẾ 253 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/223.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3931,
+    "title" : "BẤT DIỆT LONG ĐẾ 254 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/224.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3590,
+    "title" : "BẤT DIỆT LONG ĐẾ 255 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/225.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3722,
+    "title" : "BẤT DIỆT LONG ĐẾ 256 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/226.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3471,
+    "title" : "BẤT DIỆT LONG ĐẾ 257 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/227.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3614,
+    "title" : "BẤT DIỆT LONG ĐẾ 258 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/228.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3327,
+    "title" : "BẤT DIỆT LONG ĐẾ 259 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/229.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3662,
+    "title" : "BẤT DIỆT LONG ĐẾ 260 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3619,
+    "title" : "﹂a#ͣh Ha#̠S°ơŮg ba.ͯ thu/＃簀 䌀栀뀁ꄁ渀最 ㈀㄀㘀ⴀ㈀㈀㐀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/230.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3776,
+    "title" : "BẤT DIỆT LONG ĐẾ 261 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/231.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3788,
+    "title" : "BẤT DIỆT LONG ĐẾ 262 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/232.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3746,
+    "title" : "BẤT DIỆT LONG ĐẾ 263 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/233.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3782,
+    "title" : "BẤT DIỆT LONG ĐẾ 264 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/234.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4057,
+    "title" : "BẤT DIỆT LONG ĐẾ 265 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/235.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3746,
+    "title" : "BẤT DIỆT LONG ĐẾ 266 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/236.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3895,
+    "title" : "BẤT DIỆT LONG ĐẾ 267 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/237.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3626,
+    "title" : "BẤT DIỆT LONG ĐẾ 268 | LÊ TUYÊN AUDIO",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/238.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3551,
+    "title" : "BẤT DIỆT LONG ĐẾ 269 | LÊ TUYÊN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/239.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3013,
+    "title" : "BẤT DIỆT LONG ĐẾ 270 | LÊ TUYÊN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3996,
+    "title" : "Mộ Long Đế | Chương 195-205| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/240.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3699,
+    "title" : "BẤT DIỆT LONG ĐẾ 271 | LÊ TUYÊN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/241.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3652,
+    "title" : "BẤT DIỆT LONG ĐẾ 272 | LÊ TUYÊN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/242.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3925,
+    "title" : "BẤT DIỆT LONG ĐẾ 273 | LÊ TUYÊN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/243.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3345,
+    "title" : "BẤT DIỆT LONG ĐẾ 274 | LÊ TUYÊN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/244.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4244,
+    "title" : "BẤT DIỆT LONG ĐẾ 275 | LÊ TUYÊN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/245.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4139,
+    "title" : "BẤT DIỆT LONG ĐẾ 276 | LÊ TUYÊN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/246.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3813,
+    "title" : "BẤT DIỆT LONG ĐẾ 277 | LÊ TUYÊN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/247.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3631,
+    "title" : "BẤT DIỆT LONG ĐẾ 278 | LÊ TUYÊN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/248.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3368,
+    "title" : "BẤT DIỆT LONG ĐẾ 279 | LÊ TUYÊN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/249.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3645,
+    "title" : "BẤT DIỆT LONG ĐẾ 280 | LÊ TUYÊN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3589,
+    "title" : "Luyện Ngục Nhai | Chương 235-243| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/250.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3137,
+    "title" : "BẤT DIỆT LONG ĐẾ 282 | LÊ TUYÊN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/251.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3458,
+    "title" : "BẤT DIỆT LONG ĐẾ 283 | LÊ TUYÊN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/252.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3527,
+    "title" : "BẤT DIỆT LONG ĐẾ 284 | LÊ TUYÊN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3528,
+    "title" : "Ra khỏi mê cung | Chương 244-252| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3412,
+    "title" : "﹑uan ta/＃椀 䰀漀渀最 ခă 簀 䌀栀뀁ꄁ渀最 ㈀㔀㌀ⴀ㈀㘀　簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3612,
+    "title" : "﹂a.ͯ ta/＃渀最 䰀漀渀最 ခă 簀 䌀栀뀁ꄁ渀最 ㈀㘀㄀ⴀ㈀㘀㤀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4326,
+    "title" : "Cường giả chi chiến | Chương 270-279| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3543,
+    "title" : "Tử chiến đến cùng| Chương 14-27| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3665,
+    "title" : "Cường giả thần bí | Chương 280-287| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3728,
+    "title" : "Ý tưởng lớn mật | Chương 288-296| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3476,
+    "title" : "﹍ô#̠tô.̠bi#̠.š/＃漀簀 䌀栀뀁ꄁ渀最 ㈀㤀㜀ⴀ㌀　㔀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3695,
+    "title" : "﹋hông ¡ĉ̠di hi/ͮh ma/＃ ꄁः 栀漀愀ă渀 愀ः渀栀 簀 䌀栀뀁ꄁ渀最 ㌀　㘀ⴀ㈀㄀㐀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3592,
+    "title" : "Con kiến hôi rung trời | Chương 315-323| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3791,
+    "title" : "Để bọn họ đánh vào đi | Chương 324-333| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3625,
+    "title" : "Hành sự theo kế hoạch | Chương 334-343| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3775,
+    "title" : "Thân phận của cường giả thần bí | Chương 334-353| Lê Tuyên | Huyền Huyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3852,
+    "title" : "San bằng Vũ Đế Thành | Chương 354-363| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3669,
+    "title" : "﹋ê.̠hoa#ͣh Tiê/＃洀 䰀漀渀最ă 簀 䌀栀뀁ꄁ渀最 ㌀㘀㐀ⴀ㌀㜀㈀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3840,
+    "title" : "Thú rống| Chương 28-37| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3616,
+    "title" : "Được cứu rồi | Chương 377-381| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3908,
+    "title" : "Nô lệ Quân Hầu cảnh | Chương 382-391| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4266,
+    "title" : "Đỗ Tranh | Chương 392-402 | Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3904,
+    "title" : "Long Đế Quan tái hiện | Chương 403-412| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3559,
+    "title" : "Bổn tọa là Long Đế! | Chương 413-421| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3826,
+    "title" : "Tà Vu Đại Đế | Chương 422-431| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3935,
+    "title" : "Khương Khởi Linh | Chương 432-441| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3565,
+    "title" : "Thiên Quỷ Thử | Chương 422-450| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4329,
+    "title" : "Vì tình cảm, không phải bổn phận | Chương 451-461| Lê Tuyên | Huyền Huyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3932,
+    "title" : "Hoàng Kim Thú Trảo | Chương 462-471| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3853,
+    "title" : "Thiên Lân Đao| Chương 38-47| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4026,
+    "title" : "Huyết Trảo | Chương 472-481| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3898,
+    "title" : "Tiểu thiếu gia | Chương 482-491| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4036,
+    "title" : "Thái Thượng trưởng lão | Chương 492-501| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3963,
+    "title" : "﹎am nhân Lu#ͣ gia .Ǫ/͵ chê.ʹ hê.ʹ ca.̠rô/＃椀 뀁⸀⸀⸀ 簀 䌀栀뀁ꄁ渀最 㔀　㈀ⴀ㔀㄀㄀簀 䰀 吀甀礀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3863,
+    "title" : "Ngưng tạo Mệnh Luân | Chương 512-521| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3790,
+    "title" : "Lục Phi Tuyết gi.ết ngườ̀i |Chương 522-531| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3825,
+    "title" : "Tâm lạnh | Chương 532-541| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4005,
+    "title" : "﹓.a.ʹ ti.nh tr¡ĉ̠vê/＃ 簀 䌀栀뀁ꄁ渀最 㔀㈀㐀ⴀ㔀㔀㄀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3852,
+    "title" : "Người không biến, địa vị biến | Chương 552-561| Lê Tuyên | Huyền Huyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3735,
+    "title" : "﹃hu.ͮg tô#ͣ thâ/＃渀 戀椀ă 簀 䌀栀뀁ꄁ渀最 㔀㘀㈀ⴀ㔀㜀　簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3671,
+    "title" : "Tiểu Bạch | Chương 48-57| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4166,
+    "title" : "Dạ Xoa Tộc | Chương 571-580| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4263,
+    "title" : "Hoang giới | Chương 581-590| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3914,
+    "title" : "BẤT DIỆT LONG ĐẾ 62 -B.a ti.n tứ.c | Chương 591-599| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4044,
+    "title" : "﹍ê#ͮh Luân Ca.ͮh trung ky/＃ 簀 䌀栀뀁ꄁ渀最 㘀　　ⴀ㘀　㤀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4685,
+    "title" : "︐ũê/͵ kiê#ͮ cu.͡ Mông Thâ/＃渀 簀 䌀栀뀁ꄁ渀最 㘀㄀　ⴀ㘀㈀　簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4326,
+    "title" : "﹎hân Hoa/＃渀最 挀栀椀 挀栀椀⸀ă渀 簀 䌀栀뀁ꄁ渀最 㘀㈀㄀ⴀ㘀㌀　簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4335,
+    "title" : "Băng phong trăm năm | Chương 631-640| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3818,
+    "title" : "Thí Ma Điện | Chương 641-649| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4338,
+    "title" : "Quỷ kế | Chương 650-659| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3916,
+    "title" : "﹔hi.̠Ma Tha/＃渀栀簀 䌀栀뀁ꄁ渀最 㘀㘀　ⴀ㘀㘀㤀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3964,
+    "title" : "Ngân Long ấn ký | Chương 58-67| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4146,
+    "title" : "﹑uâ/＃渀 愀渀栀 栀⌃椀 琀甀⌃ 簀 䌀栀뀁ꄁ渀最 㘀㜀　ⴀ㘀㜀㠀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3760,
+    "title" : "﹌inh hô/ͮ thâ/＃渀 琀栀愀椀 簀 䌀栀뀁ꄁ渀最 㘀㜀㤀ⴀ㘀㠀㜀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4139,
+    "title" : "﹂a.̮n Thâ/＃渀 欀⸀栀 簀 䌀栀뀁ꄁ渀最 㘀㜀　ⴀ㘀㜀㠀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3612,
+    "title" : "Nguy cục | Chương 698-706| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4021,
+    "title" : "﹃o/＃渀 氀愀⌃椀 挀뀁ă 最椀愀漀 挀栀漀 琀愀 簀 䌀栀뀁ꄁ渀最 㜀　㜀ⴀ㜀㄀㘀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3999,
+    "title" : "﹍an Thâ/＃渀 ခ椀ः渀栀 簀 䌀栀뀁ꄁ渀最 㜀㄀㜀ⴀ㜀㈀㘀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4364,
+    "title" : "Đi.ên đảo trắng đen | Chương 727-737| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3777,
+    "title" : "Náo lật trời | Chương 738-746| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3932,
+    "title" : "﹎a Gia/＃ 瘀뀁ꄁ渀最 琀뀁ः 簀 䌀栀뀁ꄁ渀最 㜀㐀㜀ⴀ㜀㔀㔀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3886,
+    "title" : "Điện chủ | Chương 756-764| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4051,
+    "title" : "Chiến Thần Hải | Chương 68-77| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3884,
+    "title" : "Chỉ ước uyên ương không ước tiên |Chương 765-773| Lê Tuyên|Huyền Huyễn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4075,
+    "title" : "﹂i.̠thuâ#ʹ linh hô/＃渀簀 䌀栀뀁ꄁ渀最 㜀㜀㐀ⴀ㜀㠀㌀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4187,
+    "title" : "Vân Thủy Điện| Chương 784-793| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4299,
+    "title" : "Thiên Huyễn Tộc| Chương 794-803| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4140,
+    "title" : "Á.m s.át Thánh Nữ| Chương 804-813| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4041,
+    "title" : "﹃uô.ͩ cu/＃渀最 挀甀̃渀最 最́⌃瀀簀 䌀栀뀁ꄁ渀最 㠀㄀㐀ⴀ㠀㈀㌀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4128,
+    "title" : "Bá chủ Vân Châu| Chương 824-833| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4050,
+    "title" : "Một ngôi mộ| Chương 824-843| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4106,
+    "title" : "﹔iê.͵ thê.̠gi¡āͩ ky/＃ 搀椀⌃簀 䌀栀뀁ꄁ渀最 㠀㐀㐀ⴀ㠀㔀㌀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3884,
+    "title" : "Hỏa Báo Vương̣| Chương 854-862| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4055,
+    "title" : "﹂ôn Lôn huyê/＃渀 欀礀̃ 簀 䌀栀뀁ꄁ渀最 㜀㠀ⴀ㠀㜀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4006,
+    "title" : "Vân Châu xảy ra chuyện| Chương 863-871| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4134,
+    "title" : "Cơ Mộng Dao| Chương 872-880| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4245,
+    "title" : "﹖a#ͮ Phâ#ʹ Tha/＃渀栀簀 䌀栀뀁ꄁ渀最 㠀㠀㄀ⴀ㠀㤀　簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4305,
+    "title" : "Phật sơn| Chương 891-900| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4077,
+    "title" : "﹂a/＃渀 一栀뀁ꄁ⌃挀 簀 䌀栀뀁ꄁ渀最 㤀　㄀ⴀ㤀　㤀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4296,
+    "title" : "Âm mưu | Chương 910-919| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4350,
+    "title" : "Địa cung | Chương 920-929| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3856,
+    "title" : "Thú Thần chi trảo | Chương 930-938| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3684,
+    "title" : "Thú hoàng bạo động? | Chương 939-947| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3625,
+    "title" : "Tiểu Bạch mất tích | Chương 948-956| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bat-diet-long-de/1.mp3",
+    "title" : "Lục Ly-Thiếu niên kéo quan tài | Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/10.mp3",
+    "title" : "Mỹ nhân yến | Chương 88-97| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/100.mp3",
+    "title" : "Lãnh Vô Hinh | Chương 957-965| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/101.mp3",
+    "title" : "Hỗn độn luyện ngục | Chương 966-975| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/102.mp3",
+    "title" : "Tuyệt mỹ thiếu nữ | Chương 976-984| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/103.mp3",
+    "title" : "Trung Hoàng Giới | Chương 985-994| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/104.mp3",
+    "title" : "Quý công tử | Chương 995-1004| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/105.mp3",
+    "title" : "Thiên Vận Đạo Ngân | Chương 1005-1013| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/106.mp3",
+    "title" : "Chấn g.i.ết Địa Tiên | Chương 1014-1022| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/107.mp3",
+    "title" : "Khống chế Linh Phong | Chương 1023-1031| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/108.mp3",
+    "title" : "Khống chế Linh Phong | Chương 1032-1042| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/109.mp3",
+    "title" : "Khói lửa tái khởi | Chương 1041-1048| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/11.mp3",
+    "title" : "﹔hâ/ͮ Ha.ͩ .š#ͩ tha/＃渀栀 簀 䌀栀뀁ꄁ渀最 㤀㠀ⴀ㄀　㜀 簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/110.mp3",
+    "title" : "Chân chính lòng dạ ác độc chính là các ngươi |Chương 1049-1058| Lê Tuyên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/111.mp3",
+    "title" : "﹔hiên Ta/＃渀 氀愀̃漀 渀栀渀 簀䌀栀뀁ꄁ渀最 ㄀　㔀㤀ⴀ㄀　㘀㠀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀  吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/112.mp3",
+    "title" : "﹃ô.̠Thâ/＃渀 吀爀⌃渀 簀䌀栀뀁ꄁ渀最 ㄀　㘀㤀ⴀ㄀　㜀㜀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/113.mp3",
+    "title" : "Thông thiên chi lộ |Chương 1078-1087| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/114.mp3",
+    "title" : "﹖ê/̠nha/＃ 簀䌀栀뀁ꄁ渀最 ㄀　㠀㠀ⴀ㄀　㤀㜀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀  吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/115.mp3",
+    "title" : "Tử thương thảm trọng |Chương 1098-1107| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/116.mp3",
+    "title" : "﹔hiên kiêu thi/＃ 最栀 氀́ă洀 挀栀́ă挀㼀 簀䌀栀뀁ꄁ渀最 ㄀㄀　㠀ⴀ㄀㄀㄀㜀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/117.mp3",
+    "title" : "︐š#ͩ chiê.ͮ ha#̠ma/＃渀 簀䌀栀뀁ꄁ渀最 ㄀㄀㄀㠀ⴀ㄀㄀㈀㜀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀  吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/118.mp3",
+    "title" : "Bí mật răng thú |Chương 1128-1137| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/119.mp3",
+    "title" : "Đại hôn |Chương 1138-1147| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/12.mp3",
+    "title" : "Lục Ly xuất chiến | Chương 108-116| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/120.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 120 -Thiên địa yêu ma |Chương 1148-1157| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/121.mp3",
+    "title" : "Đại Ma Thần |Chương 1158-1167| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/122.mp3",
+    "title" : "122",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/123.mp3",
+    "title" : "123",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/124.mp3",
+    "title" : "124",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/125.mp3",
+    "title" : "125",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/126.mp3",
+    "title" : "126",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/127.mp3",
+    "title" : "127",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/128.mp3",
+    "title" : "128",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/129.mp3",
+    "title" : "129",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/13.mp3",
+    "title" : "Hỏa Phượng Thiên Thai | Chương 117-126| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/130.mp3",
+    "title" : "130",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/131.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ | 1370 -1377 |Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/132.mp3",
+    "title" : "1386 |Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/133.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ | 1387-1395 |Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/134.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 1396-1403 | 4 Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/135.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 1404-1409 | 5 Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/136.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 1410-1416 | 6 Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/137.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 1417-1423 | 7 Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/138.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 1424-1428|8 Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/139.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 1429-1433| 9 Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/14.mp3",
+    "title" : "﹔hiên .š.ͯ Hô/＃ 簀 䌀栀뀁ꄁ渀最 ㄀㈀㜀ⴀ㄀㘀㘀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/140.mp3",
+    "title" : "140",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/141.mp3",
+    "title" : "141",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/142.mp3",
+    "title" : "142",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/143.mp3",
+    "title" : "143",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/144.mp3",
+    "title" : "144",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/145.mp3",
+    "title" : "145",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/146.mp3",
+    "title" : "146",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/147.mp3",
+    "title" : "147",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/148.mp3",
+    "title" : "148",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/149.mp3",
+    "title" : "149",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/15.mp3",
+    "title" : "Tộc trưởng chi tranh | Chương 137-145| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/150.mp3",
+    "title" : "150",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/151.mp3",
+    "title" : "151",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/152.mp3",
+    "title" : "152",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/153.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 52 | 1824-1833 | Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/154.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 53 | 1834-1842 | Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/155.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 54 | 1843-1851 | Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/156.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 55 | 1852-1860 | Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/157.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 56 | 1861-1869 | Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/158.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 57 | 1870-1879 | Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/159.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 58 | 1880-1904 | Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/16.mp3",
+    "title" : "Thiên Ngục đảo | Chương 146-155| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/160.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 59 |1905-1924| Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/161.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 60 | 1925 | Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/162.mp3",
+    "title" : "DIỆT LONG ĐẾ 61 _1950-1973_ Lê Tuyên_Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/163.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 62 |1974-1995| Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/164.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 63 | 1996-2004 | Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/165.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 64 | 2005-2013 | Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/166.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 65 | 2014-2021 | Lê Tuyên|Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/167.mp3",
+    "title" : "167",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/168.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ | Tập 199 : Đã xông qua được 2032-2040| Lê Tuyên Audio | Tiên Hiệp Huyền Huyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/169.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ | Tập 200 : Như ngươi mong muốn 2041-2050| Lê Tuyên Audio | Tiên Hiệp Huyền Huyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/17.mp3",
+    "title" : "ﻂn ti/＃渀栀 挀甀ः愀 䰀甀⌃挀 䰀礀簀 䌀栀뀁ꄁ渀最 ㄀㔀㘀ⴀ㄀㘀㔀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/170.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ | Tập 201 : Cổ Ma Tử Địa 2051-2059| Lê Tuyên Audio | Tiên Hiệp Huyền Huyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/171.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ | Tập 202 : Ma Tôn 2060-2069| Lê Tuyên Audio | Tiên Hiệp Huyền Huyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/172.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 203 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/173.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 204 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/174.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 205 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/175.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 206 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/176.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 207 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/177.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 208 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/178.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 209 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/179.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 210 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/18.mp3",
+    "title" : "﹋i/＃渀栀 吀栀椀渀 䬀椀ă挀栀簀 䌀栀뀁ꄁ渀最 ㄀㘀㘀ⴀ㄀㜀㔀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/180.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 211 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/181.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 212 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/182.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 213 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/183.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 214 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/184.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 215 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/185.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 216 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/186.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 217 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/187.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 218 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/188.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 219 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/189.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 220 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/19.mp3",
+    "title" : "Đạp bằng Huyết Sát Đảo| Chương 176-184| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/190.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 221 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/191.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 222 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/192.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 223 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/193.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 224 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/194.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 225 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/195.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 226 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/196.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 227 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/197.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 228 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/198.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 229 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/199.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 230 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/2.mp3",
+    "title" : "Thú Triều| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/20.mp3",
+    "title" : "Lục đảo chủ| Chương 185-194| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/200.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 231 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/201.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 232 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/202.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 233 | LÊ TUYÊN TRUYỆN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/203.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 234 | LÊ TUYÊN TRUYỆN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/204.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 235 | LÊ TUYÊN TRUYỆN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/205.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 236 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/206.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 237 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/207.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 238 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/208.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 239 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/209.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 240 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/21.mp3",
+    "title" : "Tiểu thế giới| Chương 195-205| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/210.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 241 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/211.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 242 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/212.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 243 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/213.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 244 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/214.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 245 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/215.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 246 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/216.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 247 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/217.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 248 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/218.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 249 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/219.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 250 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/22.mp3",
+    "title" : "Thiên Sách Thuật| Chương 206-215| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/220.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 251 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/221.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 252 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/222.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 253 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/223.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 254 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/224.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 255 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/225.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 256 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/226.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 257 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/227.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 258 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/228.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 259 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/229.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 260 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/23.mp3",
+    "title" : "﹂a#ͣh Ha#̠S°ơŮg ba.ͯ thu/＃簀 䌀栀뀁ꄁ渀最 ㈀㄀㘀ⴀ㈀㈀㐀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/230.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 261 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/231.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 262 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/232.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 263 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/233.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 264 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/234.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 265 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/235.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 266 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/236.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 267 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/237.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 268 | LÊ TUYÊN AUDIO",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/238.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 269 | LÊ TUYÊN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/239.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 270 | LÊ TUYÊN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/24.mp3",
+    "title" : "Mộ Long Đế | Chương 195-205| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/240.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 271 | LÊ TUYÊN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/241.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 272 | LÊ TUYÊN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/242.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 273 | LÊ TUYÊN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/243.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 274 | LÊ TUYÊN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/244.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 275 | LÊ TUYÊN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/245.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 276 | LÊ TUYÊN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/246.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 277 | LÊ TUYÊN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/247.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 278 | LÊ TUYÊN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/248.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 279 | LÊ TUYÊN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/249.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 280 | LÊ TUYÊN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/25.mp3",
+    "title" : "Luyện Ngục Nhai | Chương 235-243| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/250.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 282 | LÊ TUYÊN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/251.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 283 | LÊ TUYÊN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/252.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 284 | LÊ TUYÊN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/26.mp3",
+    "title" : "Ra khỏi mê cung | Chương 244-252| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/27.mp3",
+    "title" : "﹑uan ta/＃椀 䰀漀渀最 ခă 簀 䌀栀뀁ꄁ渀最 ㈀㔀㌀ⴀ㈀㘀　簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/28.mp3",
+    "title" : "﹂a.ͯ ta/＃渀最 䰀漀渀最 ခă 簀 䌀栀뀁ꄁ渀最 ㈀㘀㄀ⴀ㈀㘀㤀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/29.mp3",
+    "title" : "Cường giả chi chiến | Chương 270-279| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/3.mp3",
+    "title" : "Tử chiến đến cùng| Chương 14-27| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/30.mp3",
+    "title" : "Cường giả thần bí | Chương 280-287| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/31.mp3",
+    "title" : "Ý tưởng lớn mật | Chương 288-296| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/32.mp3",
+    "title" : "﹍ô#̠tô.̠bi#̠.š/＃漀簀 䌀栀뀁ꄁ渀最 ㈀㤀㜀ⴀ㌀　㔀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/33.mp3",
+    "title" : "﹋hông ¡ĉ̠di hi/ͮh ma/＃ ꄁः 栀漀愀ă渀 愀ः渀栀 簀 䌀栀뀁ꄁ渀最 ㌀　㘀ⴀ㈀㄀㐀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/34.mp3",
+    "title" : "Con kiến hôi rung trời | Chương 315-323| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/35.mp3",
+    "title" : "Để bọn họ đánh vào đi | Chương 324-333| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/36.mp3",
+    "title" : "Hành sự theo kế hoạch | Chương 334-343| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/37.mp3",
+    "title" : "Thân phận của cường giả thần bí | Chương 334-353| Lê Tuyên | Huyền Huyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/38.mp3",
+    "title" : "San bằng Vũ Đế Thành | Chương 354-363| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/39.mp3",
+    "title" : "﹋ê.̠hoa#ͣh Tiê/＃洀 䰀漀渀最ă 簀 䌀栀뀁ꄁ渀最 ㌀㘀㐀ⴀ㌀㜀㈀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/4.mp3",
+    "title" : "Thú rống| Chương 28-37| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/40.mp3",
+    "title" : "Được cứu rồi | Chương 377-381| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/41.mp3",
+    "title" : "Nô lệ Quân Hầu cảnh | Chương 382-391| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/42.mp3",
+    "title" : "Đỗ Tranh | Chương 392-402 | Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/43.mp3",
+    "title" : "Long Đế Quan tái hiện | Chương 403-412| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/44.mp3",
+    "title" : "Bổn tọa là Long Đế! | Chương 413-421| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/45.mp3",
+    "title" : "Tà Vu Đại Đế | Chương 422-431| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/46.mp3",
+    "title" : "Khương Khởi Linh | Chương 432-441| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/47.mp3",
+    "title" : "Thiên Quỷ Thử | Chương 422-450| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/48.mp3",
+    "title" : "Vì tình cảm, không phải bổn phận | Chương 451-461| Lê Tuyên | Huyền Huyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/49.mp3",
+    "title" : "Hoàng Kim Thú Trảo | Chương 462-471| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/5.mp3",
+    "title" : "Thiên Lân Đao| Chương 38-47| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/50.mp3",
+    "title" : "Huyết Trảo | Chương 472-481| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/51.mp3",
+    "title" : "Tiểu thiếu gia | Chương 482-491| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/52.mp3",
+    "title" : "Thái Thượng trưởng lão | Chương 492-501| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/53.mp3",
+    "title" : "﹎am nhân Lu#ͣ gia .Ǫ/͵ chê.ʹ hê.ʹ ca.̠rô/＃椀 뀁⸀⸀⸀ 簀 䌀栀뀁ꄁ渀最 㔀　㈀ⴀ㔀㄀㄀簀 䰀 吀甀礀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/54.mp3",
+    "title" : "Ngưng tạo Mệnh Luân | Chương 512-521| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/55.mp3",
+    "title" : "Lục Phi Tuyết gi.ết ngườ̀i |Chương 522-531| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/56.mp3",
+    "title" : "Tâm lạnh | Chương 532-541| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/57.mp3",
+    "title" : "﹓.a.ʹ ti.nh tr¡ĉ̠vê/＃ 簀 䌀栀뀁ꄁ渀最 㔀㈀㐀ⴀ㔀㔀㄀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/58.mp3",
+    "title" : "Người không biến, địa vị biến | Chương 552-561| Lê Tuyên | Huyền Huyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/59.mp3",
+    "title" : "﹃hu.ͮg tô#ͣ thâ/＃渀 戀椀ă 簀 䌀栀뀁ꄁ渀最 㔀㘀㈀ⴀ㔀㜀　簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/6.mp3",
+    "title" : "Tiểu Bạch | Chương 48-57| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/60.mp3",
+    "title" : "Dạ Xoa Tộc | Chương 571-580| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/61.mp3",
+    "title" : "Hoang giới | Chương 581-590| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/62.mp3",
+    "title" : "BẤT DIỆT LONG ĐẾ 62 -B.a ti.n tứ.c | Chương 591-599| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/63.mp3",
+    "title" : "﹍ê#ͮh Luân Ca.ͮh trung ky/＃ 簀 䌀栀뀁ꄁ渀最 㘀　　ⴀ㘀　㤀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/64.mp3",
+    "title" : "︐ũê/͵ kiê#ͮ cu.͡ Mông Thâ/＃渀 簀 䌀栀뀁ꄁ渀最 㘀㄀　ⴀ㘀㈀　簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/65.mp3",
+    "title" : "﹎hân Hoa/＃渀最 挀栀椀 挀栀椀⸀ă渀 簀 䌀栀뀁ꄁ渀最 㘀㈀㄀ⴀ㘀㌀　簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/66.mp3",
+    "title" : "Băng phong trăm năm | Chương 631-640| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/67.mp3",
+    "title" : "Thí Ma Điện | Chương 641-649| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/68.mp3",
+    "title" : "Quỷ kế | Chương 650-659| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/69.mp3",
+    "title" : "﹔hi.̠Ma Tha/＃渀栀簀 䌀栀뀁ꄁ渀最 㘀㘀　ⴀ㘀㘀㤀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/7.mp3",
+    "title" : "Ngân Long ấn ký | Chương 58-67| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/70.mp3",
+    "title" : "﹑uâ/＃渀 愀渀栀 栀⌃椀 琀甀⌃ 簀 䌀栀뀁ꄁ渀最 㘀㜀　ⴀ㘀㜀㠀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/71.mp3",
+    "title" : "﹌inh hô/ͮ thâ/＃渀 琀栀愀椀 簀 䌀栀뀁ꄁ渀最 㘀㜀㤀ⴀ㘀㠀㜀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/72.mp3",
+    "title" : "﹂a.̮n Thâ/＃渀 欀⸀栀 簀 䌀栀뀁ꄁ渀最 㘀㜀　ⴀ㘀㜀㠀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/73.mp3",
+    "title" : "Nguy cục | Chương 698-706| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/74.mp3",
+    "title" : "﹃o/＃渀 氀愀⌃椀 挀뀁ă 最椀愀漀 挀栀漀 琀愀 簀 䌀栀뀁ꄁ渀最 㜀　㜀ⴀ㜀㄀㘀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/75.mp3",
+    "title" : "﹍an Thâ/＃渀 ခ椀ः渀栀 簀 䌀栀뀁ꄁ渀最 㜀㄀㜀ⴀ㜀㈀㘀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/76.mp3",
+    "title" : "Đi.ên đảo trắng đen | Chương 727-737| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/77.mp3",
+    "title" : "Náo lật trời | Chương 738-746| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/78.mp3",
+    "title" : "﹎a Gia/＃ 瘀뀁ꄁ渀最 琀뀁ः 簀 䌀栀뀁ꄁ渀最 㜀㐀㜀ⴀ㜀㔀㔀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/79.mp3",
+    "title" : "Điện chủ | Chương 756-764| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/8.mp3",
+    "title" : "Chiến Thần Hải | Chương 68-77| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/80.mp3",
+    "title" : "Chỉ ước uyên ương không ước tiên |Chương 765-773| Lê Tuyên|Huyền Huyễn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/81.mp3",
+    "title" : "﹂i.̠thuâ#ʹ linh hô/＃渀簀 䌀栀뀁ꄁ渀最 㜀㜀㐀ⴀ㜀㠀㌀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/82.mp3",
+    "title" : "Vân Thủy Điện| Chương 784-793| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/83.mp3",
+    "title" : "Thiên Huyễn Tộc| Chương 794-803| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/84.mp3",
+    "title" : "Á.m s.át Thánh Nữ| Chương 804-813| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/85.mp3",
+    "title" : "﹃uô.ͩ cu/＃渀最 挀甀̃渀最 最́⌃瀀簀 䌀栀뀁ꄁ渀最 㠀㄀㐀ⴀ㠀㈀㌀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/86.mp3",
+    "title" : "Bá chủ Vân Châu| Chương 824-833| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/87.mp3",
+    "title" : "Một ngôi mộ| Chương 824-843| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/88.mp3",
+    "title" : "﹔iê.͵ thê.̠gi¡āͩ ky/＃ 搀椀⌃簀 䌀栀뀁ꄁ渀最 㠀㐀㐀ⴀ㠀㔀㌀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/89.mp3",
+    "title" : "Hỏa Báo Vương̣| Chương 854-862| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/9.mp3",
+    "title" : "﹂ôn Lôn huyê/＃渀 欀礀̃ 簀 䌀栀뀁ꄁ渀最 㜀㠀ⴀ㠀㜀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/90.mp3",
+    "title" : "Vân Châu xảy ra chuyện| Chương 863-871| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/91.mp3",
+    "title" : "Cơ Mộng Dao| Chương 872-880| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/92.mp3",
+    "title" : "﹖a#ͮ Phâ#ʹ Tha/＃渀栀簀 䌀栀뀁ꄁ渀最 㠀㠀㄀ⴀ㠀㤀　簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/93.mp3",
+    "title" : "Phật sơn| Chương 891-900| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/94.mp3",
+    "title" : "﹂a/＃渀 一栀뀁ꄁ⌃挀 簀 䌀栀뀁ꄁ渀最 㤀　㄀ⴀ㤀　㤀簀 䰀 吀甀礀渀 簀 䠀甀礀섞渀 䠀甀礀씞渀 ⴀ吀甀 吀椀渀",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/95.mp3",
+    "title" : "Âm mưu | Chương 910-919| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/96.mp3",
+    "title" : "Địa cung | Chương 920-929| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/97.mp3",
+    "title" : "Thú Thần chi trảo | Chương 930-938| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/98.mp3",
+    "title" : "Thú hoàng bạo động? | Chương 939-947| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bat-diet-long-de/99.mp3",
+    "title" : "Tiểu Bạch mất tích | Chương 948-956| Lê Tuyên | Huyền Huyễn -Tu Tiên",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

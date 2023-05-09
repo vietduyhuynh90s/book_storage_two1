@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/noi-la-anh-nho-em-di_16994.html",
+    "title" : "Nói Là Anh Nhớ Em Đi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phan Anh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 8169,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_e696783c463f29394e68f4a36a6279d9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_e696783c463f29394e68f4a36a6279d9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 344,
+    "title" : "Noi La Nho Anh Di Em 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 509,
+    "title" : "Noi La Nho Anh Di Em 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 425,
+    "title" : "Noi La Nho Anh Di Em 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 439,
+    "title" : "Noi La Nho Anh Di Em 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 746,
+    "title" : "Noi La Nho Anh Di Em 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 654,
+    "title" : "Noi La Nho Anh Di Em 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_07_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 889,
+    "title" : "Noi La Nho Anh Di Em 07 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_07_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 719,
+    "title" : "Noi La Nho Anh Di Em 07 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1187,
+    "title" : "Noi La Nho Anh Di Em 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1470,
+    "title" : "Noi La Nho Anh Di Em 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 787,
+    "title" : "Noi La Nho Anh Di Em 10",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_01.mp3",
+    "title" : "Noi La Nho Anh Di Em 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_02.mp3",
+    "title" : "Noi La Nho Anh Di Em 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_03.mp3",
+    "title" : "Noi La Nho Anh Di Em 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_04.mp3",
+    "title" : "Noi La Nho Anh Di Em 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_05.mp3",
+    "title" : "Noi La Nho Anh Di Em 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_06.mp3",
+    "title" : "Noi La Nho Anh Di Em 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_07_1.mp3",
+    "title" : "Noi La Nho Anh Di Em 07 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_07_2.mp3",
+    "title" : "Noi La Nho Anh Di Em 07 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_08.mp3",
+    "title" : "Noi La Nho Anh Di Em 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_09.mp3",
+    "title" : "Noi La Nho Anh Di Em 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnNoiLaAnhNhoEmDi/Noi_La_Nho_Anh_Di_Em_10.mp3",
+    "title" : "Noi La Nho Anh Di Em 10",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

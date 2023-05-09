@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thien-linh-cai_19162.html",
+    "title" : "Thiên Linh Cái",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trương Thanh Thuỳ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 7730,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_4aaf43eba09d801197f2c68b27db3c00.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_4aaf43eba09d801197f2c68b27db3c00.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thien-linh-cai-full/THI%C3%8AN%20LINH%20C%C3%81I%20%28FULL%29%20_%20TR%C6%AF%C6%A0NG%20THANH%20TH%C3%99Y%20320kbps.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7730,
+    "title" : "THIÊN LINH CÁI (FULL)   TRƯƠNG THANH THÙY 320kbps",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thien-linh-cai-full/THI%C3%8AN%20LINH%20C%C3%81I%20%28FULL%29%20_%20TR%C6%AF%C6%A0NG%20THANH%20TH%C3%99Y%20320kbps.mp3",
+    "title" : "THIÊN LINH CÁI (FULL)   TRƯƠNG THANH THÙY 320kbps",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

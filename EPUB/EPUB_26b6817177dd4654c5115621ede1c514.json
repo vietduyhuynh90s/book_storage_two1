@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hanh-phuc-nho-cua-anh_14610.html",
+    "title" : "Hạnh Phúc Nhỏ Của Anh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đông Bôn Tây Cố",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 65308,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_26b6817177dd4654c5115621ede1c514.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_26b6817177dd4654c5115621ede1c514.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3447,
+    "title" : "Truyện Teen Hạnh Phúc Nhỏ Của Anh Tập 1 | Mc Dư Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4928,
+    "title" : "Chốn Có Chân Lý , Nơi Có Si Tình | Hạnh Phúc Nhỏ Của Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2910,
+    "title" : "Cây Hoa Quế , Nữ Nhi Hồng | Hạnh Phúc Nhỏ Của Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3023,
+    "title" : "Đông Bôn Tây Cố",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4463,
+    "title" : "Hiệu Ứng Cánh Bướm | Hạnh Phúc Nhỏ Của Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3825,
+    "title" : "Tên Của Em | Truyện Ngôn Tình Hạnh Phúc Nhỏ Của Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3751,
+    "title" : "Lời Tỏ Tình Ngọt Ngào | Truyện Ngôn Tình Hạnh Phúc Nhỏ Của Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3932,
+    "title" : "Chương 14 Hôn Lễ Xúc Động",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4226,
+    "title" : "Chương 15 Hạnh Phúc Nhỏ Của Anh | Ngôn Tình Tuổi Teen",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4340,
+    "title" : "Hạnh Phúc Nhỏ Của Anh - Ngôn Tình Tuổi Teen",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2838,
+    "title" : "Tập 2 Hạnh Phúc Nhỏ Của Anh | Truyện Teen Mc Dư Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4371,
+    "title" : "Tập 3 Hạnh Phúc Nhỏ Của Anh | Truyện Ngôn Tình Tuổi Teen",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3103,
+    "title" : "Hạnh Phúc Nhỏ Của Anh Tập 4 | Ngôn Tình Tuổi Teen mc Dư Anh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3145,
+    "title" : "Hạnh Phúc Nhỏ Của Anh Tập 5 | Đông Bôn Tây Cố",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1659,
+    "title" : "Tập 6 Hạnh Phúc Nhỏ Của Anh | Đông Bôn Tây Cố",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4002,
+    "title" : "Tập 7 Chương 4 Kẹo Bạc Hà 3 Hạnh Phúc Nhỏ Của Anh | Đông Bôn Tây Cố",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4004,
+    "title" : "Tập 8 Hạnh Phúc Nhỏ Của Anh | Chương 6 Anh Muốn Gặp Em",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3341,
+    "title" : "Tung Hoành Chiến Đấu Bảo Vệ Chu Toàn | Hạnh Phúc Nhỏ Của Anh",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/1.mp3",
+    "title" : "Truyện Teen Hạnh Phúc Nhỏ Của Anh Tập 1 | Mc Dư Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/10.mp3",
+    "title" : "Chốn Có Chân Lý , Nơi Có Si Tình | Hạnh Phúc Nhỏ Của Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/11.mp3",
+    "title" : "Cây Hoa Quế , Nữ Nhi Hồng | Hạnh Phúc Nhỏ Của Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/12.mp3",
+    "title" : "Đông Bôn Tây Cố",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/13.mp3",
+    "title" : "Hiệu Ứng Cánh Bướm | Hạnh Phúc Nhỏ Của Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/14.mp3",
+    "title" : "Tên Của Em | Truyện Ngôn Tình Hạnh Phúc Nhỏ Của Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/15.mp3",
+    "title" : "Lời Tỏ Tình Ngọt Ngào | Truyện Ngôn Tình Hạnh Phúc Nhỏ Của Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/16.mp3",
+    "title" : "Chương 14 Hôn Lễ Xúc Động",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/17.mp3",
+    "title" : "Chương 15 Hạnh Phúc Nhỏ Của Anh | Ngôn Tình Tuổi Teen",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/18.mp3",
+    "title" : "Hạnh Phúc Nhỏ Của Anh - Ngôn Tình Tuổi Teen",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/2.mp3",
+    "title" : "Tập 2 Hạnh Phúc Nhỏ Của Anh | Truyện Teen Mc Dư Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/3.mp3",
+    "title" : "Tập 3 Hạnh Phúc Nhỏ Của Anh | Truyện Ngôn Tình Tuổi Teen",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/4.mp3",
+    "title" : "Hạnh Phúc Nhỏ Của Anh Tập 4 | Ngôn Tình Tuổi Teen mc Dư Anh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/5.mp3",
+    "title" : "Hạnh Phúc Nhỏ Của Anh Tập 5 | Đông Bôn Tây Cố",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/6.mp3",
+    "title" : "Tập 6 Hạnh Phúc Nhỏ Của Anh | Đông Bôn Tây Cố",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/7.mp3",
+    "title" : "Tập 7 Chương 4 Kẹo Bạc Hà 3 Hạnh Phúc Nhỏ Của Anh | Đông Bôn Tây Cố",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/8.mp3",
+    "title" : "Tập 8 Hạnh Phúc Nhỏ Của Anh | Chương 6 Anh Muốn Gặp Em",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-nho-cua-anh/9.mp3",
+    "title" : "Tung Hoành Chiến Đấu Bảo Vệ Chu Toàn | Hạnh Phúc Nhỏ Của Anh",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

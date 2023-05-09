@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/con-mua-dinh-menh_15373.html",
+    "title" : "Cơn Mưa Định Mệnh",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "ThanhThanh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 55790,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_bce710f3fd66d8ec3c76610b5b2c5c87.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_bce710f3fd66d8ec3c76610b5b2c5c87.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3818,
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4349,
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3892,
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4032,
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3853,
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5142,
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3755,
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3852,
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3712,
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3805,
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3895,
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3992,
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3851,
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3842,
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/1.mp3",
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/10.mp3",
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/11.mp3",
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/12.mp3",
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/13.mp3",
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/14.mp3",
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/2.mp3",
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/3.mp3",
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/4.mp3",
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/5.mp3",
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/6.mp3",
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/7.mp3",
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/8.mp3",
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-mua-dinh-menh/9.mp3",
+    "title" : "Truyện tâm lý xã hội MC Thanh Mai mới nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

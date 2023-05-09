@@ -1,0 +1,1301 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/he-thong-game-tai-di-gioi_13486.html",
+    "title" : "Hệ Thống Game Tại Dị Giới",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tạ Trường Thành",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 197316,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_d2c0f149d873d25535bdbc25ad8d0d53.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_d2c0f149d873d25535bdbc25ad8d0d53.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1909,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1623,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1834,
+    "title" : "100",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/101.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2514,
+    "title" : "101",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/102.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2427,
+    "title" : "102",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/103.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2766,
+    "title" : "103",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/104.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2411,
+    "title" : "104",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/105.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2438,
+    "title" : "105",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1630,
+    "title" : "11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1894,
+    "title" : "12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1746,
+    "title" : "13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1844,
+    "title" : "14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1845,
+    "title" : "15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1785,
+    "title" : "16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1788,
+    "title" : "17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1815,
+    "title" : "18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1800,
+    "title" : "19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2033,
+    "title" : "2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1814,
+    "title" : "20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1972,
+    "title" : "21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1761,
+    "title" : "22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1834,
+    "title" : "23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1861,
+    "title" : "24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1870,
+    "title" : "25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3815,
+    "title" : "26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1927,
+    "title" : "27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1894,
+    "title" : "28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1850,
+    "title" : "29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1922,
+    "title" : "3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1829,
+    "title" : "30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1807,
+    "title" : "31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1857,
+    "title" : "32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1779,
+    "title" : "33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1743,
+    "title" : "34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1820,
+    "title" : "35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1801,
+    "title" : "36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1724,
+    "title" : "37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1753,
+    "title" : "38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1761,
+    "title" : "39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1745,
+    "title" : "4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1735,
+    "title" : "40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1676,
+    "title" : "41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1651,
+    "title" : "42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1759,
+    "title" : "43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1701,
+    "title" : "44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1659,
+    "title" : "45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1675,
+    "title" : "46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3174,
+    "title" : "47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1653,
+    "title" : "48",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1658,
+    "title" : "49",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1876,
+    "title" : "5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1800,
+    "title" : "50",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1670,
+    "title" : "51",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1902,
+    "title" : "52",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1787,
+    "title" : "53",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1743,
+    "title" : "54",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1753,
+    "title" : "55",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1651,
+    "title" : "56",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1840,
+    "title" : "57",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1714,
+    "title" : "58",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1690,
+    "title" : "59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1986,
+    "title" : "6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1705,
+    "title" : "60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1803,
+    "title" : "61",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1736,
+    "title" : "62",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1904,
+    "title" : "63",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1772,
+    "title" : "64",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1905,
+    "title" : "65",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1827,
+    "title" : "66",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1768,
+    "title" : "67",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2712,
+    "title" : "68",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1807,
+    "title" : "69",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1775,
+    "title" : "7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1800,
+    "title" : "70",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1755,
+    "title" : "71",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1800,
+    "title" : "72",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1768,
+    "title" : "73",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1801,
+    "title" : "74",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1807,
+    "title" : "75",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1808,
+    "title" : "76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1800,
+    "title" : "77",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1754,
+    "title" : "78",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/79.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1816,
+    "title" : "79",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1678,
+    "title" : "8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1786,
+    "title" : "80",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/81.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1773,
+    "title" : "81",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/82.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1744,
+    "title" : "82",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/83.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1764,
+    "title" : "83",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/84.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1791,
+    "title" : "84",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/85.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1780,
+    "title" : "85",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/86.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1867,
+    "title" : "86",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/87.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1837,
+    "title" : "87",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/88.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1891,
+    "title" : "88",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/89.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1784,
+    "title" : "89",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1685,
+    "title" : "9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/90.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1871,
+    "title" : "90",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/91.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1845,
+    "title" : "91",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/92.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1893,
+    "title" : "92",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/93.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2545,
+    "title" : "93",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/94.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1877,
+    "title" : "94",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/95.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1810,
+    "title" : "95",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/96.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1845,
+    "title" : "96",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/97.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1850,
+    "title" : "97",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/98.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1860,
+    "title" : "98",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/99.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1923,
+    "title" : "99",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/1.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/100.mp3",
+    "title" : "100",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/101.mp3",
+    "title" : "101",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/102.mp3",
+    "title" : "102",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/103.mp3",
+    "title" : "103",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/104.mp3",
+    "title" : "104",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/105.mp3",
+    "title" : "105",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/11.mp3",
+    "title" : "11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/12.mp3",
+    "title" : "12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/13.mp3",
+    "title" : "13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/14.mp3",
+    "title" : "14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/15.mp3",
+    "title" : "15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/16.mp3",
+    "title" : "16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/17.mp3",
+    "title" : "17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/18.mp3",
+    "title" : "18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/19.mp3",
+    "title" : "19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/2.mp3",
+    "title" : "2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/20.mp3",
+    "title" : "20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/21.mp3",
+    "title" : "21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/22.mp3",
+    "title" : "22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/23.mp3",
+    "title" : "23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/24.mp3",
+    "title" : "24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/25.mp3",
+    "title" : "25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/26.mp3",
+    "title" : "26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/27.mp3",
+    "title" : "27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/28.mp3",
+    "title" : "28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/29.mp3",
+    "title" : "29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/3.mp3",
+    "title" : "3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/30.mp3",
+    "title" : "30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/31.mp3",
+    "title" : "31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/32.mp3",
+    "title" : "32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/33.mp3",
+    "title" : "33",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/34.mp3",
+    "title" : "34",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/35.mp3",
+    "title" : "35",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/36.mp3",
+    "title" : "36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/37.mp3",
+    "title" : "37",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/38.mp3",
+    "title" : "38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/39.mp3",
+    "title" : "39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/4.mp3",
+    "title" : "4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/40.mp3",
+    "title" : "40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/41.mp3",
+    "title" : "41",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/42.mp3",
+    "title" : "42",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/43.mp3",
+    "title" : "43",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/44.mp3",
+    "title" : "44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/45.mp3",
+    "title" : "45",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/46.mp3",
+    "title" : "46",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/47.mp3",
+    "title" : "47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/48.mp3",
+    "title" : "48",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/49.mp3",
+    "title" : "49",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/5.mp3",
+    "title" : "5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/50.mp3",
+    "title" : "50",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/51.mp3",
+    "title" : "51",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/52.mp3",
+    "title" : "52",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/53.mp3",
+    "title" : "53",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/54.mp3",
+    "title" : "54",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/55.mp3",
+    "title" : "55",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/56.mp3",
+    "title" : "56",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/57.mp3",
+    "title" : "57",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/58.mp3",
+    "title" : "58",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/59.mp3",
+    "title" : "59",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/6.mp3",
+    "title" : "6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/60.mp3",
+    "title" : "60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/61.mp3",
+    "title" : "61",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/62.mp3",
+    "title" : "62",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/63.mp3",
+    "title" : "63",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/64.mp3",
+    "title" : "64",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/65.mp3",
+    "title" : "65",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/66.mp3",
+    "title" : "66",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/67.mp3",
+    "title" : "67",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/68.mp3",
+    "title" : "68",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/69.mp3",
+    "title" : "69",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/7.mp3",
+    "title" : "7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/70.mp3",
+    "title" : "70",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/71.mp3",
+    "title" : "71",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/72.mp3",
+    "title" : "72",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/73.mp3",
+    "title" : "73",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/74.mp3",
+    "title" : "74",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/75.mp3",
+    "title" : "75",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/76.mp3",
+    "title" : "76",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/77.mp3",
+    "title" : "77",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/78.mp3",
+    "title" : "78",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/79.mp3",
+    "title" : "79",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/8.mp3",
+    "title" : "8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/80.mp3",
+    "title" : "80",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/81.mp3",
+    "title" : "81",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/82.mp3",
+    "title" : "82",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/83.mp3",
+    "title" : "83",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/84.mp3",
+    "title" : "84",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/85.mp3",
+    "title" : "85",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/86.mp3",
+    "title" : "86",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/87.mp3",
+    "title" : "87",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/88.mp3",
+    "title" : "88",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/89.mp3",
+    "title" : "89",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/9.mp3",
+    "title" : "9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/90.mp3",
+    "title" : "90",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/91.mp3",
+    "title" : "91",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/92.mp3",
+    "title" : "92",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/93.mp3",
+    "title" : "93",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/94.mp3",
+    "title" : "94",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/95.mp3",
+    "title" : "95",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/96.mp3",
+    "title" : "96",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/97.mp3",
+    "title" : "97",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/98.mp3",
+    "title" : "98",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/he-thong-game-tai-di-gioi/99.mp3",
+    "title" : "99",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

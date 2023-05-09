@@ -1,0 +1,977 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/giai-nhan-va-luat-su_15331.html",
+    "title" : "Giai Nhân Và Luật Sư",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Triều Ca Như",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 236564,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_a09a29183f21640dfd0f2ce0e9c691e1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_a09a29183f21640dfd0f2ce0e9c691e1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3761,
+    "title" : "Tập 1- MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1817,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyện Ngôn Tình Hay Nhất 2020 - Về Nước Lấy Chồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3786,
+    "title" : "Tập 11 - MC Phương Thúy - Truyện Ngôn tình Hay nhất - Về Nước Lấy Chồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3734,
+    "title" : "Giai Nhân Và Luật Sư - Truyện Ngôn Tình Hay Nhất 2020 - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3540,
+    "title" : "Giai Nhân Luật Sư - Truyện Ngôn Tình Hay Nhất 2020 - MC Phương Thúy - Về Nước Lấy Chồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3647,
+    "title" : "MC Phương Thúy - Tập 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3300,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyện Ngôn Tình Hay Nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3639,
+    "title" : "Tập 16 - Truyện Ngôn Tình Hay Nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3599,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyện Ngôn Tình Hay Nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3741,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyện Ngôn Tình Hay Nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3806,
+    "title" : "Giai Nhân Luật Sư - Truyện Ngôn Tình Hay Nhất 2020 - MC phương thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3581,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyên Ngôn Tình Hay Nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3403,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3080,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3259,
+    "title" : "Giai Nhân Luật Sư - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3659,
+    "title" : "MC Phương thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3626,
+    "title" : "Giai Nhân Luật Sư- MC Như Quỳnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3484,
+    "title" : "Truyện Ngôn Tình Hấp Dẫn - Giai Nhân Luật Sư - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3356,
+    "title" : "Giai Nhân Luật Sư - Truyện Ngôn Tình Hay Nhất 2020 - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3983,
+    "title" : "Giai Nhân Và Luật Sư - Truyện Ngôn Tình Hay Nhất 2020 - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3538,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyện Ngôn Tình Hay 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3718,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyện Ngôn Tình Hay Nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3840,
+    "title" : "Giai Nhân Luật Sư - Truyên Ngôn Tình Hay Nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3603,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3636,
+    "title" : "Giai Nhân Luật Sư - Truyện Ngôn Tình Hay Nhất 2020 - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3192,
+    "title" : "Giai Nhân Luật Sư - Truyện Ngôn Tình Trung Quốc - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3636,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3363,
+    "title" : "Giai Nhân Luật Sư - Truyện Ngôn Tình Hay Nhất 2020 - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3715,
+    "title" : "MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3626,
+    "title" : "MC Phương Thúy - Tập 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3694,
+    "title" : "Giai Nhân Luật Sư - truyện Ngôn tình Hay Nhât 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3618,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3627,
+    "title" : "Giai Nhân Luật Sư - MC phương Thúy - Truyện Ngôn Tình Hay Nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3629,
+    "title" : "Giai Nhân Luật Sư - Truyện Ngôn Tình Hấp Dẫn - MC phương thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3753,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyện Ngôn Tình Hấp Dẫn Nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3739,
+    "title" : "MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2529,
+    "title" : "MC Phương Thúy -Truyện Ngôn Tình Hay 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2723,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy- Truyện Ngôn Tình Hấp Dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2420,
+    "title" : "MC Phương Thúy - Tập 44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2603,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2645,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2503,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyện Ngôn Tình Hay Nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/48.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2400,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/49.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2401,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyện Ngôn Tình Hay Nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3659,
+    "title" : "Truyện Ngôn Tình Hay Nhất 2020 - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/50.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2435,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/51.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2410,
+    "title" : "Giai Nhân Luật Sư - Truyện Ngôn Tình Hay Nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/52.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2376,
+    "title" : "MC Phương Thúy - Truyện Ngôn Tình Thực Tế 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/53.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2400,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyện Ngôn Tình Hay nhất 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/54.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2503,
+    "title" : "Giai Nhân Luật Sư - MC Phuong Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/55.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2391,
+    "title" : "Giai Nhân Luật Sư - truyện ngôn tình 2002 - MC phương thúy kể rất hấp dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/56.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2456,
+    "title" : "Giai Nhân Luật Sư - Truyện Ngôn Tình Hay Nhất - MC Kể Hấp Dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/57.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2684,
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/58.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2521,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/59.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2472,
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3630,
+    "title" : "Giai Nhân Luật Sư - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2486,
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/61.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2504,
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY - AUDIOTRUYENHAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/62.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2424,
+    "title" : "MC Phương Thúy Kể Hấp Dẫn -Tập 62 Adio truyện hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/63.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2368,
+    "title" : "Giai Nhân Luật Sư - Audio Truyện Hay - MC Phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/64.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2412,
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY - AUDIO TRUYỆN HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/65.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2756,
+    "title" : "MC PHƯƠNG THÚY - TẬP 65 - AUDIO TRUYỆN HAY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/66.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2381,
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY KỂ RẤT HẤP DẪN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/67.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2388,
+    "title" : "GIAI NHÂN LUẬT SƯ - NHUQUYNHTRUYEN - MC PHƯƠNG THÚY",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/68.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2446,
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY KỂ RẤT HẤP DẪN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/69.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2393,
+    "title" : "MC PHƯƠNG THÚY - TRUYỆN NGÔN TÌNH HAY NHẤT 2020 - TẬP 69",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3714,
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy [Tập 7]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/70.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2493,
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY KỂ TRUYỆN HÂP DẪN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/71.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2473,
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY KỂ HẤP DẪN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/72.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2482,
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY KỂ - Truyện Tâm Lý Xã Hôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/73.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2356,
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY - Truyện Tâm Lý Xã Hội 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/74.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2418,
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY - ĐỌC TRUYỆN NGÔN TÌNH HAY 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/75.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2432,
+    "title" : "Tập 75 - Truyện Ngôn tình hấp dẫn 2020 - MC phương Thúy kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/76.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2516,
+    "title" : "CHÀNG GIAI NHÂN VÀ LUẬT SƯ - MC PHƯƠNG THÚY KỂ - TẬP 76",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/77.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2490,
+    "title" : "CHÀNG GIAI NHÂN VÀ LUẬT SƯ - MC PHƯƠNG THÚY KỂ HẤP DẪN BẠN NGHE",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/78.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1629,
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY LỂ HẤP DẪN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3694,
+    "title" : "Truyện Ngôn Tình Hay Nhất - Giai Nhân Luật Sư - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3420,
+    "title" : "Giai Nhân Luật Sư - MC phương Thúy",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/1.mp3",
+    "title" : "Tập 1- MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/10.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyện Ngôn Tình Hay Nhất 2020 - Về Nước Lấy Chồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/11.mp3",
+    "title" : "Tập 11 - MC Phương Thúy - Truyện Ngôn tình Hay nhất - Về Nước Lấy Chồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/12.mp3",
+    "title" : "Giai Nhân Và Luật Sư - Truyện Ngôn Tình Hay Nhất 2020 - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/13.mp3",
+    "title" : "Giai Nhân Luật Sư - Truyện Ngôn Tình Hay Nhất 2020 - MC Phương Thúy - Về Nước Lấy Chồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/14.mp3",
+    "title" : "MC Phương Thúy - Tập 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/15.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyện Ngôn Tình Hay Nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/16.mp3",
+    "title" : "Tập 16 - Truyện Ngôn Tình Hay Nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/17.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyện Ngôn Tình Hay Nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/18.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyện Ngôn Tình Hay Nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/19.mp3",
+    "title" : "Giai Nhân Luật Sư - Truyện Ngôn Tình Hay Nhất 2020 - MC phương thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/2.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyên Ngôn Tình Hay Nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/20.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/21.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/22.mp3",
+    "title" : "Giai Nhân Luật Sư - MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/23.mp3",
+    "title" : "MC Phương thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/24.mp3",
+    "title" : "Giai Nhân Luật Sư- MC Như Quỳnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/25.mp3",
+    "title" : "Truyện Ngôn Tình Hấp Dẫn - Giai Nhân Luật Sư - MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/26.mp3",
+    "title" : "Giai Nhân Luật Sư - Truyện Ngôn Tình Hay Nhất 2020 - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/27.mp3",
+    "title" : "Giai Nhân Và Luật Sư - Truyện Ngôn Tình Hay Nhất 2020 - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/28.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyện Ngôn Tình Hay 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/29.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyện Ngôn Tình Hay Nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/3.mp3",
+    "title" : "Giai Nhân Luật Sư - Truyên Ngôn Tình Hay Nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/30.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/31.mp3",
+    "title" : "Giai Nhân Luật Sư - Truyện Ngôn Tình Hay Nhất 2020 - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/32.mp3",
+    "title" : "Giai Nhân Luật Sư - Truyện Ngôn Tình Trung Quốc - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/33.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/34.mp3",
+    "title" : "Giai Nhân Luật Sư - Truyện Ngôn Tình Hay Nhất 2020 - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/35.mp3",
+    "title" : "MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/36.mp3",
+    "title" : "MC Phương Thúy - Tập 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/37.mp3",
+    "title" : "Giai Nhân Luật Sư - truyện Ngôn tình Hay Nhât 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/38.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/39.mp3",
+    "title" : "Giai Nhân Luật Sư - MC phương Thúy - Truyện Ngôn Tình Hay Nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/4.mp3",
+    "title" : "Giai Nhân Luật Sư - Truyện Ngôn Tình Hấp Dẫn - MC phương thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/40.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyện Ngôn Tình Hấp Dẫn Nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/41.mp3",
+    "title" : "MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/42.mp3",
+    "title" : "MC Phương Thúy -Truyện Ngôn Tình Hay 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/43.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy- Truyện Ngôn Tình Hấp Dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/44.mp3",
+    "title" : "MC Phương Thúy - Tập 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/45.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/46.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/47.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyện Ngôn Tình Hay Nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/48.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/49.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyện Ngôn Tình Hay Nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/5.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất 2020 - MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/50.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/51.mp3",
+    "title" : "Giai Nhân Luật Sư - Truyện Ngôn Tình Hay Nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/52.mp3",
+    "title" : "MC Phương Thúy - Truyện Ngôn Tình Thực Tế 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/53.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy - Truyện Ngôn Tình Hay nhất 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/54.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phuong Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/55.mp3",
+    "title" : "Giai Nhân Luật Sư - truyện ngôn tình 2002 - MC phương thúy kể rất hấp dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/56.mp3",
+    "title" : "Giai Nhân Luật Sư - Truyện Ngôn Tình Hay Nhất - MC Kể Hấp Dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/57.mp3",
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/58.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/59.mp3",
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/6.mp3",
+    "title" : "Giai Nhân Luật Sư - MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/60.mp3",
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/61.mp3",
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY - AUDIOTRUYENHAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/62.mp3",
+    "title" : "MC Phương Thúy Kể Hấp Dẫn -Tập 62 Adio truyện hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/63.mp3",
+    "title" : "Giai Nhân Luật Sư - Audio Truyện Hay - MC Phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/64.mp3",
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY - AUDIO TRUYỆN HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/65.mp3",
+    "title" : "MC PHƯƠNG THÚY - TẬP 65 - AUDIO TRUYỆN HAY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/66.mp3",
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY KỂ RẤT HẤP DẪN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/67.mp3",
+    "title" : "GIAI NHÂN LUẬT SƯ - NHUQUYNHTRUYEN - MC PHƯƠNG THÚY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/68.mp3",
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY KỂ RẤT HẤP DẪN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/69.mp3",
+    "title" : "MC PHƯƠNG THÚY - TRUYỆN NGÔN TÌNH HAY NHẤT 2020 - TẬP 69",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/7.mp3",
+    "title" : "Giai Nhân Luật Sư - MC Phương Thúy [Tập 7]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/70.mp3",
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY KỂ TRUYỆN HÂP DẪN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/71.mp3",
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY KỂ HẤP DẪN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/72.mp3",
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY KỂ - Truyện Tâm Lý Xã Hôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/73.mp3",
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY - Truyện Tâm Lý Xã Hội 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/74.mp3",
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY - ĐỌC TRUYỆN NGÔN TÌNH HAY 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/75.mp3",
+    "title" : "Tập 75 - Truyện Ngôn tình hấp dẫn 2020 - MC phương Thúy kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/76.mp3",
+    "title" : "CHÀNG GIAI NHÂN VÀ LUẬT SƯ - MC PHƯƠNG THÚY KỂ - TẬP 76",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/77.mp3",
+    "title" : "CHÀNG GIAI NHÂN VÀ LUẬT SƯ - MC PHƯƠNG THÚY KỂ HẤP DẪN BẠN NGHE",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/78.mp3",
+    "title" : "GIAI NHÂN LUẬT SƯ - MC PHƯƠNG THÚY LỂ HẤP DẪN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/8.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất - Giai Nhân Luật Sư - MC phương Thúy",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/giai-nhan-va-luat-su/9.mp3",
+    "title" : "Giai Nhân Luật Sư - MC phương Thúy",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

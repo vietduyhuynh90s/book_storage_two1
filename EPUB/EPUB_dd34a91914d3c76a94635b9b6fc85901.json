@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ban-co-mot-thu-moi-chua-doc_14848.html",
+    "title" : "Bạn Có Một Thư Mới Chưa Đọc!",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trương Hạo Thần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 11558,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_dd34a91914d3c76a94635b9b6fc85901.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_dd34a91914d3c76a94635b9b6fc85901.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/BCMTMCD/B%E1%BA%A1n%20c%C3%B3%20m%E1%BB%99t%20th%C6%B0%20m%E1%BB%9Bi%20ch%C6%B0a%20%C4%91%E1%BB%8Dc%20-%20Tr%C6%B0%C6%A1ng%20H%E1%BA%A1o%20Th%E1%BA%A7n%20%28128kbit_AAC%29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11558,
+    "title" : "Bạn có một thư mới chưa đọc - Trương Hạo Thần (128kbit AAC)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/BCMTMCD/B%E1%BA%A1n%20c%C3%B3%20m%E1%BB%99t%20th%C6%B0%20m%E1%BB%9Bi%20ch%C6%B0a%20%C4%91%E1%BB%8Dc%20-%20Tr%C6%B0%C6%A1ng%20H%E1%BA%A1o%20Th%E1%BA%A7n%20%28128kbit_AAC%29.mp3",
+    "title" : "Bạn có một thư mới chưa đọc - Trương Hạo Thần (128kbit AAC)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phi-vu-dac-biet_14821.html",
+    "title" : "Phi Vụ Đặc Biệt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khuyết Danh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 40428,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_53ba4a9eaa5249e4aceec65bf999064b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_53ba4a9eaa5249e4aceec65bf999064b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phi-vu-dac-biet/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3681,
+    "title" : "Tập 1 - MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-dac-biet/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3918,
+    "title" : "Tập 10 - MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-dac-biet/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3692,
+    "title" : "Tập 2 - MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-dac-biet/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3764,
+    "title" : "Tập 3 - MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-dac-biet/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3627,
+    "title" : "Tập 4 - MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-dac-biet/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3912,
+    "title" : "Tập 5 - MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-dac-biet/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4326,
+    "title" : "Tập 6 - MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-dac-biet/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4421,
+    "title" : "Tập 7 - MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-dac-biet/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3749,
+    "title" : "Tập 8 - MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phi-vu-dac-biet/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5338,
+    "title" : "Tập 9 - MC Lạc Lạc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phi-vu-dac-biet/1.mp3",
+    "title" : "Tập 1 - MC Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-dac-biet/10.mp3",
+    "title" : "Tập 10 - MC Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-dac-biet/2.mp3",
+    "title" : "Tập 2 - MC Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-dac-biet/3.mp3",
+    "title" : "Tập 3 - MC Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-dac-biet/4.mp3",
+    "title" : "Tập 4 - MC Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-dac-biet/5.mp3",
+    "title" : "Tập 5 - MC Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-dac-biet/6.mp3",
+    "title" : "Tập 6 - MC Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-dac-biet/7.mp3",
+    "title" : "Tập 7 - MC Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-dac-biet/8.mp3",
+    "title" : "Tập 8 - MC Lạc Lạc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phi-vu-dac-biet/9.mp3",
+    "title" : "Tập 9 - MC Lạc Lạc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

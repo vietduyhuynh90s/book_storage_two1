@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vuong-gia-di-thong-tha_15472.html",
+    "title" : "Vương Gia, Đi Thong Thả",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dịch Lâm An",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 65654,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_f0abdddc726396928f1db8684f7a714e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_f0abdddc726396928f1db8684f7a714e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3404,
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 1) || Phát hành 2,4,6 hàng tuần!!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4825,
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 10) || Phát hành 2,4,6 hàng tuần!!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4617,
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 11) || Phát hành 2,4,6 hàng tuần!!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3660,
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 12) || Phát hành 2,4,6 hàng tuần!!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3391,
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 13) || Phát hành 2,4,6 hàng tuần!!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3489,
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 14) || Phát hành 2,4,6 hàng tuần!!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3444,
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 15) || Phát hành 2,4,6 hàng tuần!!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3494,
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA, ĐI THONG THẢ! (TẬP 16) || KẾT HOÀN !",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4006,
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 2) || Phát hành 2,4,6 hàng tuần!!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4702,
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 3) || Phát hành 2,4,6 hàng tuần!!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5244,
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 4) || Phát hành 2,4,6 hàng tuần!!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3925,
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 5) || Phát hành 2,4,6 hàng tuần!!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5057,
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 6) || Phát hành 2,4,6 hàng tuần!!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3489,
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 7) || Phát hành 2,4,6 hàng tuần!!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4841,
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 8) || Phát hành 2,4,6 hàng tuần!!!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4066,
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 9) || Phát hành 2,4,6 hàng tuần!!!",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/1.mp3",
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 1) || Phát hành 2,4,6 hàng tuần!!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/10.mp3",
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 10) || Phát hành 2,4,6 hàng tuần!!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/11.mp3",
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 11) || Phát hành 2,4,6 hàng tuần!!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/12.mp3",
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 12) || Phát hành 2,4,6 hàng tuần!!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/13.mp3",
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 13) || Phát hành 2,4,6 hàng tuần!!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/14.mp3",
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 14) || Phát hành 2,4,6 hàng tuần!!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/15.mp3",
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 15) || Phát hành 2,4,6 hàng tuần!!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/16.mp3",
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA, ĐI THONG THẢ! (TẬP 16) || KẾT HOÀN !",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/2.mp3",
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 2) || Phát hành 2,4,6 hàng tuần!!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/3.mp3",
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 3) || Phát hành 2,4,6 hàng tuần!!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/4.mp3",
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 4) || Phát hành 2,4,6 hàng tuần!!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/5.mp3",
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 5) || Phát hành 2,4,6 hàng tuần!!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/6.mp3",
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 6) || Phát hành 2,4,6 hàng tuần!!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/7.mp3",
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 7) || Phát hành 2,4,6 hàng tuần!!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/8.mp3",
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 8) || Phát hành 2,4,6 hàng tuần!!!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuong-gia-di-thong-tha/9.mp3",
+    "title" : "[BÁCH HỢP AUDIO] VƯƠNG GIA,ĐI THONG THẢ! ( TẬP 9) || Phát hành 2,4,6 hàng tuần!!!",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

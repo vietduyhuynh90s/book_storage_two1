@@ -1,0 +1,389 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/anh-hau-toan-nang-sung-chong-ngoc_15351.html",
+    "title" : "Ảnh Hậu Toàn Năng Sủng Chồng Ngốc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mị Dạ Thuỷ Thảo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 207796,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_40c90344a7fc7ad88cb2fcc79676d3a2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_40c90344a7fc7ad88cb2fcc79676d3a2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6844,
+    "title" : "Trọng Sinh Vì Anh - Ngôn Tình Trọng Sinh Sủng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6932,
+    "title" : "Tổng Tài Dũng Cảm - Ngôn tình Trọng sinh Sủng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6965,
+    "title" : "Thành Công của Yêu Nhầm - Ngôn tình Trọng sinh Sủng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7237,
+    "title" : "Sở Ngao Du Bệnh Nặng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7158,
+    "title" : "Nhờ Ông Nội Giúp Một Tay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7165,
+    "title" : "Kế Hoạch Tán Gái của Chàng Tổng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7210,
+    "title" : "Chàng Tổng Hẹn Hò Cùng Nữ Thần",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7140,
+    "title" : "Ảnh Hậu Đa Tài - Truyện Ngôn Tình Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7136,
+    "title" : "Một Đêm Đáng Nhớ - Truyện Ngôn Tình Mới Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7070,
+    "title" : "Truyện Ngôn Tình Trọng Sinh Sủng Ngọt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6928,
+    "title" : "Truyện Ngôn Tình Trọng Sinh Mới 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6784,
+    "title" : "Người Đàn Ông Đeo Mặt Lạ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6718,
+    "title" : "Truyện Ngôn Tình Hay 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6895,
+    "title" : "Truyện Ngôn Tình Trọng Sinh Cực Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6610,
+    "title" : "Giấc mơ Kỳ Lạ của Tổng Tài - Truyện Ngôn Tình Mới 2020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7163,
+    "title" : "Truyện ngôn tình trọng sinh hấp dẫn và hay nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6942,
+    "title" : "Tiếng Hát chỉ Có Ở Thiên Đường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6911,
+    "title" : "Một Mình Ở Nước Ngoài - Truyện Ngôn Tình Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6802,
+    "title" : "Trăng Mật Trong Thế Giới Diệu Kỳ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6814,
+    "title" : "Khuynh Đảo Thế Giới Cờ Vây - Truyện Ngôn Tình Hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6910,
+    "title" : "Cháu Dâu là Số 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13091,
+    "title" : "Truyện Ngôn Tình Trọng Sinh Sủng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7126,
+    "title" : "Hệ Thống Trọng Sinh Kỳ Lạ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6646,
+    "title" : "Chàng Tổng Rụt Rè - Ngôn Tình Trọng Sinh Sủng Ngọt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7027,
+    "title" : "Tâm Tư Sâu Kín Của Tổng Tài - Ngôn Tình Trọng Sinh Sủng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6863,
+    "title" : "Xứng Danh Nữ Thần - Ngôn tình trọng sinh Sủng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6654,
+    "title" : "Sinh Nhật Đáng Nhớ của Tổng Tài - Ngôn tình Trọng Sinh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6851,
+    "title" : "Bản Lĩnh Của Nữ Thần - Ngôn tình Trọng Sinh Sủng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7204,
+    "title" : "Vai Nữ Chính Đầu Tiên",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/1.mp3",
+    "title" : "Trọng Sinh Vì Anh - Ngôn Tình Trọng Sinh Sủng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/10.mp3",
+    "title" : "Tổng Tài Dũng Cảm - Ngôn tình Trọng sinh Sủng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/11.mp3",
+    "title" : "Thành Công của Yêu Nhầm - Ngôn tình Trọng sinh Sủng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/12.mp3",
+    "title" : "Sở Ngao Du Bệnh Nặng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/13.mp3",
+    "title" : "Nhờ Ông Nội Giúp Một Tay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/14.mp3",
+    "title" : "Kế Hoạch Tán Gái của Chàng Tổng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/15.mp3",
+    "title" : "Chàng Tổng Hẹn Hò Cùng Nữ Thần",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/16.mp3",
+    "title" : "Ảnh Hậu Đa Tài - Truyện Ngôn Tình Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/17.mp3",
+    "title" : "Một Đêm Đáng Nhớ - Truyện Ngôn Tình Mới Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/18.mp3",
+    "title" : "Truyện Ngôn Tình Trọng Sinh Sủng Ngọt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/19.mp3",
+    "title" : "Truyện Ngôn Tình Trọng Sinh Mới 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/2.mp3",
+    "title" : "Người Đàn Ông Đeo Mặt Lạ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/20.mp3",
+    "title" : "Truyện Ngôn Tình Hay 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/21.mp3",
+    "title" : "Truyện Ngôn Tình Trọng Sinh Cực Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/22.mp3",
+    "title" : "Giấc mơ Kỳ Lạ của Tổng Tài - Truyện Ngôn Tình Mới 2020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/23.mp3",
+    "title" : "Truyện ngôn tình trọng sinh hấp dẫn và hay nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/24.mp3",
+    "title" : "Tiếng Hát chỉ Có Ở Thiên Đường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/25.mp3",
+    "title" : "Một Mình Ở Nước Ngoài - Truyện Ngôn Tình Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/26.mp3",
+    "title" : "Trăng Mật Trong Thế Giới Diệu Kỳ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/27.mp3",
+    "title" : "Khuynh Đảo Thế Giới Cờ Vây - Truyện Ngôn Tình Hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/28.mp3",
+    "title" : "Cháu Dâu là Số 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/29.mp3",
+    "title" : "Truyện Ngôn Tình Trọng Sinh Sủng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/3.mp3",
+    "title" : "Hệ Thống Trọng Sinh Kỳ Lạ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/4.mp3",
+    "title" : "Chàng Tổng Rụt Rè - Ngôn Tình Trọng Sinh Sủng Ngọt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/5.mp3",
+    "title" : "Tâm Tư Sâu Kín Của Tổng Tài - Ngôn Tình Trọng Sinh Sủng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/6.mp3",
+    "title" : "Xứng Danh Nữ Thần - Ngôn tình trọng sinh Sủng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/7.mp3",
+    "title" : "Sinh Nhật Đáng Nhớ của Tổng Tài - Ngôn tình Trọng Sinh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/8.mp3",
+    "title" : "Bản Lĩnh Của Nữ Thần - Ngôn tình Trọng Sinh Sủng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-hau-toan-nang-sung-chong-ngoc/9.mp3",
+    "title" : "Vai Nữ Chính Đầu Tiên",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

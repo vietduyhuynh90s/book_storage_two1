@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dan-huong-hinh_19125.html",
+    "title" : "Đàn Hương Hình",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mạc Ngôn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 65624,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_d101c73a4f474d91c31397b525be269e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_d101c73a4f474d91c31397b525be269e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2715,
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2977,
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2541,
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1555,
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3642,
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2904,
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3198,
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4127,
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3322,
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3043,
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2435,
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2278,
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1725,
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4534,
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4048,
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4050,
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4711,
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2537,
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3738,
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5544,
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 20 (HẾT)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-01.mp3",
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-02.mp3",
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-03.mp3",
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-04.mp3",
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-05.mp3",
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-06.mp3",
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-07.mp3",
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-08.mp3",
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-09.mp3",
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-10.mp3",
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-11.mp3",
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-12.mp3",
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-13.mp3",
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-14.mp3",
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-15.mp3",
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-16.mp3",
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-17.mp3",
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-18.mp3",
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-19.mp3",
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dan-huong-20/dan-huong-20.mp3",
+    "title" : "ĐÀN HƯƠNG HÌNH| MẠC NGÔN| PHẦN 20 (HẾT)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
