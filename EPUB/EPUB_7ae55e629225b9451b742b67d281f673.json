@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mai-mai-la-bao-xa-diep-lac-vo-tam_10307.html",
+    "title" : "Mãi Mãi Là Bao Xa - Diệp Lạc Vô Tâm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diệp Lạc Vô Tâm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 65339,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_7ae55e629225b9451b742b67d281f673.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_7ae55e629225b9451b742b67d281f673.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5039,
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6343,
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7916,
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11812,
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4770,
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1694,
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4356,
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3968,
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3920,
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5666,
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5173,
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4682,
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/1.mp3",
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/10.mp3",
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/11.mp3",
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/12.mp3",
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/2.mp3",
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/3.mp3",
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/4.mp3",
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/5.mp3",
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/6.mp3",
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/7.mp3",
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/8.mp3",
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mai-mai-la-bao-xa/9.mp3",
+    "title" : "Truyện Đêm Khuya Cực Hay Của Diệp Lạc Vô Tâm",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

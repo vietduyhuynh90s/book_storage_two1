@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/co-gai-co-hinh-xam-rong_3590.html",
+    "title" : "Cô Gái Có Hình Xăm Rồng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Stieg Larsson",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 40708,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_09677c0f8fe93e5608b0ee7a204ee847.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_09677c0f8fe93e5608b0ee7a204ee847.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/c-g-c-h-x-1/c-g-c-h-x-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8451,
+    "title" : "c-g-c-h-x-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/c-g-c-h-x-1/c-g-c-h-x-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8908,
+    "title" : "c-g-c-h-x-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/c-g-c-h-x-1/c-g-c-h-x-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8455,
+    "title" : "c-g-c-h-x-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/c-g-c-h-x-1/c-g-c-h-x-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8201,
+    "title" : "c-g-c-h-x-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/c-g-c-h-x-1/c-g-c-h-x-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6693,
+    "title" : "c-g-c-h-x-5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/c-g-c-h-x-1/c-g-c-h-x-1.mp3",
+    "title" : "c-g-c-h-x-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/c-g-c-h-x-1/c-g-c-h-x-2.mp3",
+    "title" : "c-g-c-h-x-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/c-g-c-h-x-1/c-g-c-h-x-3.mp3",
+    "title" : "c-g-c-h-x-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/c-g-c-h-x-1/c-g-c-h-x-4.mp3",
+    "title" : "c-g-c-h-x-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/c-g-c-h-x-1/c-g-c-h-x-5.mp3",
+    "title" : "c-g-c-h-x-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

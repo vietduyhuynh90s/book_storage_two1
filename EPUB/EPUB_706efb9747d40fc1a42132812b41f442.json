@@ -1,0 +1,401 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ban-chat-cua-di-hai-mat_11712.html",
+    "title" : "Bản Chất Của Đĩ - Hai Mặt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hai Mặt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 129741,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_706efb9747d40fc1a42132812b41f442.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_706efb9747d40fc1a42132812b41f442.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/banchatcuadi_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5057,
+    "title" : "1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3967,
+    "title" : "10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5185,
+    "title" : "11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3918,
+    "title" : "Bản chất của... Quyển 2 - P1 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3838,
+    "title" : "Bản chất của ... Quyển 2 - P2 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3993,
+    "title" : "Bản chất của... Quyển 2 - P3 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4278,
+    "title" : "Bản chất của... Quyển 2 - P4 - Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4319,
+    "title" : "Bản chất của... Quyển 2 P5 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4660,
+    "title" : "bản chất của... Quyển 2 P6 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4609,
+    "title" : "Bản chất của... Quyển 2 P7 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3290,
+    "title" : "bản chất của... Quyển 2 P8 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3910,
+    "title" : "2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4810,
+    "title" : "bản chất của... Quyển 2 P9 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5083,
+    "title" : "Bản chất của... Quyển 2 P10 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4698,
+    "title" : "Bản chất của... Quyển 2 P11 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3818,
+    "title" : "Bản chất của... Quyển 2 P12 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4403,
+    "title" : "Bản chất của... Quyển 2 P13 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3933,
+    "title" : "Bản chất của ... Quyển 2 P14 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5540,
+    "title" : "Bản chất của... Quyển 2 P15 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5344,
+    "title" : "Bản chất của... Quyển 2 P16 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3820,
+    "title" : "Bản chất của... Quyển 2 P17 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4070,
+    "title" : "Bản chất của... Quyển 2 P18 - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4030,
+    "title" : "3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3017,
+    "title" : "Bản chất của... Quyển 2 P19 (hết) - MC Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3995,
+    "title" : "4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4098,
+    "title" : "5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4747,
+    "title" : "6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5140,
+    "title" : "7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3665,
+    "title" : "8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4506,
+    "title" : "9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/banchatcuadi_201903/1.mp3",
+    "title" : "1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/10.mp3",
+    "title" : "10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/11.mp3",
+    "title" : "11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/12.mp3",
+    "title" : "Bản chất của... Quyển 2 - P1 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/13.mp3",
+    "title" : "Bản chất của ... Quyển 2 - P2 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/14.mp3",
+    "title" : "Bản chất của... Quyển 2 - P3 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/15.mp3",
+    "title" : "Bản chất của... Quyển 2 - P4 - Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/16.mp3",
+    "title" : "Bản chất của... Quyển 2 P5 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/17.mp3",
+    "title" : "bản chất của... Quyển 2 P6 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/18.mp3",
+    "title" : "Bản chất của... Quyển 2 P7 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/19.mp3",
+    "title" : "bản chất của... Quyển 2 P8 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/2.mp3",
+    "title" : "2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/20.mp3",
+    "title" : "bản chất của... Quyển 2 P9 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/21.mp3",
+    "title" : "Bản chất của... Quyển 2 P10 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/22.mp3",
+    "title" : "Bản chất của... Quyển 2 P11 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/23.mp3",
+    "title" : "Bản chất của... Quyển 2 P12 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/24.mp3",
+    "title" : "Bản chất của... Quyển 2 P13 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/25.mp3",
+    "title" : "Bản chất của ... Quyển 2 P14 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/26.mp3",
+    "title" : "Bản chất của... Quyển 2 P15 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/27.mp3",
+    "title" : "Bản chất của... Quyển 2 P16 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/28.mp3",
+    "title" : "Bản chất của... Quyển 2 P17 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/29.mp3",
+    "title" : "Bản chất của... Quyển 2 P18 - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/3.mp3",
+    "title" : "3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/30.mp3",
+    "title" : "Bản chất của... Quyển 2 P19 (hết) - MC Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/4.mp3",
+    "title" : "4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/5.mp3",
+    "title" : "5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/6.mp3",
+    "title" : "6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/7.mp3",
+    "title" : "7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/8.mp3",
+    "title" : "8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/banchatcuadi_201903/9.mp3",
+    "title" : "9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

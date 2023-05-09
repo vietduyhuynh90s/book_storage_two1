@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/troi-dat-tac-thanh-tang-gioi_10268.html",
+    "title" : "Trời Đất Tác Thành - Tang Giới",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tang Giới",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 55768,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_edb0d30d1de0f6396f7f9bd112ae58de.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_edb0d30d1de0f6396f7f9bd112ae58de.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/troi-dat-tac-thanh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6836,
+    "title" : "P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/troi-dat-tac-thanh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7290,
+    "title" : "P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/troi-dat-tac-thanh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7658,
+    "title" : "P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/troi-dat-tac-thanh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6532,
+    "title" : "P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/troi-dat-tac-thanh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7455,
+    "title" : "P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/troi-dat-tac-thanh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6772,
+    "title" : "P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/troi-dat-tac-thanh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5974,
+    "title" : "P7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/troi-dat-tac-thanh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7251,
+    "title" : "P8 hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/troi-dat-tac-thanh/1.mp3",
+    "title" : "P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/troi-dat-tac-thanh/2.mp3",
+    "title" : "P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/troi-dat-tac-thanh/3.mp3",
+    "title" : "P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/troi-dat-tac-thanh/4.mp3",
+    "title" : "P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/troi-dat-tac-thanh/5.mp3",
+    "title" : "P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/troi-dat-tac-thanh/6.mp3",
+    "title" : "P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/troi-dat-tac-thanh/7.mp3",
+    "title" : "P7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/troi-dat-tac-thanh/8.mp3",
+    "title" : "P8 hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

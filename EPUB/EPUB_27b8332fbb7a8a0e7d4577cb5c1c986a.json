@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bay-kiep-xui-xeo-cuu-lo-phi-huong_10315.html",
+    "title" : "Bảy Kiếp Xui Xẻo - Cửu Lộ Phi Hương",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cửu Lộ Phi Hương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 41267,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_27b8332fbb7a8a0e7d4577cb5c1c986a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_27b8332fbb7a8a0e7d4577cb5c1c986a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2278,
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4727,
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4109,
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2917,
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2132,
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3205,
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3031,
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2372,
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2627,
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3661,
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3949,
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3267,
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2992,
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/1.mp3",
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/10.mp3",
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/11.mp3",
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/12.mp3",
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/13.mp3",
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/2.mp3",
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/3.mp3",
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/4.mp3",
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/5.mp3",
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/6.mp3",
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/7.mp3",
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/8.mp3",
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7-kiep-xui-xeo/9.mp3",
+    "title" : "Truyện Đêm Khuya Hay 2017",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

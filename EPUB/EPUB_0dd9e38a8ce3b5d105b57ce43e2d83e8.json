@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phia-sau-nghi-can-x_8595.html",
+    "title" : "Phía Sau Nghi Can X",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Higashino Keigo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 26161,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_0dd9e38a8ce3b5d105b57ce43e2d83e8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_0dd9e38a8ce3b5d105b57ce43e2d83e8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phia-sau-1/phia-sau-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4405,
+    "title" : "phia-sau-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phia-sau-1/phia-sau-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4011,
+    "title" : "phia-sau-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phia-sau-1/phia-sau-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4502,
+    "title" : "phia-sau-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phia-sau-1/phia-sau-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4900,
+    "title" : "phia-sau-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phia-sau-1/phia-sau-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4107,
+    "title" : "phia-sau-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phia-sau-1/phia-sau-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4236,
+    "title" : "phia-sau-6",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phia-sau-1/phia-sau-1.mp3",
+    "title" : "phia-sau-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phia-sau-1/phia-sau-2.mp3",
+    "title" : "phia-sau-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phia-sau-1/phia-sau-3.mp3",
+    "title" : "phia-sau-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phia-sau-1/phia-sau-4.mp3",
+    "title" : "phia-sau-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phia-sau-1/phia-sau-5.mp3",
+    "title" : "phia-sau-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phia-sau-1/phia-sau-6.mp3",
+    "title" : "phia-sau-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

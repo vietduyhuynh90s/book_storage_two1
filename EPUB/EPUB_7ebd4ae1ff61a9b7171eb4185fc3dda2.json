@@ -1,0 +1,317 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vung-dat-vo-hinh-tham-hoa-rach_10186.html",
+    "title" : "Vùng Đất Vô Hình - Thám Hoa Rách",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thám Hoa Rách",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 78872,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_7ebd4ae1ff61a9b7171eb4185fc3dda2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_7ebd4ae1ff61a9b7171eb4185fc3dda2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vungdatvohinh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4657,
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3968,
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5178,
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4678,
+    "title" : "Phần 12: Những vụ giết người bí ẩn (Chương 66→73) - Thám Hoa Rách [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1169,
+    "title" : "Phần 13: Lá bùa oan nghiệt - Thám Hoa Rách [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1291,
+    "title" : "Phần 14: Con đường không bằng phẳng - Thám Hoa Rách [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1731,
+    "title" : "Phần 15: Nhếch môi cười - Thám Hoa Rách [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1099,
+    "title" : "Phần 16: Có đôi khi, thật giả khó phân - Thám Hoa Rách [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5400,
+    "title" : "Phần 17: Tà dương như máu - Thám Hoa Rách [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3484,
+    "title" : "Phần 18 (tập 93-101): Mía sâu có đốt, nhà dột có nơi [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "Phần 19: Tru Tiên Trảm Tà Song Phù Đao [MC Viết Linh]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4565,
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3356,
+    "title" : "20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5085,
+    "title" : "21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2911,
+    "title" : "Phần 22: Lời của cơn gió cũ - TG: Thám Hoa Rách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2319,
+    "title" : "Phần 23: Quá khứ u tối - TG: Thám Hoa Rách",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3088,
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3975,
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4305,
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3355,
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3209,
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3127,
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3322,
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vungdatvohinh/1.mp3",
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/10.mp3",
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/11.mp3",
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/12.mp3",
+    "title" : "Phần 12: Những vụ giết người bí ẩn (Chương 66→73) - Thám Hoa Rách [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/13.mp3",
+    "title" : "Phần 13: Lá bùa oan nghiệt - Thám Hoa Rách [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/14.mp3",
+    "title" : "Phần 14: Con đường không bằng phẳng - Thám Hoa Rách [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/15.mp3",
+    "title" : "Phần 15: Nhếch môi cười - Thám Hoa Rách [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/16.mp3",
+    "title" : "Phần 16: Có đôi khi, thật giả khó phân - Thám Hoa Rách [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/17.mp3",
+    "title" : "Phần 17: Tà dương như máu - Thám Hoa Rách [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/18.mp3",
+    "title" : "Phần 18 (tập 93-101): Mía sâu có đốt, nhà dột có nơi [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/19.mp3",
+    "title" : "Phần 19: Tru Tiên Trảm Tà Song Phù Đao [MC Viết Linh]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/2.mp3",
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/20.mp3",
+    "title" : "20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/21.mp3",
+    "title" : "21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/22.mp3",
+    "title" : "Phần 22: Lời của cơn gió cũ - TG: Thám Hoa Rách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/23.mp3",
+    "title" : "Phần 23: Quá khứ u tối - TG: Thám Hoa Rách",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/3.mp3",
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/4.mp3",
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/5.mp3",
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/6.mp3",
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/7.mp3",
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/8.mp3",
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vungdatvohinh/9.mp3",
+    "title" : "Tổng hợp truyện audio mới nhất",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

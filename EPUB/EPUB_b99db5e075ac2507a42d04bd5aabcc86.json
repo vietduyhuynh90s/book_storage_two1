@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/gai-xau-cong-so_12744.html",
+    "title" : "Gái Xấu Công Sở",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Võ Anh Thơ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 41010,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_b99db5e075ac2507a42d04bd5aabcc86.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_b99db5e075ac2507a42d04bd5aabcc86.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/gai-xau-cong-so/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3000,
+    "title" : "Ngày đầu đi làm - Truyện cực hay Mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2525,
+    "title" : "Hẹn hò - Truyện rất hay, Mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2642,
+    "title" : "Nỗi bất an - Truyện hay 2019, Mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2873,
+    "title" : "Nỗi lòng - Truyện hay do Mc Hồng Nhung đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2916,
+    "title" : "Giăng bẫy - Truyện hay thú vị, Mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3040,
+    "title" : "Lộ âm mưu - Truyện tâm lí xã hội, Mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1516,
+    "title" : "kết thúc - Truyện quá hay dó Mc Hồng Nhung đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3270,
+    "title" : "Tỏ tình - Truyện cực hay mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2631,
+    "title" : "Gian dối - Truyện hay, Mc Hồng Nhung diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2709,
+    "title" : "Sự thật - Truyện hay, Mc Hồng Nhung đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2846,
+    "title" : "Gặp lại người cũ - Truyện hay 2019, Mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2570,
+    "title" : "Mất kiểm soát - Truyện siêu hay, Mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2714,
+    "title" : "Gái xấu phấn đấu sai đường - Truyện hay 2019, Mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2878,
+    "title" : "Tỏ tình - Truyện cực hay, Mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2880,
+    "title" : "Chạm mặt người cũ - Truyện cực hay, mc Hồng Nhung",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/gai-xau-cong-so/1.mp3",
+    "title" : "Ngày đầu đi làm - Truyện cực hay Mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/10.mp3",
+    "title" : "Hẹn hò - Truyện rất hay, Mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/11.mp3",
+    "title" : "Nỗi bất an - Truyện hay 2019, Mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/12.mp3",
+    "title" : "Nỗi lòng - Truyện hay do Mc Hồng Nhung đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/13.mp3",
+    "title" : "Giăng bẫy - Truyện hay thú vị, Mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/14.mp3",
+    "title" : "Lộ âm mưu - Truyện tâm lí xã hội, Mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/15.mp3",
+    "title" : "kết thúc - Truyện quá hay dó Mc Hồng Nhung đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/2.mp3",
+    "title" : "Tỏ tình - Truyện cực hay mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/3.mp3",
+    "title" : "Gian dối - Truyện hay, Mc Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/4.mp3",
+    "title" : "Sự thật - Truyện hay, Mc Hồng Nhung đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/5.mp3",
+    "title" : "Gặp lại người cũ - Truyện hay 2019, Mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/6.mp3",
+    "title" : "Mất kiểm soát - Truyện siêu hay, Mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/7.mp3",
+    "title" : "Gái xấu phấn đấu sai đường - Truyện hay 2019, Mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/8.mp3",
+    "title" : "Tỏ tình - Truyện cực hay, Mc Hồng Nhung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/gai-xau-cong-so/9.mp3",
+    "title" : "Chạm mặt người cũ - Truyện cực hay, mc Hồng Nhung",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

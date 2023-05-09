@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hoa-huyet-than-cong-tran-thanh-van_9439.html",
+    "title" : "Hóa Huyết Thần Công - Trần Thanh Vân.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Thanh Vân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 139022,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_ccbe25e3835ed174d20f8d7259a56a32.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_ccbe25e3835ed174d20f8d7259a56a32.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12475,
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11673,
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11365,
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%2012%20Cu%E1%BB%91i.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6605,
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 12 Cuối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11613,
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12851,
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12177,
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12099,
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11971,
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11881,
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%208.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12251,
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%209.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12061,
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%201.mp3",
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%2010.mp3",
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%2011.mp3",
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%2012%20Cu%E1%BB%91i.mp3",
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 12 Cuối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%202.mp3",
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%203.mp3",
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%204.mp3",
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%205.mp3",
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%206.mp3",
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%207.mp3",
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%208.mp3",
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hoahuyetthancong/Ki%E1%BA%BFm%20Hi%E1%BB%87p%20Tr%E1%BA%A7n%20Thanh%20V%C3%A2n%20-%20H%C3%B3a%20Huy%E1%BA%BFt%20Th%E1%BA%A7n%20C%C3%B4ng%20T%E1%BA%ADp%209.mp3",
+    "title" : "Kiếm Hiệp Trần Thanh Vân - Hóa Huyết Thần Công Tập 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

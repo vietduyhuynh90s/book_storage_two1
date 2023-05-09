@@ -1,0 +1,437 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/cho-anh-nhin-ve-em-tan-di-o_10150.html",
+    "title" : "Cho Anh Nhìn Về Em - Tân Di Ổ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tân Di Ổ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 112078,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_66dceabf218dc9b60c5789ba2cafe631.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_66dceabf218dc9b60c5789ba2cafe631.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/choanhnhinveem/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2603,
+    "title" : "Tân Di Ổ - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2803,
+    "title" : "Tân Di Ổ - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2783,
+    "title" : "Tân Di Ổ - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2583,
+    "title" : "Tân Di Ổ - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3003,
+    "title" : "Tân Di Ổ - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2403,
+    "title" : "Tân Di Ổ - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3683,
+    "title" : "Tân Di Ổ - Phần15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3123,
+    "title" : "Tân Di Ổ - Phần16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2683,
+    "title" : "Tân Di Ổ - Phần17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2553,
+    "title" : "Tân Di Ổ - Phần18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1303,
+    "title" : "Tân Di Ổ - Phần19 (Hết Quyển 1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2533,
+    "title" : "Tân Di Ổ - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2903,
+    "title" : "Tân Di Ổ - Phần20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3603,
+    "title" : "Tân Di Ổ - Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4003,
+    "title" : "Tân Di Ổ - Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3803,
+    "title" : "Tân Di Ổ - Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3830,
+    "title" : "Tân Di Ổ - Phần 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4473,
+    "title" : "Tân Di Ổ - Phần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4003,
+    "title" : "Tân Di Ổ - Phần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3563,
+    "title" : "Tân Di Ổ - Phần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3453,
+    "title" : "Tân Di Ổ - Phần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3703,
+    "title" : "Tân Di Ổ - Phần 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3403,
+    "title" : "Tân Di Ổ - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4313,
+    "title" : "Tân Di Ổ - Phần 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5018,
+    "title" : "Tân Di Ổ - Phần 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4293,
+    "title" : "Tân Di Ổ - Phần 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6603,
+    "title" : "Tân Di Ổ - Phần 33 (END)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3320,
+    "title" : "Tân Di Ổ - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3873,
+    "title" : "Tân Di Ổ -Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3293,
+    "title" : "Tân Di Ổ - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2493,
+    "title" : "Tân Di Ổ - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3373,
+    "title" : "Tân Di Ổ - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2703,
+    "title" : "Tân Di Ổ - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/choanhnhinveem/1.mp3",
+    "title" : "Tân Di Ổ - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/10.mp3",
+    "title" : "Tân Di Ổ - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/11.mp3",
+    "title" : "Tân Di Ổ - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/12.mp3",
+    "title" : "Tân Di Ổ - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/13.mp3",
+    "title" : "Tân Di Ổ - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/14.mp3",
+    "title" : "Tân Di Ổ - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/15.mp3",
+    "title" : "Tân Di Ổ - Phần15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/16.mp3",
+    "title" : "Tân Di Ổ - Phần16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/17.mp3",
+    "title" : "Tân Di Ổ - Phần17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/18.mp3",
+    "title" : "Tân Di Ổ - Phần18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/19.mp3",
+    "title" : "Tân Di Ổ - Phần19 (Hết Quyển 1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/2.mp3",
+    "title" : "Tân Di Ổ - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/20.mp3",
+    "title" : "Tân Di Ổ - Phần20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/21.mp3",
+    "title" : "Tân Di Ổ - Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/22.mp3",
+    "title" : "Tân Di Ổ - Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/23.mp3",
+    "title" : "Tân Di Ổ - Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/24.mp3",
+    "title" : "Tân Di Ổ - Phần 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/25.mp3",
+    "title" : "Tân Di Ổ - Phần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/26.mp3",
+    "title" : "Tân Di Ổ - Phần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/27.mp3",
+    "title" : "Tân Di Ổ - Phần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/28.mp3",
+    "title" : "Tân Di Ổ - Phần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/29.mp3",
+    "title" : "Tân Di Ổ - Phần 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/3.mp3",
+    "title" : "Tân Di Ổ - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/30.mp3",
+    "title" : "Tân Di Ổ - Phần 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/31.mp3",
+    "title" : "Tân Di Ổ - Phần 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/32.mp3",
+    "title" : "Tân Di Ổ - Phần 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/33.mp3",
+    "title" : "Tân Di Ổ - Phần 33 (END)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/4.mp3",
+    "title" : "Tân Di Ổ - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/5.mp3",
+    "title" : "Tân Di Ổ -Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/6.mp3",
+    "title" : "Tân Di Ổ - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/7.mp3",
+    "title" : "Tân Di Ổ - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/8.mp3",
+    "title" : "Tân Di Ổ - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/choanhnhinveem/9.mp3",
+    "title" : "Tân Di Ổ - Phần 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

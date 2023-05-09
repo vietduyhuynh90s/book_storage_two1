@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vuot-qua-loi-tri-diep-lac-vo-tam_10258.html",
+    "title" : "Vượt Qua Lôi Trì - Diệp Lạc Vô Tâm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diệp Lạc Vô Tâm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 51322,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_61d5d0c7ef593060b16fa754945b4048.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_61d5d0c7ef593060b16fa754945b4048.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vuot-qua-loi-tri/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5192,
+    "title" : "Vượt Qua Lôi Trì – Ngôn Tình Ngược (Diệp Lạc Vô Tâm) – P1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-loi-tri/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6327,
+    "title" : "Vượt Qua Lôi Trì – Ngôn Tình Ngược – P2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-loi-tri/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6736,
+    "title" : "Ngôn Tình Ngược – P3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-loi-tri/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6830,
+    "title" : "Ngôn Tình Ngược – P4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-loi-tri/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6803,
+    "title" : "Ngôn Tình Ngược – P5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-loi-tri/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5044,
+    "title" : "Ngôn Tình Ngược – P6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-loi-tri/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7070,
+    "title" : "Ngôn Tình Ngược – P7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-loi-tri/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7320,
+    "title" : "Ngôn Tình Ngược – P8 END",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vuot-qua-loi-tri/1.mp3",
+    "title" : "Vượt Qua Lôi Trì – Ngôn Tình Ngược (Diệp Lạc Vô Tâm) – P1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-loi-tri/2.mp3",
+    "title" : "Vượt Qua Lôi Trì – Ngôn Tình Ngược – P2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-loi-tri/3.mp3",
+    "title" : "Ngôn Tình Ngược – P3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-loi-tri/4.mp3",
+    "title" : "Ngôn Tình Ngược – P4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-loi-tri/5.mp3",
+    "title" : "Ngôn Tình Ngược – P5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-loi-tri/6.mp3",
+    "title" : "Ngôn Tình Ngược – P6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-loi-tri/7.mp3",
+    "title" : "Ngôn Tình Ngược – P7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-loi-tri/8.mp3",
+    "title" : "Ngôn Tình Ngược – P8 END",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

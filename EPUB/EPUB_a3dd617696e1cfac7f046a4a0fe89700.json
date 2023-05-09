@@ -1,0 +1,317 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nha-tien-tri-cuoi-cung-james-rollins_9545.html",
+    "title" : "Nhà Tiên Tri Cuối Cùng - James Rollins.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "James Rollins",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 61378,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_a3dd617696e1cfac7f046a4a0fe89700.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_a3dd617696e1cfac7f046a4a0fe89700.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2723,
+    "title" : "Chương 1 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2722,
+    "title" : "Chương 10 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2823,
+    "title" : "Chương 11 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2137,
+    "title" : "Chương 12 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2936,
+    "title" : "Chương 13 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2717,
+    "title" : "Chương 14 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3418,
+    "title" : "Chương 15 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2013,
+    "title" : "Chương 16 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2862,
+    "title" : "Chương 17 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2123,
+    "title" : "Chương 18 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3835,
+    "title" : "Chương 19 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2688,
+    "title" : "Chương 2 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2905,
+    "title" : "Chương 20 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2834,
+    "title" : "Chương 21 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2521,
+    "title" : "Chương 22 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1866,
+    "title" : "Chương 23 (Hết) l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2427,
+    "title" : "Chương 3 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2263,
+    "title" : "Chương 4 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2495,
+    "title" : "Chương 5 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3079,
+    "title" : "Chương 6 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2605,
+    "title" : "Chương 7 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2548,
+    "title" : "Chương 8 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2838,
+    "title" : "Chương 9 l James Rollins l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/1.mp3",
+    "title" : "Chương 1 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/10.mp3",
+    "title" : "Chương 10 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/11.mp3",
+    "title" : "Chương 11 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/12.mp3",
+    "title" : "Chương 12 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/13.mp3",
+    "title" : "Chương 13 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/14.mp3",
+    "title" : "Chương 14 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/15.mp3",
+    "title" : "Chương 15 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/16.mp3",
+    "title" : "Chương 16 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/17.mp3",
+    "title" : "Chương 17 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/18.mp3",
+    "title" : "Chương 18 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/19.mp3",
+    "title" : "Chương 19 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/2.mp3",
+    "title" : "Chương 2 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/20.mp3",
+    "title" : "Chương 20 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/21.mp3",
+    "title" : "Chương 21 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/22.mp3",
+    "title" : "Chương 22 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/23.mp3",
+    "title" : "Chương 23 (Hết) l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/3.mp3",
+    "title" : "Chương 3 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/4.mp3",
+    "title" : "Chương 4 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/5.mp3",
+    "title" : "Chương 5 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/6.mp3",
+    "title" : "Chương 6 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/7.mp3",
+    "title" : "Chương 7 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/8.mp3",
+    "title" : "Chương 8 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nha-tien-tri-cuoi-cung/9.mp3",
+    "title" : "Chương 9 l James Rollins l Audiobook VTC Now",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

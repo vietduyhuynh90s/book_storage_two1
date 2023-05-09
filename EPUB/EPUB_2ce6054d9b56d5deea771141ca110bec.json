@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/manh-ba-truyen-ly-trieu-can_11708.html",
+    "title" : "Mạnh Bà Truyền - Lý Triều Cẩn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lý Triều Cẩn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 44520,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_2ce6054d9b56d5deea771141ca110bec.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_2ce6054d9b56d5deea771141ca110bec.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4084,
+    "title" : "Phần 1 - Mỹ nữ bên cầu Nại Hà chốn âm ty [Tin nổi bật]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4015,
+    "title" : "Phần 10 - Lấy Hồng Liên Hoa để có cơ hội gặp lại người trong mộng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3287,
+    "title" : "Mối tình đau khổ quyết chôn vùi, ân tình ai xin trả lại cho ai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3912,
+    "title" : "Phần 2 - Cuộc gặp gỡ duyên phận kỳ lạ với chàng Tử Trúc [Tin nổi bật]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3990,
+    "title" : "Phần 3 - Cô bé có khả năng nhìn thấy quỷ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4600,
+    "title" : "Mối duyên tiền định và cuộc gặp gỡ kỳ lạ [Tin nổi bật]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4818,
+    "title" : "Phần 5 - Một chuyến đến Quỷ Môn Quan gặp Diêm Vương",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3816,
+    "title" : "Bí ẩn của 7 bộ da người trên hang núi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4320,
+    "title" : "Phần 7 - Quyết chiến Sơn Thần cứu hồn phách người xưa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4112,
+    "title" : "Phần 8 - Rừng đào Bạch Phách - gặp lại cố nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3566,
+    "title" : "Phần 9 - Ngày cuối cùng ở d.ư.ơ.n.g t.h.ế, Mạnh Bà thành thân",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/1.mp3",
+    "title" : "Phần 1 - Mỹ nữ bên cầu Nại Hà chốn âm ty [Tin nổi bật]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/10.mp3",
+    "title" : "Phần 10 - Lấy Hồng Liên Hoa để có cơ hội gặp lại người trong mộng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/11.mp3",
+    "title" : "Mối tình đau khổ quyết chôn vùi, ân tình ai xin trả lại cho ai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/2.mp3",
+    "title" : "Phần 2 - Cuộc gặp gỡ duyên phận kỳ lạ với chàng Tử Trúc [Tin nổi bật]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/3.mp3",
+    "title" : "Phần 3 - Cô bé có khả năng nhìn thấy quỷ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/4.mp3",
+    "title" : "Mối duyên tiền định và cuộc gặp gỡ kỳ lạ [Tin nổi bật]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/5.mp3",
+    "title" : "Phần 5 - Một chuyến đến Quỷ Môn Quan gặp Diêm Vương",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/6.mp3",
+    "title" : "Bí ẩn của 7 bộ da người trên hang núi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/7.mp3",
+    "title" : "Phần 7 - Quyết chiến Sơn Thần cứu hồn phách người xưa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/8.mp3",
+    "title" : "Phần 8 - Rừng đào Bạch Phách - gặp lại cố nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyenthuyetmanhba/9.mp3",
+    "title" : "Phần 9 - Ngày cuối cùng ở d.ư.ơ.n.g t.h.ế, Mạnh Bà thành thân",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

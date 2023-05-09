@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dong-doi-noi-troi-le-vu-trong-nghia_11715.html",
+    "title" : "Dòng Đời Nổi Trôi - Lê Vũ Trọng Nghĩa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Vũ Trọng Nghĩa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 90889,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_1202739fa60a143c166f006bd83e95e5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_1202739fa60a143c166f006bd83e95e5.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dongdoitroinoi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15218,
+    "title" : "Dòng đời nổi trôi - Tiểu thuyết tình yêu hay nhất mọi thời đại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dongdoitroinoi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14783,
+    "title" : "Truyện ngắn hay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dongdoitroinoi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13614,
+    "title" : "Dòng Đời Nổi Trôi - Tập 3 - MC Kim Thanh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dongdoitroinoi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14978,
+    "title" : "Tập 4 | Truyện Ngắn Hay 3s",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dongdoitroinoi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15682,
+    "title" : "Tập 5 | Truyện Ngắn Hay 3s ➡ Giọng đọc Kim Thanh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dongdoitroinoi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 16614,
+    "title" : "Tập 6 [Phần cuối] | Truyện Ngắn Hay 3s",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dongdoitroinoi/1.mp3",
+    "title" : "Dòng đời nổi trôi - Tiểu thuyết tình yêu hay nhất mọi thời đại",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dongdoitroinoi/2.mp3",
+    "title" : "Truyện ngắn hay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dongdoitroinoi/3.mp3",
+    "title" : "Dòng Đời Nổi Trôi - Tập 3 - MC Kim Thanh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dongdoitroinoi/4.mp3",
+    "title" : "Tập 4 | Truyện Ngắn Hay 3s",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dongdoitroinoi/5.mp3",
+    "title" : "Tập 5 | Truyện Ngắn Hay 3s ➡ Giọng đọc Kim Thanh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dongdoitroinoi/6.mp3",
+    "title" : "Tập 6 [Phần cuối] | Truyện Ngắn Hay 3s",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-giau-co-nhat-thanh-babylon_5581.html",
+    "title" : "Người Giàu Có Nhất Thành Babylon",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "George S. Clason",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 14289,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_7783c3559d9828c4aab9af133e5c6800.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_7783c3559d9828c4aab9af133e5c6800.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-giau-co-nhat-thanh-babylon-cach-lam-giau-hieu-qua-nhat-cua-moi-thoi-dai.sna/01.NguoiGiauCoNhatBabylon_Phan01_GioiThieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 452,
+    "title" : "01.NguoiGiauCoNhatBabylon Phan01 GioiThieu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-giau-co-nhat-thanh-babylon-cach-lam-giau-hieu-qua-nhat-cua-moi-thoi-dai.sna/02.NguoiGiauCoNhatBabylon_Phan02_NguoiDanOngHamVang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 819,
+    "title" : "02.NguoiGiauCoNhatBabylon Phan02 NguoiDanOngHamVang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-giau-co-nhat-thanh-babylon-cach-lam-giau-hieu-qua-nhat-cua-moi-thoi-dai.sna/03.NguoiGiauCoNhatBabylon_Phan03_NguoiGiauNhatOThanhBabylon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1540,
+    "title" : "03.NguoiGiauCoNhatBabylon Phan03 NguoiGiauNhatOThanhBabylon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-giau-co-nhat-thanh-babylon-cach-lam-giau-hieu-qua-nhat-cua-moi-thoi-dai.sna/04.NguoiGiauCoNhatBabylon_Phan04_7CachChuaTriTuiTienTrongRong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2169,
+    "title" : "04.NguoiGiauCoNhatBabylon Phan04 7CachChuaTriTuiTienTrongRong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-giau-co-nhat-thanh-babylon-cach-lam-giau-hieu-qua-nhat-cua-moi-thoi-dai.sna/05.NguoiGiauCoNhatBabylon_Phan05_GapGoNuThanMayMan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1717,
+    "title" : "05.NguoiGiauCoNhatBabylon Phan05 GapGoNuThanMayMan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-giau-co-nhat-thanh-babylon-cach-lam-giau-hieu-qua-nhat-cua-moi-thoi-dai.sna/06.NguoiGiauCoNhatBabylon_Phan06_5QuyLuatCuaVang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1377,
+    "title" : "06.NguoiGiauCoNhatBabylon Phan06 5QuyLuatCuaVang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-giau-co-nhat-thanh-babylon-cach-lam-giau-hieu-qua-nhat-cua-moi-thoi-dai.sna/07.NguoiGiauCoNhatBabylon_Phan07_NguoiChoVayVangOVuongQuocBabylon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1642,
+    "title" : "07.NguoiGiauCoNhatBabylon Phan07 NguoiChoVayVangOVuongQuocBabylon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-giau-co-nhat-thanh-babylon-cach-lam-giau-hieu-qua-nhat-cua-moi-thoi-dai.sna/08.NguoiGiauCoNhatBabylon_Phan08_NguoiBuonLacDaOBabylon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1586,
+    "title" : "08.NguoiGiauCoNhatBabylon Phan08 NguoiBuonLacDaOBabylon",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-giau-co-nhat-thanh-babylon-cach-lam-giau-hieu-qua-nhat-cua-moi-thoi-dai.sna/09.NguoiGiauCoNhatBabylon_Phan09_NguoiMayManNhatOBabylon_Het.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2987,
+    "title" : "09.NguoiGiauCoNhatBabylon Phan09 NguoiMayManNhatOBabylon Het",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-giau-co-nhat-thanh-babylon-cach-lam-giau-hieu-qua-nhat-cua-moi-thoi-dai.sna/01.NguoiGiauCoNhatBabylon_Phan01_GioiThieu.mp3",
+    "title" : "01.NguoiGiauCoNhatBabylon Phan01 GioiThieu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-giau-co-nhat-thanh-babylon-cach-lam-giau-hieu-qua-nhat-cua-moi-thoi-dai.sna/02.NguoiGiauCoNhatBabylon_Phan02_NguoiDanOngHamVang.mp3",
+    "title" : "02.NguoiGiauCoNhatBabylon Phan02 NguoiDanOngHamVang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-giau-co-nhat-thanh-babylon-cach-lam-giau-hieu-qua-nhat-cua-moi-thoi-dai.sna/03.NguoiGiauCoNhatBabylon_Phan03_NguoiGiauNhatOThanhBabylon.mp3",
+    "title" : "03.NguoiGiauCoNhatBabylon Phan03 NguoiGiauNhatOThanhBabylon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-giau-co-nhat-thanh-babylon-cach-lam-giau-hieu-qua-nhat-cua-moi-thoi-dai.sna/04.NguoiGiauCoNhatBabylon_Phan04_7CachChuaTriTuiTienTrongRong.mp3",
+    "title" : "04.NguoiGiauCoNhatBabylon Phan04 7CachChuaTriTuiTienTrongRong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-giau-co-nhat-thanh-babylon-cach-lam-giau-hieu-qua-nhat-cua-moi-thoi-dai.sna/05.NguoiGiauCoNhatBabylon_Phan05_GapGoNuThanMayMan.mp3",
+    "title" : "05.NguoiGiauCoNhatBabylon Phan05 GapGoNuThanMayMan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-giau-co-nhat-thanh-babylon-cach-lam-giau-hieu-qua-nhat-cua-moi-thoi-dai.sna/06.NguoiGiauCoNhatBabylon_Phan06_5QuyLuatCuaVang.mp3",
+    "title" : "06.NguoiGiauCoNhatBabylon Phan06 5QuyLuatCuaVang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-giau-co-nhat-thanh-babylon-cach-lam-giau-hieu-qua-nhat-cua-moi-thoi-dai.sna/07.NguoiGiauCoNhatBabylon_Phan07_NguoiChoVayVangOVuongQuocBabylon.mp3",
+    "title" : "07.NguoiGiauCoNhatBabylon Phan07 NguoiChoVayVangOVuongQuocBabylon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-giau-co-nhat-thanh-babylon-cach-lam-giau-hieu-qua-nhat-cua-moi-thoi-dai.sna/08.NguoiGiauCoNhatBabylon_Phan08_NguoiBuonLacDaOBabylon.mp3",
+    "title" : "08.NguoiGiauCoNhatBabylon Phan08 NguoiBuonLacDaOBabylon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-giau-co-nhat-thanh-babylon-cach-lam-giau-hieu-qua-nhat-cua-moi-thoi-dai.sna/09.NguoiGiauCoNhatBabylon_Phan09_NguoiMayManNhatOBabylon_Het.mp3",
+    "title" : "09.NguoiGiauCoNhatBabylon Phan09 NguoiMayManNhatOBabylon Het",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

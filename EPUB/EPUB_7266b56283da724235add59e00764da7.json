@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/duoc-yeu-phi-yen_10721.html",
+    "title" : "Dược Yêu - Phi Yến",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phi Yến",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 24173,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_7266b56283da724235add59e00764da7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_7266b56283da724235add59e00764da7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/duoc-yeu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10695,
+    "title" : "Được Yêu [Tập 1/2] Ông Chủ Tập Đoàn Nuôi Dưỡng Cô Gái Xinh Đẹp Và Tình Yêu Đẹp Như Mơ (Bối Bối)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/duoc-yeu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13478,
+    "title" : "Được Yêu [Tập Cuối] Hạnh Phúc Của Anh Chỉ Thế Thôi! Đoạn Kết Truyện Ngọt Như Đường (Bối Bối)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/duoc-yeu/1.mp3",
+    "title" : "Được Yêu [Tập 1/2] Ông Chủ Tập Đoàn Nuôi Dưỡng Cô Gái Xinh Đẹp Và Tình Yêu Đẹp Như Mơ (Bối Bối)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/duoc-yeu/2.mp3",
+    "title" : "Được Yêu [Tập Cuối] Hạnh Phúc Của Anh Chỉ Thế Thôi! Đoạn Kết Truyện Ngọt Như Đường (Bối Bối)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

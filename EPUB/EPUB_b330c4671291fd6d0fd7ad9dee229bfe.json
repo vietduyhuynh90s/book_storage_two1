@@ -1,0 +1,293 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tuong-quan-o-tren-ta-o-duoi-quat-hoa-tan-ly_10003.html",
+    "title" : "Tướng Quân Ở Trên, Ta Ở Dưới - Quất Hoa Tán Lý.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quất Hoa Tán Lý",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 105573,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_b330c4671291fd6d0fd7ad9dee229bfe.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_b330c4671291fd6d0fd7ad9dee229bfe.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8362,
+    "title" : "Quất Hoa Tán Lý - Truyện ngôn tình cổ trang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2531,
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3571,
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2975,
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2953,
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2522,
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2583,
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3216,
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2616,
+    "title" : "Quất Hoa Tán Lý - Truyện audio Ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1388,
+    "title" : "Quất Hoa Tán Lý - Truyện ngôn tình cổ trang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1262,
+    "title" : "Quất Hoa Tán Lý - Truyện audio Ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8109,
+    "title" : "Quất Hoa Tán Lý - Truyện ngôn tình cổ trang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2151,
+    "title" : "Ngoại truyện 1) - Quất Hoa Tán Lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2018,
+    "title" : "Ngoại truyện 2, 3) - Quất Hoa Tán Lý",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7843,
+    "title" : "Quất Hoa Tán Lý - Truyện ngôn tình cổ trang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7954,
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7665,
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8148,
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9231,
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7414,
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11061,
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/1.mp3",
+    "title" : "Quất Hoa Tán Lý - Truyện ngôn tình cổ trang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/10.mp3",
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/11.mp3",
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/12.mp3",
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/13.mp3",
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/14.mp3",
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/15.mp3",
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/16.mp3",
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/17.mp3",
+    "title" : "Quất Hoa Tán Lý - Truyện audio Ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/18.mp3",
+    "title" : "Quất Hoa Tán Lý - Truyện ngôn tình cổ trang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/19.mp3",
+    "title" : "Quất Hoa Tán Lý - Truyện audio Ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/2.mp3",
+    "title" : "Quất Hoa Tán Lý - Truyện ngôn tình cổ trang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/20.mp3",
+    "title" : "Ngoại truyện 1) - Quất Hoa Tán Lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/21.mp3",
+    "title" : "Ngoại truyện 2, 3) - Quất Hoa Tán Lý",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/3.mp3",
+    "title" : "Quất Hoa Tán Lý - Truyện ngôn tình cổ trang",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/4.mp3",
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/5.mp3",
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/6.mp3",
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/7.mp3",
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/8.mp3",
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_9tq/9.mp3",
+    "title" : "Quất Hoa Tán Lý - Truyện audio ngôn tình",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

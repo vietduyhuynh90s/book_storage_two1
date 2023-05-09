@@ -1,0 +1,341 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chi-em-thu-han-janet-dailey_10018.html",
+    "title" : "Chị Em Thù Hận - Janet Dailey.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Janet Dailey",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 61117,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_3ed411fb2c70c4752e46fffc8d092fa9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_3ed411fb2c70c4752e46fffc8d092fa9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2289,
+    "title" : "CHỊ EM THÙ HẬN – Tập 1 – Janet Dailey – Truyện Audio Lê Duyên – Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1869,
+    "title" : "Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2324,
+    "title" : "Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2443,
+    "title" : "Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2345,
+    "title" : "Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2977,
+    "title" : "Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2182,
+    "title" : "Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2409,
+    "title" : "Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2493,
+    "title" : "Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2597,
+    "title" : "Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2865,
+    "title" : "Janet Dailey - Tập 19 - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2284,
+    "title" : "Chị em thù hận – Tập 2- Janet Dailey – Truyện Audio Lê Duyên-Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2795,
+    "title" : "Janet Dailey -Tập 20 - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2380,
+    "title" : "Chị em thù hận - Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2292,
+    "title" : "Chị em thù hận - Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2554,
+    "title" : "Chị em thù hận - Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2262,
+    "title" : "Chị em thù hận - Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4196,
+    "title" : "Chị em thù hận - Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2240,
+    "title" : "Chị em thù hận – Tập 3 – Janet Dailey – Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2105,
+    "title" : "Tập 4 - Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1965,
+    "title" : "Tập 5 - Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2327,
+    "title" : "Tập 6 - Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2103,
+    "title" : "Tập 7- Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2469,
+    "title" : "Tập 8 - Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2352,
+    "title" : "Tập 9 - Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/1.mp3",
+    "title" : "CHỊ EM THÙ HẬN – Tập 1 – Janet Dailey – Truyện Audio Lê Duyên – Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/10.mp3",
+    "title" : "Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/11.mp3",
+    "title" : "Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/12.mp3",
+    "title" : "Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/13.mp3",
+    "title" : "Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/14.mp3",
+    "title" : "Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/15.mp3",
+    "title" : "Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/16.mp3",
+    "title" : "Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/17.mp3",
+    "title" : "Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/18.mp3",
+    "title" : "Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/19.mp3",
+    "title" : "Janet Dailey - Tập 19 - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/2.mp3",
+    "title" : "Chị em thù hận – Tập 2- Janet Dailey – Truyện Audio Lê Duyên-Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/20.mp3",
+    "title" : "Janet Dailey -Tập 20 - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/21.mp3",
+    "title" : "Chị em thù hận - Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/22.mp3",
+    "title" : "Chị em thù hận - Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/23.mp3",
+    "title" : "Chị em thù hận - Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/24.mp3",
+    "title" : "Chị em thù hận - Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/25.mp3",
+    "title" : "Chị em thù hận - Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/3.mp3",
+    "title" : "Chị em thù hận – Tập 3 – Janet Dailey – Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/4.mp3",
+    "title" : "Tập 4 - Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/5.mp3",
+    "title" : "Tập 5 - Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/6.mp3",
+    "title" : "Tập 6 - Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/7.mp3",
+    "title" : "Tập 7- Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/8.mp3",
+    "title" : "Tập 8 - Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vanthong10dt3_gmail_Ceth/9.mp3",
+    "title" : "Tập 9 - Janet Dailey - Truyện Audio Lê Duyên -Duyên Lê",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

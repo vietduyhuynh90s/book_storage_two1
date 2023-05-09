@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phu-quang_13028.html",
+    "title" : "Phù Quang",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mạt Hồi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 15585,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_19c9378946660a41d7085a1b177cf94f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_19c9378946660a41d7085a1b177cf94f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phu-quang/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2478,
+    "title" : "Tập 1 | MC Lê Tuyên |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phu-quang/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2801,
+    "title" : "Tập 2 | MC Lê Tuyên |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phu-quang/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2740,
+    "title" : "Tập 3 | MC Lê Tuyên |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phu-quang/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2613,
+    "title" : "Tập 4 | MC Lê Tuyên |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phu-quang/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2465,
+    "title" : "Tập 5 | MC Lê Tuyên |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phu-quang/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2488,
+    "title" : "Tập 6 | MC Lê Tuyên |",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phu-quang/1.mp3",
+    "title" : "Tập 1 | MC Lê Tuyên |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phu-quang/2.mp3",
+    "title" : "Tập 2 | MC Lê Tuyên |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phu-quang/3.mp3",
+    "title" : "Tập 3 | MC Lê Tuyên |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phu-quang/4.mp3",
+    "title" : "Tập 4 | MC Lê Tuyên |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phu-quang/5.mp3",
+    "title" : "Tập 5 | MC Lê Tuyên |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phu-quang/6.mp3",
+    "title" : "Tập 6 | MC Lê Tuyên |",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

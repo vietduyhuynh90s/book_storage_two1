@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ho-so-mot-tu-tu-nguyen-dinh-tu_10725.html",
+    "title" : "Hồ Sơ Một Tử Tù - Nguyễn Đình Tú",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Đình Tú",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 19782,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_ba22d28704137796e8c4a69ddd657b0a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_ba22d28704137796e8c4a69ddd657b0a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ho-so-cua-mot-tu-tu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4498,
+    "title" : "HỒ SƠ MỘT T Ử T Ù - Tập 01- Truyện trinh thám cực hay MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-so-cua-mot-tu-tu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3479,
+    "title" : "HỒ SƠ MỘT T Ử T Ù - Tập 02- MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-so-cua-mot-tu-tu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3260,
+    "title" : "HỒ SƠ MỘT T Ử T Ù - Tập 03 - MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-so-cua-mot-tu-tu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3246,
+    "title" : "HỒ SƠ MỘT T Ử T Ù - Tập 04 - MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-so-cua-mot-tu-tu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5299,
+    "title" : "HỒ SƠ MỘT T Ử T Ù - Tập 05 (Hết) - MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ho-so-cua-mot-tu-tu/1.mp3",
+    "title" : "HỒ SƠ MỘT T Ử T Ù - Tập 01- Truyện trinh thám cực hay MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-so-cua-mot-tu-tu/2.mp3",
+    "title" : "HỒ SƠ MỘT T Ử T Ù - Tập 02- MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-so-cua-mot-tu-tu/3.mp3",
+    "title" : "HỒ SƠ MỘT T Ử T Ù - Tập 03 - MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-so-cua-mot-tu-tu/4.mp3",
+    "title" : "HỒ SƠ MỘT T Ử T Ù - Tập 04 - MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-so-cua-mot-tu-tu/5.mp3",
+    "title" : "HỒ SƠ MỘT T Ử T Ù - Tập 05 (Hết) - MC Đình Duy diễn đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

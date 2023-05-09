@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vinh-hoa-phu-quy-a-dau_10730.html",
+    "title" : "Vinh Hoa Phú Quý - A Đậu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "A Đậu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 12675,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_c9164bbc8dfa7fb6e84f0b1a2e0bbf6d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_c9164bbc8dfa7fb6e84f0b1a2e0bbf6d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vinh-hoa-phu-quy/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6629,
+    "title" : "Truyện Ngôn Tình Xuyên Không Đặc Biệt 2019 Tập 1/2 | MC: Hoàn Hoàn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vinh-hoa-phu-quy/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6046,
+    "title" : "Truyện Ngôn Tình Xuyên Không Vinh Hoa Phú Quý Phần 2/2 | Hoàn Hoàn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vinh-hoa-phu-quy/1.mp3",
+    "title" : "Truyện Ngôn Tình Xuyên Không Đặc Biệt 2019 Tập 1/2 | MC: Hoàn Hoàn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vinh-hoa-phu-quy/2.mp3",
+    "title" : "Truyện Ngôn Tình Xuyên Không Vinh Hoa Phú Quý Phần 2/2 | Hoàn Hoàn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

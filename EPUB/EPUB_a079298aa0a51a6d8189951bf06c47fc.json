@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhong-nheo-gap-da-tinh-minh-nguyet-thinh-phong_10241.html",
+    "title" : "Nhõng Nhẽo Gặp Đa Tình - Minh Nguyệt Thính Phong",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Nguyệt Thính Phong",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 56809,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_a079298aa0a51a6d8189951bf06c47fc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_a079298aa0a51a6d8189951bf06c47fc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhong_nheo_gap_da_tinh/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8085,
+    "title" : "Truyện Ngôn Tình Hay Nhất Về Oan Gia",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhong_nheo_gap_da_tinh/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8737,
+    "title" : "Truyện Ngôn Tình Sắc Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhong_nheo_gap_da_tinh/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7936,
+    "title" : "Truyện Ngôn Tình Sắc Hay Và Cảm Động",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhong_nheo_gap_da_tinh/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7971,
+    "title" : "Truyện Ngôn Tình Oan Gia Tương Phùng Hay Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhong_nheo_gap_da_tinh/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7953,
+    "title" : "Truyện Ngôn Tình Sắc Hay Nhất Về Chàng Trai Đa Tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhong_nheo_gap_da_tinh/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7984,
+    "title" : "Truyện Ngôn Tình Hay Và Hấp Dẫn Nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhong_nheo_gap_da_tinh/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8143,
+    "title" : "Truyện Ngôn Tình Hay Kết Thúc Có Hậu",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhong_nheo_gap_da_tinh/1.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất Về Oan Gia",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhong_nheo_gap_da_tinh/2.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhong_nheo_gap_da_tinh/3.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hay Và Cảm Động",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhong_nheo_gap_da_tinh/4.mp3",
+    "title" : "Truyện Ngôn Tình Oan Gia Tương Phùng Hay Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhong_nheo_gap_da_tinh/5.mp3",
+    "title" : "Truyện Ngôn Tình Sắc Hay Nhất Về Chàng Trai Đa Tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhong_nheo_gap_da_tinh/6.mp3",
+    "title" : "Truyện Ngôn Tình Hay Và Hấp Dẫn Nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhong_nheo_gap_da_tinh/7.mp3",
+    "title" : "Truyện Ngôn Tình Hay Kết Thúc Có Hậu",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/em-dung-mong-chung-ta-la-nguoi-dung-duy-hoa-tong-tu_10283.html",
+    "title" : "Em Đừng Mong Chúng Ta Là Người Dưng - Duy Hòa Tống Tử",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Duy Hòa Tống Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 25337,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_689f09078631a939ec9098b9f330e1cc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_689f09078631a939ec9098b9f330e1cc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/em-dung-mong-chung-ta-la-nguoi-dung/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7393,
+    "title" : "TRUYỆN NGÔN TÌNH CÔ NÀNG TÁN TRAI THÚ VỊ - MC NUTI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/em-dung-mong-chung-ta-la-nguoi-dung/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6787,
+    "title" : "TRUYỆN NGÔN TÌNH CÔ NÀNG TÁN TRAI THÚ VỊ - MC NUTI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/em-dung-mong-chung-ta-la-nguoi-dung/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6253,
+    "title" : "TRUYỆN NGÔN TÌNH CÔ NÀNG TÁN TRAI THÚ VỊ - MC NUTI",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/em-dung-mong-chung-ta-la-nguoi-dung/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4904,
+    "title" : "TRUYỆN NGÔN TÌNH CÔ NÀNG TÁN TRAI THÚ VỊ - MC NUTI",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/em-dung-mong-chung-ta-la-nguoi-dung/1.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH CÔ NÀNG TÁN TRAI THÚ VỊ - MC NUTI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/em-dung-mong-chung-ta-la-nguoi-dung/2.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH CÔ NÀNG TÁN TRAI THÚ VỊ - MC NUTI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/em-dung-mong-chung-ta-la-nguoi-dung/3.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH CÔ NÀNG TÁN TRAI THÚ VỊ - MC NUTI",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/em-dung-mong-chung-ta-la-nguoi-dung/4.mp3",
+    "title" : "TRUYỆN NGÔN TÌNH CÔ NÀNG TÁN TRAI THÚ VỊ - MC NUTI",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

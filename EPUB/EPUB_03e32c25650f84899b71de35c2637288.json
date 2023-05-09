@@ -1,0 +1,389 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thieu-tuong-vo-ngai-co-thai-roi_13029.html",
+    "title" : "Thiếu Tướng! Vợ Ngài Có Thai Rồi!",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diễm Quỷ Thất Nương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 109966,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_03e32c25650f84899b71de35c2637288.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_03e32c25650f84899b71de35c2637288.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4075,
+    "title" : "Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3739,
+    "title" : "Tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3723,
+    "title" : "Tập 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3979,
+    "title" : "Tập 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3998,
+    "title" : "Tập 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3916,
+    "title" : "Tập 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3738,
+    "title" : "Tập 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3772,
+    "title" : "Tập 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3754,
+    "title" : "Tập 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3701,
+    "title" : "Tập 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3382,
+    "title" : "Tập 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3666,
+    "title" : "Tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3881,
+    "title" : "Tập 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4043,
+    "title" : "Tập 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3987,
+    "title" : "Tập 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3663,
+    "title" : "Tập 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3853,
+    "title" : "Tập 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4172,
+    "title" : "Tập 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4308,
+    "title" : "Tập 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3416,
+    "title" : "Tập 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3737,
+    "title" : "Tập 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2858,
+    "title" : "Tập 29 - Hết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3954,
+    "title" : "Tập 3 |",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3463,
+    "title" : "Tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3838,
+    "title" : "Tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4152,
+    "title" : "Tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3735,
+    "title" : "Tập 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3686,
+    "title" : "Tập 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3777,
+    "title" : "Tập 9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/1.mp3",
+    "title" : "Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/10.mp3",
+    "title" : "Tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/11.mp3",
+    "title" : "Tập 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/12.mp3",
+    "title" : "Tập 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/13.mp3",
+    "title" : "Tập 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/14.mp3",
+    "title" : "Tập 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/15.mp3",
+    "title" : "Tập 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/16.mp3",
+    "title" : "Tập 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/17.mp3",
+    "title" : "Tập 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/18.mp3",
+    "title" : "Tập 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/19.mp3",
+    "title" : "Tập 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/2.mp3",
+    "title" : "Tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/20.mp3",
+    "title" : "Tập 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/21.mp3",
+    "title" : "Tập 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/22.mp3",
+    "title" : "Tập 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/23.mp3",
+    "title" : "Tập 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/24.mp3",
+    "title" : "Tập 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/25.mp3",
+    "title" : "Tập 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/26.mp3",
+    "title" : "Tập 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/27.mp3",
+    "title" : "Tập 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/28.mp3",
+    "title" : "Tập 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/29.mp3",
+    "title" : "Tập 29 - Hết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/3.mp3",
+    "title" : "Tập 3 |",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/4.mp3",
+    "title" : "Tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/5.mp3",
+    "title" : "Tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/6.mp3",
+    "title" : "Tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/7.mp3",
+    "title" : "Tập 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/8.mp3",
+    "title" : "Tập 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thieu-tuong-vo-ngai-co-thai-roi/9.mp3",
+    "title" : "Tập 9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

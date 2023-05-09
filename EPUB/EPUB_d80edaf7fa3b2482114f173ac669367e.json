@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ba-tuoc-monte-cristo-alexandre-dumas_10337.html",
+    "title" : "Bá Tước Monte Cristo - Alexandre Dumas",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Alexandre Dumas",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 58156,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_d80edaf7fa3b2482114f173ac669367e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_d80edaf7fa3b2482114f173ac669367e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4263,
+    "title" : "1 - Mác Xây , Tàu cập bến",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3703,
+    "title" : "10 - Hầm Mộ Gia Đình Villfort",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3626,
+    "title" : "11 - Đột nhập",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3731,
+    "title" : "12 - Khiêu Khích",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3451,
+    "title" : "13 - Valentine",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3269,
+    "title" : "14 - Nỗi đau khổ của Maximilien",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2527,
+    "title" : "15 - Bản cáo trạng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2646,
+    "title" : "16 - Peppino",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3941,
+    "title" : "2 - Phòng nhỏ trong điện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4011,
+    "title" : "3 - Lên cơn lần thứ ba",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3689,
+    "title" : "4 - Câu Chuyện Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3892,
+    "title" : "5 - Nước Ý, Thủy Thủ Sinbat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3780,
+    "title" : "6 - Những Hầm Mộ Ở Nhà Thờ Thánh Sebastian",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3486,
+    "title" : "7 - Trận Mưa Máu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3717,
+    "title" : "8 - Thiếu Tá Cavancanti",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4424,
+    "title" : "9 - Hôn Ước",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/1.mp3",
+    "title" : "1 - Mác Xây , Tàu cập bến",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/10.mp3",
+    "title" : "10 - Hầm Mộ Gia Đình Villfort",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/11.mp3",
+    "title" : "11 - Đột nhập",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/12.mp3",
+    "title" : "12 - Khiêu Khích",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/13.mp3",
+    "title" : "13 - Valentine",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/14.mp3",
+    "title" : "14 - Nỗi đau khổ của Maximilien",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/15.mp3",
+    "title" : "15 - Bản cáo trạng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/16.mp3",
+    "title" : "16 - Peppino",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/2.mp3",
+    "title" : "2 - Phòng nhỏ trong điện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/3.mp3",
+    "title" : "3 - Lên cơn lần thứ ba",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/4.mp3",
+    "title" : "4 - Câu Chuyện Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/5.mp3",
+    "title" : "5 - Nước Ý, Thủy Thủ Sinbat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/6.mp3",
+    "title" : "6 - Những Hầm Mộ Ở Nhà Thờ Thánh Sebastian",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/7.mp3",
+    "title" : "7 - Trận Mưa Máu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/8.mp3",
+    "title" : "8 - Thiếu Tá Cavancanti",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ba-tuoc-monte-cristo/9.mp3",
+    "title" : "9 - Hôn Ước",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

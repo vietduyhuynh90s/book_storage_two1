@@ -1,0 +1,269 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/co-con-trang-nguyen-nhu-phong_11343.html",
+    "title" : "Cổ Cồn Trắng - Nguyễn Như Phong",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Như Phong",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 62979,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_5daa173da6f1676fcd24b3a15571548b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_5daa173da6f1676fcd24b3a15571548b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/co-con-trang/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3222,
+    "title" : "Tập 01 - Truyện trinh thám xã hội cực hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3653,
+    "title" : "Tập 10 - Truyện trinh thám hình sự rất đặc sắc do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2742,
+    "title" : "Tập 11 - Truyện trinh thám hình sự rất đặc sắc do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3268,
+    "title" : "Tập 12 - Truyện trinh thám hình sự rất hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3038,
+    "title" : "Tập 13 - Truyện trinh thám hình sự rất hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3135,
+    "title" : "Tập 14 - Truyện trinh thám hình sự rất hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2985,
+    "title" : "Tập 15 - Truyện trinh thám hình sự rất hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3306,
+    "title" : "Tập 16 - Truyện trinh thám hình sự rất hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2962,
+    "title" : "Tập 17 - Truyện trinh thám hình sự rất hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3214,
+    "title" : "Tập 18 - Truyện trinh thám hình sự cực hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3762,
+    "title" : "Tập 19(HẾT) - Truyện trinh thám hình sự cực hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2783,
+    "title" : "Tập 02 - Truyện trinh thám xã hội cực hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3805,
+    "title" : "Tập 03 - Truyện trinh thám hình sự cực hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3070,
+    "title" : "Tập 04 - Truyện trinh thám hình sự cực hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3675,
+    "title" : "Tập 05 - Truyện trinh thám hình sự cực hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3042,
+    "title" : "Tập 06 - Truyện trinh thám hình sự cực hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3847,
+    "title" : "Tập 07 - Truyện trinh thám hình sự cực hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3112,
+    "title" : "Tập 08 - Truyện trinh thám hình sự cực hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4358,
+    "title" : "Tập 09 - Truyện trinh thám hình sự cực hay do MC Đình Duy diễn đọc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/co-con-trang/1.mp3",
+    "title" : "Tập 01 - Truyện trinh thám xã hội cực hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/10.mp3",
+    "title" : "Tập 10 - Truyện trinh thám hình sự rất đặc sắc do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/11.mp3",
+    "title" : "Tập 11 - Truyện trinh thám hình sự rất đặc sắc do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/12.mp3",
+    "title" : "Tập 12 - Truyện trinh thám hình sự rất hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/13.mp3",
+    "title" : "Tập 13 - Truyện trinh thám hình sự rất hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/14.mp3",
+    "title" : "Tập 14 - Truyện trinh thám hình sự rất hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/15.mp3",
+    "title" : "Tập 15 - Truyện trinh thám hình sự rất hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/16.mp3",
+    "title" : "Tập 16 - Truyện trinh thám hình sự rất hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/17.mp3",
+    "title" : "Tập 17 - Truyện trinh thám hình sự rất hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/18.mp3",
+    "title" : "Tập 18 - Truyện trinh thám hình sự cực hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/19.mp3",
+    "title" : "Tập 19(HẾT) - Truyện trinh thám hình sự cực hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/2.mp3",
+    "title" : "Tập 02 - Truyện trinh thám xã hội cực hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/3.mp3",
+    "title" : "Tập 03 - Truyện trinh thám hình sự cực hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/4.mp3",
+    "title" : "Tập 04 - Truyện trinh thám hình sự cực hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/5.mp3",
+    "title" : "Tập 05 - Truyện trinh thám hình sự cực hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/6.mp3",
+    "title" : "Tập 06 - Truyện trinh thám hình sự cực hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/7.mp3",
+    "title" : "Tập 07 - Truyện trinh thám hình sự cực hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/8.mp3",
+    "title" : "Tập 08 - Truyện trinh thám hình sự cực hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/co-con-trang/9.mp3",
+    "title" : "Tập 09 - Truyện trinh thám hình sự cực hay do MC Đình Duy diễn đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

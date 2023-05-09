@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/mot-con-gio-bui-tran-trong-kim_10347.html",
+    "title" : "Một Cơn Gió Bụi - Trần Trọng Kim",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Trọng Kim",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 13147,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_9edcb742a670d5609cf75d8194870dc7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_9edcb742a670d5609cf75d8194870dc7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 357,
+    "title" : "Cuộc Đời Yên Lặng Và Vô Vị - MỘT CƠN GIÓ BỤI - Thủ Tướng TRẦN TRỌNG KIM - Youtube",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 653,
+    "title" : "Cuộc Pháp - Việt Chiến Tranh - Thủ Tướng TRẦN TRỌNG KIM - Youtube",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1016,
+    "title" : "Về Sài Gòn - MỘT CƠN GIÓ BỤI - TRẦN TRỌNG KIM - TỰ DO cho VIỆT NAM - Youtube",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 877,
+    "title" : "Lên Nam Vang - Thủ Tướng TRẦN TRỌNG KIM - TỰ DO cho VIỆT NAM - Youtube",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1372,
+    "title" : "Đi Chiêu Nam Đào - MỘT CƠN GIÓ BỤI - Thủ Tướng TRẦN TRỌNG KIM - Youtube",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1130,
+    "title" : "Đi Băng Cóc Và Về Sài Gòn - MỘT CƠN GIÓ BỤI - TỰ DO cho VIỆT NAM - Youtube",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3557,
+    "title" : "Ra Huế Lập Chính Phủ - MỘT CƠN GIÓ BỤI - TỰ DO cho VIỆT NAM - Youtube",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 160,
+    "title" : "Về Hà Nội - MỘT CƠN GIÓ BỤI - TRẦN TRỌNG KIM - TỰ DO cho VIỆT NAM - Youtube",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 800,
+    "title" : "Chính Phủ Việt Nam Và Tình Thế Trong Nước - MỘT CƠN GIÓ BỤI - Youtube",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 678,
+    "title" : "Tôn Chỉ Và Hành Động Của Đảng Cộng Sản - TỰ DO cho VIỆT NAM - Youtube",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 592,
+    "title" : "Sự Giao Thiệp Của Chính Phủ Việt Nam Với Nước Pháp - MỘT CƠN GIÓ BỤI - Youtube",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1955,
+    "title" : "Đi Sang Tàu - Thủ Tướng TRẦN TRỌNG KIM - TỰ DO cho VIỆT NAM - Youtube",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/1.mp3",
+    "title" : "Cuộc Đời Yên Lặng Và Vô Vị - MỘT CƠN GIÓ BỤI - Thủ Tướng TRẦN TRỌNG KIM - Youtube",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/10.mp3",
+    "title" : "Cuộc Pháp - Việt Chiến Tranh - Thủ Tướng TRẦN TRỌNG KIM - Youtube",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/11.mp3",
+    "title" : "Về Sài Gòn - MỘT CƠN GIÓ BỤI - TRẦN TRỌNG KIM - TỰ DO cho VIỆT NAM - Youtube",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/12.mp3",
+    "title" : "Lên Nam Vang - Thủ Tướng TRẦN TRỌNG KIM - TỰ DO cho VIỆT NAM - Youtube",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/2.mp3",
+    "title" : "Đi Chiêu Nam Đào - MỘT CƠN GIÓ BỤI - Thủ Tướng TRẦN TRỌNG KIM - Youtube",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/3.mp3",
+    "title" : "Đi Băng Cóc Và Về Sài Gòn - MỘT CƠN GIÓ BỤI - TỰ DO cho VIỆT NAM - Youtube",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/4.mp3",
+    "title" : "Ra Huế Lập Chính Phủ - MỘT CƠN GIÓ BỤI - TỰ DO cho VIỆT NAM - Youtube",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/5.mp3",
+    "title" : "Về Hà Nội - MỘT CƠN GIÓ BỤI - TRẦN TRỌNG KIM - TỰ DO cho VIỆT NAM - Youtube",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/6.mp3",
+    "title" : "Chính Phủ Việt Nam Và Tình Thế Trong Nước - MỘT CƠN GIÓ BỤI - Youtube",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/7.mp3",
+    "title" : "Tôn Chỉ Và Hành Động Của Đảng Cộng Sản - TỰ DO cho VIỆT NAM - Youtube",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/8.mp3",
+    "title" : "Sự Giao Thiệp Của Chính Phủ Việt Nam Với Nước Pháp - MỘT CƠN GIÓ BỤI - Youtube",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mot-con-gio-bui_201903/9.mp3",
+    "title" : "Đi Sang Tàu - Thủ Tướng TRẦN TRỌNG KIM - TỰ DO cho VIỆT NAM - Youtube",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

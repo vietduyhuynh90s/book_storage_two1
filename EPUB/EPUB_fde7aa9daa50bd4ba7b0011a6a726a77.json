@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/toi-yeu-em-ban-gai-gia-nhicokkie_11847.html",
+    "title" : "Tôi Yêu Em! Bạn Gái Giả! - NhiCokkie",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "NhiCokkie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 17698,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_fde7aa9daa50bd4ba7b0011a6a726a77.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_fde7aa9daa50bd4ba7b0011a6a726a77.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/toiyeuemgaigia/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5572,
+    "title" : "MC Huệ Trần || TRUYỆN NGẮN HAY CHỌN LỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toiyeuemgaigia/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5867,
+    "title" : "MC Huệ Trần || TRUYỆN HAY CHỌN LỌC",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/toiyeuemgaigia/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6259,
+    "title" : "Tôi Yêu Em Bạn Gái Giả P3 (End) - MC Huệ Trần || TRUYỆN HAY CHỌN LỌC",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/toiyeuemgaigia/1.mp3",
+    "title" : "MC Huệ Trần || TRUYỆN NGẮN HAY CHỌN LỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toiyeuemgaigia/2.mp3",
+    "title" : "MC Huệ Trần || TRUYỆN HAY CHỌN LỌC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/toiyeuemgaigia/3.mp3",
+    "title" : "Tôi Yêu Em Bạn Gái Giả P3 (End) - MC Huệ Trần || TRUYỆN HAY CHỌN LỌC",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

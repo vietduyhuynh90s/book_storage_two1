@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hao-mon-doat-tinh-bao-boi-em-dung-mong-chay-thoat-thinh-ha-thai-vi_11488.html",
+    "title" : "Hào Môn Đoạt Tình: Bảo Bối Em Đừng Mong Chạy Thoát - Thịnh Hạ Thái Vi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thịnh Hạ Thái Vi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 52579,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_5de4719337ea99939ff7bba2bf5a74d4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_5de4719337ea99939ff7bba2bf5a74d4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/baoboiemdungmongchaythoat_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8716,
+    "title" : "Truyện ngôn tình mới hoàn hảo về Hào môn đoạt tình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/baoboiemdungmongchaythoat_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7435,
+    "title" : "Truyện ngôn tình ngược càng nghe càng hấp dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/baoboiemdungmongchaythoat_201903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8249,
+    "title" : "Truyện ngôn tình hay không chê vào đâu được",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/baoboiemdungmongchaythoat_201903/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8266,
+    "title" : "[P 4] Bảo Bối Em Đừng Mong Chạy Thoát | Truyện ngôn tình hay kịch tính hơn phim",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/baoboiemdungmongchaythoat_201903/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7928,
+    "title" : "Truyện ngôn tình hay nhất càng nghe càng tuyệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/baoboiemdungmongchaythoat_201903/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 11985,
+    "title" : "Truyện ngôn tình hay và lạ Hào Môn đoat tinh",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/baoboiemdungmongchaythoat_201903/1.mp3",
+    "title" : "Truyện ngôn tình mới hoàn hảo về Hào môn đoạt tình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/baoboiemdungmongchaythoat_201903/2.mp3",
+    "title" : "Truyện ngôn tình ngược càng nghe càng hấp dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/baoboiemdungmongchaythoat_201903/3.mp3",
+    "title" : "Truyện ngôn tình hay không chê vào đâu được",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/baoboiemdungmongchaythoat_201903/4.mp3",
+    "title" : "[P 4] Bảo Bối Em Đừng Mong Chạy Thoát | Truyện ngôn tình hay kịch tính hơn phim",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/baoboiemdungmongchaythoat_201903/5.mp3",
+    "title" : "Truyện ngôn tình hay nhất càng nghe càng tuyệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/baoboiemdungmongchaythoat_201903/6.mp3",
+    "title" : "Truyện ngôn tình hay và lạ Hào Môn đoat tinh",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

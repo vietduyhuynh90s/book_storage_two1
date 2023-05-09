@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/song-thu_13031.html",
+    "title" : "Sống Thử",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Nhật Thương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 32560,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_513c01ef915f642ab3b5cdf4516d3c23.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_513c01ef915f642ab3b5cdf4516d3c23.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/song-thu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8220,
+    "title" : "Truyện Ngắn Có Thật Về Bi Kịch Cô Gái Nghèo Lên Thành Phố Học",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-thu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7825,
+    "title" : "Sống Thử [Tập 2] Truyện Ngắn Hay Về Những Nỗi Uất Hận Trong Tình Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-thu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7446,
+    "title" : "Sống Thử [Tập 3] Truyện Ngắn Hay Về Cuộc Sống Bi Kịch Của Cô Gái Trong Tình Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-thu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5426,
+    "title" : "Sống Thử [Tập 4] Truyện Ngắn Cực Hay Đời Người Con Gái Đáng Thương Đáng Hận",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/song-thu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Sống Thử [Tập Cuối] Hạnh Phúc Có Đến Với Cô Gái Chịu Nhiều Khổ Cực Trong Tình Yêu",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/song-thu/1.mp3",
+    "title" : "Truyện Ngắn Có Thật Về Bi Kịch Cô Gái Nghèo Lên Thành Phố Học",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-thu/2.mp3",
+    "title" : "Sống Thử [Tập 2] Truyện Ngắn Hay Về Những Nỗi Uất Hận Trong Tình Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-thu/3.mp3",
+    "title" : "Sống Thử [Tập 3] Truyện Ngắn Hay Về Cuộc Sống Bi Kịch Của Cô Gái Trong Tình Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-thu/4.mp3",
+    "title" : "Sống Thử [Tập 4] Truyện Ngắn Cực Hay Đời Người Con Gái Đáng Thương Đáng Hận",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/song-thu/5.mp3",
+    "title" : "Sống Thử [Tập Cuối] Hạnh Phúc Có Đến Với Cô Gái Chịu Nhiều Khổ Cực Trong Tình Yêu",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,269 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hai-con-nguoi-mot-cuoc-doi_12923.html",
+    "title" : "Hai Con Người, Một Cuộc Đời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vạn Sắc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 65661,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_c7d6511ab2a23f041ba035cddadc7088.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_c7d6511ab2a23f041ba035cddadc7088.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2769,
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 1 ) Chia Tay _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3618,
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 10 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3612,
+    "title" : "Hai Con Người Một Cuộc Đời ( Tập 11 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3640,
+    "title" : "Hai Con Người Một Cuộc Đời ( Tập 12 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3720,
+    "title" : "Hai Con Người Một Cuộc Đời ( Tập 13 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3622,
+    "title" : "Hai Con Người Một Cuộc Đời ( Tập 14 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3656,
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 15 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3608,
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 16 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3674,
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 17 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3626,
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 18 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2783,
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 19 ) The End _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3650,
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 2 ) An Ủi Lẫn Nhau _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3642,
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 3 ) Chìm Đắm _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3610,
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 4 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3612,
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 5 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2720,
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 6 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3676,
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 7 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2807,
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 8 ) Châu Gia Thiện _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3616,
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 9 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/1.mp3",
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 1 ) Chia Tay _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/10.mp3",
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 10 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/11.mp3",
+    "title" : "Hai Con Người Một Cuộc Đời ( Tập 11 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/12.mp3",
+    "title" : "Hai Con Người Một Cuộc Đời ( Tập 12 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/13.mp3",
+    "title" : "Hai Con Người Một Cuộc Đời ( Tập 13 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/14.mp3",
+    "title" : "Hai Con Người Một Cuộc Đời ( Tập 14 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/15.mp3",
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 15 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/16.mp3",
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 16 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/17.mp3",
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 17 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/18.mp3",
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 18 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/19.mp3",
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 19 ) The End _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/2.mp3",
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 2 ) An Ủi Lẫn Nhau _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/3.mp3",
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 3 ) Chìm Đắm _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/4.mp3",
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 4 ) Châu Gia Thiện _ Đam Mỹ Channel",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/5.mp3",
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 5 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/6.mp3",
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 6 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/7.mp3",
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 7 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/8.mp3",
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 8 ) Châu Gia Thiện _ Đam Mỹ Channel [ Châu Gia Thiện ]",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hai-con-nguoi-mot-cuoc-doi/9.mp3",
+    "title" : "Hai Con Người Một Cuộc Đời H+ ( Tập 9 ) Châu Gia Thiện [ Đam Mỹ Channel ]",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

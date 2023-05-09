@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/danh-cap-tinh-yeu-tuyet-mac_10429.html",
+    "title" : "Đánh Cắp Tình Yêu - Tuyết Mặc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tuyết Mặc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 45650,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_bc368d90c37bb45171f494249a743e1e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_bc368d90c37bb45171f494249a743e1e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/danh-cap-tinh-yeu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5360,
+    "title" : "Truyện ngôn tình hiện đại hay xếp trong top 10 ngôn tình Trung Quốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/danh-cap-tinh-yeu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4993,
+    "title" : "Truyện ngôn tình hiện đại hay xếp trong top 10 ngôn tình Trung Quốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/danh-cap-tinh-yeu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4904,
+    "title" : "Truyện ngôn tình hiện đại hay xếp trong top 10 ngôn tình Trung Quốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/danh-cap-tinh-yeu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5074,
+    "title" : "Truyện ngôn tình hiện đại hay xếp trong top 10 ngôn tình Trung Quốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/danh-cap-tinh-yeu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4982,
+    "title" : "Truyện ngôn tình hiện đại hay xếp trong top 10 ngôn tình Trung Quốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/danh-cap-tinh-yeu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5550,
+    "title" : "Truyện ngôn tình hiện đại hay xếp trong top 10 ngôn tình Trung Quốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/danh-cap-tinh-yeu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4997,
+    "title" : "Truyện ngôn tình hiện đại hay xếp trong top 10 ngôn tình Trung Quốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/danh-cap-tinh-yeu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5107,
+    "title" : "Truyện ngôn tình hiện đại hay xếp trong top 10 ngôn tình Trung Quốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/danh-cap-tinh-yeu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4683,
+    "title" : "Truyện ngôn tình hiện đại hay top 10 ngôn tình Trung Quốc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/danh-cap-tinh-yeu/1.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay xếp trong top 10 ngôn tình Trung Quốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/danh-cap-tinh-yeu/2.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay xếp trong top 10 ngôn tình Trung Quốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/danh-cap-tinh-yeu/3.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay xếp trong top 10 ngôn tình Trung Quốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/danh-cap-tinh-yeu/4.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay xếp trong top 10 ngôn tình Trung Quốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/danh-cap-tinh-yeu/5.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay xếp trong top 10 ngôn tình Trung Quốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/danh-cap-tinh-yeu/6.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay xếp trong top 10 ngôn tình Trung Quốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/danh-cap-tinh-yeu/7.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay xếp trong top 10 ngôn tình Trung Quốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/danh-cap-tinh-yeu/8.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay xếp trong top 10 ngôn tình Trung Quốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/danh-cap-tinh-yeu/9.mp3",
+    "title" : "Truyện ngôn tình hiện đại hay top 10 ngôn tình Trung Quốc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

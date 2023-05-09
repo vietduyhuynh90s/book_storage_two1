@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tran-ma-dao-nhan-truyen-tran-nguyen-minh-hoang_10723.html",
+    "title" : "Trấn Ma Đạo Nhân Truyện - Trần Nguyễn Minh Hoàng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Nguyễn Minh Hoàng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 55872,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_1af0b426455c3907e8efdb0fdb991a75.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_1af0b426455c3907e8efdb0fdb991a75.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4784,
+    "title" : "Truyện Ma Pháp Sư Diệt Ma Quỷ Cứu Nhân Độ Thế | MC Anh Tú",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4111,
+    "title" : "Truyện Ma Pháp Sư Diệt Trừ Ma Quỷ Anh Tú Kể Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4952,
+    "title" : "Truyện Ma Về Pháp Sư Trừ Ma Quỷ Anh Tú Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3831,
+    "title" : "Truyện Ma Pháp Sư Diệt Ma Hàng Quỷ Anh Tú Kể Nghe Hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3191,
+    "title" : "Truyện Ma Pháp Sư Hàng Yêu Phục Ma Anh Tú Kể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4143,
+    "title" : "Truyện Ma Pháp Sư Trừ Ma Quỷ Cứu Nhân Độ Thế | MC Anh Tú",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6594,
+    "title" : "Truyện Ma Pháp Sư Trừ Ma Quỷ Cứu Nhân Độ Thế | MC Anh Tú",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3654,
+    "title" : "Truyện Ma Pháp Sư Diệt Ma Cứu Nhân Độ Thế | MC Anh Tú",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4648,
+    "title" : "Truyện Ma Pháp Sư Diệt Ma Cứu Nhân Độ Thế Cực Hay | MC Anh Tú",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3169,
+    "title" : "Truyện Ma Pháp Sư Trừ Ma Cứu Nhân Độ Thế Hay Lắm | MC Anh Tú",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3451,
+    "title" : "Truyện Ma Pháp Sư Diệt Ma Cứu Nhân Độ Thế Quá Hay | MC Anh Tú",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4702,
+    "title" : "8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4642,
+    "title" : "Truyện Ma Pháp Sư Diệt Ma Trừ Quỷ Do Anh Tú Kể",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/1.mp3",
+    "title" : "Truyện Ma Pháp Sư Diệt Ma Quỷ Cứu Nhân Độ Thế | MC Anh Tú",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/10.mp3",
+    "title" : "Truyện Ma Pháp Sư Diệt Trừ Ma Quỷ Anh Tú Kể Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/11.mp3",
+    "title" : "Truyện Ma Về Pháp Sư Trừ Ma Quỷ Anh Tú Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/12.mp3",
+    "title" : "Truyện Ma Pháp Sư Diệt Ma Hàng Quỷ Anh Tú Kể Nghe Hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/13.mp3",
+    "title" : "Truyện Ma Pháp Sư Hàng Yêu Phục Ma Anh Tú Kể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/2.mp3",
+    "title" : "Truyện Ma Pháp Sư Trừ Ma Quỷ Cứu Nhân Độ Thế | MC Anh Tú",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/3.mp3",
+    "title" : "Truyện Ma Pháp Sư Trừ Ma Quỷ Cứu Nhân Độ Thế | MC Anh Tú",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/4.mp3",
+    "title" : "Truyện Ma Pháp Sư Diệt Ma Cứu Nhân Độ Thế | MC Anh Tú",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/5.mp3",
+    "title" : "Truyện Ma Pháp Sư Diệt Ma Cứu Nhân Độ Thế Cực Hay | MC Anh Tú",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/6.mp3",
+    "title" : "Truyện Ma Pháp Sư Trừ Ma Cứu Nhân Độ Thế Hay Lắm | MC Anh Tú",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/7.mp3",
+    "title" : "Truyện Ma Pháp Sư Diệt Ma Cứu Nhân Độ Thế Quá Hay | MC Anh Tú",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/8.mp3",
+    "title" : "8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tran-ma-dao-nhan/9.mp3",
+    "title" : "Truyện Ma Pháp Sư Diệt Ma Trừ Quỷ Do Anh Tú Kể",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

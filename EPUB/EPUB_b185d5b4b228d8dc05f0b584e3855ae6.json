@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/huyet-an-lien-hoan-thuong-quan-ngo-da_10153.html",
+    "title" : "Huyết Án Liên Hoàn - Thượng Quan Ngọ Dạ.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thượng Quan Ngọ Dạ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 36834,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_b185d5b4b228d8dc05f0b584e3855ae6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_b185d5b4b228d8dc05f0b584e3855ae6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3945,
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2403,
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2861,
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3635,
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2875,
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2936,
+    "title" : "3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3369,
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3202,
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3351,
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2382,
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3050,
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2825,
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/1.mp3",
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/10.mp3",
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/11.mp3",
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/12.mp3",
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/2.mp3",
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/3.mp3",
+    "title" : "3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/4.mp3",
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/5.mp3",
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/6.mp3",
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/7.mp3",
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/8.mp3",
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/huyetanlienhoan_201903/9.mp3",
+    "title" : "Truyện Kinh Dị của Thượng Quan Ngọ Dạ | Trò Chuyện Đêm Khuya",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,341 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-cuoc-phieu-luu-cua-huckleberry-finn-mark-twain_9551.html",
+    "title" : "Những cuộc Phiêu lưu của Huckleberry Finn - Mark Twain.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mark Twain",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 36462,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_8701d62b3cc019c78e807a9f3fe7f02f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_8701d62b3cc019c78e807a9f3fe7f02f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1484,
+    "title" : "1/25 l Mark Twain l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1556,
+    "title" : "10/25 l Mark Twain l Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1167,
+    "title" : "11/25 l Mark Twain l Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1216,
+    "title" : "12/25 l Mark Twain l Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1210,
+    "title" : "13/25 l Mark Twain l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1451,
+    "title" : "14/25 l Mark Twain l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1794,
+    "title" : "15/25 l Mark Twain l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1803,
+    "title" : "16/25 l Mark Twain l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1210,
+    "title" : "17/25 l Mark Twain l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1576,
+    "title" : "18/25 l Mark Twain l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1191,
+    "title" : "19/25 l Mark Twain l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1808,
+    "title" : "2/25 l Mark Twain l Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1593,
+    "title" : "20/25 l Mark Twain l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1539,
+    "title" : "21/25 l Mark Twain l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1427,
+    "title" : "22/25 l Mark Twain l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1383,
+    "title" : "23/25 l Mark Twain l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1376,
+    "title" : "24/25 l Mark Twain l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1153,
+    "title" : "25/25 (Hết) l Mark Twain l Audiobook VTC Now",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1877,
+    "title" : "3/25 l Mark Twain l Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1481,
+    "title" : "4/25 l Mark Twain l Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1972,
+    "title" : "5/25 l Mark Twain l Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1601,
+    "title" : "6/25 l Mark Twain l Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1245,
+    "title" : "7/25 l Mark Twain l Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1132,
+    "title" : "8/25 l Mark Twain l Audiobook",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1217,
+    "title" : "9/25 l Mark Twain l Audiobook",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/1.mp3",
+    "title" : "1/25 l Mark Twain l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/10.mp3",
+    "title" : "10/25 l Mark Twain l Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/11.mp3",
+    "title" : "11/25 l Mark Twain l Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/12.mp3",
+    "title" : "12/25 l Mark Twain l Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/13.mp3",
+    "title" : "13/25 l Mark Twain l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/14.mp3",
+    "title" : "14/25 l Mark Twain l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/15.mp3",
+    "title" : "15/25 l Mark Twain l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/16.mp3",
+    "title" : "16/25 l Mark Twain l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/17.mp3",
+    "title" : "17/25 l Mark Twain l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/18.mp3",
+    "title" : "18/25 l Mark Twain l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/19.mp3",
+    "title" : "19/25 l Mark Twain l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/2.mp3",
+    "title" : "2/25 l Mark Twain l Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/20.mp3",
+    "title" : "20/25 l Mark Twain l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/21.mp3",
+    "title" : "21/25 l Mark Twain l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/22.mp3",
+    "title" : "22/25 l Mark Twain l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/23.mp3",
+    "title" : "23/25 l Mark Twain l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/24.mp3",
+    "title" : "24/25 l Mark Twain l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/25.mp3",
+    "title" : "25/25 (Hết) l Mark Twain l Audiobook VTC Now",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/3.mp3",
+    "title" : "3/25 l Mark Twain l Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/4.mp3",
+    "title" : "4/25 l Mark Twain l Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/5.mp3",
+    "title" : "5/25 l Mark Twain l Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/6.mp3",
+    "title" : "6/25 l Mark Twain l Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/7.mp3",
+    "title" : "7/25 l Mark Twain l Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/8.mp3",
+    "title" : "8/25 l Mark Twain l Audiobook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-cuoc-phieu-luu-cua-huckleberry-finn/9.mp3",
+    "title" : "9/25 l Mark Twain l Audiobook",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

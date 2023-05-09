@@ -1,0 +1,281 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tram-nam-co-don_3593.html",
+    "title" : "Trăm Năm Cô Đơn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Gabriel García Márquez",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 66282,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_32154023582c479cb63a46ddaca7b078.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_32154023582c479cb63a46ddaca7b078.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3037,
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2915,
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3635,
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3037,
+    "title" : "Bourree",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3835,
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3037,
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3309,
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3099,
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3263,
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3517,
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3236,
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3103,
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3529,
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2014.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3804,
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2015.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3469,
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2016.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3020,
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2017.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3543,
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3332,
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3432,
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2020.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3130,
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 20",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2001.mp3",
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2002.mp3",
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2003.mp3",
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2004.mp3",
+    "title" : "Bourree",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2005.mp3",
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2006.mp3",
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2007.mp3",
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2008.mp3",
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2009.mp3",
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2010.mp3",
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2011.mp3",
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2012.mp3",
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2013.mp3",
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2014.mp3",
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2015.mp3",
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2016.mp3",
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2017.mp3",
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2018.mp3",
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2019.mp3",
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tram-nam-co-don-phan-04/Tram%20Nam%20Co%20Don%20-%20Phan%2020.mp3",
+    "title" : "TRĂM NĂM CÔ ĐƠN| GABRIEL GARCIA MARQUEZ| CHƯƠNG 20",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

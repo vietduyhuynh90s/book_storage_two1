@@ -1,0 +1,605 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-me-tong-chi-quoc-tap-1-cham-pa-an-suong-thien-ha-ba-xuong-ma-quai_3707.html",
+    "title" : "Mê tông chi quốc tập 1: Chăm Pa Ẩn Sương - Thiên Hạ Bá Xướng.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thiên Hạ Bá Xướng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 62446,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_a8f60cde7c7a43cfc73561f77f0661d1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_a8f60cde7c7a43cfc73561f77f0661d1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1517,
+    "title" : "Phần Dẫn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1186,
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 2.3 -Con đường u linh bị lãng quên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1193,
+    "title" : "A - B",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1440,
+    "title" : "Đáy biển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 994,
+    "title" : "Máy bay tiêm kích",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1524,
+    "title" : "Tháp thông thiên",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1209,
+    "title" : "Rắn thiêng hiện thân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1245,
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 3.1 -Xẻ bụng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1175,
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 3.2 -Đỉa campuchia ăn thịt người",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1144,
+    "title" : "Bùa ngải",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1369,
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 3.4 -Cuồng phong giông tố",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1456,
+    "title" : "Hắc ốc",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 961,
+    "title" : "Stupa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1613,
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 3.6 -Ánh sáng chói lóa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1168,
+    "title" : "Lao xuống",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1066,
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 3.8 -Hẻm núi khổng lồ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1225,
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 3.9 -Giọng nói",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1290,
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 4.1 Súng săn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1545,
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 4.2 -Kế hoạch kính viễn vọng địa cầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1069,
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 4.3 Hàng nguy hiểm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1179,
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 4.4 -Bom địa chấn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1101,
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 4.5 -Con mắt ngoài khoang lái",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1335,
+    "title" : "Biệt Bảo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1230,
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 4.6 -Kinh hoàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1387,
+    "title" : "Kén",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1067,
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 4.8 -Sụt lở",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1319,
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 5.1 -Tòa Thành Bốn Triệu Bảo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1122,
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 5.2 -Sóng Điện Trong Động Tối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1437,
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 5.3 -Mũ Sắt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1035,
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 5.4 -Khoảnh Khắc Ngàn Năm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1417,
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 5.5 -Lời giải không phải lời giải",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1061,
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 5.6 -Sương mù",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1128,
+    "title" : "Hơi thở",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1364,
+    "title" : "Cầu la sư",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 898,
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 5.8 -Kẻ may mắn sống sót",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1374,
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 5.9 -Đường hầm chết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1508,
+    "title" : "Đáp Án Thứ Chín",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/43.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1127,
+    "title" : "Nấm Mồ Xanh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/44.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1169,
+    "title" : "Quốc Vương Chăm Pa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/45.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1193,
+    "title" : "Chân Tướng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/46.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2716,
+    "title" : "C 6.5 - 6.6. Truyện Phiêu lưu, Trinh thám, Kinh dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/47.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3462,
+    "title" : "C 6.7 - 6.9. Truyện Phiêu lưu, Trinh thám, Kinh dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1171,
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 1.4 -Hẻm ma ám",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1427,
+    "title" : "Đom đóm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1260,
+    "title" : "Bọ cạp đảo đầu bò tường",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1383,
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 2.1 -Núi dã nhân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1187,
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 2.2 -Karaweik",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/1.mp3",
+    "title" : "Phần Dẫn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/10.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 2.3 -Con đường u linh bị lãng quên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/11.mp3",
+    "title" : "A - B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/12.mp3",
+    "title" : "Đáy biển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/13.mp3",
+    "title" : "Máy bay tiêm kích",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/14.mp3",
+    "title" : "Tháp thông thiên",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/15.mp3",
+    "title" : "Rắn thiêng hiện thân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/16.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 3.1 -Xẻ bụng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/17.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 3.2 -Đỉa campuchia ăn thịt người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/18.mp3",
+    "title" : "Bùa ngải",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/19.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 3.4 -Cuồng phong giông tố",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/2.mp3",
+    "title" : "Hắc ốc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/20.mp3",
+    "title" : "Stupa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/21.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 3.6 -Ánh sáng chói lóa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/22.mp3",
+    "title" : "Lao xuống",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/23.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 3.8 -Hẻm núi khổng lồ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/24.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 3.9 -Giọng nói",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/25.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 4.1 Súng săn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/26.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 4.2 -Kế hoạch kính viễn vọng địa cầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/27.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 4.3 Hàng nguy hiểm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/28.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 4.4 -Bom địa chấn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/29.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 4.5 -Con mắt ngoài khoang lái",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/3.mp3",
+    "title" : "Biệt Bảo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/30.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 4.6 -Kinh hoàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/31.mp3",
+    "title" : "Kén",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/32.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 4.8 -Sụt lở",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/33.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 5.1 -Tòa Thành Bốn Triệu Bảo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/34.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 5.2 -Sóng Điện Trong Động Tối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/35.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 5.3 -Mũ Sắt",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/36.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 5.4 -Khoảnh Khắc Ngàn Năm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/37.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 5.5 -Lời giải không phải lời giải",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/38.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 5.6 -Sương mù",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/39.mp3",
+    "title" : "Hơi thở",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/4.mp3",
+    "title" : "Cầu la sư",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/40.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 5.8 -Kẻ may mắn sống sót",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/41.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1.Champa Ẩn Sương.Chương 5.9 -Đường hầm chết",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/42.mp3",
+    "title" : "Đáp Án Thứ Chín",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/43.mp3",
+    "title" : "Nấm Mồ Xanh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/44.mp3",
+    "title" : "Quốc Vương Chăm Pa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/45.mp3",
+    "title" : "Chân Tướng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/46.mp3",
+    "title" : "C 6.5 - 6.6. Truyện Phiêu lưu, Trinh thám, Kinh dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/47.mp3",
+    "title" : "C 6.7 - 6.9. Truyện Phiêu lưu, Trinh thám, Kinh dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/5.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 1.4 -Hẻm ma ám",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/6.mp3",
+    "title" : "Đom đóm",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/7.mp3",
+    "title" : "Bọ cạp đảo đầu bò tường",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/8.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 2.1 -Núi dã nhân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/me-tong-chi-quoc-quyen-1/9.mp3",
+    "title" : "Mê Tông Chi Quốc Quyển 1. Champa Ẩn Sương. Chương 2.2 -Karaweik",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

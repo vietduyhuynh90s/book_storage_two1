@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dem-mua-tu-than-cuong-tuyet-an_11356.html",
+    "title" : "Đêm Mưa Tử Thần - Cương Tuyết Ấn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cương Tuyết Ấn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 56533,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_c050a43770de6da633905e8367fda10a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_c050a43770de6da633905e8367fda10a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dem-mua-tu-than/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3315,
+    "title" : "TẬP 01 | TG - CƯƠNG TUYẾT ẤN - Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3836,
+    "title" : "ĐÊM MƯA TỬ THẦN - TẬP 10 - 402 - Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3746,
+    "title" : "ĐÊM MƯA TỬ THẦN - TẬP 11 - 442 - Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3934,
+    "title" : "ĐÊM MƯA TỬ THẦN- TẬP 12 - Lộ chân tướng - Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5378,
+    "title" : "ĐÊM MƯA TỬ THẦN- TẬP 13 - TẬP CUỐI - Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3855,
+    "title" : "TẬP 02 \"án mạng liên hoàn\" | TG - CƯƠNG TUYẾT ẤN - Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3528,
+    "title" : "TẬP 03 ÁN MẠNG LIÊN HOÀN | Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3896,
+    "title" : "TẬP 04 Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4509,
+    "title" : "TẬP 05 - ÁN MẠNG THỨ 4 - Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5108,
+    "title" : "ĐÊM MƯA TỬ THẦN - TẬP 06 - Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3964,
+    "title" : "ĐÊM MƯA TỬ THẦN - TẬP 07 - Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7548,
+    "title" : "ĐÊM MƯA TỬ THẦN - TẬP 08 - Mc Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3916,
+    "title" : "ĐÊM MƯA TỬ THẦN- TẬP 09 - Mc Thanh Bình 363",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dem-mua-tu-than/1.mp3",
+    "title" : "TẬP 01 | TG - CƯƠNG TUYẾT ẤN - Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/10.mp3",
+    "title" : "ĐÊM MƯA TỬ THẦN - TẬP 10 - 402 - Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/11.mp3",
+    "title" : "ĐÊM MƯA TỬ THẦN - TẬP 11 - 442 - Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/12.mp3",
+    "title" : "ĐÊM MƯA TỬ THẦN- TẬP 12 - Lộ chân tướng - Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/13.mp3",
+    "title" : "ĐÊM MƯA TỬ THẦN- TẬP 13 - TẬP CUỐI - Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/2.mp3",
+    "title" : "TẬP 02 \"án mạng liên hoàn\" | TG - CƯƠNG TUYẾT ẤN - Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/3.mp3",
+    "title" : "TẬP 03 ÁN MẠNG LIÊN HOÀN | Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/4.mp3",
+    "title" : "TẬP 04 Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/5.mp3",
+    "title" : "TẬP 05 - ÁN MẠNG THỨ 4 - Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/6.mp3",
+    "title" : "ĐÊM MƯA TỬ THẦN - TẬP 06 - Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/7.mp3",
+    "title" : "ĐÊM MƯA TỬ THẦN - TẬP 07 - Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/8.mp3",
+    "title" : "ĐÊM MƯA TỬ THẦN - TẬP 08 - Mc Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dem-mua-tu-than/9.mp3",
+    "title" : "ĐÊM MƯA TỬ THẦN- TẬP 09 - Mc Thanh Bình 363",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-ho-sinh-tu-sai-tuan-kinh-di_3586.html",
+    "title" : "Hồ Sinh Tử - Sái Tuấn.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sái Tuấn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-09",
+    "duration" : 49185,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_fa3d62ab6799ef2feb0a866474145ce4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_fa3d62ab6799ef2feb0a866474145ce4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ho-sinh-tu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5967,
+    "title" : "TG Sái Tuấn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-sinh-tu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3440,
+    "title" : "Hồ Sinh Tử 10 | Truyện trinh thám cực hay | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-sinh-tu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3065,
+    "title" : "Hồ Sinh Tử 11| Tập Cuối | Truyện trinh thám hay| mc thanh bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-sinh-tu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6777,
+    "title" : "TG SÁI TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-sinh-tu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5819,
+    "title" : "TG SÁI TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-sinh-tu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4235,
+    "title" : "[Tập 04] HỒ SINH TỬ 4 | Truyện Trinh Thám rất hay | MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-sinh-tu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3855,
+    "title" : "[Tập 05] HỒ SINH TỬ 5 | Truyện Trinh Thám rất hay | MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-sinh-tu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3895,
+    "title" : "Truyện trinh thám hay 2020 - MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-sinh-tu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4548,
+    "title" : "Hồ Sinh Tử 7 | Truyện trinh thám kinh dị hay | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-sinh-tu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3849,
+    "title" : "Hồ Sinh Tử 8 | Truyện trinh thám kinh dị hay | MC Thanh Bình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ho-sinh-tu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3735,
+    "title" : "Hồ Sinh Tử 9 | truyện trinh thám hay hấp dẫn | MC THANH BÌNH",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ho-sinh-tu/1.mp3",
+    "title" : "TG Sái Tuấn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-sinh-tu/10.mp3",
+    "title" : "Hồ Sinh Tử 10 | Truyện trinh thám cực hay | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-sinh-tu/11.mp3",
+    "title" : "Hồ Sinh Tử 11| Tập Cuối | Truyện trinh thám hay| mc thanh bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-sinh-tu/2.mp3",
+    "title" : "TG SÁI TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-sinh-tu/3.mp3",
+    "title" : "TG SÁI TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-sinh-tu/4.mp3",
+    "title" : "[Tập 04] HỒ SINH TỬ 4 | Truyện Trinh Thám rất hay | MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-sinh-tu/5.mp3",
+    "title" : "[Tập 05] HỒ SINH TỬ 5 | Truyện Trinh Thám rất hay | MC THANH BÌNH",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-sinh-tu/6.mp3",
+    "title" : "Truyện trinh thám hay 2020 - MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-sinh-tu/7.mp3",
+    "title" : "Hồ Sinh Tử 7 | Truyện trinh thám kinh dị hay | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-sinh-tu/8.mp3",
+    "title" : "Hồ Sinh Tử 8 | Truyện trinh thám kinh dị hay | MC Thanh Bình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ho-sinh-tu/9.mp3",
+    "title" : "Hồ Sinh Tử 9 | truyện trinh thám hay hấp dẫn | MC THANH BÌNH",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
