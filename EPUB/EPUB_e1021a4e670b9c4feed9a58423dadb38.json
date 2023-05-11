@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hen-voi-than-chet-hen-voi-tu-than_20295.html",
+    "title" : "Hẹn Với Thần Chết (Hẹn Với Tử Thần)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Agatha Christie",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-11",
+    "duration" : 30313,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_e1021a4e670b9c4feed9a58423dadb38.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_e1021a4e670b9c4feed9a58423dadb38.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hen-voi-2/hen-voi-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7164,
+    "title" : "hen-voi-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hen-voi-2/hen-voi-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8516,
+    "title" : "hen-voi-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hen-voi-2/hen-voi-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7488,
+    "title" : "hen-voi-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hen-voi-2/hen-voi-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7145,
+    "title" : "hen-voi-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hen-voi-2/hen-voi-1.mp3",
+    "title" : "hen-voi-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hen-voi-2/hen-voi-2.mp3",
+    "title" : "hen-voi-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hen-voi-2/hen-voi-3.mp3",
+    "title" : "hen-voi-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hen-voi-2/hen-voi-4.mp3",
+    "title" : "hen-voi-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

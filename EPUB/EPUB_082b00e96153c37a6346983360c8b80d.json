@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vo-si-dao-linh-hon-nhat-ban_20271.html",
+    "title" : "Võ Sĩ Đạo - Linh Hồn Nhật Bản",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Inazo Nitobe",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-11",
+    "duration" : 15345,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_082b00e96153c37a6346983360c8b80d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_082b00e96153c37a6346983360c8b80d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vo-si-1/vo-si-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2556,
+    "title" : "vo-si-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-1/vo-si-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1278,
+    "title" : "vo-si-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-1/vo-si-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1547,
+    "title" : "vo-si-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-1/vo-si-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1504,
+    "title" : "vo-si-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-1/vo-si-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1513,
+    "title" : "vo-si-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-1/vo-si-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1084,
+    "title" : "vo-si-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-1/vo-si-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1933,
+    "title" : "vo-si-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-1/vo-si-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2026,
+    "title" : "vo-si-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/vo-si-1/vo-si-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1904,
+    "title" : "vo-si-9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vo-si-1/vo-si-1.mp3",
+    "title" : "vo-si-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-1/vo-si-2.mp3",
+    "title" : "vo-si-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-1/vo-si-3.mp3",
+    "title" : "vo-si-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-1/vo-si-4.mp3",
+    "title" : "vo-si-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-1/vo-si-5.mp3",
+    "title" : "vo-si-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-1/vo-si-6.mp3",
+    "title" : "vo-si-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-1/vo-si-7.mp3",
+    "title" : "vo-si-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-1/vo-si-8.mp3",
+    "title" : "vo-si-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vo-si-1/vo-si-9.mp3",
+    "title" : "vo-si-9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
