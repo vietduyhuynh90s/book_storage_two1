@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ba-oi-minh-di-dau_4030.html",
+    "title" : "Ba Ơi Mình Đi Đâu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jean-Louis Fournier",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 9360,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_5bcc3f9159b0cea2caf139e18d38539b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_5bcc3f9159b0cea2caf139e18d38539b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/BaOiMinhDiDau04/BaOiMinhDiDau_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1997,
+    "title" : "BaOiMinhDiDau 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaOiMinhDiDau04/BaOiMinhDiDau_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1999,
+    "title" : "BaOiMinhDiDau 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaOiMinhDiDau04/BaOiMinhDiDau_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2469,
+    "title" : "BaOiMinhDiDau 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BaOiMinhDiDau04/BaOiMinhDiDau_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2895,
+    "title" : "BaOiMinhDiDau 04",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/BaOiMinhDiDau04/BaOiMinhDiDau_01.mp3",
+    "title" : "BaOiMinhDiDau 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaOiMinhDiDau04/BaOiMinhDiDau_02.mp3",
+    "title" : "BaOiMinhDiDau 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaOiMinhDiDau04/BaOiMinhDiDau_03.mp3",
+    "title" : "BaOiMinhDiDau 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BaOiMinhDiDau04/BaOiMinhDiDau_04.mp3",
+    "title" : "BaOiMinhDiDau 04",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

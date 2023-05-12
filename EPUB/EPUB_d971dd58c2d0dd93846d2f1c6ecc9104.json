@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chi-tiet-quyet-dinh-su-thanh-bai_19612.html",
+    "title" : "Chi Tiết Quyết Định Sự Thành Bại",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Uông Trung Cầu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 26439,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_d971dd58c2d0dd93846d2f1c6ecc9104.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_d971dd58c2d0dd93846d2f1c6ecc9104.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/01.GioiThieu_ChiTietQuyetDinhSuThanhBai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 651,
+    "title" : "01.GioiThieu ChiTietQuyetDinhSuThanhBai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/02.Phan01A__ViecLonTrongThienHaCanPhaiLamTuViecNho_ChiTietQuyetDinhSuThanhBai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2858,
+    "title" : "02.Phan01A  ViecLonTrongThienHaCanPhaiLamTuViecNho ChiTietQuyetDinhSuThanhBai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/03.Phan01B_ViecLonTrongThienHaCanPhaiLamTuViecNho_ChiTietQuyetDinhSuThanhBai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2349,
+    "title" : "03.Phan01B ViecLonTrongThienHaCanPhaiLamTuViecNho ChiTietQuyetDinhSuThanhBai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/04.Phan02A_KhongCoNganhNghePhaSanChiCoDoanhNghiepPhaSan_ChiTietQuyetDinhSuThanhBai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2531,
+    "title" : "04.Phan02A KhongCoNganhNghePhaSanChiCoDoanhNghiepPhaSan ChiTietQuyetDinhSuThanhBai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/05.Phan02B_KhongCoNganhNghePhaSanChiCoDoanhNghiepPhaSan_ChiTietQuyetDinhSuThanhBai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1937,
+    "title" : "05.Phan02B KhongCoNganhNghePhaSanChiCoDoanhNghiepPhaSan ChiTietQuyetDinhSuThanhBai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/06.Phan03A_1SaiLamDanToi100ThatBaiCaiGiaPhaiTraKhiCoiThuongChiTiet_ChiTietQuyetDinhSuThanhBai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2832,
+    "title" : "06.Phan03A 1SaiLamDanToi100ThatBaiCaiGiaPhaiTraKhiCoiThuongChiTiet ChiTietQuyetDinhSuThanhBai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/07.Phan03B_1SaiLamDanToi100ThatBaiCaiGiaPhaiTraKhiCoiThuongChiTiet_ChiTietQuyetDinhSuThanhBai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1058,
+    "title" : "07.Phan03B 1SaiLamDanToi100ThatBaiCaiGiaPhaiTraKhiCoiThuongChiTiet ChiTietQuyetDinhSuThanhBai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/08.Phan04_DungTRaiTimMoiCoTheThayDuoc_ChiTietQuyetDinhSuThanhBai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3708,
+    "title" : "08.Phan04 DungTRaiTimMoiCoTheThayDuoc ChiTietQuyetDinhSuThanhBai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/09.Phan05_SuViDaiBatNguonTuNhungChiTiet_ChiTietQuyetDinhSuThanhBai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3462,
+    "title" : "09.Phan05 SuViDaiBatNguonTuNhungChiTiet ChiTietQuyetDinhSuThanhBai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/10.Phan06_ChuDoanhNghiepTheHeThuNhatDuaVaoSuCanDamChuDoanhNghiepTheHeThuTuDuaVaoBoOc_ChiTietQuyetDinhSuThanhBai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1853,
+    "title" : "10.Phan06 ChuDoanhNghiepTheHeThuNhatDuaVaoSuCanDamChuDoanhNghiepTheHeThuTuDuaVaoBoOc...",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/11.Phan07_HET_QuanLiNuocLonNhuNauMonAnTuoi_ChiTietQuyetDinhSuThanhBai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3200,
+    "title" : "11.Phan07 HET QuanLiNuocLonNhuNauMonAnTuoi ChiTietQuyetDinhSuThanhBai",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/01.GioiThieu_ChiTietQuyetDinhSuThanhBai.mp3",
+    "title" : "01.GioiThieu ChiTietQuyetDinhSuThanhBai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/02.Phan01A__ViecLonTrongThienHaCanPhaiLamTuViecNho_ChiTietQuyetDinhSuThanhBai.mp3",
+    "title" : "02.Phan01A  ViecLonTrongThienHaCanPhaiLamTuViecNho ChiTietQuyetDinhSuThanhBai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/03.Phan01B_ViecLonTrongThienHaCanPhaiLamTuViecNho_ChiTietQuyetDinhSuThanhBai.mp3",
+    "title" : "03.Phan01B ViecLonTrongThienHaCanPhaiLamTuViecNho ChiTietQuyetDinhSuThanhBai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/04.Phan02A_KhongCoNganhNghePhaSanChiCoDoanhNghiepPhaSan_ChiTietQuyetDinhSuThanhBai.mp3",
+    "title" : "04.Phan02A KhongCoNganhNghePhaSanChiCoDoanhNghiepPhaSan ChiTietQuyetDinhSuThanhBai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/05.Phan02B_KhongCoNganhNghePhaSanChiCoDoanhNghiepPhaSan_ChiTietQuyetDinhSuThanhBai.mp3",
+    "title" : "05.Phan02B KhongCoNganhNghePhaSanChiCoDoanhNghiepPhaSan ChiTietQuyetDinhSuThanhBai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/06.Phan03A_1SaiLamDanToi100ThatBaiCaiGiaPhaiTraKhiCoiThuongChiTiet_ChiTietQuyetDinhSuThanhBai.mp3",
+    "title" : "06.Phan03A 1SaiLamDanToi100ThatBaiCaiGiaPhaiTraKhiCoiThuongChiTiet ChiTietQuyetDinhSuThanhBai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/07.Phan03B_1SaiLamDanToi100ThatBaiCaiGiaPhaiTraKhiCoiThuongChiTiet_ChiTietQuyetDinhSuThanhBai.mp3",
+    "title" : "07.Phan03B 1SaiLamDanToi100ThatBaiCaiGiaPhaiTraKhiCoiThuongChiTiet ChiTietQuyetDinhSuThanhBai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/08.Phan04_DungTRaiTimMoiCoTheThayDuoc_ChiTietQuyetDinhSuThanhBai.mp3",
+    "title" : "08.Phan04 DungTRaiTimMoiCoTheThayDuoc ChiTietQuyetDinhSuThanhBai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/09.Phan05_SuViDaiBatNguonTuNhungChiTiet_ChiTietQuyetDinhSuThanhBai.mp3",
+    "title" : "09.Phan05 SuViDaiBatNguonTuNhungChiTiet ChiTietQuyetDinhSuThanhBai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/10.Phan06_ChuDoanhNghiepTheHeThuNhatDuaVaoSuCanDamChuDoanhNghiepTheHeThuTuDuaVaoBoOc_ChiTietQuyetDinhSuThanhBai.mp3",
+    "title" : "10.Phan06 ChuDoanhNghiepTheHeThuNhatDuaVaoSuCanDamChuDoanhNghiepTheHeThuTuDuaVaoBoOc...",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chi-tiet-quyet-dinh-su-thanh-bai.sna/11.Phan07_HET_QuanLiNuocLonNhuNauMonAnTuoi_ChiTietQuyetDinhSuThanhBai.mp3",
+    "title" : "11.Phan07 HET QuanLiNuocLonNhuNauMonAnTuoi ChiTietQuyetDinhSuThanhBai",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

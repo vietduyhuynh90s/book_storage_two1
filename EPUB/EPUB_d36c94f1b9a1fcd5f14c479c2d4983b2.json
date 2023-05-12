@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tu-nhien-nhu-nguoi-ha-noi_20233.html",
+    "title" : "Tự Nhiên Như Người Hà Nội",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Trương Quý",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 15648,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_d36c94f1b9a1fcd5f14c479c2d4983b2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_d36c94f1b9a1fcd5f14c479c2d4983b2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tu-nhien-nhu-nguoi-ha-noi.sna/TU_NHIEN_NHU_NGUOI_HN-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2029,
+    "title" : "TU NHIEN NHU NGUOI HN-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-nhien-nhu-nguoi-ha-noi.sna/TU_NHIEN_NHU_NGUOI_HN-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1865,
+    "title" : "TU NHIEN NHU NGUOI HN-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-nhien-nhu-nguoi-ha-noi.sna/TU_NHIEN_NHU_NGUOI_HN-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1470,
+    "title" : "TU NHIEN NHU NGUOI HN-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-nhien-nhu-nguoi-ha-noi.sna/TU_NHIEN_NHU_NGUOI_HN-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1310,
+    "title" : "TU NHIEN NHU NGUOI HN-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-nhien-nhu-nguoi-ha-noi.sna/TU_NHIEN_NHU_NGUOI_HN-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1534,
+    "title" : "TU NHIEN NHU NGUOI HN-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-nhien-nhu-nguoi-ha-noi.sna/TU_NHIEN_NHU_NGUOI_HN-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1500,
+    "title" : "TU NHIEN NHU NGUOI HN-06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-nhien-nhu-nguoi-ha-noi.sna/TU_NHIEN_NHU_NGUOI_HN-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1482,
+    "title" : "TU NHIEN NHU NGUOI HN-07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-nhien-nhu-nguoi-ha-noi.sna/TU_NHIEN_NHU_NGUOI_HN-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1693,
+    "title" : "TU NHIEN NHU NGUOI HN-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-nhien-nhu-nguoi-ha-noi.sna/TU_NHIEN_NHU_NGUOI_HN-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1434,
+    "title" : "TU NHIEN NHU NGUOI HN-09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tu-nhien-nhu-nguoi-ha-noi.sna/TU_NHIEN_NHU_NGUOI_HN-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1331,
+    "title" : "TU NHIEN NHU NGUOI HN-10",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tu-nhien-nhu-nguoi-ha-noi.sna/TU_NHIEN_NHU_NGUOI_HN-01.mp3",
+    "title" : "TU NHIEN NHU NGUOI HN-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-nhien-nhu-nguoi-ha-noi.sna/TU_NHIEN_NHU_NGUOI_HN-02.mp3",
+    "title" : "TU NHIEN NHU NGUOI HN-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-nhien-nhu-nguoi-ha-noi.sna/TU_NHIEN_NHU_NGUOI_HN-03.mp3",
+    "title" : "TU NHIEN NHU NGUOI HN-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-nhien-nhu-nguoi-ha-noi.sna/TU_NHIEN_NHU_NGUOI_HN-04.mp3",
+    "title" : "TU NHIEN NHU NGUOI HN-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-nhien-nhu-nguoi-ha-noi.sna/TU_NHIEN_NHU_NGUOI_HN-05.mp3",
+    "title" : "TU NHIEN NHU NGUOI HN-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-nhien-nhu-nguoi-ha-noi.sna/TU_NHIEN_NHU_NGUOI_HN-06.mp3",
+    "title" : "TU NHIEN NHU NGUOI HN-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-nhien-nhu-nguoi-ha-noi.sna/TU_NHIEN_NHU_NGUOI_HN-07.mp3",
+    "title" : "TU NHIEN NHU NGUOI HN-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-nhien-nhu-nguoi-ha-noi.sna/TU_NHIEN_NHU_NGUOI_HN-08.mp3",
+    "title" : "TU NHIEN NHU NGUOI HN-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-nhien-nhu-nguoi-ha-noi.sna/TU_NHIEN_NHU_NGUOI_HN-09.mp3",
+    "title" : "TU NHIEN NHU NGUOI HN-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tu-nhien-nhu-nguoi-ha-noi.sna/TU_NHIEN_NHU_NGUOI_HN-10.mp3",
+    "title" : "TU NHIEN NHU NGUOI HN-10",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

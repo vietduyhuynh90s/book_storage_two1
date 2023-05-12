@@ -1,0 +1,341 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dat-mau-sicily_19123.html",
+    "title" : "Đất Máu Sicily",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mario Puzo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 55698,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_01b610305e5d55a518cb9115f972dc30.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_01b610305e5d55a518cb9115f972dc30.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/dat-mau-sicily/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2278,
+    "title" : "ĐẤT MÁU SICILLY| MARIOPUZO| P1| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2177,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P10| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2770,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P11| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1619,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P12| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2104,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P13| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1506,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P14| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2013,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P15| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1392,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P16| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2732,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P17| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1833,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P18| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2200,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P19| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2790,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P2| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1936,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P20| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2118,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P21| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2746,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P22| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2900,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P23| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3776,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P24| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3987,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P25| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1422,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P3| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2058,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P4| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1513,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P5| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2769,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P6| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1918,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P7| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1767,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P8| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1374,
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P9| MẠNH TUẤN",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/dat-mau-sicily/1.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIOPUZO| P1| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/10.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P10| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/11.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P11| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/12.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P12| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/13.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P13| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/14.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P14| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/15.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P15| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/16.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P16| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/17.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P17| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/18.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P18| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/19.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P19| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/2.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P2| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/20.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P20| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/21.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P21| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/22.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P22| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/23.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P23| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/24.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P24| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/25.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P25| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/3.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P3| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/4.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P4| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/5.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P5| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/6.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P6| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/7.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P7| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/8.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P8| MẠNH TUẤN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/dat-mau-sicily/9.mp3",
+    "title" : "ĐẤT MÁU SICILLY| MARIO PUZO| P9| MẠNH TUẤN",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

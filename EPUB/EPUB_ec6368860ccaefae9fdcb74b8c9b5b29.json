@@ -1,0 +1,545 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/audiobook-tam-sinh-tam-the-cham-thuong-thu-duong-that-cong-tu-ngon-tinh_3472.html",
+    "title" : "Tam Sinh Tam Thế - Chẩm Thượng Thư - Đường Thất Công Tử",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đường Thất Công Tử",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 155015,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_ec6368860ccaefae9fdcb74b8c9b5b29.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_ec6368860ccaefae9fdcb74b8c9b5b29.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1035,
+    "title" : "CHUONG 01 - Quyen Thuong - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4668,
+    "title" : "CHUONG 10 - Quyen Thuong - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6183,
+    "title" : "CHUONG 11 - Quyen Thuong - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8579,
+    "title" : "CHUONG 12 - Quyen Thuong - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5377,
+    "title" : "CHUONG 13 - Quyen Thuong - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5778,
+    "title" : "CHUONG 01 - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3185,
+    "title" : "CHUONG 02 (PHẦN 1) - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3105,
+    "title" : "CHUONG 02 (PHẦN 2) - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3105,
+    "title" : "CHUONG 02 (PHẦN 3) - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1490,
+    "title" : "CHUONG 03 - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3015,
+    "title" : "CHUONG 04 (PHẦN 1) - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1867,
+    "title" : "CHUONG 02 - Quyen Thuong - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1735,
+    "title" : "CHUONG 04 (PHẦN 2) - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2650,
+    "title" : "CHUONG 05 (PHẦN 1) - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2905,
+    "title" : "CHUONG 05 (PHẦN 2) - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2160,
+    "title" : "CHUONG 05 (PHẦN 3) - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5232,
+    "title" : "CHUONG 06 - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/25.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2860,
+    "title" : "CHUONG 07 - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1760,
+    "title" : "CHUONG 08 - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/27.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4099,
+    "title" : "CHUONG 09 - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/28.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2995,
+    "title" : "CHUONG 10 - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/29.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5148,
+    "title" : "CHUONG 11 - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7457,
+    "title" : "CHUONG 03 - Quyen Thuong - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/30.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4083,
+    "title" : "CHUONG 12 - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/31.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2325,
+    "title" : "CHUONG 13 - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/32.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4068,
+    "title" : "CHUONG 14 - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/33.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4836,
+    "title" : "CHUONG 15 - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/34.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4761,
+    "title" : "CHUONG 16 (PHẦN 1) - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/35.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4791,
+    "title" : "CHUONG 16 (PHẦN 2) - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/36.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4353,
+    "title" : "CHUONG 17 - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/37.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4245,
+    "title" : "CHUONG 18 - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/38.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2990,
+    "title" : "CHUONG 19 (PHẦN 1) - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/39.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3050,
+    "title" : "CHUONG 19 (PHẦN 2) - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3681,
+    "title" : "CHUONG 04 - Quyen Thuong - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1470,
+    "title" : "CHUONG 19 (PHẦN 3) - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/41.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 820,
+    "title" : "CHUONG 20 (CHƯƠNG CUỐI) - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/42.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1405,
+    "title" : "CHUONG 21 (Ngoại Truyện) - Quyen Ha - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3984,
+    "title" : "CHUONG 05 - Quyen Thuong - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4437,
+    "title" : "CHUONG 06 - Quyen Thuong - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7954,
+    "title" : "CHUONG 07 - Quyen Thuong - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1555,
+    "title" : "CHUONG 08 - Quyen Thuong - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3819,
+    "title" : "CHUONG 09 - Quyen Thuong - Truyen Audio",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/1.mp3",
+    "title" : "CHUONG 01 - Quyen Thuong - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/10.mp3",
+    "title" : "CHUONG 10 - Quyen Thuong - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/11.mp3",
+    "title" : "CHUONG 11 - Quyen Thuong - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/12.mp3",
+    "title" : "CHUONG 12 - Quyen Thuong - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/13.mp3",
+    "title" : "CHUONG 13 - Quyen Thuong - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/14.mp3",
+    "title" : "CHUONG 01 - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/15.mp3",
+    "title" : "CHUONG 02 (PHẦN 1) - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/16.mp3",
+    "title" : "CHUONG 02 (PHẦN 2) - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/17.mp3",
+    "title" : "CHUONG 02 (PHẦN 3) - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/18.mp3",
+    "title" : "CHUONG 03 - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/19.mp3",
+    "title" : "CHUONG 04 (PHẦN 1) - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/2.mp3",
+    "title" : "CHUONG 02 - Quyen Thuong - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/20.mp3",
+    "title" : "CHUONG 04 (PHẦN 2) - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/21.mp3",
+    "title" : "CHUONG 05 (PHẦN 1) - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/22.mp3",
+    "title" : "CHUONG 05 (PHẦN 2) - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/23.mp3",
+    "title" : "CHUONG 05 (PHẦN 3) - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/24.mp3",
+    "title" : "CHUONG 06 - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/25.mp3",
+    "title" : "CHUONG 07 - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/26.mp3",
+    "title" : "CHUONG 08 - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/27.mp3",
+    "title" : "CHUONG 09 - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/28.mp3",
+    "title" : "CHUONG 10 - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/29.mp3",
+    "title" : "CHUONG 11 - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/3.mp3",
+    "title" : "CHUONG 03 - Quyen Thuong - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/30.mp3",
+    "title" : "CHUONG 12 - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/31.mp3",
+    "title" : "CHUONG 13 - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/32.mp3",
+    "title" : "CHUONG 14 - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/33.mp3",
+    "title" : "CHUONG 15 - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/34.mp3",
+    "title" : "CHUONG 16 (PHẦN 1) - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/35.mp3",
+    "title" : "CHUONG 16 (PHẦN 2) - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/36.mp3",
+    "title" : "CHUONG 17 - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/37.mp3",
+    "title" : "CHUONG 18 - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/38.mp3",
+    "title" : "CHUONG 19 (PHẦN 1) - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/39.mp3",
+    "title" : "CHUONG 19 (PHẦN 2) - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/4.mp3",
+    "title" : "CHUONG 04 - Quyen Thuong - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/40.mp3",
+    "title" : "CHUONG 19 (PHẦN 3) - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/41.mp3",
+    "title" : "CHUONG 20 (CHƯƠNG CUỐI) - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/42.mp3",
+    "title" : "CHUONG 21 (Ngoại Truyện) - Quyen Ha - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/5.mp3",
+    "title" : "CHUONG 05 - Quyen Thuong - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/6.mp3",
+    "title" : "CHUONG 06 - Quyen Thuong - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/7.mp3",
+    "title" : "CHUONG 07 - Quyen Thuong - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/8.mp3",
+    "title" : "CHUONG 08 - Quyen Thuong - Truyen Audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-sinh-tam-the-cham-thuong-thu/9.mp3",
+    "title" : "CHUONG 09 - Quyen Thuong - Truyen Audio",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

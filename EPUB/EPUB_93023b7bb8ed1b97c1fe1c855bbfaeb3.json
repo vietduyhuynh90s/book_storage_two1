@@ -1,0 +1,821 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bi-quyet-thanh-cong-danh-cho-ban-tre_16750.html",
+    "title" : "Bí Quyết Thành Công Dành Cho Bạn Trẻ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 34549,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_93023b7bb8ed1b97c1fe1c855bbfaeb3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_93023b7bb8ed1b97c1fe1c855bbfaeb3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/01-loi_gioi_thieu.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 391,
+    "title" : "Lời giới thiệu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/02-yeu_to_ban.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 98,
+    "title" : "Yếu tố “bạn”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/03-kent_la_ai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 402,
+    "title" : "Kent Healy là ai?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/04-jack_la_ai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 397,
+    "title" : "Jack Canfield là ai?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/05-nguyen_tac_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 649,
+    "title" : "Nguyên tắc 1: Chịu 100% trách nhiệm về cuộc đời mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/06-toan_dien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 429,
+    "title" : "Toàn diện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/07-tro_do_loi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 652,
+    "title" : "Trò đổ lỗi và than vãn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/08-phan_ung_bang_hanh_dong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 518,
+    "title" : "Phản ứng bằng hành động",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/09-don_gian_chua_chac_de.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 352,
+    "title" : "Đơn giản chưa chắc là dễ dàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/10-nguyen_tac_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 593,
+    "title" : "Nguyên tắc 2: Tin rằng mọi điều đều có thể",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/11-tim_doi_ngu_ung_ho.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 553,
+    "title" : "Tìm đội ngũ ủng hộ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/12-nhung_nguoi_khac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 322,
+    "title" : "Những người khác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/13-nguyen_tac_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 520,
+    "title" : "Nguyên tắc 3: Xác định điều mình muốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/14-dung_song_bang_giac_mo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 517,
+    "title" : "Đừng sống bằng giấc mơ của người khác",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/15-dung_co_thai_do.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 607,
+    "title" : "Đừng có thái độ “Sao cũng được!”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/16-thu_hut_nhung_gi_ban_muon..mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 383,
+    "title" : "Thu hút những gì bạn muốn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/17-dung_chi_nghi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 510,
+    "title" : "Đừng chỉ nghĩ về nó, hãy viết nó ra!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/18-nguyen_tac_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 472,
+    "title" : "Nguyên tắc 4: Hiểu rõ lý do mình tồn tại trên đời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/19-de_cuoc_doi_chung_ta.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 581,
+    "title" : "Để cuộc đời chúng ta diễn ra tốt hơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/20-muc_dich_cua_ban_la_gi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 624,
+    "title" : "Mục đích của bạn là gì?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/21-nguyen_tac_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 839,
+    "title" : "Nguyên tắc 5: Hướng đến điều tốt nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/22-du_co_the.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 274,
+    "title" : "Dù có thể đang lẩn trốn đâu đó, điều tốt nhất vẫn luôn tồn tại.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/23-nguyen_tac_6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 688,
+    "title" : "Nguyên tắc 6: Sức mạnh của mục tiêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/24-ba_moi_de_doa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 704,
+    "title" : "Ba mối đe dọa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/25-y_nghia_dang_sau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 380,
+    "title" : "Ý nghĩa đằng sau mục tiêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/26-nguyen_tac_7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 650,
+    "title" : "Nguyên tắc 7: Thả phanh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/27-vong_tron_lan_quan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 737,
+    "title" : "Vòng tròn lẩn quẩn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/28-nguyen_tac_8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 557,
+    "title" : "Nguyên tắc 8: Hãy tưởng tượng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/29-hinh_dung_ra_su_hoan_hao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 456,
+    "title" : "Hình dung ra sự hoàn hảo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/30-thuc_tap_hinh_dung.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 228,
+    "title" : "Thực tập việc hình dung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/31-nguyen_tac_9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 517,
+    "title" : "Nguyên tắc 9: Hãy “làm như thể” bạn đã thành công",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/32-hay_tro_thanh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 412,
+    "title" : "“Hãy trở thành người mà bạn muốn trong tương lai”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/33-nguyen_tac_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 781,
+    "title" : "Nguyên tắc 10: Đừng ngại dấn thân",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/34-cu_thu_di.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 373,
+    "title" : "Cứ thử đi!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/35-nguyen_tac_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 439,
+    "title" : "Nguyên tắc 11: Ngẩng cao đầu đối mặt với sợ hãi!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/36-nhan_dien_noi_so.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 690,
+    "title" : "Nhận diện nỗi sợ hãi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/37-giam_thieu_rui_ro.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 654,
+    "title" : "Giảm thiểu rủi ro.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/38-nguyen_tac_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 549,
+    "title" : "Nguyên tắc 12: Sẵn sàng trả giá",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/39-mot_yeu_cau_co_ban.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 556,
+    "title" : "Một yêu cầu cơ bản",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/40-bien_cam_hung_thanh_hanh_dong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 636,
+    "title" : "Biến cảm hứng thành hành động",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/41-nguyen_tac_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 516,
+    "title" : "Nguyên tắc 13: Hỏi! Hỏi! Hỏi!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/42-lam_sao_de_hoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 484,
+    "title" : "Nghệ thuật hỏi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/43-mot_vai_con_so.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 771,
+    "title" : "Một vài con số bất ngờ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/44-nguyen_tac_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 735,
+    "title" : "Nguyên tắc 14: Không chấp nhận sự từ chối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/45-sw_sw_sw_sw.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 564,
+    "title" : "SW  SW  SW  SW",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/46-ko_ngung_co_gang.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 479,
+    "title" : "Không ngừng cố gắng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/47-nguyen_tac_15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 532,
+    "title" : "Nguyên tắc 15: Sử dụng ý kiến phản hồi để tiến nhanh về phía trước",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/48-phan_ung_sai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 510,
+    "title" : "Phản ứng sai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/49-cau_hoi_gia_tri.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 507,
+    "title" : "Câu hỏi gía trị nhất mà bạn có thể học được",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/50-hay_lang_nghe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 610,
+    "title" : "Hãy lắng nghe!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/51-nguyen_tac_16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 506,
+    "title" : "Nguyên tắc 16: Ngừng đi với gà tây để bay cùng đại bàng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/52-roi_khoi_nhom_dang_thuong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 590,
+    "title" : "Rời khỏi “nhóm đáng thương”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/53-hay_tranh_xa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 648,
+    "title" : "Hãy tránh xa lũ ma cà rồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/54-nguyen_tac_17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 575,
+    "title" : "Nguyên tắc 17: Ghi nhận thành công làm nền tảng xây dựng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/55-hay_trung_no_ra.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 349,
+    "title" : "Hãy trưng nó ra",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/56-nguyen_tac_18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 607,
+    "title" : "Nguyên tắc 18: Kiên trì theo đuổi mục tiêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/57-dung_voi_an_keo_ngot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 544,
+    "title" : "Đừng vội ăn kẹo ngọt!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/58-nguyen_tac_90tren10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 482,
+    "title" : "Nguyên tắc 90/10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/59-nguyen_tac_19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 559,
+    "title" : "Nguyên tắc 19: Công hiền hết mình để trở thành người giỏi nhất",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/60-di_xa_them_mot_chut.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 476,
+    "title" : "Đi xa thêm một chút",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/61-cau_chuyen_cuaJonny.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 709,
+    "title" : "Câu chuyện của Johny",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/62-quy_tac_ko_ngoai_le.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 177,
+    "title" : "“Quy tắc không ngoại lệ”",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/63-nguyen_tac_thu_20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 440,
+    "title" : "Nguyên tắc 20: Hãy bắt đầu ngay từ bây giờ!",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/64-phan_thuong_chi_duoc_trao.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 530,
+    "title" : "Phần thưởng chỉ được trao cho người biết hành động",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/65-phan_ket_luan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 959,
+    "title" : "Phần kết luận: Thử thách chúng tôi dành cho bạn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/01-loi_gioi_thieu.mp3",
+    "title" : "Lời giới thiệu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/02-yeu_to_ban.mp3",
+    "title" : "Yếu tố “bạn”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/03-kent_la_ai.mp3",
+    "title" : "Kent Healy là ai?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/04-jack_la_ai.mp3",
+    "title" : "Jack Canfield là ai?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/05-nguyen_tac_1.mp3",
+    "title" : "Nguyên tắc 1: Chịu 100% trách nhiệm về cuộc đời mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/06-toan_dien.mp3",
+    "title" : "Toàn diện",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/07-tro_do_loi.mp3",
+    "title" : "Trò đổ lỗi và than vãn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/08-phan_ung_bang_hanh_dong.mp3",
+    "title" : "Phản ứng bằng hành động",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/09-don_gian_chua_chac_de.mp3",
+    "title" : "Đơn giản chưa chắc là dễ dàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/10-nguyen_tac_2.mp3",
+    "title" : "Nguyên tắc 2: Tin rằng mọi điều đều có thể",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/11-tim_doi_ngu_ung_ho.mp3",
+    "title" : "Tìm đội ngũ ủng hộ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/12-nhung_nguoi_khac.mp3",
+    "title" : "Những người khác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/13-nguyen_tac_3.mp3",
+    "title" : "Nguyên tắc 3: Xác định điều mình muốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/14-dung_song_bang_giac_mo.mp3",
+    "title" : "Đừng sống bằng giấc mơ của người khác",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/15-dung_co_thai_do.mp3",
+    "title" : "Đừng có thái độ “Sao cũng được!”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/16-thu_hut_nhung_gi_ban_muon..mp3",
+    "title" : "Thu hút những gì bạn muốn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/17-dung_chi_nghi.mp3",
+    "title" : "Đừng chỉ nghĩ về nó, hãy viết nó ra!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/18-nguyen_tac_4.mp3",
+    "title" : "Nguyên tắc 4: Hiểu rõ lý do mình tồn tại trên đời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/19-de_cuoc_doi_chung_ta.mp3",
+    "title" : "Để cuộc đời chúng ta diễn ra tốt hơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/20-muc_dich_cua_ban_la_gi.mp3",
+    "title" : "Mục đích của bạn là gì?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/21-nguyen_tac_5.mp3",
+    "title" : "Nguyên tắc 5: Hướng đến điều tốt nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/22-du_co_the.mp3",
+    "title" : "Dù có thể đang lẩn trốn đâu đó, điều tốt nhất vẫn luôn tồn tại.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/23-nguyen_tac_6.mp3",
+    "title" : "Nguyên tắc 6: Sức mạnh của mục tiêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/24-ba_moi_de_doa.mp3",
+    "title" : "Ba mối đe dọa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/25-y_nghia_dang_sau.mp3",
+    "title" : "Ý nghĩa đằng sau mục tiêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/26-nguyen_tac_7.mp3",
+    "title" : "Nguyên tắc 7: Thả phanh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/27-vong_tron_lan_quan.mp3",
+    "title" : "Vòng tròn lẩn quẩn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/28-nguyen_tac_8.mp3",
+    "title" : "Nguyên tắc 8: Hãy tưởng tượng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/29-hinh_dung_ra_su_hoan_hao.mp3",
+    "title" : "Hình dung ra sự hoàn hảo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/30-thuc_tap_hinh_dung.mp3",
+    "title" : "Thực tập việc hình dung",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/31-nguyen_tac_9.mp3",
+    "title" : "Nguyên tắc 9: Hãy “làm như thể” bạn đã thành công",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/32-hay_tro_thanh.mp3",
+    "title" : "“Hãy trở thành người mà bạn muốn trong tương lai”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/33-nguyen_tac_10.mp3",
+    "title" : "Nguyên tắc 10: Đừng ngại dấn thân",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/34-cu_thu_di.mp3",
+    "title" : "Cứ thử đi!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/35-nguyen_tac_11.mp3",
+    "title" : "Nguyên tắc 11: Ngẩng cao đầu đối mặt với sợ hãi!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/36-nhan_dien_noi_so.mp3",
+    "title" : "Nhận diện nỗi sợ hãi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/37-giam_thieu_rui_ro.mp3",
+    "title" : "Giảm thiểu rủi ro.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/38-nguyen_tac_12.mp3",
+    "title" : "Nguyên tắc 12: Sẵn sàng trả giá",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/39-mot_yeu_cau_co_ban.mp3",
+    "title" : "Một yêu cầu cơ bản",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/40-bien_cam_hung_thanh_hanh_dong.mp3",
+    "title" : "Biến cảm hứng thành hành động",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/41-nguyen_tac_13.mp3",
+    "title" : "Nguyên tắc 13: Hỏi! Hỏi! Hỏi!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/42-lam_sao_de_hoi.mp3",
+    "title" : "Nghệ thuật hỏi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/43-mot_vai_con_so.mp3",
+    "title" : "Một vài con số bất ngờ",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/44-nguyen_tac_14.mp3",
+    "title" : "Nguyên tắc 14: Không chấp nhận sự từ chối",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/45-sw_sw_sw_sw.mp3",
+    "title" : "SW  SW  SW  SW",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/46-ko_ngung_co_gang.mp3",
+    "title" : "Không ngừng cố gắng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/47-nguyen_tac_15.mp3",
+    "title" : "Nguyên tắc 15: Sử dụng ý kiến phản hồi để tiến nhanh về phía trước",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/48-phan_ung_sai.mp3",
+    "title" : "Phản ứng sai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/49-cau_hoi_gia_tri.mp3",
+    "title" : "Câu hỏi gía trị nhất mà bạn có thể học được",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/50-hay_lang_nghe.mp3",
+    "title" : "Hãy lắng nghe!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/51-nguyen_tac_16.mp3",
+    "title" : "Nguyên tắc 16: Ngừng đi với gà tây để bay cùng đại bàng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/52-roi_khoi_nhom_dang_thuong.mp3",
+    "title" : "Rời khỏi “nhóm đáng thương”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/53-hay_tranh_xa.mp3",
+    "title" : "Hãy tránh xa lũ ma cà rồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/54-nguyen_tac_17.mp3",
+    "title" : "Nguyên tắc 17: Ghi nhận thành công làm nền tảng xây dựng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/55-hay_trung_no_ra.mp3",
+    "title" : "Hãy trưng nó ra",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/56-nguyen_tac_18.mp3",
+    "title" : "Nguyên tắc 18: Kiên trì theo đuổi mục tiêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/57-dung_voi_an_keo_ngot.mp3",
+    "title" : "Đừng vội ăn kẹo ngọt!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/58-nguyen_tac_90tren10.mp3",
+    "title" : "Nguyên tắc 90/10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/59-nguyen_tac_19.mp3",
+    "title" : "Nguyên tắc 19: Công hiền hết mình để trở thành người giỏi nhất",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/60-di_xa_them_mot_chut.mp3",
+    "title" : "Đi xa thêm một chút",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/61-cau_chuyen_cuaJonny.mp3",
+    "title" : "Câu chuyện của Johny",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/62-quy_tac_ko_ngoai_le.mp3",
+    "title" : "“Quy tắc không ngoại lệ”",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/63-nguyen_tac_thu_20.mp3",
+    "title" : "Nguyên tắc 20: Hãy bắt đầu ngay từ bây giờ!",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/64-phan_thuong_chi_duoc_trao.mp3",
+    "title" : "Phần thưởng chỉ được trao cho người biết hành động",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/BiQuyetThanhCongDanhChoBanTre/65-phan_ket_luan.mp3",
+    "title" : "Phần kết luận: Thử thách chúng tôi dành cho bạn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

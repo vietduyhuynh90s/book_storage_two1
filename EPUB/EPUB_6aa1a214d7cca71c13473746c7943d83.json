@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhung-loi-phat-day_19244.html",
+    "title" : "Những Lời Phật Dạy",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bhikkhu Bodhi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 81006,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_6aa1a214d7cca71c13473746c7943d83.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_6aa1a214d7cca71c13473746c7943d83.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3172,
+    "title" : "nhung-loi-01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4312,
+    "title" : "nhung-loi-02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8829,
+    "title" : "nhung-loi-03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4458,
+    "title" : "nhung-loi-04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7995,
+    "title" : "nhung-loi-05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6919,
+    "title" : "nhung-loi-06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6614,
+    "title" : "nhung-loi-07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6243,
+    "title" : "nhung-loi-08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8961,
+    "title" : "nhung-loi-09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 13611,
+    "title" : "nhung-loi-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 9892,
+    "title" : "nhung-loi-11",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-01.mp3",
+    "title" : "nhung-loi-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-02.mp3",
+    "title" : "nhung-loi-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-03.mp3",
+    "title" : "nhung-loi-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-04.mp3",
+    "title" : "nhung-loi-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-05.mp3",
+    "title" : "nhung-loi-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-06.mp3",
+    "title" : "nhung-loi-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-07.mp3",
+    "title" : "nhung-loi-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-08.mp3",
+    "title" : "nhung-loi-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-09.mp3",
+    "title" : "nhung-loi-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-10.mp3",
+    "title" : "nhung-loi-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhung-loi-10/nhung-loi-11.mp3",
+    "title" : "nhung-loi-11",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

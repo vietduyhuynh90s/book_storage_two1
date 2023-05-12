@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dem-truong-tam-toi-tu-kim-tran_9099.html",
+    "title" : "Đêm Trường Tăm Tối - Tử Kim Trần.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tử Kim Trần",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 38592,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_994476eaaf267ea3b54bdc42e38a40e0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_994476eaaf267ea3b54bdc42e38a40e0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2763,
+    "title" : "DTTT 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3323,
+    "title" : "DTTT 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3313,
+    "title" : "DTTT 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3243,
+    "title" : "DTTT 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2583,
+    "title" : "DTTT 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2553,
+    "title" : "DTTT 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3003,
+    "title" : "DTTT 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2583,
+    "title" : "DTTT 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2763,
+    "title" : "DTTT 09",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2673,
+    "title" : "DTTT 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2523,
+    "title" : "DTTT 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2823,
+    "title" : "DTTT 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2643,
+    "title" : "DTTT 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1803,
+    "title" : "DTTT 14",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_01.mp3",
+    "title" : "DTTT 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_02.mp3",
+    "title" : "DTTT 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_03.mp3",
+    "title" : "DTTT 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_04.mp3",
+    "title" : "DTTT 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_05.mp3",
+    "title" : "DTTT 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_06.mp3",
+    "title" : "DTTT 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_07.mp3",
+    "title" : "DTTT 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_08.mp3",
+    "title" : "DTTT 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_09.mp3",
+    "title" : "DTTT 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_10.mp3",
+    "title" : "DTTT 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_11.mp3",
+    "title" : "DTTT 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_12.mp3",
+    "title" : "DTTT 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_13.mp3",
+    "title" : "DTTT 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/daongoctiep_gmail_DTTT/DTTT_14.mp3",
+    "title" : "DTTT 14",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

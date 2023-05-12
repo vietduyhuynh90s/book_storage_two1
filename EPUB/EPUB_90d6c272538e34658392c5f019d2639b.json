@@ -1,0 +1,401 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/con-ngua-va-cau-be_19661.html",
+    "title" : "Con Ngựa Và Cậu Bé",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "C. S. Lewis",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 39938,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_90d6c272538e34658392c5f019d2639b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_90d6c272538e34658392c5f019d2639b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-001_audio_2023_2_28_1_18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1476,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-001 audio 2023 2 28 1 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-002_audio_2023_2_28_1_18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1562,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-002 audio 2023 2 28 1 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-003_audio_2023_2_28_1_18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1304,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-003 audio 2023 2 28 1 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-004_audio_2023_2_28_1_18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1415,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-004 audio 2023 2 28 1 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-005_audio_2023_2_28_1_18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1337,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-005 audio 2023 2 28 1 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-006_audio_2023_2_28_1_18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1185,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-006 audio 2023 2 28 1 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-007_audio_2023_2_28_1_26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1356,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-007 audio 2023 2 28 1 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-008_audio_2023_2_28_1_26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1168,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-008 audio 2023 2 28 1 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-009_audio_2023_2_28_1_26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1366,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-009 audio 2023 2 28 1 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-010_audio_2023_2_28_1_26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1363,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-010 audio 2023 2 28 1 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-011_audio_2023_2_28_1_26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1334,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-011 audio 2023 2 28 1 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-012_audio_2023_2_28_1_26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1274,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-012 audio 2023 2 28 1 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-013_audio_2023_2_28_1_26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1359,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-013 audio 2023 2 28 1 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-014_audio_2023_2_28_1_26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1253,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-014 audio 2023 2 28 1 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-015_audio_2023_2_28_1_26.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1348,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-015 audio 2023 2 28 1 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-01_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1448,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-01 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-02_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1518,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-02 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-03_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1347,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-03 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-04_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1374,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-04 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-05_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1312,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-05 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-06_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1187,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-06 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-07_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1289,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-07 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-08_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1107,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-08 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-09_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1367,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-09 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-10_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1327,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-10 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-11_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1376,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-11 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-12_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1280,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-12 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-13_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1302,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-13 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-14_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1215,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-14 audio",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-15-het_audio.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1389,
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-15-het audio",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-001_audio_2023_2_28_1_18.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-001 audio 2023 2 28 1 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-002_audio_2023_2_28_1_18.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-002 audio 2023 2 28 1 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-003_audio_2023_2_28_1_18.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-003 audio 2023 2 28 1 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-004_audio_2023_2_28_1_18.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-004 audio 2023 2 28 1 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-005_audio_2023_2_28_1_18.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-005 audio 2023 2 28 1 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-006_audio_2023_2_28_1_18.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-006 audio 2023 2 28 1 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-007_audio_2023_2_28_1_26.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-007 audio 2023 2 28 1 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-008_audio_2023_2_28_1_26.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-008 audio 2023 2 28 1 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-009_audio_2023_2_28_1_26.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-009 audio 2023 2 28 1 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-010_audio_2023_2_28_1_26.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-010 audio 2023 2 28 1 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-011_audio_2023_2_28_1_26.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-011 audio 2023 2 28 1 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-012_audio_2023_2_28_1_26.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-012 audio 2023 2 28 1 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-013_audio_2023_2_28_1_26.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-013 audio 2023 2 28 1 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-014_audio_2023_2_28_1_26.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-014 audio 2023 2 28 1 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-015_audio_2023_2_28_1_26.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-chuong-015 audio 2023 2 28 1 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-01_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-01 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-02_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-02 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-03_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-03 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-04_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-04 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-05_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-05 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-06_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-06 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-07_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-07 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-08_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-08 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-09_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-09 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-10_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-10 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-11_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-11 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-12_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-12 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-13_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-13 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-14_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-14 audio",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be/truyendocviet.com_-_bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-15-het_audio.mp3",
+    "title" : "truyendocviet.com - bien-nien-su-narnia-3-con-ngua-va-cau-be-phan-15-het audio",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

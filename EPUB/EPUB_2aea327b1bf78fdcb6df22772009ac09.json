@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phap-y-tan-minh-ke-don-rac-tan-minh_8201.html",
+    "title" : "Pháp y Tần Minh: Kẻ Dọn Rác - Tần Minh.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tần Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 56427,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_2aea327b1bf78fdcb6df22772009ac09.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_2aea327b1bf78fdcb6df22772009ac09.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/PYTM-KDR/001.PYTM.KDR.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 19386,
+    "title" : "001.PYTM.KDR",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/PYTM-KDR/002.PYTM.KDR.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 19186,
+    "title" : "002.PYTM.KDR",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/PYTM-KDR/003.PYTM.KDR.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17855,
+    "title" : "003.PYTM.KDR",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/PYTM-KDR/001.PYTM.KDR.mp3",
+    "title" : "001.PYTM.KDR",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/PYTM-KDR/002.PYTM.KDR.mp3",
+    "title" : "002.PYTM.KDR",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/PYTM-KDR/003.PYTM.KDR.mp3",
+    "title" : "003.PYTM.KDR",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-dam-cho-di_19470.html",
+    "title" : "Người Dám Cho Đi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bob Burg",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 11515,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_681ab92e86e2f7cb3450e533853e39bf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_681ab92e86e2f7cb3450e533853e39bf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nguoi-dam-cho-di-y-tuong-kinh-doanh-thanh-cong.sna/NguoiDamChoDi01_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2259,
+    "title" : "NguoiDamChoDi01 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-dam-cho-di-y-tuong-kinh-doanh-thanh-cong.sna/NguoiDamChoDi02_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2390,
+    "title" : "NguoiDamChoDi02 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-dam-cho-di-y-tuong-kinh-doanh-thanh-cong.sna/NguoiDamChoDi03_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2322,
+    "title" : "NguoiDamChoDi03 Chuan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-dam-cho-di-y-tuong-kinh-doanh-thanh-cong.sna/NguoiDamChoDi04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1904,
+    "title" : "NguoiDamChoDi04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nguoi-dam-cho-di-y-tuong-kinh-doanh-thanh-cong.sna/NguoiDamChoDi05_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2640,
+    "title" : "NguoiDamChoDi05 Chuan",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nguoi-dam-cho-di-y-tuong-kinh-doanh-thanh-cong.sna/NguoiDamChoDi01_Chuan.mp3",
+    "title" : "NguoiDamChoDi01 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-dam-cho-di-y-tuong-kinh-doanh-thanh-cong.sna/NguoiDamChoDi02_Chuan.mp3",
+    "title" : "NguoiDamChoDi02 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-dam-cho-di-y-tuong-kinh-doanh-thanh-cong.sna/NguoiDamChoDi03_Chuan.mp3",
+    "title" : "NguoiDamChoDi03 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-dam-cho-di-y-tuong-kinh-doanh-thanh-cong.sna/NguoiDamChoDi04.mp3",
+    "title" : "NguoiDamChoDi04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nguoi-dam-cho-di-y-tuong-kinh-doanh-thanh-cong.sna/NguoiDamChoDi05_Chuan.mp3",
+    "title" : "NguoiDamChoDi05 Chuan",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

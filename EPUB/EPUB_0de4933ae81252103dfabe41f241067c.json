@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tap-van-nguyen-ngoc-tu_17503.html",
+    "title" : "Tạp Văn Nguyễn Ngọc Tư",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Ngọc Tư",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 18568,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_0de4933ae81252103dfabe41f241067c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_0de4933ae81252103dfabe41f241067c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tap-van-ng-ngoc-tu-trnnt/Phan01_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2446,
+    "title" : "01. Trở gió",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tap-van-ng-ngoc-tu-trnnt/Phan02_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2409,
+    "title" : "02. Tháng chạp ở rạch Bộ Tời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tap-van-ng-ngoc-tu-trnnt/Phan03_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2556,
+    "title" : "03. Nguyệt - Người bạn không biết viết văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tap-van-ng-ngoc-tu-trnnt/Phan04_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2430,
+    "title" : "04. Sân nhà",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tap-van-ng-ngoc-tu-trnnt/Phan05_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2530,
+    "title" : "05. Kính thưa nhà báo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tap-van-ng-ngoc-tu-trnnt/Phan06_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2136,
+    "title" : "06. Hư ảo rồi tan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tap-van-ng-ngoc-tu-trnnt/Phan07_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1945,
+    "title" : "07. Chợ của Má",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/tap-van-ng-ngoc-tu-trnnt/Phan08_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2116,
+    "title" : "08. Nhớ nguồn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tap-van-ng-ngoc-tu-trnnt/Phan01_2.mp3",
+    "title" : "01. Trở gió",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tap-van-ng-ngoc-tu-trnnt/Phan02_2.mp3",
+    "title" : "02. Tháng chạp ở rạch Bộ Tời",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tap-van-ng-ngoc-tu-trnnt/Phan03_2.mp3",
+    "title" : "03. Nguyệt - Người bạn không biết viết văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tap-van-ng-ngoc-tu-trnnt/Phan04_2.mp3",
+    "title" : "04. Sân nhà",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tap-van-ng-ngoc-tu-trnnt/Phan05_2.mp3",
+    "title" : "05. Kính thưa nhà báo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tap-van-ng-ngoc-tu-trnnt/Phan06_2.mp3",
+    "title" : "06. Hư ảo rồi tan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tap-van-ng-ngoc-tu-trnnt/Phan07_2.mp3",
+    "title" : "07. Chợ của Má",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tap-van-ng-ngoc-tu-trnnt/Phan08_2.mp3",
+    "title" : "08. Nhớ nguồn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

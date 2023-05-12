@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lam-le_19530.html",
+    "title" : "Làm Lẽ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Mạnh Phú Tư",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 10077,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_e9ce12f5425eb90b62037d771fb9a81e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_e9ce12f5425eb90b62037d771fb9a81e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lam-le-2_202112/lam-le-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3483,
+    "title" : "No.9\nEsther’s Waltz",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-le-2_202112/lam-le-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4147,
+    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 2) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lam-le-2_202112/lam-le-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2447,
+    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 3- CUỐI) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lam-le-2_202112/lam-le-1.mp3",
+    "title" : "No.9\nEsther’s Waltz",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-le-2_202112/lam-le-2.mp3",
+    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 2) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lam-le-2_202112/lam-le-3.mp3",
+    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 3- CUỐI) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

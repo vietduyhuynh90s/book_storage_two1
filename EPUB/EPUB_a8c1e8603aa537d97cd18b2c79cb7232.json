@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/d-trump-dung-bao-gio-bo-cuoc_17068.html",
+    "title" : "D. Trump - Đừng Bao Giờ Bỏ Cuộc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Donald J. Trump",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 14523,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_a8c1e8603aa537d97cd18b2c79cb7232.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_a8c1e8603aa537d97cd18b2c79cb7232.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/Trump-dungBaoGioBoCuoc/01_Trump-DungBaoGioBoCuoc-Phan01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1920,
+    "title" : "01 Trump-DungBaoGioBoCuoc-Phan01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Trump-dungBaoGioBoCuoc/02_Trump-DungBaoGioBoCuoc-Phan02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1898,
+    "title" : "02 Trump-DungBaoGioBoCuoc-Phan02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Trump-dungBaoGioBoCuoc/03_Trump-DungBaoGioBoCuoc-Phan03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1852,
+    "title" : "03 Trump-DungBaoGioBoCuoc-Phan03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Trump-dungBaoGioBoCuoc/04_Trump-DungBaoGioBoCuoc-Phan04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2006,
+    "title" : "04 Trump-DungBaoGioBoCuoc-Phan04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Trump-dungBaoGioBoCuoc/05_Trump-DungBaoGioBoCuoc-Phan05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1910,
+    "title" : "05 Trump-DungBaoGioBoCuoc-Phan05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Trump-dungBaoGioBoCuoc/06_Trump-DungBaoGioBoCuoc-Phan06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2100,
+    "title" : "06 Trump-DungBaoGioBoCuoc-Phan06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Trump-dungBaoGioBoCuoc/07_Trump-DungBaoGioBoCuoc-Phan07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1228,
+    "title" : "07 Trump-DungBaoGioBoCuoc-Phan07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/Trump-dungBaoGioBoCuoc/08_Trump-DungBaoGioBoCuoc-Phan08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1609,
+    "title" : "08 Trump-DungBaoGioBoCuoc-Phan08",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/Trump-dungBaoGioBoCuoc/01_Trump-DungBaoGioBoCuoc-Phan01.mp3",
+    "title" : "01 Trump-DungBaoGioBoCuoc-Phan01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Trump-dungBaoGioBoCuoc/02_Trump-DungBaoGioBoCuoc-Phan02.mp3",
+    "title" : "02 Trump-DungBaoGioBoCuoc-Phan02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Trump-dungBaoGioBoCuoc/03_Trump-DungBaoGioBoCuoc-Phan03.mp3",
+    "title" : "03 Trump-DungBaoGioBoCuoc-Phan03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Trump-dungBaoGioBoCuoc/04_Trump-DungBaoGioBoCuoc-Phan04.mp3",
+    "title" : "04 Trump-DungBaoGioBoCuoc-Phan04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Trump-dungBaoGioBoCuoc/05_Trump-DungBaoGioBoCuoc-Phan05.mp3",
+    "title" : "05 Trump-DungBaoGioBoCuoc-Phan05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Trump-dungBaoGioBoCuoc/06_Trump-DungBaoGioBoCuoc-Phan06.mp3",
+    "title" : "06 Trump-DungBaoGioBoCuoc-Phan06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Trump-dungBaoGioBoCuoc/07_Trump-DungBaoGioBoCuoc-Phan07.mp3",
+    "title" : "07 Trump-DungBaoGioBoCuoc-Phan07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/Trump-dungBaoGioBoCuoc/08_Trump-DungBaoGioBoCuoc-Phan08.mp3",
+    "title" : "08 Trump-DungBaoGioBoCuoc-Phan08",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

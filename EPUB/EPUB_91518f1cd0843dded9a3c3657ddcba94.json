@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/ky-uc-bien_16749.html",
+    "title" : "Ký Ức Biển",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack Canfield",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 6449,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_91518f1cd0843dded9a3c3657ddcba94.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_91518f1cd0843dded9a3c3657ddcba94.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/01-nu%20_hoang_cui_dat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 757,
+    "title" : "Bài học từ biển cả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/02-nuoi_nang_cecily.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 928,
+    "title" : "Nuôi nấng Cecily",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/03-bai_hoc_tu_bien_ca.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 761,
+    "title" : "Bài học từ biển cả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/04-em_mo_nuoc_day_a.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 307,
+    "title" : "Em mở nước đấy à?",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/05-vong_doi_cua_bien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 524,
+    "title" : "Vòng đời (của biển)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/06-thoi_gian_cua_gia_dinh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 508,
+    "title" : "Thời gian của gia đình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/07-bau_vat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 459,
+    "title" : "Báu vật",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/08-chi_o_bai_bien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 324,
+    "title" : "Chỉ ở bãi biển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/09-harry_va_george.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 395,
+    "title" : "Harry và George",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/10-nha_nghi_ko_nhin_ra_bien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 338,
+    "title" : "Nhà nghỉ không nhìn ra biển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/11-mon_qua_cua_bien.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 265,
+    "title" : "Món quà của biển",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/12-anh_sang_xanh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 400,
+    "title" : "Ánh sáng xanh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/13-tinh_yeu_cua_cha.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 483,
+    "title" : "Tình yêu của cha",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/01-nu%20_hoang_cui_dat.mp3",
+    "title" : "Bài học từ biển cả",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/02-nuoi_nang_cecily.mp3",
+    "title" : "Nuôi nấng Cecily",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/03-bai_hoc_tu_bien_ca.mp3",
+    "title" : "Bài học từ biển cả",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/04-em_mo_nuoc_day_a.mp3",
+    "title" : "Em mở nước đấy à?",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/05-vong_doi_cua_bien.mp3",
+    "title" : "Vòng đời (của biển)",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/06-thoi_gian_cua_gia_dinh.mp3",
+    "title" : "Thời gian của gia đình",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/07-bau_vat.mp3",
+    "title" : "Báu vật",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/08-chi_o_bai_bien.mp3",
+    "title" : "Chỉ ở bãi biển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/09-harry_va_george.mp3",
+    "title" : "Harry và George",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/10-nha_nghi_ko_nhin_ra_bien.mp3",
+    "title" : "Nhà nghỉ không nhìn ra biển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/11-mon_qua_cua_bien.mp3",
+    "title" : "Món quà của biển",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/12-anh_sang_xanh.mp3",
+    "title" : "Ánh sáng xanh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/01NuHoangCuiDat/13-tinh_yeu_cua_cha.mp3",
+    "title" : "Tình yêu của cha",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
