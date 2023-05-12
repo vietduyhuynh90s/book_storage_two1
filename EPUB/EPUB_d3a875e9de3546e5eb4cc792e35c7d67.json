@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/10-van-cau-hoi-vi-sao-dong-vat_20247.html",
+    "title" : "10 Vạn Câu Hỏi Vì Sao - Động Vật",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Văn Mậu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-12",
+    "duration" : 41298,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_d3a875e9de3546e5eb4cc792e35c7d67.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_d3a875e9de3546e5eb4cc792e35c7d67.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat01-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3475,
+    "title" : "MuoiVanCauHoiViSaoDongVat01-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat101-120.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3493,
+    "title" : "MuoiVanCauHoiViSaoDongVat101-120",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat121-140.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3279,
+    "title" : "MuoiVanCauHoiViSaoDongVat121-140",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat141-160.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2922,
+    "title" : "MuoiVanCauHoiViSaoDongVat141-160",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat161-180.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2815,
+    "title" : "MuoiVanCauHoiViSaoDongVat161-180",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat181-200.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2588,
+    "title" : "MuoiVanCauHoiViSaoDongVat181-200",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat201-220.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3042,
+    "title" : "MuoiVanCauHoiViSaoDongVat201-220",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat21-40.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2919,
+    "title" : "MuoiVanCauHoiViSaoDongVat21-40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat221-242.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3368,
+    "title" : "MuoiVanCauHoiViSaoDongVat221-242",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat41-60.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3151,
+    "title" : "MuoiVanCauHoiViSaoDongVat41-60",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat61-80.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2531,
+    "title" : "MuoiVanCauHoiViSaoDongVat61-80",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat81-100.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3198,
+    "title" : "MuoiVanCauHoiViSaoDongVat81-100",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoi_DongVat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4517,
+    "title" : "MuoiVanCauHoi DongVat",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat01-20.mp3",
+    "title" : "MuoiVanCauHoiViSaoDongVat01-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat101-120.mp3",
+    "title" : "MuoiVanCauHoiViSaoDongVat101-120",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat121-140.mp3",
+    "title" : "MuoiVanCauHoiViSaoDongVat121-140",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat141-160.mp3",
+    "title" : "MuoiVanCauHoiViSaoDongVat141-160",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat161-180.mp3",
+    "title" : "MuoiVanCauHoiViSaoDongVat161-180",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat181-200.mp3",
+    "title" : "MuoiVanCauHoiViSaoDongVat181-200",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat201-220.mp3",
+    "title" : "MuoiVanCauHoiViSaoDongVat201-220",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat21-40.mp3",
+    "title" : "MuoiVanCauHoiViSaoDongVat21-40",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat221-242.mp3",
+    "title" : "MuoiVanCauHoiViSaoDongVat221-242",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat41-60.mp3",
+    "title" : "MuoiVanCauHoiViSaoDongVat41-60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat61-80.mp3",
+    "title" : "MuoiVanCauHoiViSaoDongVat61-80",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoiViSaoDongVat81-100.mp3",
+    "title" : "MuoiVanCauHoiViSaoDongVat81-100",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/muoi-van-cau-hoi-vi-sao-dong-vat.sna/MuoiVanCauHoi_DongVat.mp3",
+    "title" : "MuoiVanCauHoi DongVat",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
