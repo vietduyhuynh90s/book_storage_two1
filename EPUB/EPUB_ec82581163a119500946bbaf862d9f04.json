@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hay-ton-trong-no-luc-cua-mot-co-gai_20362.html",
+    "title" : "Hãy Tôn Trọng Nỗ Lực Của Một Cô Gái",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Dương Hy Văn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 15262,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_ec82581163a119500946bbaf862d9f04.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_ec82581163a119500946bbaf862d9f04.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hay-ton-2/hay-ton-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4723,
+    "title" : "1 # Hãy tôn trọng nỗ lực của một cô gái # Dương Hy Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hay-ton-2/hay-ton-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5028,
+    "title" : "2 # Hãy tôn trọng nỗ lực của một cô gái # Tận cùng của tình yêu là trưởng thành # Dương Hy Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hay-ton-2/hay-ton-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2866,
+    "title" : "3 # Hãy tôn trọng nỗ lực của một cô gái # Không ngoảnh lại # Dương Hy Văn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hay-ton-2/hay-ton-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2645,
+    "title" : "4 # Hãy tôn trọng nỗ lực của một cô gái # Những người đã xa và quê hương chưa từng quên lãng # Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hay-ton-2/hay-ton-1.mp3",
+    "title" : "1 # Hãy tôn trọng nỗ lực của một cô gái # Dương Hy Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-ton-2/hay-ton-2.mp3",
+    "title" : "2 # Hãy tôn trọng nỗ lực của một cô gái # Tận cùng của tình yêu là trưởng thành # Dương Hy Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-ton-2/hay-ton-3.mp3",
+    "title" : "3 # Hãy tôn trọng nỗ lực của một cô gái # Không ngoảnh lại # Dương Hy Văn",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hay-ton-2/hay-ton-4.mp3",
+    "title" : "4 # Hãy tôn trọng nỗ lực của một cô gái # Những người đã xa và quê hương chưa từng quên lãng # Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

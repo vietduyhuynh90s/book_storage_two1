@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/trong-vong-sinh-diet_20251.html",
+    "title" : "Trong Vòng Sinh Diệt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ajahn Chah",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 19985,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_9b7a46fa227ca45ae30dc94cd1d73627.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_9b7a46fa227ca45ae30dc94cd1d73627.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1820,
+    "title" : "01_Loi noi dau_TAnh_dau-23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1221,
+    "title" : "02_P1A_Quan dien dung dan_KHanh_24-39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1795,
+    "title" : "03_P1B_Nhin nhan dung ban chat cua moi viec_TAnh_40-59",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1335,
+    "title" : "04_P2A_Vo thuong_KHanh_60-75",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1286,
+    "title" : "05_P2B_Cau chuyen ve mot con ca_KHanh_76-90",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1529,
+    "title" : "06_P3A_Kho_TAnh_91-108",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1491,
+    "title" : "07_P3B_Sinh ra va luu chuyen_TAnh_109-127",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1533,
+    "title" : "08_P4A_Vo nga_KHanh_128-146",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1014,
+    "title" : "08_P4B_Dung la mot vi Phat_KHanh_147-157",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 915,
+    "title" : "09_P5A_Nhung dieu quan trong ve thien_TAnh_158-170",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1519,
+    "title" : "10_P5B_Cac van dap_KHanh_HHo_171-186",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 909,
+    "title" : "11_P5C_Do la gi_KHanh_187-197",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1653,
+    "title" : "12_P6A_Hoan thanh con duong_TAnh_198-216",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1965,
+    "title" : "13_P6B_Tim kiem mot nguoi Thay_Thuat ngu_KHanh_217-he",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-01.mp3",
+    "title" : "01_Loi noi dau_TAnh_dau-23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-02.mp3",
+    "title" : "02_P1A_Quan dien dung dan_KHanh_24-39",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-03.mp3",
+    "title" : "03_P1B_Nhin nhan dung ban chat cua moi viec_TAnh_40-59",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-04.mp3",
+    "title" : "04_P2A_Vo thuong_KHanh_60-75",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-05.mp3",
+    "title" : "05_P2B_Cau chuyen ve mot con ca_KHanh_76-90",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-06.mp3",
+    "title" : "06_P3A_Kho_TAnh_91-108",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-07.mp3",
+    "title" : "07_P3B_Sinh ra va luu chuyen_TAnh_109-127",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-08.mp3",
+    "title" : "08_P4A_Vo nga_KHanh_128-146",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-09.mp3",
+    "title" : "08_P4B_Dung la mot vi Phat_KHanh_147-157",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-10.mp3",
+    "title" : "09_P5A_Nhung dieu quan trong ve thien_TAnh_158-170",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-11.mp3",
+    "title" : "10_P5B_Cac van dap_KHanh_HHo_171-186",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-12.mp3",
+    "title" : "11_P5C_Do la gi_KHanh_187-197",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-13.mp3",
+    "title" : "12_P6A_Hoan thanh con duong_TAnh_198-216",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trong-vong-14/trong-vong-14.mp3",
+    "title" : "13_P6B_Tim kiem mot nguoi Thay_Thuat ngu_KHanh_217-he",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
