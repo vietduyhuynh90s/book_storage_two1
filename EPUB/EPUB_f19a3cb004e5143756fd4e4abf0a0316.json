@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/la-co-theu-sau-chu-vang-nguyen-huy-tuong_5440.html",
+    "title" : "Lá Cờ Thêu Sáu Chữ Vàng - Nguyễn Huy Tưởng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Huy Tưởng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 9078,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_f19a3cb004e5143756fd4e4abf0a0316.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_f19a3cb004e5143756fd4e4abf0a0316.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/audiobooklacotheusauchuvang/la_co_theu_sau_chu_vang__nguyen_huy_tuong_001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2393,
+    "title" : "la co theu sau chu vang  nguyen huy tuong 001",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobooklacotheusauchuvang/la_co_theu_sau_chu_vang__nguyen_huy_tuong_002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2931,
+    "title" : "la co theu sau chu vang  nguyen huy tuong 002",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobooklacotheusauchuvang/la_co_theu_sau_chu_vang__nguyen_huy_tuong_003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2036,
+    "title" : "la co theu sau chu vang  nguyen huy tuong 003",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/audiobooklacotheusauchuvang/la_co_theu_sau_chu_vang__nguyen_huy_tuong_004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1718,
+    "title" : "la co theu sau chu vang  nguyen huy tuong 004",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/audiobooklacotheusauchuvang/la_co_theu_sau_chu_vang__nguyen_huy_tuong_001.mp3",
+    "title" : "la co theu sau chu vang  nguyen huy tuong 001",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobooklacotheusauchuvang/la_co_theu_sau_chu_vang__nguyen_huy_tuong_002.mp3",
+    "title" : "la co theu sau chu vang  nguyen huy tuong 002",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobooklacotheusauchuvang/la_co_theu_sau_chu_vang__nguyen_huy_tuong_003.mp3",
+    "title" : "la co theu sau chu vang  nguyen huy tuong 003",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/audiobooklacotheusauchuvang/la_co_theu_sau_chu_vang__nguyen_huy_tuong_004.mp3",
+    "title" : "la co theu sau chu vang  nguyen huy tuong 004",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,329 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhi-thap-tu-hieu_19160.html",
+    "title" : "Nhị Thập Tứ Hiếu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lý Văn Phức",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 49207,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_304fd5e7c7b1ae5c59af6c0c6ebac852.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_304fd5e7c7b1ae5c59af6c0c6ebac852.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2344,
+    "title" : "nhi-thap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2268,
+    "title" : "nhi-thap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2241,
+    "title" : "nhi-thap-11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2005,
+    "title" : "nhi-thap-12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2008,
+    "title" : "nhi-thap-13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2298,
+    "title" : "nhi-thap-14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1787,
+    "title" : "nhi-thap-15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1978,
+    "title" : "nhi-thap-16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2208,
+    "title" : "nhi-thap-17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1810,
+    "title" : "nhi-thap-18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2194,
+    "title" : "nhi-thap-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1964,
+    "title" : "nhi-thap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1926,
+    "title" : "nhi-thap-20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1882,
+    "title" : "nhi-thap-21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2049,
+    "title" : "nhi-thap-22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1852,
+    "title" : "nhi-thap-23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2038,
+    "title" : "nhi-thap-24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2419,
+    "title" : "nhi-thap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1813,
+    "title" : "nhi-thap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2260,
+    "title" : "nhi-thap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1966,
+    "title" : "nhi-thap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1978,
+    "title" : "nhi-thap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2204,
+    "title" : "nhi-thap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1715,
+    "title" : "nhi-thap-9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-1.mp3",
+    "title" : "nhi-thap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-10.mp3",
+    "title" : "nhi-thap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-11.mp3",
+    "title" : "nhi-thap-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-12.mp3",
+    "title" : "nhi-thap-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-13.mp3",
+    "title" : "nhi-thap-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-14.mp3",
+    "title" : "nhi-thap-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-15.mp3",
+    "title" : "nhi-thap-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-16.mp3",
+    "title" : "nhi-thap-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-17.mp3",
+    "title" : "nhi-thap-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-18.mp3",
+    "title" : "nhi-thap-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-19.mp3",
+    "title" : "nhi-thap-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-2.mp3",
+    "title" : "nhi-thap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-20.mp3",
+    "title" : "nhi-thap-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-21.mp3",
+    "title" : "nhi-thap-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-22.mp3",
+    "title" : "nhi-thap-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-23.mp3",
+    "title" : "nhi-thap-23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-24.mp3",
+    "title" : "nhi-thap-24",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-3.mp3",
+    "title" : "nhi-thap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-4.mp3",
+    "title" : "nhi-thap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-5.mp3",
+    "title" : "nhi-thap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-6.mp3",
+    "title" : "nhi-thap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-7.mp3",
+    "title" : "nhi-thap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-8.mp3",
+    "title" : "nhi-thap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhi-thap-3/nhi-thap-9.mp3",
+    "title" : "nhi-thap-9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

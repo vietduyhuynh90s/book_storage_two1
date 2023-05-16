@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bua-sang-cung-cha_17052.html",
+    "title" : "Bữa Sáng Cùng Cha",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-16",
+    "duration" : 6188,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_cf5315782af19a3275d8d7fb26328292.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_cf5315782af19a3275d8d7fb26328292.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnBuasangcungcha/buasangcungcha1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 532,
+    "title" : "buasangcungcha1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBuasangcungcha/buasangcungcha10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 487,
+    "title" : "buasangcungcha10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBuasangcungcha/buasangcungcha2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 882,
+    "title" : "buasangcungcha2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBuasangcungcha/buasangcungcha3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 328,
+    "title" : "buasangcungcha3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBuasangcungcha/buasangcungcha4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 959,
+    "title" : "buasangcungcha4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBuasangcungcha/buasangcungcha5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 501,
+    "title" : "buasangcungcha5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBuasangcungcha/buasangcungcha6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1061,
+    "title" : "buasangcungcha6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBuasangcungcha/buasangcungcha7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 126,
+    "title" : "buasangcungcha7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBuasangcungcha/buasangcungcha8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 450,
+    "title" : "buasangcungcha8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBuasangcungcha/buasangcungcha9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 862,
+    "title" : "buasangcungcha9",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/sachnoi.vnBuasangcungcha/buasangcungcha1.mp3",
+    "title" : "buasangcungcha1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBuasangcungcha/buasangcungcha10.mp3",
+    "title" : "buasangcungcha10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBuasangcungcha/buasangcungcha2.mp3",
+    "title" : "buasangcungcha2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBuasangcungcha/buasangcungcha3.mp3",
+    "title" : "buasangcungcha3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBuasangcungcha/buasangcungcha4.mp3",
+    "title" : "buasangcungcha4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBuasangcungcha/buasangcungcha5.mp3",
+    "title" : "buasangcungcha5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBuasangcungcha/buasangcungcha6.mp3",
+    "title" : "buasangcungcha6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBuasangcungcha/buasangcungcha7.mp3",
+    "title" : "buasangcungcha7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBuasangcungcha/buasangcungcha8.mp3",
+    "title" : "buasangcungcha8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/sachnoi.vnBuasangcungcha/buasangcungcha9.mp3",
+    "title" : "buasangcungcha9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
