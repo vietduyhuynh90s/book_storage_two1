@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ke-trom-giac-mo-13466.html",
+    "title" : "KẺ TRỘM GIẤC MƠ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Yasutaka Tsutsui",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Vào khoảng hai tuần trước khi bị bắn chết, Tổng thống Mỹ Abraham Lincoln đã mơ thấy hình ảnh chính bản thân mình bị ám sát. Trước khi anh trai mất mạng trong một vụ nổ, nhà văn Mark Twain đã mơ thấy thi thể của anh mình nằm trong một cỗ quan tài. Những sự kiện có thực, những cái chết có thực… nhưng lại được báo trước ở trong cõi hư ảo do chính con người vẽ nên. Chuyện gì sẽ xảy ra… Khi giấc mơ không đơn thuần chỉ là giấc mơ? Khi sự đấu tranh giữa tham vọng và sự sống trở nên vô cùng khốc liệt? Sợi dây liên kết giữa mộng và thực sẽ đi về đâu khi mà một ngày kia, con người bỗng có khả năng đi vào giấc mơ của nhau? “Kẻ trộm giấc mơ” của Yasutaka Tsutsui - cuốn tiểu thuyết giả tưởng lừng danh về đề tài tâm lý học - có thể sẽ cho bạn một câu trả lời thỏa đáng. Paprika - cô gái tự xưng là thám tử giấc mơ - luôn che giấu danh tính thực sự của mình là Chiba Atsuko, chuyên viên tâm lý hàng đầu Nhật Bản. Với mục đích chữa bệnh, Paprika đã phát minh ra DC Mini, một thiết bị có khả năng giúp các bác sĩ tâm lý xâm nhập vào giấc mơ của bệnh nhân. Mọi việc có lẽ vẫn sẽ tốt đẹp nếu như một ngày kia, 3 chiếc DC Mini không bỗng dưng… biến mất?! Trong cuộc hành trình tìm lại DC Mini của Paprika, những góc khuất đen tối của một xã hội Nhật Bản tù túng đến nghẹt thở đã dần hiện ra. Hóa ra bên trong những lớp mặt nạ che giấu đi bản ngã thực sự, con người đang ngày càng cảm thấy trống rỗng đến vô hồn. Dựa trên học thuyết nổi tiếng về biện giải giấc mơ của nhà tâm lý học đại tài - Sigmund Freud, “Paprika - Kẻ trộm giấc mơ” của Yasutaka Tsutsui không chỉ là một cuốn tiểu thuyết mang yếu tố phiêu lưu giả tưởng đơn thuần, mà đan xen bên trong nó còn lột tả những gì trần trụi nhất trong nội tâm con người ẩn sau những giấc mơ tưởng chừng như đẹp đẽ.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_871393b75d023d773791c499f8f2195b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_871393b75d023d773791c499f8f2195b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13466-ke-trom-giac-mo-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13466-ke-trom-giac-mo-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

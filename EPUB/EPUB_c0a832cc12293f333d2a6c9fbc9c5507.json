@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhan-ma-va-chuyen-tinh-yeu-441.html",
+    "title" : "NHÂN MÃ VÀ CHUYỆN TÌNH YÊU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Linda Goodman",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Lời tựa Lời cảm ơn NHÂN MÃ Nhận biết Nhân Mã Đàn ông Nhân Mã Phụ nữ Nhân Mã Trẻ con Nhân Mã Lãnh đạo Nhân Mã Nhân viên Nhân Mã Nhân Mã - Bạch Dương Mối quan hệ Bạch Dương - Nhân Mã Nàng Bạch Dương - Chàng Nhân Mã Chàng Bạch Dương - Nàng Nhân Mã Nhân Mã - Bảo Bình Mối quan hệ Nhân Mã - Bảo Bình Nàng Nhân Mã - Chàng Bảo Bình Chàng Nhân Mã - Nàng Bảo Bình Nhân Mã - Bọ Cạp Mối quan hệ Bọ Cạp - Nhân Mã Chàng Nhân Mã - Nàng Bọ Cạp Chàng Bọ Cạp - Nàng Nhân Mã Nhân Mã - Cự Giải Mối quan hệ Cự Giải - Nhân Mã Nàng Cự Giải - Chàng Nhân Mã Chàng Cự Giải - Nàng Nhân Mã Nhân Mã - Kim Ngưu Mối quan hệ Kim Ngưu - Nhân Mã Nàng Kim Ngưu - Chàng Nhân Mã Chàng Kim Ngưu - Nàng Nhân Mã Nhân Mã - Ma Kết Mối quan hệ Nhân Mã - Ma Kết Nàng Nhân Mã - Chàng Ma Kết Chàng Nhân Mã - Nàng Ma Kết Nhân Mã - Nhân Mã Mối quan hệ Nhân Mã - Nhân Mã Chàng Nhân Mã - Nàng Nhân Mã Nhân Mã - Song Ngư Mối quan hệ Nhân Mã - Song Ngư Nàng Nhân Mã - Chàng Song Ngư Chàng Nhân Mã - Nàng Song Ngư Nhân Mã - Song Tử Mối quan hệ Song Tử - Nhân Mã Nàng Song Tử - chàng Nhân Mã Chàng Song Tử - nàng Nhân Mã Nhân Mã - Sư Tử Mối quan hệ Sư Tử - Nhân Mã Nàng Sư Tử - Chàng Nhân Mã Chàng Sư Tử và nàng Nhân Mã Nhân Mã - Thiên Bình Mối quan hệ Thiên Bình - Nhân Mã Nàng Thiên Bình - Chàng Nhân Mã Nàng Nhân Mã - Chàng Thiên Bình Nhân Mã - Xử Nữ Mối quan hệ giữa Xử Nữ - Nhân Mã Nàng Xử Nữ - Chàng Nhân Mã Chàng Xử Nữ - Nàng Nhân Mã</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_c0a832cc12293f333d2a6c9fbc9c5507.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_c0a832cc12293f333d2a6c9fbc9c5507.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/441-nhan-ma-va-chuyen-tinh-yeu-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/441-nhan-ma-va-chuyen-tinh-yeu-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

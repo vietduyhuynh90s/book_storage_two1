@@ -1,0 +1,521 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/y-thien-do-long-ky-7883.html",
+    "title" : "Ỷ THIÊN ĐỒ LONG KÝ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kim Dung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Ỷ thiên Đồ long ký là phần cuối cùng trong bộ Xạ điêu tam bộ khúc, được đánh giá là tiểu thuyết võ hiệp viết về tình yêu hay nhất của Kim Dung. Dịch giả: Lê Khánh Trường, Lê Việt Anh Xạ điêu tam bộ khúc là bộ ba tiểu thuyết võ hiệp của Kim Dung. Câu truyện bắt đầu từ sự sụp đổ của nhà Kim, nhà Tống và sự nổi lên của Đế chế Mông Cổ. Câu truyện kết thúc một trăm năm sau đó với sự thiết lập nhà Minh. Những nhân vật trong truyện đóng vai trò quan trọng trong sự suy tàn và hưng vong của những triều đại đó. Hầu như 3 tác phẩm đều có mối liên hệ về nhân vật qua nhiều đời, nhất là các nhân vật chính. Xạ điêu tam bộ khúc gồm có</p><p>Anh hùng xạ điêu:</p><p>Câu truyện kể về sự hình thành của đế quốc Mông Cổ, sự sụp đổ của nhà Kim, sự suy yếu trầm trọng của nhà Tống thông qua quá trình trưởng thành của nhân vật chính Quách Tĩnh cùng với Hoàng Dung. Truyện kết thúc khi Thành Cát Tư Hãn qua đời. Đây được coi là kiệt tác đầu tiên trong sự nghiệp viết tiểu thuyết kiếm hiệp của Kim Dung.</p><p>Thần điêu hiệp lữ:</p><p>Truyện diễn ra sau phần đầu khoảng 10 năm. Chủ đề chính của bộ truyện là mối tình trắc trở giữa Dương Quá và Tiểu Long Nữ diễn ra trong bối cảnh lịch sử, Mông Cổ đã cực kỳ lớn mạnh, bắt đầu tấn công xâm lược nhà Tống. Truyện kết thúc bằng chiến thắng của quân đội nhà Tống tại thành Tương Dương. Hầu như các nhân vật của phần 1 có mối liên hệ mật thiết về mối quan hệ họ hàng với phần này và tiếp tục diễn biến phức tạp hơn. Cả hai phần có mối quan hệ chặt chẽ với nhau. Nếu như không hiểu và không xem, độc giả khó có thể hình dung được tuyến nhân vật ở phần 2.</p><p>Ỷ thiên Đồ long ký:</p><p>Nếu hai phần đầu tiên có liên quan chặt chẽ đến nhau thì phần thứ ba này không liên quan lắm. Truyện diễn ra sau sự kiện trong Thần Điêu hiệp lữ khoảng 80 năm. Lúc này Mông Cổ đã diệt Tống, nhà Nguyên được thành lập, thống trị Trung Quốc. Những cuộc khởi nghĩa nổi lên liên miên. Thông qua quá trình tu luyện, trưởng thành của nhân vật chính Trương Vô Kỵ cùng câu chuyện tình của chàng với bốn cô gái Triệu Mẫn, Chu Chỉ Nhược, Tiểu Chiêu và Ân Ly, bối cảnh giang hồ và lịch sử được hoà quyện, miêu tả một cách khá rõ nét. Truyện kết thúc khi nhà Minh được thành lập. Phần này gần như biệt lập về nhân vật, chỉ có sự xuất hiện một cách rất mờ nhạt của tuyến nhân vật và bối cảnh của cả hai phần đầu. Mời các bạn đón đọc Ỷ thiên Đồ long ký của tác giả Kim Dung.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_7e42ffcf24bba903f351b0a55db57eb3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_7e42ffcf24bba903f351b0a55db57eb3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Ỷ Thiên Đồ Long Ký: Tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=6092",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:41:32 Ỷ Thiên Đồ Long Ký: Tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=9003",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:30:03 Ỷ Thiên Đồ Long Ký: Tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=15544",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:19:04 Ỷ Thiên Đồ Long Ký: Tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=18823",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:13:43 Ỷ Thiên Đồ Long Ký: Tập 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=25388",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:03:08 Ỷ Thiên Đồ Long Ký: Tập 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=28893",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:01:33 Ỷ Thiên Đồ Long Ký: Tập 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=33138",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:12:18 Ỷ Thiên Đồ Long Ký: Tập 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=37517",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:25:17 Ỷ Thiên Đồ Long Ký: Tập 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=45562",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:39:22 Ỷ Thiên Đồ Long Ký: Tập 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=51993",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:26:33 Ỷ Thiên Đồ Long Ký: Tập 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=56291",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:38:11 Ỷ Thiên Đồ Long Ký: Tập 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=61598",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:06:38 Ỷ Thiên Đồ Long Ký: Tập 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=65497",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:11:37 Ỷ Thiên Đồ Long Ký: Tập 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=71698",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:54:58 Ỷ Thiên Đồ Long Ký: Tập 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=78271",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:44:31 Ỷ Thiên Đồ Long Ký: Tập 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=83484",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:11:24 Ỷ Thiên Đồ Long Ký: Tập 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=87201",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:13:21 Ỷ Thiên Đồ Long Ký: Tập 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=93056",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "25:50:56 Ỷ Thiên Đồ Long Ký: Tập 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=98487",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "27:21:27 Ỷ Thiên Đồ Long Ký: Tập 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=103992",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "28:53:12 Ỷ Thiên Đồ Long Ký: Tập 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=109741",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "30:29:01 Ỷ Thiên Đồ Long Ký: Tập 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=116087",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "32:14:47 Ỷ Thiên Đồ Long Ký: Tập 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=121366",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "33:42:46 Ỷ Thiên Đồ Long Ký: Tập 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=127443",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "35:24:03 Ỷ Thiên Đồ Long Ký: Tập 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=131488",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "36:31:28 Ỷ Thiên Đồ Long Ký: Tập 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=137585",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "38:13:05 Ỷ Thiên Đồ Long Ký: Tập 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=142606",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "39:36:46 Ỷ Thiên Đồ Long Ký: Tập 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=149969",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "41:39:29 Ỷ Thiên Đồ Long Ký: Tập 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=153304",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "42:35:04 Ỷ Thiên Đồ Long Ký: Tập 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=159175",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "44:12:55 Ỷ Thiên Đồ Long Ký: Tập 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=165736",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "46:02:16 Ỷ Thiên Đồ Long Ký: Tập 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=170384",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "47:19:44 Ỷ Thiên Đồ Long Ký: Tập 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=174453",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "48:27:33 Ỷ Thiên Đồ Long Ký: Tập 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=180682",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "50:11:22 Ỷ Thiên Đồ Long Ký: Tập 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=185985",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "51:39:45 Ỷ Thiên Đồ Long Ký: Tập 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=191452",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "53:10:52 Ỷ Thiên Đồ Long Ký: Tập 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=197057",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "54:44:17 Ỷ Thiên Đồ Long Ký: Tập 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=202328",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "56:12:08 Ỷ Thiên Đồ Long Ký: Tập 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=207841",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "57:44:01 Ỷ Thiên Đồ Long Ký: Tập 40 - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Ỷ Thiên Đồ Long Ký: Tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=6092",
+    "title" : "01:41:32 Ỷ Thiên Đồ Long Ký: Tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=9003",
+    "title" : "02:30:03 Ỷ Thiên Đồ Long Ký: Tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=15544",
+    "title" : "04:19:04 Ỷ Thiên Đồ Long Ký: Tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=18823",
+    "title" : "05:13:43 Ỷ Thiên Đồ Long Ký: Tập 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=25388",
+    "title" : "07:03:08 Ỷ Thiên Đồ Long Ký: Tập 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=28893",
+    "title" : "08:01:33 Ỷ Thiên Đồ Long Ký: Tập 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=33138",
+    "title" : "09:12:18 Ỷ Thiên Đồ Long Ký: Tập 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=37517",
+    "title" : "10:25:17 Ỷ Thiên Đồ Long Ký: Tập 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=45562",
+    "title" : "12:39:22 Ỷ Thiên Đồ Long Ký: Tập 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=51993",
+    "title" : "14:26:33 Ỷ Thiên Đồ Long Ký: Tập 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=56291",
+    "title" : "15:38:11 Ỷ Thiên Đồ Long Ký: Tập 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=61598",
+    "title" : "17:06:38 Ỷ Thiên Đồ Long Ký: Tập 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=65497",
+    "title" : "18:11:37 Ỷ Thiên Đồ Long Ký: Tập 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=71698",
+    "title" : "19:54:58 Ỷ Thiên Đồ Long Ký: Tập 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=78271",
+    "title" : "21:44:31 Ỷ Thiên Đồ Long Ký: Tập 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=83484",
+    "title" : "23:11:24 Ỷ Thiên Đồ Long Ký: Tập 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=87201",
+    "title" : "24:13:21 Ỷ Thiên Đồ Long Ký: Tập 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=93056",
+    "title" : "25:50:56 Ỷ Thiên Đồ Long Ký: Tập 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=98487",
+    "title" : "27:21:27 Ỷ Thiên Đồ Long Ký: Tập 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=103992",
+    "title" : "28:53:12 Ỷ Thiên Đồ Long Ký: Tập 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=109741",
+    "title" : "30:29:01 Ỷ Thiên Đồ Long Ký: Tập 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=116087",
+    "title" : "32:14:47 Ỷ Thiên Đồ Long Ký: Tập 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=121366",
+    "title" : "33:42:46 Ỷ Thiên Đồ Long Ký: Tập 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=127443",
+    "title" : "35:24:03 Ỷ Thiên Đồ Long Ký: Tập 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=131488",
+    "title" : "36:31:28 Ỷ Thiên Đồ Long Ký: Tập 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=137585",
+    "title" : "38:13:05 Ỷ Thiên Đồ Long Ký: Tập 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=142606",
+    "title" : "39:36:46 Ỷ Thiên Đồ Long Ký: Tập 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=149969",
+    "title" : "41:39:29 Ỷ Thiên Đồ Long Ký: Tập 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=153304",
+    "title" : "42:35:04 Ỷ Thiên Đồ Long Ký: Tập 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=159175",
+    "title" : "44:12:55 Ỷ Thiên Đồ Long Ký: Tập 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=165736",
+    "title" : "46:02:16 Ỷ Thiên Đồ Long Ký: Tập 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=170384",
+    "title" : "47:19:44 Ỷ Thiên Đồ Long Ký: Tập 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=174453",
+    "title" : "48:27:33 Ỷ Thiên Đồ Long Ký: Tập 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=180682",
+    "title" : "50:11:22 Ỷ Thiên Đồ Long Ký: Tập 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=185985",
+    "title" : "51:39:45 Ỷ Thiên Đồ Long Ký: Tập 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=191452",
+    "title" : "53:10:52 Ỷ Thiên Đồ Long Ký: Tập 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=197057",
+    "title" : "54:44:17 Ỷ Thiên Đồ Long Ký: Tập 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=202328",
+    "title" : "56:12:08 Ỷ Thiên Đồ Long Ký: Tập 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7883-y-thien-do-long-ky-thuviensach.vn.mp3?t=207841",
+    "title" : "57:44:01 Ỷ Thiên Đồ Long Ký: Tập 40 - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

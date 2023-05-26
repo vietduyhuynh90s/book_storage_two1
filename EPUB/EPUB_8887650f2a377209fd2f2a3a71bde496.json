@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/than-nguoi-va-dat-viet-416.html",
+    "title" : "THẦN NGƯỜI VÀ ĐẤT VIỆT",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tạ Chí Đại Trường",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Giới thiệu Con khỉ Tôn Hành Giả xuất thân từ đá nứt, vướng víu cái kim cô, một lần trả lời Tam Tạng, thầy mình, đang dùng dằng trên đường thỉnh kinh Tôi đi về phía trước Vị đấu chiến thắng Phật đó là của “ truyện Tàu“ truyền kì nhưng lại nói như một người dân Chàm bình thường Đi về phía trước không nhìn lại sau thì anh sẽ được giàu sang Chính cái chất người trong lốt khỉ, trong hào quang của bậc thần linh khiến nhân vật này vẫn được hiện diện giữa trần thế, nơi cửa miệng của những người kể chuyện thỉnh kinh qua một bản văn quốc ngữ đọc dưới ánh đèn điện, trong buổi lễ tống ôn miền quê Nam bộ và thấp thoáng trên những trang sách Ramayana hay trong buổi diễn Rim-kê, bên cạnh Hanuman còn lại dáng hình của bà con xưa cũ. Chính một vòng thác sinh văn hóa như thế, có vinh quang riêng của nó bởi vì nó cứ đi về phía trước mà ta có thể mượn làm hình tượng cho lí trí dõi theo tìm dạng thần hồn người trên đất Việt Tác giả: Tạ Chí Đại Trường, người Bình Định, sinh ở Nha Trang, tên được đặt theo hai địa danh ở tỉnh Khánh Hòa, nơi có Nha Trang là tỉnh lị. Học ở Bình Định, Nha Trang, Sài Gòn. Cử nhân văn khoa Đại học Văn khoa Sài Gòn 1962, Cao học sử 1964, năm thứ nhất Tiển sĩ chuyên môn Sử học 1974 cũng của Đại học này. Giải thưởng Văn chương toàn quốc (1970)- Bộ môn Sử Qua Mỹ năm 1994 ở Oklakoma City, hiện sinh sống ở Westminster California</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_8887650f2a377209fd2f2a3a71bde496.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_8887650f2a377209fd2f2a3a71bde496.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/416-than-nguoi-va-dat-viet-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/416-than-nguoi-va-dat-viet-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

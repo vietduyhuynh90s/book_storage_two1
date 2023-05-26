@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mat-ma-tay-tang-tap-7-44.html",
+    "title" : "MẬT MÃ TÂY TẠNG - TẬP 7",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà mã",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chương 46 Đại Thiên Lu}n kinh: Ph|p điển tối cao của Mật tông Tây Tạng Số trang trên bản đồ MỤC LỤC Những bước chuẩn bị cuối cùng Biệt ly Hành trình mờ mịt CHƯƠNG 47 Tiến về Shangri-la Ngày thứ nhất Ngày thứ hai Xo|y nước đen Hồ sơ Thế chiến II CHƯƠNG 48 T}y Tạng: đại dương cổ Tethys(1) Bóng đêm không có thời gian Cái chết của Chư Nghiêm Đại dương cổ Tethys Sóng nước thủy triều Người khiêu chiến biển CHƯƠNG 49 Gặp lại Mười Ba Kỵ Sĩ B{n Tròn Cái chết của Nghiêm Dũng Gặp lại Mười Ba Kỵ Sĩ B{n Tròn Niềm vui trong khổ đau Thú khổng lồ dưới biển sâu Hy vọng cuối cùng CHƯƠNG 50 Tiến vào Shangri-la trở lại đại cổ sinh Trở lại ánh sáng Trở lại đại cổ sinh Tiến vào Shangri-la Quân đoàn trên cát CHƯƠNG 51 Băng qua rừng nguyên sinh Shangri-la Rừng nguyên sinh (1) Rừng nguyên sinh (2) Bãi đất dung nham Thức ăn khó nuốt Ta còn đứng là ta còn tồn tại CHƯƠNG 52 Thôn làng người Qua Ba bị lãng quên Loài thực vật biết động đậy L{ng người Qua Ba (1) L{ng người Qua Ba (2) Thang trời đứt gãy Trí tuệ tập trung Đêm Shangri-la CHƯƠNG 53 Lạc lối ở Shangri-la Đá màu Đường Shangri-la gập ghềnh Thằn lằn tiền sử Kẻ địch nhảy dù</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_9adde78129fe6ff8bd9b9bbf8f5dfb84.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_9adde78129fe6ff8bd9b9bbf8f5dfb84.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/44-mat-ma-tay-tang-tap-7-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/44-mat-ma-tay-tang-tap-7-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

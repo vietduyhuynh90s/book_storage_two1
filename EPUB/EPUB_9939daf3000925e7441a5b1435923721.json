@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cong-thuc-cua-van-may-1161.html",
+    "title" : "CÔNG THỨC CỦA VẬN MAY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "William Poundstone",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Công Thức Của Vận May là cuốn sách vô cùng hấp dẫn kết hợp giữa cờ bạc, cá ngựa, đầu tư chứng khoán và sự chính xác của toán học, một cuốn cẩm nang cho những người muốn áp dụng công thức Kelly để làm giàu. (David Pogue, The New York Times Book Review). Công Thức Của Vận May là một câu chuyện thú vị đối với mỗi người trong chúng ta. Nó khiến ta nhớ đến những cuốn khác như \"Chống lại Đức Chúa trời\" của Peter L Bernstein hay cuốn \"Khi những thiên tài thất bại\" của Roger Lowenstein. Tất cả đều nhằm giải thích một điều rằng, vì sao những con người thông minh lại chấp nhận những sự mạo hiểm ngu ngốc. Poundstone đã chỉ cho bạn đọc thấy Công ty LTCM (công ty quản lý vốn dài hạn) đã tránh được tai hoạ như thế nào bằng cách áp dụng phương pháp Kelly. (Peter Coy, Businessweek). \"... Paul Samuelson yêu trường Đại học Harvard. Tình yêu ấy hoàn toàn không có gì có thể thay thế được. Ở tuổi hai mươi lăm, số lượng công trình nghiên cứu đăng trên các báo của anh thậm chí còn nhiều hơn số tuổi đó. Tuy nhiên, vị trí của anh dường như vẫn còn thấp kém tại Harvard, nơi người ta xếp anh vào vị trí trợ giảng môn kinh tế học, một vị trí có mức lương thấp. Chiếc ghế giảng viên là một viễn cảnh xa vời. Một trong các đồng nghiệp của Samuelson đã đựơc đề bạt lên làm giảng viên vì bản thân người này có một khiếm khuyết - anh ta xuất thân từ vùng Kansas. Còn Samuelson lại xuất thân từ Gary, bang Indiana. Người Kanas không phải là người Do Thái, trong khi Samuelson là người Do Thái. Năm 1940, Samuelson đã nhận lời mời để chuyển đến mạn cuối bên kia của vùng Cambridge cách đó ba dặm. MIT là một viện chuyên về các môn khoa học và đào tạo kỹ sư, dường như không hề có một khoa nào về kinh tế học cũng như các khoá đào tạo lãnh đạo kinh tế hay chính trị cho nước Mỹ. Trong thời kỳ mà các trường đại học danh tiếng ở phía đông nước Mỹ âm thầm chống lại cộng đồng Do Thái, chủ trương ngoại lệ của MIT chính là họ sẵn sàng tuyển dụng một người trong cộng đồng này, miễn là anh ta thông minh. Sự tập trung vào kỹ thuật của MIT rất phù hợp với tài năng của Samuelson. Samuelson chọn hướng nghiên cứu kinh tế như một môn khoa học toán. Đó là phương pháp tiếp cận đi ngược lại những thông lệ thời ấy. Từ thời Adam Smith đến John Maynard Keynes, kinh tế học đa phần chỉ là những bài thảo luận. Ở Harvard, kinh tế học cũng vẫn được nghiên cứu theo phương pháp luận. Nhưng tại MIT, Samuelson phát triển nó thành toán học. Samuelson thoải mái với phương trình vi phân như một nhà vật lý vậy. Giấy tờ nghiên cứu của anh chi chít các định lý mà anh gọi đó là kết quả. Nhờ vào điểm này, Samuelson đã kết hợp được những lập luận ngắn gọn nhưng sắc bén vào trong bài thuyết giảng và các ấn bản của mình, khiến chúng khác biệt so với vô số những phát biểu buồn tẻ và dài lê thê khác. Samuelson trở thành một giảng viên xuất chúng. Có lẽ không một nhà kinh tế học nào lúc bấy giờ có thể tiếp bước thế hệ trước một cách thành công như Samuelson đã từng làm tại MIT...\".</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_9939daf3000925e7441a5b1435923721.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_9939daf3000925e7441a5b1435923721.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1161-cong-thuc-cua-van-may-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1161-cong-thuc-cua-van-may-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

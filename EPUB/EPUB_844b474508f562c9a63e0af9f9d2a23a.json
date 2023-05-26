@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-tam-tinh-co-don-5396.html",
+    "title" : "NHỮNG TÂM TÌNH CÔ ĐƠN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyên Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chúng ta không phủ nhận việc môi trường sống của thời hiện đại đang ngày càng trở nên phức tạp và chịu sự chi phối nhiều hơn của yếu tố vật chất. Tuy nhiên, điều đó hoàn toàn không có nghĩa là yếu tố tinh thần của con người đang suy thoái như nhận định bi quan của một số người. Thật ra, hơn bao giờ hết, chúng ta đang đứng trước những cơ hội thử thách để rèn luyện và trưởng thành về mặt nội tâm. Nếu biết tận dụng, cuộc sống sẽ mở ra trước mắt ta bao điều tươi vui và thú vị. Ngược lại, đám mây mù ảm đạm của nỗi cô đơn buồn khổ sẽ luôn vây phủ chúng ta trong suốt cả cuộc đời. Sự lựa chọn là hoàn toàn do nơi chính bản thân mỗi người, và tập sách nhỏ này hy vọng có thể mang lại đôi điều hữu ích cho các bạn khi đứng trước những ngã rẽ quan trọng của tâm tình. Mục Lục: Lời nói đầu Trong dòng người mênh mông Khoảng cách giữa con người Lên non cho biết non cao... Râu tôm nấu với ruột bầu... Những tâm tình cô đơn Lục hòa kính là gì Quanh ta là những con người... Lời lời châu ngọc,hàng hàng gấm thêu Nhiều tay vỗ nên kêu Thẳng mực tàu, đau lòng gỗ Nồi cơm Thạch Sanh Miếng ăn là miếng tồi tàn... Vận dụng Lục hòa trong đời sống Bốn phương pháp thu phục lòng người Tiền tài như phấn thổ Lời cảm tạ</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_844b474508f562c9a63e0af9f9d2a23a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_844b474508f562c9a63e0af9f9d2a23a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/5396-nhung-tam-tinh-co-don-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/5396-nhung-tam-tinh-co-don-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

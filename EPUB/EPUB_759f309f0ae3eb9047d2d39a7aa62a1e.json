@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-cau-chuyen-thien-ac-7813.html",
+    "title" : "NHỮNG CÂU CHUYỆN THIỆN ÁC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Tâm Thuận",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Những câu chuyện thiện ác là một tập sách nhỏ tập hợp một vài câu chuyện đạo ngắn, nội dung chỉ xoay quanh những vấn đề về kiếp sống nhân sinh, thầm nhắc với con người ta phải biết sống sao cho thật hiền lành, lúc nào cũng phải nghĩ về việc tu nhân tích đức. Những câu chuyện ấy, tự thân chúng đã toát lên được rất nhiều đạo vị, dù trực tiếp hay gián tiếp, dù bình dị hay thâm trầm, song cũng đều có tác dụng chuyển hóa thân tâm, giúp cho người xem tự biết định hướng và tìm ra cho riêng mình một đời sống mới thật giản dị hơn, thanh thoát hơn, trong mối thân thiện tương quan giữa mình và mọi người trong xã hội. Chúng tôi xin chân thành tri ân các tác giả của nhiều quyển truyện tích Phật giáo mà chúng tôi có dịp xem qua, bởi chúng tôi đã học hỏi, đã có dựa theo được một phần nào trong công trình biên khảo, dịch thuật hay sưu tầm đầy tâm huyết và tài năng này của chính các vị, và cũng xin hoan hỷ cho phép chúng tôi được nối gót làm theo những tâm hạnh tuyệt vời của các vị, là thông qua những câu chuyện Phật giáo nho nhỏ ấy, chúng ta hãy mang những điều hiền thiện đi vào cuộc đời, chỉ vỏn vẹn với mỗi ước mong, là mọi người đều biết được nhân quả nghiệp báo, để có thể hoán cải những tư tưởng bất thiện, và thay vào bằng nhiều tâm niệm tốt lành. Chúng ta cứ nghĩ, nếu ai cũng biết được nhân quả nghiệp báo, ai cũng biết sống tốt cho mình và cho người thì không bao lâu, xã hội này sẽ biến thành Tịnh độ, và chiến tranh, bạo lực, nước mắt hay hận thù ngày đó vĩnh viễn sẽ chẳng xảy ra.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_759f309f0ae3eb9047d2d39a7aa62a1e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_759f309f0ae3eb9047d2d39a7aa62a1e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7813-nhung-cau-chuyen-thien-ac-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7813-nhung-cau-chuyen-thien-ac-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

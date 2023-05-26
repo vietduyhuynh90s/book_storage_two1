@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/que-ngoai-7802.html",
+    "title" : "QUÊ NGOẠI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thị Thanh Bình",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Truyện viết về một cô bé sống với ông bà ngoại ở quê từ nhỏ. Lên cấp 2 thì bố mẹ cô bé vốn ở trong Nam ra đón cô bé vào Nam sinh sống và ăn học. Ông bà ngoại giữ cô lại ở cho hết hè. Trong thời gian đó, cô bé đã sống hết mình với chúng bạn, nhờ đó mới khám phá ra rằng mình yêu quê hương nông thôn nầy biết chừng nào. Chia tay làng quê, bạn bè, cô bé biết rằng dù có đi đâu xa, cô vẫn không bao giờ nguôi thương nhớ. Tác giả từng nổi tiếng trên các ấn phẩm văn chương dành cho học trò với bút danh Gai Xương Rồng. Xuất hiện với những truyện ngắn hóm hỉnh dành cho học trò nhưng cuốn sách trình làng đầu tiên của chị lại là một tác phẩm dành cho thiếu nhi, đó là tập truyện ngắn Bạn thành phố, đoạt luôn giải ba trong cuộc Vận động sáng tác cho thiếu nhi “Vì tương lai đất nước” lần II do NXB Trẻ và Hội Nhà văn TPHCM tổ chức vào năm 1997. Cũng tại cuộc thi này lần III năm 2002, Nguyễn Thị Thanh Bình giành tiếp giải nhì với truyện dài Quê ngoại. Không chỉ có duyên với giải thưởng văn học thiếu nhi, chị cũng từng ghi danh với giải tư cuộc thi “Văn học tuổi hai mươi” lần II năm 2000 với truyện dài Hành trình về phía mặt trời.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_3118cff6557de76c3c7927a43f62be93.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_3118cff6557de76c3c7927a43f62be93.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7802-que-ngoai-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7802-que-ngoai-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

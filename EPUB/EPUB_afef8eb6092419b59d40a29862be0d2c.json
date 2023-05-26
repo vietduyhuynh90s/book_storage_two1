@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nguoi-mang-binh-minh-nhung-loi-day-tu-nguoi-pleiadians-1207.html",
+    "title" : "NGƯỜI MANG BÌNH MINH - NHỮNG LỜI DẠY TỪ NGƯỜI PLEIADIANS",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Pleiadians",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Người Pleiadians nói rằng: \"Bạn sẽ kết thúc những cuộc chiến trong thế giới của bạn bằng việc hãy học cách kết thúc chúng trong tâm trí của bạn\". Tuyên bố mạnh mẽ này chính là sự hiểu biết cao hơn về sự thật. Nếu nhận thức của bạn có thể hiểu được được rằng mọi thứ trong vũ trụ đều là sự phóng chiếu của tâm trí, thì Bạn có thể dễ dàng nhận ra rằng: Tình yêu vô điều kiện là trạng thái duy nhất của sự biểu hiện về sự phong phú, thịnh vượng, bình đẳng, công bằng, bình an, yêu thương, hòa bình và hợp nhất. Thực tế cuộc sống chỉ là biểu hiện của thế giới bên trong, là sự phản ánh những gì đang xảy ra trong chính bạn. Khi bạn kết thúc các \"cuộc chiến của nội tâm” thì các cuộc chiến bên ngoài sẽ không còn nữa bởi vì bạn không còn cung cấp năng lượng để cho chúng hoạt động. Đây là lý do tại sao bạn sẽ bắt đầu nhận thấy rằng, khi nhận thức của bạn chuyển sang mức độ hiểu biết cao hơn, thực tế cuộc sống xung quanh bạn sẽ thay đổi theo nó, tạo ra cho Bạn một thực tế tốt đẹp hơn, một dòng thời gian khác. Khi Bạn bắt đầu tập trung vào việc cho đi thay vì nhận lại, Bạn tự nâng cao tần số rung động của sự sáng tạo. Thật vậy, quy luật vũ trụ thông qua sự vận hành của trí thông minh siêu việt sẽ chăm sóc bạn, nếu bạn đang ở trong trạng thái \"Phụng sự người khác\".</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_afef8eb6092419b59d40a29862be0d2c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_afef8eb6092419b59d40a29862be0d2c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1207-nguoi-mang-binh-minh-nhung-loi-day-tu-nguoi-pleiadians-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1207-nguoi-mang-binh-minh-nhung-loi-day-tu-nguoi-pleiadians-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

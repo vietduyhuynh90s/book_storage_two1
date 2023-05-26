@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/noi-voi-tuoi-20-124.html",
+    "title" : "NÓI VỚI TUỔI 20",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Phần 01: Nhận diện.. 3 Phần 02: Cô đơn... 10 Phần 03: Lý tưởng... 18 Phần 04: Học hành.. 28 Phần 05: Thương yêu... 43 Phần 06: Thương yêu (tiếp). 50 Phần 07: Tôn Giáo... 58 Phần 08: Lời cuối.. 63</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_05185e20b660414f4c930c7368b8a2ce.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_05185e20b660414f4c930c7368b8a2ce.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/124-noi-voi-tuoi-20-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Phần 1. Nhận Diện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/124-noi-voi-tuoi-20-thuviensach.vn.mp3?t=1008",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:16:48 Phần 2. Cô Đơn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/124-noi-voi-tuoi-20-thuviensach.vn.mp3?t=2217",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:36:57 Phần 3. Lý Tưởng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/124-noi-voi-tuoi-20-thuviensach.vn.mp3?t=3822",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:03:42 Phần 4. Học Hành",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/124-noi-voi-tuoi-20-thuviensach.vn.mp3?t=6187",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:43:07 Phần 5. Thương Yêu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/124-noi-voi-tuoi-20-thuviensach.vn.mp3?t=7208",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:00:08 Phần 6. Thương Yêu (Tiếp Theo)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/124-noi-voi-tuoi-20-thuviensach.vn.mp3?t=8567",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:22:47 Phần 7. Tôn Giáo",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/124-noi-voi-tuoi-20-thuviensach.vn.mp3?t=9305",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:35:05 Phần 8. Lời Cuối",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/124-noi-voi-tuoi-20-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Phần 1. Nhận Diện",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/124-noi-voi-tuoi-20-thuviensach.vn.mp3?t=1008",
+    "title" : "00:16:48 Phần 2. Cô Đơn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/124-noi-voi-tuoi-20-thuviensach.vn.mp3?t=2217",
+    "title" : "00:36:57 Phần 3. Lý Tưởng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/124-noi-voi-tuoi-20-thuviensach.vn.mp3?t=3822",
+    "title" : "01:03:42 Phần 4. Học Hành",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/124-noi-voi-tuoi-20-thuviensach.vn.mp3?t=6187",
+    "title" : "01:43:07 Phần 5. Thương Yêu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/124-noi-voi-tuoi-20-thuviensach.vn.mp3?t=7208",
+    "title" : "02:00:08 Phần 6. Thương Yêu (Tiếp Theo)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/124-noi-voi-tuoi-20-thuviensach.vn.mp3?t=8567",
+    "title" : "02:22:47 Phần 7. Tôn Giáo",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/124-noi-voi-tuoi-20-thuviensach.vn.mp3?t=9305",
+    "title" : "02:35:05 Phần 8. Lời Cuối",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

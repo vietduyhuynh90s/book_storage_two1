@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/loi-thu-toi-cua-mot-sat-thu-kinh-te-481.html",
+    "title" : "LỜI THÚ TỘI CỦA MỘT SÁT THỦ KINH TẾ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "John Perkins",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>NỘI DUNG Lời thú tội của một sát thủ kinh tế.2 LỜI TỰA.. 6 PHẦN MỞ ĐẦU. 16 PHẦN I: 1963-1971... 25 Chương 1: Sát thủ ra đời.. 25 Chương 2: “Khôngđường lui”.. 37 Chương 3: Những bài học cho một EHM. 48 Chương 4: Giải thoát một đất nước. 51 Chương 5: Bán linh hồn cho quỷ. 57 PHẦN II: 1971-1975.. 66 Chương 6: Vai trò điều tra của tôi... 66 Chương 7: Nền văn minh trước vành móng ngựa... 71 Chương 8: Jesus, một cách nhìn khác... 78 Chương 9: Cơ hội ngàn năm có một.. 83 Chương 10: Vị tổng thống, người anh hùng của Panama. 91 Chương 11: Những tên cướp biển ở vùng kênh đào... 98 Chương 12: Những người lính và gái điếm.. 102 Chương 13: Nói chuyện với tướng toàn quyền.. 108 Chương 14: Một chặng đường mới đầy nguy hiểm của lịch sử kinh tế.. 115 Chương 15: Vụ rửa tiền của Ảrập Xêút..121 Chương 16: Dẫn khách và đổ tiền cho Osama bin Laden.137 PHẦN III: 1975-1981..145 Chương 17: Các cuộc đàm phán về kênh đào Panama và Graham Greene...145 Chương 18: Vua của những vị vua...155 Chương 19: Lời xưng tội của một người chịu nhục hình..161 Chương 20: Sự sụp đổ của một vị vua...167 Chương 21: Côlômbia- hòn đá tảng của Châu Mỹ Latinh.171 Chương 22: Nền cộng hòa Mỹ và đế chế toàn cầu...176 Chương 23: Bản lý lịch dối trá...186 Chương 24: Tổng thống Êcuađo đấu tranh với các công ty dầu lửa202 Chương 25: Tôi ra đi...208 PHẦN IV: 1981- HIỆN TẠI..216 Chương 26: Cái chết của Tổng thống Êcuađo.216 Chương 27: Panama - Lại một vị Tổng thống nữa bị ám sát...222 Chương 28: Công ty của tôi, Enron, và George W. Bush...226 Chương 29: Tôi nhận hối lộ.232 Chương 30: Hợp chủng quốc Hoa Kỳ xâm lược Panama..240 Chương 31: Một thất bại của EHM tại Iraq..251 Chương 32: Sự kiện 11/9 và những ảnh hưởng xấu tới riêng cá nhân tôi..260 Chương 33: Vênêzuêla được Saddam cứu giúp.271 Chương 34: Thăm lại Êcuađo.279 Chương 35: Phá vỡ lớp vỏ bọc..290 LỜI KẾT..304 TIỂU SỬ JOHNPERKINS..312 GHI CHÚ.317 VỀ TÁC GIẢ..329</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_602c500984f0f944661f687a89a50aa8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_602c500984f0f944661f687a89a50aa8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/481-loi-thu-toi-cua-mot-sat-thu-kinh-te-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/481-loi-thu-toi-cua-mot-sat-thu-kinh-te-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

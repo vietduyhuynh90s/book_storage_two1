@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/lich-su-van-hoa-nam-bo-7856.html",
+    "title" : "LỊCH SỬ VĂN HÓA NAM BỘ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Thuận",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Đặc trưng nổi bật trong văn hóa Nam bộ là sự cộng cư và giao thoa văn hóa giữa các tộc người. Do đặc tính của vùng “đất mới”, quá trình khai phá và tạo dựng diễn ra trong bối cảnh có sự chung tay của nhiều lớp cư dân, của nhiều tộc người, cà cư dân bản địa lẫn di dân từ mọi miền đến đây. Trong bức tranh Nam bộ từ thế kỷ XVII - XVIII, và cả sau này, mỗi tộc người có mặt ở đây, cho dù có khác nhau về văn hóa truyền thống và tôn giáo… nhưng họ vẫn thể hiện được nhiều nét tương đồng trên các lĩnh vực của đời sống xã hội… Nam bộ vài nét lịch sử - văn hóa gồm 3 tập là công trình nghiên cứu của phó giáo sư Tiến sĩ sử học Trần Thuận. Tập 3 sẽ đề cập đến những vấn đề sau: Cuộc nhân duyên giữa công nữ Ngọc Vạn với quốc vương Chân Lạp; Đặc điểm lịch sử vùng đất Bình Dương thời khai phá (thế kỷ XVII - XVIII); Bức tranh văn hóa Nam bộ dưới thời các chúa Nguyễn (thế kỷ XVII - XVIII); Chính sách của triều Nguyễn trong việc phát triển kinh tế - xã hội ở vùng đất Nam bộ; Vùng đất Ba Giồng trong cuộc chiến giữa chúa Nguyễn với Tây Sơn ở Gia Định (1776 - 1788); Thương cảng Sài Gòn trong đời sống xã hội Nam kỳ thời thuộc Pháp; Lụa phương Nam; Tục thí giàn ở Nam bộ- Giá trị nhân văn và đôi điều trăn trở; Sài Gòn nửa đầu thế kỷ XIX qua ghi chép của người phương Tây; Sài Gòn trước lúc Nguyễn Tất Thành ra đi tìm đường cứu nước</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_e91f029f8ecbd446dbe0f0d67eccd023.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_e91f029f8ecbd446dbe0f0d67eccd023.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7856-lich-su-van-hoa-nam-bo-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7856-lich-su-van-hoa-nam-bo-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

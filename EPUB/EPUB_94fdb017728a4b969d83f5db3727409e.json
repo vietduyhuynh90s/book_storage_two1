@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chia-khoa-hanh-phuc-gia-dinh-13468.html",
+    "title" : "CHÌA KHÓA HẠNH PHÚC GIA ĐÌNH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhật Từ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nếu bạn cần tìm cuốn sách nói về hạnh phúc gia đình thì bạn dễ dàng kiếm được hàng trăm cuốn sách có nội dung liên quan. Hoặc tìm những cuốn sách viết về Phật giáo và tâm linh, thì bạn cũng sẽ không phải mất quá nhiều công sức để chọn được những cuốn sách phù hợp với nhu cầu của bản thân. Nhưng sẽ không hề đơn giản, nếu bạn cần một cuốn cẩm nang về hạnh phúc gia đình qua cái nhìn từ bi, minh triết của giáo lý Đạo Phật. 50 câu hỏi vấn đáp trong quyển sách “Chìa Khóa Hạnh Phúc Gia Đình” là các phương pháp kiến tạo hạnh phúc, nâng niu những giá trị cốt lõi và truyền thống của đại gia đình, cũng như những trải nghiệm tịnh hóa thân và tâm giúp chúng ta sống tốt hơn, thiện lành hơn, văn minh hơn và an lạc hơn. Tác phẩm này gồm 5 chương sau: (i) Dạy trẻ nên người; (ii) Quan hệ vợ chồng; (iii) Đại gia đình; (iv) Tín ngưỡng: Đúng và sai; (v) Chuyển hóa tâm; Đồng hành suốt gần 5 năm với chuyên mục “Hạnh phúc Gia đình qua Lăng kính Phật giáo” của Tạp chí Mẹ&Bé - Thượng tọa Thích Nhật Từ đã trả lời 50 câu hỏi “sát sườn” nhất, và “kịch tính” nhất được lựa chọn từ hàng trăm câu hỏi của độc giả gửi về từ mọi miền đất nước. Nương vào giáo lý minh triết và từ bi của đạo Phật, Thượng tọa Thích Nhật Từ, bằng những lời tâm sự chia sẻ chân tình và gần gũi đã giúp người đọc dễ dàng tháo gỡ những vấn đề nan giải, mà mỗi cá nhân có thể gặp phải trong cuộc sống hằng ngày giữa bộn bề lo toan: từ việc chồng ngoại tình; con tật nguyền, con hư hỏng; mâu thuẫn mẹ chồng nàng dâu, bất lực với con tuổi teen,… đến những thói hư tật xấu, những mê tín dị đoan phá hoại cuộc sống bình an. Chắc chắn bạn sẽ tìm thấy mình, thấy những vấn đề bạn quan tâm hoặc những trăn trở, ưu tư của những người thân thương khi lật giở từng trang sách.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_94fdb017728a4b969d83f5db3727409e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_94fdb017728a4b969d83f5db3727409e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13468-chia-khoa-hanh-phuc-gia-dinh-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13468-chia-khoa-hanh-phuc-gia-dinh-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

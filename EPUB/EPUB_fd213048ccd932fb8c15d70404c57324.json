@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chien-thang-con-quy-trong-ban-684.html",
+    "title" : "CHIẾN THẮNG CON QUỶ TRONG BẠN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Napoleon Hill",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Giới thiệu Cuốn sách là cuộc trò chuyện của Napoleon Hill và Con Quỷ. Sau bao nhiêu năm miệt mài nghiên cứu cuối cùng ông cũng phát hiện ra Con Quỷ, bắt nó phải thú tội và tiết lộ những sự thật kinh hoàng về nơi nó sống, cách nó kiểm soát tâm trí con người và cách để con người chiến thắng được nó. Khi đọc cuốn sách này, có thể bạn sẽ tự hỏi, cuộc trò chuyện này có thật không? Con Quỷ là có thật hay là một sản phẩm của trí tưởng tượng của Napoleon Hill. Nhưng quyền lựa chọn cách hiểu vấn đề là của bạn. Bởi lẽ cuối cùng, thông qua cuộc trò chuyện với Con Quỷ, Napoleon Hill đã cung cấp cho chúng ta chìa khóa để chiến thắng Con Quỷ trong cuộc sống riêng của mỗi người. Hãy tận hưởng cuốn sách kỳ diệu này và chia sẻ nó với gia đình, bạn bè. Sức mạnh trong ngôn từ của Napoleon Hill có thể và sẽ thay đổi cuộc đời bạn. Mục lục LỜI NGỎ của Sharon Lechter LỜI TỰA Chương Một: CUỘC GẶP GỠ ĐẦU TIÊN VỚI ANDREW CARNEGIE Chương Hai: MỘT THẾ GIỚI MỚI MỞ RA TRƯỚC MẮT TÔI Chương Ba: CUỘC PHỎNG VẤN KỲ LẠ VỚI CON QUỶ Chương Bốn: BUÔNG THẢ CÙNG CON QUỶ Chương Năm: CON QUỶ TIẾP TỤC THÚ TỘI Chương Sáu: NHỊP ĐIỆU THÔI MIÊN Chương Bảy: MẦM MỐNG CỦA NỖI SỢ HÃI Chương Tám: MỤC TIÊU XÁC ĐỊNH Chương Chín: GIÁO DỤC VÀ TÔN GIÁO Chương Mười: KỶ LUẬT TỰ GIÁC Chương Mười một: HỌC TỪ NGHỊCH CẢNH Chương Mười hai: MÔI TRƯỜNG, THỜI GIAN, SỰ HÒA HỢP VÀ CẨN TRỌNG TỔNG KẾT LỜI BẠT SUY NGẪM LỜI CẢM ƠN NAPOLEON HILL (1883 - 1970) SHARON LECHTER Lời khen tặng dành cho CHIẾN THẮNG CON QUỶ TRONG BẠN</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_fd213048ccd932fb8c15d70404c57324.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_fd213048ccd932fb8c15d70404c57324.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/684-chien-thang-con-quy-trong-ban-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/684-chien-thang-con-quy-trong-ban-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

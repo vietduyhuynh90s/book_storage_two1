@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nha-quan-li-tai-nang-13472.html",
+    "title" : "NHÀ QUẢN LÍ TÀI NĂNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Brain Works",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Công ty là nơi gồm rất nhiều người trong nhiều vai trò khác nhau, hàng ngày cùng làm việc vì một mục đích. Làm thế nào để tập hợp họ thành một tổ chức và có trách nhiệm hành động là nhiệm vụ lớn nhất của nhà quản lý. Tuy nhiên, để có thể đảm nhiệm được vai trò này thì nhà quản lý phải trang bị các kiến thức cơ bản cũng như nguyên tắc hành động. Nghĩa là, với vai trò là một cán bộ cốt cán của công ty, họ phải có trách nhiệm trong toàn bộ các hoạt động, thực thi công việc để có thể tiến tới được mục tiêu. Với cách suy nghĩ như vậy, chúng ta có thể nói rằng công việc quản lý, cũng giống như công việc bán hàng, công việc của nhà sáng tạo hay là kỹ sư, đều có mục tiêu rõ ràng. Chính vì nhà quản lý phải hiểu tất cả các hoạt động của công ty và là người thực thi các hoạt động đó nên họ cũng cần trang bị cho mình kỹ năng với mức độ yêu cầu cao. Có thể nói, việc trang bị cho mình những kỹ năng là phương pháp tiến gần đến việc trở thành một nhà quản lý thực thụ. Cuốn sách Nhà Quản Lý Tài Năng này tổng hợp các vấn đề mà một nhân viên muốn trở thành nhà quản lý phải trang bị cho mình như các kiến thức cơ bản, vai trò, kỹ năng cũng như chuẩn bị vè mặt tinh thần. Cuốn sách này có thể sử dụng cho một người vừa trở thành nhà quản lý, mới có nhân viên dưới quyền, cũng như có thể dùng cho các nhà quản lý cấp trung giàu kinh nghiệm như một cơ hội tốt để nhìn lại cách quản lý của mình. Không chỉ vậy, các nhà quản lý đang theo dõi, tiến hành các dự án có thể tham khảo được từ cuốn sách này. Không phân biệt bất kỳ ngành nghề nào, đây có thể coi là một cuốn sách giới thiệu tổng hợp cho công việc quản lý.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_1f7525aee750f0f670a53210fedd2d58.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_1f7525aee750f0f670a53210fedd2d58.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13472-nha-quan-li-tai-nang-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13472-nha-quan-li-tai-nang-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

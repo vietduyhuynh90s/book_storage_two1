@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/phu-nu-thong-minh-song-trong-giau-co-13467.html",
+    "title" : "PHỤ NỮ THÔNG MINH SỐNG TRONG GIÀU CÓ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "David Bach",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mỗi Người Phụ Nữ Đều Có Thể Trở Nên Giàu Có - Hành Trình Thay Đổi Cuộc Đời Bạn MỘT HÀNH TRÌNH THAY ĐỔI CUỘC ĐỜI BẠN! Trong những trang sách diệu kỳ này, điều chúng ta sẽ làm là dấn thân vào hành trình - một hành trình gồm 8 bước bắt đầu với việc học hỏi và kết thúc bằng hành động của bạn. Khi mọi chuyện xong xuôi, bạn sẽ học được những nguyên lý cơ bản trong quản lý tài chính cá nhân - những nguyên lý mà bạn có thể dùng để biến ước mơ tài chính của mình thành sự thật. Bạn sẽ được tham gia vào một hành trình thi vị mở ra một bản thân “mới” - một người phụ nữ tự quyết định vận mệnh của mình, một người học được cách làm chủ tài chính bản thân. Sống thoải mái trong giàu có chính là thông điệp quan trọng nhất trong cuốn sách. Cuốn sách chia sẻ khái niệm đơn giản rằng bất kỳ người phụ nữ nào - không phân biệt thu nhập, tuổi, chủng tộc hay tình trạng hôn nhân - đều có quyền để được tận hưởng tương lai đủ đầy, tự do đồng thời tài chính thật sự được đảm bảo. Trong cuốn sách, bạn sẽ được dấn thân vào hành trình gồm 8 bước bắt đầu với việc hỏi hỏi và kết thúc bằng hành động của bạn. Rồi bạn sẽ thấy, 8 bước này chiếm trọn hành trình đi đến tự do tài chính của chúng ta. Tuy nhiên, bản thân từng bước cũng dễ thực hiện. Thật ra chúng rất đơn giản, đến nỗi mà không chỉ bạn có thể áp dụng mà bạn hoàn toàn có thể dạy chúng cho những người bạn yêu quý để họ đạt được thành công như bạn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_05e71f39bb210c3cb4fb5b017e204fec.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_05e71f39bb210c3cb4fb5b017e204fec.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13467-phu-nu-thong-minh-song-trong-giau-co-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13467-phu-nu-thong-minh-song-trong-giau-co-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

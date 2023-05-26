@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thinh-vuong-tai-chinh-tuoi-30-tap-2-12445.html",
+    "title" : "THỊNH VƯỢNG TÀI CHÍNH TUỔI 30 - TẬP 2",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Go Deuk Seong",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>\"Thịnh vượng tài chính tuổi 30 - Tập 2\" là kết quả của sự kết hợp nhuần nhuyễn giữa trí tuệ và kỹ năng quản lý tài chính từ bước đi của một nhà hoạch định tài chính nổi danh của ngân hàng SC First Hàn Quốc. Cuốn sách chú trọng đến những bước chuẩn bị về tài chính, và sự chuẩn bị đó được áp dụng vào đời sống thực tế như thế nào. Có thể nói cuốn sách này là bản thực hành của con người trước những việc cần chuẩn bị cho cuộc sống sau này, những hiện thực khốc liệt, tính cấp bách, tính tất yếu và mức độ cẩn trọng của công việc chuẩn bị cho những tháng năm về hưu. Đại diện Bảo hiểm nhân thọ AIG - Kim Seongil đã nhận định: “Nếu được đọc cuốn sách này sớm, con đường đến thành công của bạn sẽ bằng phẳng hơn. Đây không phải là cuốn sách dạy làm giàu hay liệt kê cách quản lý tài chính đơn thuần. Thông qua việc mô tả kinh nghiệm của năm nhân vật đang làm những công việc bình thường, cuốn sách sẽ lần lượt giảng giải về những vấn đề mà bạn gặp phải trong từng giai đoạn cuộc đời và hướng dẫn bạn cách quản lý tài chính trong giai đoạn đó. Các bạn thanh niên độ tuổi đôi mươi mới bước vào đời, các bạn độ tuổi ba mươi đang trong giai đoạn lập nghiệp, những người độ tuổi bốn mươi với vai trò người chủ gia đình, cùng những công chức độ tuổi năm mươi chuẩn bị về hưu…”</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_dd60b88a8ff52da27e08c8cfa3cba276.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_dd60b88a8ff52da27e08c8cfa3cba276.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12445-thinh-vuong-tai-chinh-tuoi-30-tap-2-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12445-thinh-vuong-tai-chinh-tuoi-30-tap-2-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

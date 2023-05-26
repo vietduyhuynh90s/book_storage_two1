@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/con-se-lam-duoc-692.html",
+    "title" : "CON SẼ LÀM ĐƯỢC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Donna M. Genetit",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chào các bạn độc giả! Tôi đã viết cuốn sách đầu tay “Người giỏi không phải là người làm tất cả”, với hy vọng phổ biến một trong những kinh nghiệm quản lý hết sức độc đáo - nguyên tắc “Giao việc hiệu quả nhất”. Đã có rất nhiều nhà quản lý nắm được nguyên tắc này và đạt được nhiều thành công. Thế nhưng, tôi hiểu rằng phạm vi áp dụng của nguyên tắc này vẫn còn rất giới hạn. Help your Kids get it done right at home and school! Thông qua một số bạn bè và đồng nghiệp, tôi đã nảy ra ý tưởng áp dụng nguyên tắc tuyệt vời đó, với một chút biến đổi, vào việc giáo dục con cái tại gia đình. “Để con vững bước tương lai” sẽ mang đến cho bạn cách vận dụng nguyên tắc giao việc hiệu quả ấy vào việc giáo dục con cái. Với 6 bước đơn giản nhưng hữu ích, bạn sẽ giúp con trẻ gặt hái thành tích cao nhất và tự tin bước vào đời. Trong quyển “Người giỏi không phải là người làm tất cả”, nhân vật James đã phải nỗ lực rất nhiều mà vẫn không sao đạt được kết quả như Jones, người anh họ của mình. Trong khi James phải làm việc rất vất vả mới có thể hoàn thành công việc một cách tương đối thì Jones, với những kỹ năng quản lý tuyệt vời, đã đạt được nhiều thành công vượt trội một cách nhẹ nhàng. Theo đó, chất lượng cuộc sống của hai người ngày một khác xa nhau. Cuối cùng, James quyết định dẹp bỏ lòng kiêu hãnh để đến gặp và xin lời khuyên của Jones. Từ sự hướng dẫn của người anh họ, James dần nắm rõ và áp dụng thành công bí quyết “Giao việc hiệu quả nhất”. Lần này, James nhận ra rằng các con của Jones luôn thành công và vượt trội hơn so với các con anh, dù tất cả đều có thời gian học tập và chơi đùa như nhau. Câu chuyện là chuỗi những suy nghĩ và hành động của James nhằm tìm ra bí quyết tự tin và thành công của các con Jones. Từ những gì đã học được, gia đình James đã đạt được những kết quả đáng khích lệ: Các con đạt được nhiều thành công hơn mà không cần phải cố gắng quá sức. Bọn trẻ học được sự tự tin vào chính bản thân và biết cách phát huy hết tiềm năng; hiểu và chấp nhận những giới hạn cũng như những quy định mà chúng phải tuân theo. Không khí gia đình trở nên thân thiện, ấm áp hơn; các thành viên trong gia đình quan tâm đến nhau nhiều hơn. Loại trừ đến mức tối đa sự tranh chấp và xung đột trong gia đình. Và gia đình bạn cũng vậy, sẽ đạt được những kết quả hằng mong đợi từ kinh nghiệm của Jones và James. Chúc bạn thành công! - Donna M. Gennett, Ph. D</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_8b1fbc7ab6955843a2c1635b25043cd8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_8b1fbc7ab6955843a2c1635b25043cd8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/692-con-se-lam-duoc-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/692-con-se-lam-duoc-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

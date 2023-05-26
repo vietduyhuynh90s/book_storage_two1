@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhung-dua-tre-mac-zich-13568.html",
+    "title" : "NHỮNG ĐỨA TRẺ MẮC ZỊCH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Nhã Thụy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Những đứa trẻ mắc zịch là tác phẩm đầu tiên viết cho thiếu nhi của Trần Nhã Thụy là câu chuyện trinh thám thú vị về ảo thuật. Buổi ra mắt sách Những đứa trẻ mắc zịch diễn ra tại Đại học Khoa học Xã hội và Nhân văn Hà Nội cuối tuần qua, với sự tham gia của tác giả Trần Nhã Thụy, Tiến sĩ Lê Hương Thủy, Tiến sĩ Phạm Xuân Thạch và Nhà phê bình Bùi Việt Thắng. Tác phẩm mới của Trần Nhã Thụy đem đến sự bất ngờ cho những người trong giới và độc giả. Từ trước đến nay, anh là cây bút chuyên viết truyện người lớn. Tác giả chia sẻ lý do bình dị để anh đặt bút viết những câu chuyện cho trẻ em: “Kể chuyện cho những đứa trẻ trong chính nhà mình”. Ông bố của hai con trai lựa chọn một đề tài gần gũi, đặc biệt hấp dẫn những đứa trẻ - ảo thuật. Những đứa trẻ mắc zịch là cuộc phiêu lưu sinh động, hào hứng, đầy cảm xúc giữa lòng Sài Gòn trên nền của những màn trình diễn ảo thuật. Trong cuộc phiêu lưu ấy có thằng Trà Đá, thằng Tuấn Anh, thằng Mặt Nạ Tuấn Em, bé Bông, băng hot girl, Vĩnh Hy, ông Hoàng bồ câu, Tùng xẻo… Vào một mùa hè, có kẻ lập mưu cướp kim cương ở trung tâm thương mại Red Plaza, che giấu dưới những màn ảo thuật. Nhóm “mắc zịch” sẽ làm gì? Chúng phá án như thế nào? Âm mưu của nhân vật phản diện là gì? Tác phẩm mang đậm màu sắc trinh thám, khiến độc giả bị cuốn theo từng diễn biến của câu chuyện. Trên hết, tác giả muốn đề cập đến tình bạn trong sáng, lòng dũng cảm và niềm đam mê. Truyện còn nhắc đến những khía cạnh tâm lý đời sống như bước qua nỗi sợ hãi của chính mình và bước qua sự đố kỵ để sống yêu thương, chân thành. \"Mắc zịch\" là cách tác giả biến âm từ \"Magic (ảo thuật)\". Đúng như lời nhà văn Nguyễn Nhật Ánh: \"Khi viết cuốn sách trẻ em đầu tay, Trần Nhã Thụy cũng đã biến thành nhà ảo thuật mà không tự biết\".</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_ea73686533f42c661ba9d1da32918f3e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_ea73686533f42c661ba9d1da32918f3e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13568-nhung-dua-tre-mac-zich-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13568-nhung-dua-tre-mac-zich-thuviensach.vn.mp3?t=3222",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:53:42 Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13568-nhung-dua-tre-mac-zich-thuviensach.vn.mp3?t=6689",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:51:29 Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13568-nhung-dua-tre-mac-zich-thuviensach.vn.mp3?t=9865",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:44:25 Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13568-nhung-dua-tre-mac-zich-thuviensach.vn.mp3?t=13291",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:41:31 Phần 5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13568-nhung-dua-tre-mac-zich-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13568-nhung-dua-tre-mac-zich-thuviensach.vn.mp3?t=3222",
+    "title" : "00:53:42 Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13568-nhung-dua-tre-mac-zich-thuviensach.vn.mp3?t=6689",
+    "title" : "01:51:29 Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13568-nhung-dua-tre-mac-zich-thuviensach.vn.mp3?t=9865",
+    "title" : "02:44:25 Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13568-nhung-dua-tre-mac-zich-thuviensach.vn.mp3?t=13291",
+    "title" : "03:41:31 Phần 5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

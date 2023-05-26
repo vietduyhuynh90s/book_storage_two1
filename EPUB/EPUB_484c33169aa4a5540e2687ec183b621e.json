@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nghe-thuat-nang-cao-chat-luong-cong-viec-13527.html",
+    "title" : "NGHỆ THUẬT NÂNG CAO CHẤT LƯỢNG CÔNG VIỆC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sudhir Chandra",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nghệ thuật nâng cao chất lượng công việc là một câu chuyện về sự nỗ lực và quyết tâm thay đổi của một nhà máy sản xuất kem địa phương để được bán kem cho một tập đoàn bán lẻ khổng lồ - một đối tượng khách hàng mà họ đã từng theo đuổi trong nhiều năm. Câu chuyện mang đến một thông điệp tuy ngắn gọn nhưng cần thiết cho tất cả các doanh nghiệp hiện nay, đó là cần tập trung đúng mức vào yếu tố chất lượng trong từng sản phẩm mà mình thiết kế, sản xuất và tiếp thị, và cả trong môi trường làm việc, kinh doanh. Với từng đúc kết kinh nghiệm sau mỗi chủ đề, cuốn sách sẽ giúp người đọc tự rút ra những bài học kinh nghiệm thiết thực và bổ ích trong việc cải thiện và phát triển doanh nghiệp tiến xa hơn nữa. Thông tin tác giả: Subir Chowdhury là tác giả của nhiều cuốn sách bestseller như: The Power of Six Sigma và Design for Six Sigma, ông còn là Chủ tịch Hội đồng Quản trị đồng thời là Giám đốc Điều hành của Tập đoàn Tư vấn ASI. Ông đã từng tư vấn cho các tổng giám đốc và các nhà lãnh đạo cao cấp trong nhóm 100 công ty lớn nhất do tạp chí Fortune bình chọn cũng như các doanh nghiệp trên khắp thế giới.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_484c33169aa4a5540e2687ec183b621e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_484c33169aa4a5540e2687ec183b621e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13527-nghe-thuat-nang-cao-chat-luong-cong-viec-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13527-nghe-thuat-nang-cao-chat-luong-cong-viec-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

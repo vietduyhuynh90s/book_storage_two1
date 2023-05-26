@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/an-theo-thuo-o-theo-thoi-7850.html",
+    "title" : "ĂN THEO THUỞ, Ở THEO THỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Lối bốn giờ chiều, nhờ mấy cây cồng lớn của làng trồng chung quanh nhà việc Tiển Cần che áng mặt trời, nên cái sân rộng trước nhà việc kêu là sân chợ cũ, có chỗ còn nắng, mà có chỗ đã mát. Một chú bán mì thánh, để gánh trên lề đường, đứng gõ sanh lắc cắc cụp. Một chị bán chè thưng đi dọc theo trước phố rao hàng tiếng nghe ngọt xớt. Sắp con nít tựu mấy chỗ có bóng mát mà trửng giỡn, đứa chạy rần rật, đứa la om sòm. Thình lình có cái xe đò, chở đầy hành khách, ầm ầm chạy vô cái sân ấy, bóp kèn te te, bụi bay mù mịt. Sắp con nít la om: “Xe Trà Vinh qua, xe Trà Vinh qua” rồi lật đật đứng nép vô lề đường mà coi xe tới. Xe hơi chạy chậm chậm rồi ngừng tại giữa sân. Hành khách chộn rộn leo xuống, người xách gói, kẻ bồng con, lại có nhiều người xúm chung quanh xe, chờ mà lấy hành lý. Trong đám hành khách lấy đồ đây, có một người trai, nước da trắng, gương mặt tròn, sơn đình cao, chơn mày rậm, mình mặc một bộ đồ âu phục bằng bố xám, đầu đội nón trắng, chơn mang giầy đen, đứng ngó dáo dác, bộ coi ngại ngùng lắm. Trên xe hơi bỏ xuống một cái gương lớn. Người trai nhắc để dựa bên lề đường rồi nhắm mấy đứa con nít đứng gần đó, mà hỏi rằng: Mấy em biết nhà ông Đốc học ở chỗ nào, xin làm ơn chỉ giùm cho qua chút?” Có hai đứa nhỏ giành nhau mà đáp rằng: “Đây, nhà ông Đốc ở phía sau nhà việc đây”. Người ấy hỏi: “Hai em dắt giùm qua lại đó được hay không?” Hai đứa nhỏ đáp: “Được”. Người ấy ngó cái rương rồi nói rằng: “Còn cái rương đây làm sao? Hai em biết ai làm cu ly, kêu giùm cho qua một người đặng qua mướn vác cái rương rồi đi mới được chớ”. Một đứa nhỏ liền kêu một người đương đứng gần đó mà nói rằng: “Ê! Anh Tao, thầy mướn vác cái rương đây nè, vác lại nhà ông Đốc rồi thầy cho tiền xài”. Người trai ấy trạc chừng mười bảy, mười tám tuổi, trên đầu tóc chôm bôm, ở trần đưa lưng đen chạy, mặc một cái quần vắn mốc thít, thủng thẳng bước lại hỏi vác đi đâu nhớm thử cái rương, rồi ngồi xuống kê vai mà vác.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_709d40efd991951b13a6fc78d3439bad.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_709d40efd991951b13a6fc78d3439bad.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7850-an-theo-thuo-o-theo-thoi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7850-an-theo-thuo-o-theo-thoi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

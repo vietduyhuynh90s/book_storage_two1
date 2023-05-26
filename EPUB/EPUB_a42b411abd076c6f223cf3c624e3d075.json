@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bi-mat-phong-the-1094.html",
+    "title" : "BÍ MẬT PHÒNG THE",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Khánh Chi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuốn sách này trang bị cho các bạn sắp bước vào ngưỡng cửa hôn nhân những hành trang cần thiết cho cuộc sống lứa đôi. Sách gồm 6 chương: Chương 1: Những vùng gợi cảm trên cơ thể nàng Chương 2: Đánh thức tiềm năng \"cậu bé\" Chương 3: Tạo cảm giác hưng phấn Chương 4: Lợi ích từ chuyện \"yêu\" Chương 5: Thực phẩm giúp thăng hoa Chương 6: Trục trặc gối chăn Xin giới thiệu cuốn sách cùng bạn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_a42b411abd076c6f223cf3c624e3d075.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_a42b411abd076c6f223cf3c624e3d075.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1094-bi-mat-phong-the-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1094-bi-mat-phong-the-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

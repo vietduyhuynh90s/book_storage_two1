@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nguoi-that-chi-7855.html",
+    "title" : "NGƯỜI THẤT CHÍ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Phóng tác từ Prestouplénié i nakazanié (1866) của văn hào Nga Fédor Mikhaïlovitch Dostoievski... Ồ! Lương tâm! Ồ Trời Phật! Nếu bà Lợi chưa chết, thì bà làm hại thêm cho con nhà nghèo, chớ có ích gì. Bà chết đó là may mắn cho nhiều người lắm. Huống chi toa lấy bạc của bà chẳng phải toa lấy mà ăn xài, lấy đặng tấm gội cho những kẻ nhơ nhuốc, lấy đặng làm mạnh cho những kẻ đau ốm, lấy đặng giúp sống cho những kẻ nghèo đói, thế thì tội trộm cướp sát nhơn của toa có chỗ dung chế được. Ðã vậy, trọn 12 năm nay, toa đã phạt thân toa cực khổ mà chuộc tội rồi. Các cớ ấy há không đủ làm cho lương tâm an tịnh, đặng toa gần gũi má cho má vui, đặng toa kết tóc với cô Tâm cho cô phỉ tình ước nguyện hay sao? Còn toa sợ luật Trời, cái đó toa bậy lắm. Ðời nầy mà toa còn tin tưởng Trời Phật thì trái mùa quá. Nếu Trời Phật có luật và thi hành luật ấy hẳn hòi, thì làm sao những người biết nhơn nghĩa lại chịu nghèo khổ, còn những kẻ tham lam lại được giàu sang? Toa phải về, đừng cải nữa...</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_8183404d36facac0c42fbe252abf9d59.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_8183404d36facac0c42fbe252abf9d59.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7855-nguoi-that-chi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7855-nguoi-that-chi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

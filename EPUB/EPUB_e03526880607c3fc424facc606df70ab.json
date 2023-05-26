@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/doi-thay-doi-khi-chung-ta-thay-doi-tap-4-1125.html",
+    "title" : "ĐỜI THAY ĐỔI KHI CHÚNG TA THAY ĐỔI - TẬP 4",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Andrew Matthews",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Có bao giờ bạn: Ước gì mình lớn hơn? Ước gì mình có nhiều tiền hơn? Ước gì mình xinh hơn? Ước gì cha mẹ mình không như thế? Có bao giờ bạn nghĩ “Không ai hiểu mình cả!” Có bao giờ bạn thắc mắc “Liệu mình đang yêu?” Có bao giờ bạn hỏi “Mình có bình thường không nhỉ?” Nếu bạn trả lời CÓ cho những câu hỏi trên thì quyển sách này dành cho bạn - TUỔI MỚI LỚN - tuổi thường ưu tư, hay mơ mộng, muốn làm nhiều điều và cũng dễ... sai lầm. Cuốn sách này sẽ giúp bạn - TUỔI MỚI LỚN - biết cách nhìn cuộc sống xung quanh, nhìn nhận chính mình, thay đổi thái độ, đủ tự tin, để rồi bạn sẽ thấy lạc quan, yêu đời, sống thoải mái và giỏi giang hơn. Đọc ĐỜI THAY ĐỔI KHI CHÚNG TA THAY ĐỔI - bạn sẽ ngạc nhiên khi thấy một quyển sách “dạy đời” lại hay, vui và gần gũi “đúng ý” mình đến thế! Hy vọng khi gấp sách lại, bạn sẽ tìm được điều hữu ích cho bản thân.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_e03526880607c3fc424facc606df70ab.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_e03526880607c3fc424facc606df70ab.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1125-doi-thay-doi-khi-chung-ta-thay-doi-tap-4-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1125-doi-thay-doi-khi-chung-ta-thay-doi-tap-4-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

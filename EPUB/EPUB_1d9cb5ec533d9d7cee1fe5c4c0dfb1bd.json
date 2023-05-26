@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/suc-manh-cua-su-tu-te-499.html",
+    "title" : "SỨC MẠNH CỦA SỰ TỬ TẾ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Linda Kaplan Thaler",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Với tôi, cuốn sách vĩ đại nhất từng được viết là cuốn Bản Thánh ca Giáng sinh của Charles Dickens. Vì sao ư? Vì triết lí đơn giản của nó: làm điều đúng sẽ cảm thấy vui hơn. Đó chả phải là một tín điều tôn giáo gì cả. Chỉ là nếu bạn làm việc tốt thì cuộc đời bạn sẽ khá lên. Nó là thế, bạn không thể một mình ăn hết cái bánh to, cứ cố ăn chỉ tổ chướng bụng mà thôi. Ăn một ít, còn đâu để dành cho người khác. Khi được yêu cầu trả lời phỏng vấn về Sức mạnh của sự tử tế, tôi đã đồng ý không chỉ vì muốn tỏ ra dễ thương đâu. Tôi làm điều đó vì tôi nghĩ đó là cách mình nên làm. Nhưng thời nay tỏ ra tử tế lại là chuyện lạ khó tin. Mới đây tôi có kể một câu chuyện cười trong một show diễn và nhận được thư của một phụ nữ nói rằng bà ấy khó chịu với nó. Tôi gọi điện lại nói xin lỗi bà nếu có gì xúc phạm đến tình cảm của bà. Không hiểu sao bà lại tiếp xúc với báo chí và thế là lời xin lỗi của tôi được lên báo! Chúng ta đang sống trong một xã hội mà ngay cả một nhã ý thông thường cũng bị coi là bất thường, như thể mình vừa thực hiện thủ thuật móc họng cứu mạng ai không bằng. Thậm chí nếu bạn đụng xe vào ai thì các công ty bảo hiểm sẽ bảo bạn đừng xin lỗi người ta. Xin lỗi tức là thừa nhận mình sai. Vậy chứ họ muốn bạn làm gì? Chuồn nhanh và gọi cho luật sư của mình ư? Tuy nhiên, theo tôi, dù có sai thật mà mình xin lỗi trước thì có đến chín trên mười người sẽ động tâm và chắc chắn sẽ tử tế lại với mình trong chuyện khắc phục thiệt hại. Thế là nhiều thứ phiền toái ngày nay có thể được xử lí chỉ bằng vài hành động nhân ái đơn giản thôi. Trở nên một người nhân hậu càng đặc biệt quan trọng hơn khi ta có một diễn đàn như The Tonight Show. Đó không thể là sàn diễu võ của một tên đầu gấu hay một kẻ khoe mẽ. Có một lý do vì sao show này được gọi là The Tonight Show với Jay Leno chứ không phải là The Tonight Show do Jay Leno thủ diễn. Đó là vì mẹ tôi. Bà cho rằng nói “Jay Leno thủ diễn” thì vô hình trung mình nói với cử tọa rằng “Này, nhìn tôi đây, tôi là ngôi sao lớn đấy.” Vậy là tôi bảo bà, “Được rồi, mẹ à. Thế với Jay Leno thì sao?” Cuộc sống không “cứng” như thế. Hãy nhường nhịn một chút. Rồi bạn sẽ ngạc nhiên khi thấy mình thu lại được nhiều chừng nào.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_1d9cb5ec533d9d7cee1fe5c4c0dfb1bd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_1d9cb5ec533d9d7cee1fe5c4c0dfb1bd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/499-suc-manh-cua-su-tu-te-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/499-suc-manh-cua-su-tu-te-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/lao-tu-dao-duc-kinh-nguyen-hien-le-13511.html",
+    "title" : "LÃO TỬ ĐẠO ĐỨC KINH - NGUYỄN HIẾN LÊ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Hiến Lê",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Đạo Đức Kinh (tiếng Trung: 道德經; phát âm tiếng Trung: nghe (trợ giúp·chi tiết)) là quyển sách do triết gia Lão Tử viết ra vào khoảng năm 600 TCN. Theo truyền thuyết thì Lão Tử vì chán chường thế sự nên cưỡi trâu xanh đi ở ẩn. Ông Doãn Hỷ đang làm quan giữ ải Hàm Cốc níu lại “nếu ngài quyết đi ẩn cư xin vì tôi để lại một bộ sách!”, Lão Tử bèn ở lại cửa ải Hàm Cốc viết bộ “Đạo Đức Kinh” dặn Doãn Hỷ cứ tu theo đó thì đắc đạo. Do đó, Đạo Đức Kinh còn được gọi là sách Lão Tử. Đạo Đức Kinh gồm có 81 chương với khoảng 5000 chữ Hán, chia làm 2 phần: Thượng Kinh và Hạ Kinh. Thượng Kinh gồm 37 chương, bắt đầu bằng câu: “Đạo khả Đạo phi thường Đạo”. Thượng Kinh luận về chữ Đạo nên được gọi là Đạo Kinh. Hạ Kinh gồm 44 chương, bắt đầu bằng câu: “Thượng Đức bất Đức thị dĩ hữu Đức”. Hạ Kinh luận về chữ Đức nên được gọi là Đức Kinh. Đạo Đức Kinh có 2 bản dịch ra tiếng Việt phổ biến bởi Nguyễn Hiến Lê và Nguyễn Duy Cần. Ngoài ra còn có một bản dịch song ngữ Anh-Việt của dịch giả Vũ Thế Ngọc, căn cứ trên cổ bản Mã Vương Đôi với câu mở đầu: “Đạo khả đạo dã phi hẳng đạo dã, danh khả danh dã phi hằng danh dã”.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_51056ec6650986a4b32d5978f392714d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_51056ec6650986a4b32d5978f392714d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13511-lao-tu-dao-duc-kinh-nguyen-hien-le-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13511-lao-tu-dao-duc-kinh-nguyen-hien-le-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

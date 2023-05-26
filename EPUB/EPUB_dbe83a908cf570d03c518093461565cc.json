@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ami-cau-be-cua-cac-vi-sao-quyen-2-1128.html",
+    "title" : "AMI - CẬU BÉ CỦA CÁC VÌ SAO - QUYỂN 2",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Enrique Barrios",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Ami nói, một thế giới văn minh là một thế giới thỏa mãn ba yêu cầu cơ bản 1. Họ phải công nhận TÌNH YÊU là quy luật căn bản của vũ trụ. 2. Họ phải ngưng bị chia cắt bởi các biên giới và lập một quốc gia huynh đệ duy nhất. 3. Tình yêu phải là nền tảng cho mọi tổ chức.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_dbe83a908cf570d03c518093461565cc.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_dbe83a908cf570d03c518093461565cc.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1128-ami-cau-be-cua-cac-vi-sao-quyen-2-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1128-ami-cau-be-cua-cac-vi-sao-quyen-2-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

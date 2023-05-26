@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/phu-thuy-san-chung-khoan-11773.html",
+    "title" : "PHÙ THỦY SÀN CHỨNG KHOÁN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jack D. Schwager",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Phù thủy sàn chứng khoán là một cuốn sách gồm một loạt các cuộc phỏng vấn với các nhà giao dịch thành công và nổi tiếng nhất, với nhiều chi tiết nhất về câu chuyện thành công và những bí mật kinh nghiệm chuyên môn của họ. Ngoài ra, cuốn sách không thể thiếu sự thật về sự nghiệp giao dịch của các nhà quản lý quỹ đầu tư vĩ đại nhất, các nhà giao dịch hàng đầu và các nhà đầu tư chứng khoán tư nhân: từ Richard Dennis, huyền thoại của Sàn chứng khoán Chicago kiêm người sáng lập của Turtles; đến nhà vô địch giao dịch Martin “Buzzy” Schwartz; hay William O’Neil trứ danh, và cả Paul Tudor Jores, người đứng đầu của quỹ đầu tư với lợi nhuận hằng năm trong 5 năm liên tục là 100%.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_ff806ea624f4860e8211a5f5b6c3e676.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_ff806ea624f4860e8211a5f5b6c3e676.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/11773-phu-thuy-san-chung-khoan-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/11773-phu-thuy-san-chung-khoan-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

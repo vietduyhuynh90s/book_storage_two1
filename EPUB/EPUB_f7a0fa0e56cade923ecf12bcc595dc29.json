@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/marie-curie-mot-doi-hy-sinh-cho-khoa-hoc-7857.html",
+    "title" : "MARIE CURIE MỘT ĐỜI HY SINH CHO KHOA HỌC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thế Tài",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>...Nhân loại dĩ nhiên cần những con người thực tế biết thu đạt tối đa quyền lợi từ việc làm của mình và biết bảo toàn lợi ích riêng mà không quên quyền lợi chung. Nhưng nhân loại cũng cần những con người biết mơ mộng biết đeo đuổi những công trình mà kết qủa bất vụ lợi đã làm họ say đắm và khiến họ không thể nghĩ đến lợi lộc vật chất riêng tư. Về Marie Curie Viết về Marie Curie là viết về một người phụ nữ phi thường, một nữ khoa học gia nổi tiếng đầu thế kỷ XX. Cuộc đời bà là một chuỗi những thử thách, những chịu đựng, gian nan. Sinh ra và lớn lên trong điều kiện khó khăn, trải qua tuổi niên thiếu với biết bao gian khổ nhưng với ý chí kiên cường, lòng quả cảm và trí thông minh, bà đã thực hiện được hoài bão của mình. Công lao vĩ đại của bà đã được khoa học ghi nhận qua 2 giải Nobel năm 1903 (Vật lý) và năm 1911 (Hóa học), và nước Pháp đã đời đời tôn vinh bà qua việc chuyển hài cốt của bà và phu quân vào Điện Panthéon năm 1995. Tất cả những điều đó tô điểm thêm bức tranh tuyệt mỹ về một người nữ bác học đã suốt đời tận tụy, nêu cao đức tính cần cù và hy sinh, vun trồng cho đóa hoa mang tên Khoa Học mãi mãi sáng chói trong vườn hoa nhân loại. Xin trân trọng giới thiệu!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_f7a0fa0e56cade923ecf12bcc595dc29.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_f7a0fa0e56cade923ecf12bcc595dc29.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7857-marie-curie-mot-doi-hy-sinh-cho-khoa-hoc-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7857-marie-curie-mot-doi-hy-sinh-cho-khoa-hoc-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

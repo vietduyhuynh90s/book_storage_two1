@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/11-loi-khuyen-cua-bill-gates-7858.html",
+    "title" : "11 LỜI KHUYÊN CỦA BILL GATES",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bill Gates",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Những thành công của Bill Gates, có lẽ không một ai là không biết tới: rời bỏ Đại học Harvard năm 20 tuổi, gia nhập ngành công nghệ phần mềm với hai bàn tay trắng, và trở thành tỷ phú trẻ nhất trong lịch sử vào năm 31 tuổi. Với “11 lời khuyên dành cho thế hệ trẻ của Bill Gate”, các bạn trẻ sẽ học được những bài học quan trọng về thái độ với cuộc sống và thành công.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_93532d92babb4c26d6d682187301ca3f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_93532d92babb4c26d6d682187301ca3f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7858-11-loi-khuyen-cua-bill-gates-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7858-11-loi-khuyen-cua-bill-gates-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

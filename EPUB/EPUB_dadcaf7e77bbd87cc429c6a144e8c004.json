@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bat-nha-tam-kinh-giang-giai-vo-thuong-niet-ban-1772.html",
+    "title" : "BÁT NHÃ TÂM KINH GIẢNG GIẢI VÔ THƯỢNG NIẾT BÀN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Sỹ Minh Tùng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Thêm một lần nữa, chúng tôi rất vinh dự được giới thiệu đến chư vị đọc giả, thính giả khắp nơi. Bộ sách tham luận mang tựa đề \" Vô Thượng Niết Bàn \" Của tác giả Lê Sỹ Minh Tùng. Phát hành năm đinh hợi 2007. Nhằm Phật Lịch 2553. Đây là bộ sách tham luận thứ ba, sau hai cuốn \" Phá Mê Khai Ngộ \" và \" Thanh Tịnh Tâm \" Cả ba bộ sách quí giá nầy, đều được sưu tầm và biên khảo, qua công án chiêm nghiệm và tìm cầu thật công phu khoa học sáng tỏ bằng một nhản thức tinh thông về đạo lý cứu độ nhiệm mầu của đức Thích Ca Mâu Ni Phật. Hai bộ sách và băng đọc nêu trên, Phát hành từ năm 2005 - 2006 đã được đông đảo quí chư vị thức giả, và Phật Tử xa gần đón nhận, với tất cả tấm lòng tìm cầu trân trọng, với những kết quả tinh tấn thật lạ thường. Bộ sách và băng đọc Vô Thượng Niết Bàn nầy, của tác giả Lê Sỹ Minh Tùng, qua giọng đọc của Nguyên Hà. Thêm một lần nữa, xin được hoan hi kính gởi đến các chư vị, bằng tất cả sự trân trọng cống hiến của tác giả và người đọc. Với tâm nguyện duy nhất là cầu mong sự trọn thành Phật Đạo sẽ đến với tất cả mọi người.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_dadcaf7e77bbd87cc429c6a144e8c004.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_dadcaf7e77bbd87cc429c6a144e8c004.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1772-bat-nha-tam-kinh-giang-giai-vo-thuong-niet-ban-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1772-bat-nha-tam-kinh-giang-giai-vo-thuong-niet-ban-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

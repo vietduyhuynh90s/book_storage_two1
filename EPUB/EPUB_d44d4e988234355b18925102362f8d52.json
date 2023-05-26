@@ -1,0 +1,197 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ma-quy-trong-the-gioi-ngay-nay-603.html",
+    "title" : "MA QUỶ TRONG THẾ GIỚI NGÀY NAY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Gm. Cristiani",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Một cuốn sách nói chuyện ma quỷ! Nhưng, Có ma, có quỷ thật không? Quỷ ám, quỷ nhập như thế nào? Những chuyện bùa ngải, thư ếm là thực hay hư? Tại sao Thiên Chúa để cho ma quỷ quấy nhiễu, hành hạ con người? Tất cả những thắc mắc trên đây đều được giải đáp, không phải bằng lý lẽ, nhưng bằng những câu truyện ly kì, kinh dị và khủng khiếp mà Đức Cha Cristiani sẽ thuật lại trong tác phẩm này. Đây là một cuốn sách đã được tiếp đón nồng nhiệt sau những tháng ngày đằng đẵng trông mong. Một cuốn sách gây ấn tượng mạnh, hấp dẫn lạ thường, đồng thời sinh nhiều lợi ích cho bất cứ độc giả nào đã một lần đọc qua...</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_d44d4e988234355b18925102362f8d52.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_d44d4e988234355b18925102362f8d52.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Phần Dẫn Nhập",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=3223",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:53:43 Chương 1: Ma Quỷ Quấy Nhiễu Thánh Gioan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=8578",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:22:58 Chương 2: Ma Quỷ Phá Rối Ở Lộ Đức (1858 - 1859)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=14545",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:02:25 Chương 3: Chứng Quỷ Nhập",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=17901",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:58:21 Chương 4: Antoine Gay Một Trường Hợp Quỷ Nhập Rất Đặc Biệt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=22681",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:18:01 Chương 5: Những Trường Hợp Quỷ Nhập Ở Thế Kỷ 19 Và 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=26919",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:28:39 Chương 6: Bị Quỷ Nhập Vì Bùa Ngải Một Câu Chuyện Kì Dị",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=30628",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:30:28 Chương 7: Một Vụ Thư Ếm Vào Giữa Thế Kỷ Xx",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=34121",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:28:41 Chương 8: Những Cảnh Trừ Quỷ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=38864",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:47:44 Chương 9: Sự Hiện Diện Của Satan Trong Thế Giới Ngày Nay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=42659",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:50:59 Chương 10: Chủ Nghĩa Satan Và Những Trò Chơi Của Satan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=46138",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:48:58 Chương 11: Một Vài Trạng Sư Của Lucifer",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=50448",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:00:48 Chương 12: Tâm Lý Của Satan",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Phần Dẫn Nhập",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=3223",
+    "title" : "00:53:43 Chương 1: Ma Quỷ Quấy Nhiễu Thánh Gioan",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=8578",
+    "title" : "02:22:58 Chương 2: Ma Quỷ Phá Rối Ở Lộ Đức (1858 - 1859)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=14545",
+    "title" : "04:02:25 Chương 3: Chứng Quỷ Nhập",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=17901",
+    "title" : "04:58:21 Chương 4: Antoine Gay Một Trường Hợp Quỷ Nhập Rất Đặc Biệt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=22681",
+    "title" : "06:18:01 Chương 5: Những Trường Hợp Quỷ Nhập Ở Thế Kỷ 19 Và 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=26919",
+    "title" : "07:28:39 Chương 6: Bị Quỷ Nhập Vì Bùa Ngải Một Câu Chuyện Kì Dị",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=30628",
+    "title" : "08:30:28 Chương 7: Một Vụ Thư Ếm Vào Giữa Thế Kỷ Xx",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=34121",
+    "title" : "09:28:41 Chương 8: Những Cảnh Trừ Quỷ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=38864",
+    "title" : "10:47:44 Chương 9: Sự Hiện Diện Của Satan Trong Thế Giới Ngày Nay",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=42659",
+    "title" : "11:50:59 Chương 10: Chủ Nghĩa Satan Và Những Trò Chơi Của Satan",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=46138",
+    "title" : "12:48:58 Chương 11: Một Vài Trạng Sư Của Lucifer",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/603-ma-quy-trong-the-gioi-ngay-nay-thuviensach.vn.mp3?t=50448",
+    "title" : "14:00:48 Chương 12: Tâm Lý Của Satan",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,605 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/papillon-nguoi-tu-kho-sai-13635.html",
+    "title" : "PAPILLON - NGƯỜI TÙ KHỔ SAI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Henri Charrière",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>.. Bị xử án đày khổ sai chung thân vì tội giết người căn cứ vào lời khai của một nhân chứng đã được công an gia công trước, Charriere quyết chí chuẩn bị vượt ngục ngay từ đầu. Anh quyết sống và thoát ra khỏi trại khổ sai để trả thù. Quyết tâm ấy đã làm cho anh có đủ sức mạnh chịu đựng mọi thử thách. Không có một mối nguy hiểm nào làm cho anh lùi bước, không có một phen thất bại ê chề nào làm cho anh nhụt chí. Nếu kể cả những mưu toan vượt ngục đã bị vỡ lở ngay từ khi đang chuẩn bị, Charriere, biệt hiệu Bươm Bướm, đã tổ chức cả thảy chín lần vượt ngục trước khi thành công và được nhận cư trú ở Venezuela như một công dân chính thức… Năm 1967, hơn ba mươi lăm năm sau khi anh bị bắt và hơn hai mươi năm sau khi anh trở thành công dân tự do của nước Venezuela, Henri Charriere, lúc bấy giờ đang túng thiếu vì mới bị phá sản, nhân đọc một cuốn hồi ký phiêu lưu đã đem lại cho nữ tác giả hàng triệu đồng, nảy ra ý viết lại những cuộc vượt ngục của bản thân. Anh nhờ bạn bè đánh máy theo lời anh kể rồi đem mười ba tập đánh máy ấy gửi cho nhà văn J. P. Castelnau nhờ ông giao cho một người nào biết viết văn viết lại cho thành một cuốn sách có thể xuất bản được. Castelnau đã không làm theo ý Charriere: ông cho in ngay chính bản thảo của Charriere, sau khi chữa lại một vài lỗi ngữ pháp và lỗi chính tả. Nhà văn biết rõ rằng không có một nhà văn chuyên nghiệp nào có thể có được cách kể chuyện sinh động và đầy cảm xúc chân thật, hồn nhiên của chính người đã sống qua những sự việc được kể. Sức hấp dẫn kỳ lạ của thiên tự sự sở dĩ có được chính là vì người kể dường như sống lại một lần nữa những sự việc thật đã xảy ra với đầy đủ những cảm xúc sâu đậm và mãnh liệt của mình lúc bấy giờ. Tâm hồn nhiệt thành của Charriere đã cho phép anh thực hiện được điều đó.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_07fd86ce3b0cac09277a67726e9e7717.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_07fd86ce3b0cac09277a67726e9e7717.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Papillon: Người Tù Khổ Sai - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=1729",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:28:49 Papillon: Người Tù Khổ Sai - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=3430",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:57:10 Papillon: Người Tù Khổ Sai - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=5103",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:25:03 Papillon: Người Tù Khổ Sai - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=6835",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:53:55 Papillon: Người Tù Khổ Sai - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=8567",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:22:47 Papillon: Người Tù Khổ Sai - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=10257",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:50:57 Papillon: Người Tù Khổ Sai - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=11984",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:19:44 Papillon: Người Tù Khổ Sai - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=13657",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:47:37 Papillon: Người Tù Khổ Sai - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=15320",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:15:20 Papillon: Người Tù Khổ Sai - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=16987",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:43:07 Papillon: Người Tù Khổ Sai - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=18683",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:11:23 Papillon: Người Tù Khổ Sai - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=20378",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:39:38 Papillon: Người Tù Khổ Sai - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=22093",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:08:13 Papillon: Người Tù Khổ Sai - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=23801",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:36:41 Papillon: Người Tù Khổ Sai - Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=25497",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:04:57 Papillon: Người Tù Khổ Sai - Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=27180",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:33:00 Papillon: Người Tù Khổ Sai - Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=28811",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:00:11 Papillon: Người Tù Khổ Sai - Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=30462",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:27:42 Papillon: Người Tù Khổ Sai - Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=32120",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:55:20 Papillon: Người Tù Khổ Sai - Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=33837",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:23:57 Papillon: Người Tù Khổ Sai - Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=35473",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:51:13 Papillon: Người Tù Khổ Sai - Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=37153",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:19:13 Papillon: Người Tù Khổ Sai - Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=38798",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:46:38 Papillon: Người Tù Khổ Sai - Phần 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=40456",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:14:16 Papillon: Người Tù Khổ Sai - Phần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=42145",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:42:25 Papillon: Người Tù Khổ Sai - Phần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=43825",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:10:25 Papillon: Người Tù Khổ Sai - Phần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=45518",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:38:38 Papillon: Người Tù Khổ Sai - Phần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=47193",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:06:33 Papillon: Người Tù Khổ Sai - Phần 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=48802",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:33:22 Papillon: Người Tù Khổ Sai - Phần 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=50516",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:01:56 Papillon: Người Tù Khổ Sai - Phần 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=52202",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:30:02 Papillon: Người Tù Khổ Sai - Phần 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=53838",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:57:18 Papillon: Người Tù Khổ Sai - Phần 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=55383",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:23:03 Papillon: Người Tù Khổ Sai - Phần 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=57090",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:51:30 Papillon: Người Tù Khổ Sai - Phần 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=58769",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:19:29 Papillon: Người Tù Khổ Sai - Phần 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=60480",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:48:00 Papillon: Người Tù Khổ Sai - Phần 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=62184",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:16:24 Papillon: Người Tù Khổ Sai - Phần 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=63872",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:44:32 Papillon: Người Tù Khổ Sai - Phần 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=65526",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:12:06 Papillon: Người Tù Khổ Sai - Phần 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=67210",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:40:10 Papillon: Người Tù Khổ Sai - Phần 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=68896",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:08:16 Papillon: Người Tù Khổ Sai - Phần 42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=70560",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:36:00 Papillon: Người Tù Khổ Sai - Phần 43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=72222",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:03:42 Papillon: Người Tù Khổ Sai - Phần 44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=73873",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:31:13 Papillon: Người Tù Khổ Sai - Phần 45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=75549",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:59:09 Papillon: Người Tù Khổ Sai - Phần 46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=77193",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:26:33 Papillon: Người Tù Khổ Sai - Phần Cuối",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Papillon: Người Tù Khổ Sai - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=1729",
+    "title" : "00:28:49 Papillon: Người Tù Khổ Sai - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=3430",
+    "title" : "00:57:10 Papillon: Người Tù Khổ Sai - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=5103",
+    "title" : "01:25:03 Papillon: Người Tù Khổ Sai - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=6835",
+    "title" : "01:53:55 Papillon: Người Tù Khổ Sai - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=8567",
+    "title" : "02:22:47 Papillon: Người Tù Khổ Sai - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=10257",
+    "title" : "02:50:57 Papillon: Người Tù Khổ Sai - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=11984",
+    "title" : "03:19:44 Papillon: Người Tù Khổ Sai - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=13657",
+    "title" : "03:47:37 Papillon: Người Tù Khổ Sai - Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=15320",
+    "title" : "04:15:20 Papillon: Người Tù Khổ Sai - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=16987",
+    "title" : "04:43:07 Papillon: Người Tù Khổ Sai - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=18683",
+    "title" : "05:11:23 Papillon: Người Tù Khổ Sai - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=20378",
+    "title" : "05:39:38 Papillon: Người Tù Khổ Sai - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=22093",
+    "title" : "06:08:13 Papillon: Người Tù Khổ Sai - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=23801",
+    "title" : "06:36:41 Papillon: Người Tù Khổ Sai - Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=25497",
+    "title" : "07:04:57 Papillon: Người Tù Khổ Sai - Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=27180",
+    "title" : "07:33:00 Papillon: Người Tù Khổ Sai - Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=28811",
+    "title" : "08:00:11 Papillon: Người Tù Khổ Sai - Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=30462",
+    "title" : "08:27:42 Papillon: Người Tù Khổ Sai - Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=32120",
+    "title" : "08:55:20 Papillon: Người Tù Khổ Sai - Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=33837",
+    "title" : "09:23:57 Papillon: Người Tù Khổ Sai - Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=35473",
+    "title" : "09:51:13 Papillon: Người Tù Khổ Sai - Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=37153",
+    "title" : "10:19:13 Papillon: Người Tù Khổ Sai - Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=38798",
+    "title" : "10:46:38 Papillon: Người Tù Khổ Sai - Phần 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=40456",
+    "title" : "11:14:16 Papillon: Người Tù Khổ Sai - Phần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=42145",
+    "title" : "11:42:25 Papillon: Người Tù Khổ Sai - Phần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=43825",
+    "title" : "12:10:25 Papillon: Người Tù Khổ Sai - Phần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=45518",
+    "title" : "12:38:38 Papillon: Người Tù Khổ Sai - Phần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=47193",
+    "title" : "13:06:33 Papillon: Người Tù Khổ Sai - Phần 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=48802",
+    "title" : "13:33:22 Papillon: Người Tù Khổ Sai - Phần 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=50516",
+    "title" : "14:01:56 Papillon: Người Tù Khổ Sai - Phần 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=52202",
+    "title" : "14:30:02 Papillon: Người Tù Khổ Sai - Phần 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=53838",
+    "title" : "14:57:18 Papillon: Người Tù Khổ Sai - Phần 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=55383",
+    "title" : "15:23:03 Papillon: Người Tù Khổ Sai - Phần 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=57090",
+    "title" : "15:51:30 Papillon: Người Tù Khổ Sai - Phần 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=58769",
+    "title" : "16:19:29 Papillon: Người Tù Khổ Sai - Phần 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=60480",
+    "title" : "16:48:00 Papillon: Người Tù Khổ Sai - Phần 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=62184",
+    "title" : "17:16:24 Papillon: Người Tù Khổ Sai - Phần 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=63872",
+    "title" : "17:44:32 Papillon: Người Tù Khổ Sai - Phần 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=65526",
+    "title" : "18:12:06 Papillon: Người Tù Khổ Sai - Phần 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=67210",
+    "title" : "18:40:10 Papillon: Người Tù Khổ Sai - Phần 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=68896",
+    "title" : "19:08:16 Papillon: Người Tù Khổ Sai - Phần 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=70560",
+    "title" : "19:36:00 Papillon: Người Tù Khổ Sai - Phần 43",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=72222",
+    "title" : "20:03:42 Papillon: Người Tù Khổ Sai - Phần 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=73873",
+    "title" : "20:31:13 Papillon: Người Tù Khổ Sai - Phần 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=75549",
+    "title" : "20:59:09 Papillon: Người Tù Khổ Sai - Phần 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13635-papillon-nguoi-tu-kho-sai-thuviensach.vn.mp3?t=77193",
+    "title" : "21:26:33 Papillon: Người Tù Khổ Sai - Phần Cuối",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
