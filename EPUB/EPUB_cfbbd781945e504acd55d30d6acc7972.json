@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-13970.html",
+    "title" : "KHÔNG TIẾC THỜI GIAN - DÀNH CẢ THANH XUÂN ĐỂ YÊU NGƯỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Khi ta yêu một người, thứ quý giá nhất mà ta có thể dành cho họ là thời gian. Bởi khi bạn dành thời gian cho ai đó, tức là bạn đã dành một phần cuộc đời mình cho họ và không thể lấy lại được. Mình thường nghe nhiều người tiếc nuối về thanh xuân đã qua. Dành cả thanh xuân để yêu một người, đến cuối cùng lại chẳng thể chung đôi, liệu có đáng hay không? Có lẽ, điều mà chúng ta làm, không có đáng hay không đáng, chỉ là tình nguyện hay không tình nguyện. Bạn có từng dành cả thanh xuân để yêu ai đó chưa? Liệu bạn có thể yêu một người đến nỗi không tiếc thời gian bên họ, dù đoạn tình ấy có trọn vẹn hay không?</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_cfbbd781945e504acd55d30d6acc7972.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_cfbbd781945e504acd55d30d6acc7972.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Một Tiếng Gọi Cho Tôi Cảm Giác Ấm Lòng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=1233",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:20:33 Thương Là Thương Thế Thôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=2427",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:40:27 Ngược Dòng Đừng Quay Lưng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=4005",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:06:45 Chỉ Tại Thời Gian Quá Thật Thà",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=4635",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:17:15 Gặp Lại Nhưng Không Thể Bước Tiếp Cùng Nhau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=5433",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:30:33 Anh Chưa Từng Hỏi Em Cần Gì",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=6123",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:42:03 Em Có Còn Tin Vào Duyên Phận Không",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=7562",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:06:02 Dù Qua Bao Nhiêu Lần 10 Năm Chúng Ta Vẫn Bỏ Lỡ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=8845",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:27:25 Không Phải Bỏ Lỡ, Chúng Ta Từ Đầu Đã Không Thuộc Về Nhau",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=9759",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:42:39 Khoảng Cách Giữa Chúng Ta Không Thu Hẹp Được Nữa Rồi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=10463",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:54:23 Đừng Yêu Ai Đó Quá Nhiều Và Đợi Chờ Người Tình Quá Lâu",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Một Tiếng Gọi Cho Tôi Cảm Giác Ấm Lòng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=1233",
+    "title" : "00:20:33 Thương Là Thương Thế Thôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=2427",
+    "title" : "00:40:27 Ngược Dòng Đừng Quay Lưng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=4005",
+    "title" : "01:06:45 Chỉ Tại Thời Gian Quá Thật Thà",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=4635",
+    "title" : "01:17:15 Gặp Lại Nhưng Không Thể Bước Tiếp Cùng Nhau",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=5433",
+    "title" : "01:30:33 Anh Chưa Từng Hỏi Em Cần Gì",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=6123",
+    "title" : "01:42:03 Em Có Còn Tin Vào Duyên Phận Không",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=7562",
+    "title" : "02:06:02 Dù Qua Bao Nhiêu Lần 10 Năm Chúng Ta Vẫn Bỏ Lỡ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=8845",
+    "title" : "02:27:25 Không Phải Bỏ Lỡ, Chúng Ta Từ Đầu Đã Không Thuộc Về Nhau",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=9759",
+    "title" : "02:42:39 Khoảng Cách Giữa Chúng Ta Không Thu Hẹp Được Nữa Rồi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13970-khong-tiec-thoi-gian-danh-ca-thanh-xuan-de-yeu-nguoi-thuviensach.vn.mp3?t=10463",
+    "title" : "02:54:23 Đừng Yêu Ai Đó Quá Nhiều Và Đợi Chờ Người Tình Quá Lâu",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
