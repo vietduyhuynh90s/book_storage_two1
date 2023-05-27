@@ -1,0 +1,545 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bich-huyet-kiem-13590.html",
+    "title" : "BÍCH HUYẾT KIẾM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kim Dung",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bích huyết kiếm là một tiểu thuyết võ hiệp của nhà văn Kim Dung, được đăng lần đầu tiên trên Hương Cảng thương báo từ ngày 1 tháng 1 năm 1956 đến ngày 31 tháng 12 năm 1956. Một số nhân vật trong Bích huyết kiếm cũng xuất hiện trong Lộc Đỉnh ký. Vào cuối thời nhà Minh (1630-1644), đại tướng Viên Sùng Hoán bị cáo buộc tư thông với ngoại phiên và bị hoàng đế Sùng Trinh xử tử. Con trai Viên Sùng Hoán là Viên Thừa Chí được đưa lên núi Hoa Sơn và được Mục Nhân Thanh truyền thụ võ nghệ. Trên núi Hoa Sơn, Viên Thừa Chí tình cờ phát hiện ra Kim xà kiếm và Kim xà bí kíp - di vật của Kim xà lang quân Hạ Tuyết Nghi và học được kiếm thuật vô địch của Hạ Tuyết Nghi. Sau đó Viên Thừa Chí gặp được Hạ Thanh Thanh, con gái của Hạ Tuyết Nghi và Ôn Nghi. Hạ Thanh Thanh đã đi theo Viên Thừa Chí sau đó bị đuổi khỏi nhà, hai người yêu nhau. Để trả thù cho cha mình, Viên Thừa Chí gia nhập lực lượng khởi nghĩa do Sấm vương Lý Tự Thành lãnh đạo nhằm lật đổ triều đình nhà Minh. Viên Thừa Chí giúp nghĩa quân lấy lại số vàng đã bị gia đình họ Ôn lấy cắp, cùng với Thanh Thanh khám phá ra kho báu ở Nam Kinh và dùng nó để cung cấp cho nghĩa quân. Nhiều nghĩa sĩ giang hồ đã kết bạn và cam nguyện trung thành với Viên Thừa Chí khi biết chàng là con trai Viên Sùng Hoán. Họ suy tôn Viên Thừa Chí thành minh chủ của 7 tỉnh, tổ chức thành nghĩa quân nhằm bảo vệ đất nước trước sự xâm lược của quân Mãn Châu phía bắc.*** Đây là bản in năm 2004 của NXB Văn học, dịch giả Đông Hải. Bản này in theo bản sửa lần thứ ba năm 2002 của tác giả, với một số thay đổi về tình cảm giữa các nhân vật trong tác phẩm.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_f32dc193e33e3986a87935e3096c318b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_f32dc193e33e3986a87935e3096c318b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Bích Huyết Kiếm - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=3320",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:55:20 Bích Huyết Kiếm - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=6574",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:49:34 Bích Huyết Kiếm - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=9786",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:43:06 Bích Huyết Kiếm - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=13144",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:39:04 Bích Huyết Kiếm - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=16536",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:35:36 Bích Huyết Kiếm - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=19828",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:30:28 Bích Huyết Kiếm - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=23089",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:24:49 Bích Huyết Kiếm - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=26399",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:19:59 Bích Huyết Kiếm - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=29609",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:13:29 Bích Huyết Kiếm - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=32910",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:08:30 Bích Huyết Kiếm - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=36216",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:03:36 Bích Huyết Kiếm - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=39423",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:57:03 Bích Huyết Kiếm - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=42742",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:52:22 Bích Huyết Kiếm - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=45952",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:45:52 Bích Huyết Kiếm - Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=58944",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:22:24 Bích Huyết Kiếm - Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=62182",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:16:22 Bích Huyết Kiếm - Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=65424",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:10:24 Bích Huyết Kiếm - Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=68721",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:05:21 Bích Huyết Kiếm - Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=63254",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:34:14 Bích Huyết Kiếm - Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=66494",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:28:14 Bích Huyết Kiếm - Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=69734",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:22:14 Bích Huyết Kiếm - Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=72974",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:16:14 Bích Huyết Kiếm - Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=76214",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:10:14 Bích Huyết Kiếm - Phần 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=79454",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:04:14 Bích Huyết Kiếm - Phần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=82694",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "22:58:14 Bích Huyết Kiếm - Phần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=85994",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:53:14 Bích Huyết Kiếm - Phần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=89234",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24:47:14 Bích Huyết Kiếm - Phần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=92534",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "25:42:14 Bích Huyết Kiếm - Phần 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=95654",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "26:34:14 Bích Huyết Kiếm - Phần 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=98894",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "27:28:14 Bích Huyết Kiếm - Phần 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=102074",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "28:21:14 Bích Huyết Kiếm - Phần 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=105434",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "29:17:14 Bích Huyết Kiếm - Phần 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=108734",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "30:12:14 Bích Huyết Kiếm - Phần 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=112094",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "31:08:14 Bích Huyết Kiếm - Phần 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=115454",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "32:04:14 Bích Huyết Kiếm - Phần 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=118754",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "32:59:14 Bích Huyết Kiếm - Phần 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=122114",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "33:55:14 Bích Huyết Kiếm - Phần 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=125474",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "34:51:14 Bích Huyết Kiếm - Phần 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=128714",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "35:45:14 Bích Huyết Kiếm - Phần 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=132434",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "36:47:14 Bích Huyết Kiếm - Phần 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=136034",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "37:47:14 Bích Huyết Kiếm - Phần Cuối",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Bích Huyết Kiếm - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=3320",
+    "title" : "00:55:20 Bích Huyết Kiếm - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=6574",
+    "title" : "01:49:34 Bích Huyết Kiếm - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=9786",
+    "title" : "02:43:06 Bích Huyết Kiếm - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=13144",
+    "title" : "03:39:04 Bích Huyết Kiếm - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=16536",
+    "title" : "04:35:36 Bích Huyết Kiếm - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=19828",
+    "title" : "05:30:28 Bích Huyết Kiếm - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=23089",
+    "title" : "06:24:49 Bích Huyết Kiếm - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=26399",
+    "title" : "07:19:59 Bích Huyết Kiếm - Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=29609",
+    "title" : "08:13:29 Bích Huyết Kiếm - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=32910",
+    "title" : "09:08:30 Bích Huyết Kiếm - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=36216",
+    "title" : "10:03:36 Bích Huyết Kiếm - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=39423",
+    "title" : "10:57:03 Bích Huyết Kiếm - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=42742",
+    "title" : "11:52:22 Bích Huyết Kiếm - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=45952",
+    "title" : "12:45:52 Bích Huyết Kiếm - Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=58944",
+    "title" : "16:22:24 Bích Huyết Kiếm - Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=62182",
+    "title" : "17:16:22 Bích Huyết Kiếm - Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=65424",
+    "title" : "18:10:24 Bích Huyết Kiếm - Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=68721",
+    "title" : "19:05:21 Bích Huyết Kiếm - Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=63254",
+    "title" : "17:34:14 Bích Huyết Kiếm - Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=66494",
+    "title" : "18:28:14 Bích Huyết Kiếm - Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=69734",
+    "title" : "19:22:14 Bích Huyết Kiếm - Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=72974",
+    "title" : "20:16:14 Bích Huyết Kiếm - Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=76214",
+    "title" : "21:10:14 Bích Huyết Kiếm - Phần 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=79454",
+    "title" : "22:04:14 Bích Huyết Kiếm - Phần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=82694",
+    "title" : "22:58:14 Bích Huyết Kiếm - Phần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=85994",
+    "title" : "23:53:14 Bích Huyết Kiếm - Phần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=89234",
+    "title" : "24:47:14 Bích Huyết Kiếm - Phần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=92534",
+    "title" : "25:42:14 Bích Huyết Kiếm - Phần 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=95654",
+    "title" : "26:34:14 Bích Huyết Kiếm - Phần 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=98894",
+    "title" : "27:28:14 Bích Huyết Kiếm - Phần 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=102074",
+    "title" : "28:21:14 Bích Huyết Kiếm - Phần 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=105434",
+    "title" : "29:17:14 Bích Huyết Kiếm - Phần 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=108734",
+    "title" : "30:12:14 Bích Huyết Kiếm - Phần 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=112094",
+    "title" : "31:08:14 Bích Huyết Kiếm - Phần 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=115454",
+    "title" : "32:04:14 Bích Huyết Kiếm - Phần 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=118754",
+    "title" : "32:59:14 Bích Huyết Kiếm - Phần 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=122114",
+    "title" : "33:55:14 Bích Huyết Kiếm - Phần 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=125474",
+    "title" : "34:51:14 Bích Huyết Kiếm - Phần 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=128714",
+    "title" : "35:45:14 Bích Huyết Kiếm - Phần 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=132434",
+    "title" : "36:47:14 Bích Huyết Kiếm - Phần 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/13590-bich-huyet-kiem-thuviensach.vn.mp3?t=136034",
+    "title" : "37:47:14 Bích Huyết Kiếm - Phần Cuối",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

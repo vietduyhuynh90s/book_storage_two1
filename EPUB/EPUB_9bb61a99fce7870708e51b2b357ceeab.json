@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/con-duong-chuyen-hoa-91.html",
+    "title" : "CON ĐƯỜNG CHUYỂN HÓA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Kinh Bốn Lĩnh Vực Quán Niệm (Tụng bản I)... 4 Chút ít lịch sử... 20 Đại ý, tên kinh và nội dung... 24 Đại ý kinh... 24 Về tên kinh. 24 Phân tích nội dung kinh... 25 Phương pháp hành trì... 27 Quán chiếu thân thể... 27 Bài tập 1: Thở có ý thức...28 Bài tập 2: Theo dõi hơi thở trong suốt chiều dài của nó..30 Bài tập 3: Hợp nhất thân và tâm lại thành một toàn thể có hoà điệu...31 Bài tập 4: Dùng hơi thở để thực hiện sự an tịnh trong toàn thân.33 Bài tập 5: Quán chiếu để có ý thức về những tư thế của cơ thể.35 Bài tập 6: Quán chiếu để có ý thức về những động tác của cơ thể..36 Bài tập 7: Tiếp xúc sâu sắc hơn nữa với cơ thể..37 Bài tập 8: Những liên hệ duyên sinh giữa cơ thể và vạn hữu vũ trụ...39 Bài tập 9: Tính cách vô thường và chắc chắn phải tàn hoại của cơ thể...40 Bài tập 10: Tạo ra sự thoải mái và an lạc trong thân tâm để chữa trị...47 Bài tập 11: Tiếp xúc và nhận diện những cảm giác.50 Quán chiếu cảm thọ. 52 Bài tập 12: Gốc rễ và bản chất của những cảm thọ.52 Quán chiếu tâm ý.. 58 Bài tập 13: Quán chiếu về tâm hành tham dục..59 Bài tập 14: Quán chiếu về cái giận..61 Bài tập 15: Từ bi quán...67 Quán niệm đối tượng tâm ý.. 73 Bài tập 16: Đối trị nhận thức sai lầm..73 Bài tập 17: Sự phát sinh, tồn tại và chuyển hoá của những nội kết...78 Bài tập 18: Tiếp xúc, chuyển hoá những nội kết bị chôn vùi và đè nén..80 Bài tập 19: Đối trị mặc cảm tội lỗi và sự sợ hãi..85 Bài tập 20: Gieo trồng, tưới tẩm những hạt giống an lạc giải thoát...87 3 | Kinh Bốn Lĩnh Vực Quán Niệm (Tụng bản I) Những nguyên tắc làm căn bản cho phép hành trì Kinh Bốn Lãnh Vực Quán Niệm. 92 01. Pháp là tâm... 92 02. Quán chiếu là trở thành một với đối tượng quán chiếu. 93 03. Chân tâm cùng một thể với vọng tâm... 94 04. Con đường Từ hoà... 96 05. Quán chiếu không phải là nhồi sọ. 99 Đối chiếu sơ lược các tụng bản. 101 01. Về phần thứ nhất của kinh.. 102 02. Về phần thứ hai của kinh.. 104 03. Về phần thứ ba của kinh... 106 04. Về phần thứ tư của kinh... 107 05. Về phần thứ năm của kinh.. 107 06. Về phần thứ sáu của kinh. 108 Kinh Niệm Xứ (Tụng bản II).. 109 Kinh Con Đường Vào Duy Nhất (Tụng bản III). 119</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_9bb61a99fce7870708e51b2b357ceeab.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_9bb61a99fce7870708e51b2b357ceeab.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/91-con-duong-chuyen-hoa-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/91-con-duong-chuyen-hoa-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

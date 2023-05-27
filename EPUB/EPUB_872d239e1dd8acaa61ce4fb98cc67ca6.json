@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/em-thuong-anh-anh-thuong-ai-13942.html",
+    "title" : "EM THƯƠNG ANH ANH THƯƠNG AI?",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Từ trong góc lấy ra cây đàn ghi ta năm đó, tôi đàn lấy một bài Cố hương. Năm đó, có một người vì tôi đàn hát, có một người vì tôi vui sướng hằng ngày, có một người vì tôi chợt buồn chợt khóc... Bây giờ, tôi chỉ còn lại một mình. Nhưng đây là sự lựa chọn của tôi. Mỗi người khi đã lựa chọn điều gì đó, dù đúng hay sai, xin đừng hối hận, hãy có trách nhiệm về sự lựa chọn của mình, vì mình đã đi qua, cố gắng cũng như đã trả giá nhiều thứ vì nó. Cho nên... Dù tình chưa dứt cũng hãy học cách buông tay.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_872d239e1dd8acaa61ce4fb98cc67ca6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_872d239e1dd8acaa61ce4fb98cc67ca6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13942-em-thuong-anh-anh-thuong-ai-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13942-em-thuong-anh-anh-thuong-ai-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

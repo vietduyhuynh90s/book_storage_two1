@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhan-thong-250.html",
+    "title" : "NHÃN THÔNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "C. W. Leadbeater",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC CHƯƠNG I NHÃN THÔNG LÀ GÌ? CHƯƠNG II NHÃN THÔNG ĐƠN GIẢN - TOÀN PHẦN CHƯƠNG III NHÃN THÔNG ĐƠN GIẢN - TỪNG PHẦN (Simple clairvoyance - partial) CHƯƠNG IV NHÃN THÔNG TRONG KHÔNG GIAN - CÓ CHỦ TÂM CHƯƠNG V NHÃN THÔNG TRONG KHÔNG GIAN - CÓ MỘT PHẦN CHỦ TÂM CHƯƠNG VI NHÃN THÔNG TRONG KHÔNG GIAN - KHÔNG CHỦ TÂM CHƯƠNG VII NHÃN THÔNG TRONG THỜI GIAN - THỜI QUÁ KHỨ CHƯƠNG VIII NHÃN THÔNG TRONG THỜI GIAN - THỜI TƯƠNG LAI CHƯƠNG IX PHƯƠNG PHÁP KHAI MỞ HỘI THÔNG THIÊN HỌC CÓ BA MỤC ĐÍCH CHÂN THÀNH TRI ÂN</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_d3397c4cd54a6bf995d5bf946d29ac5a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_d3397c4cd54a6bf995d5bf946d29ac5a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/250-nhan-thong-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/250-nhan-thong-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

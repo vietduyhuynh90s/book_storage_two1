@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/doi-thay-doi-khi-chung-ta-thay-doi-tap-5-1126.html",
+    "title" : "ĐỜI THAY ĐỔI KHI CHÚNG TA THAY ĐỔI - TẬP 5",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Andrew Matthews",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Bộ sách Đời Thay Đổi Khi Chúng Ta Thay Đổi của tác giả Andrew Matthews đã bán được hàng triệu bản - bằng 33 thứ tiếng và ở 60 quốc gia. Andrew Matthews còn là một diễn giả được yêu chuộng trên khắp thế giới. Trong khi diễn thuyết ông còn vẽ cả tranh minh họa nữa! Chỉ với một cách nhìn nhận khác hẳn mà cuộc đời một người thay đổi: từ chỗ bi quan, tưởng chừng mọi thứ đã kết thúc, sang chỗ lạc quan, có thể sẵn sàng bắt tay làm lại từ đầu… Sự việc thì vẫn thế, chỉ có cách nhìn của chúng ta là thay đổi và thế là cuộc đời cũng thay đổi theo… Trong cuốn sách này bạn sẽ học cách để nhìn nhận cuộc đời, chấp nhận cuộc đời và thay đổi cuộc đời để là người hạnh phúc và thành đạt! Quyển sách này nói về… + Hiểu được bản thân + Biết khôi hài về bản thân + Trở nên suôn sẻ thuận lợi + Biết tha thứ cho bản thân Quyển sách cũng bàn về việc nhận thức được các quy luật tự nhiên để chúng ta có thể điều chỉnh bản tính chúng ta tốt hơn. - Đây là quyển sách nói về làm thế nào để được hạnh phúc. - Đời thay đổi khi chúng ta thay đổi - Hạnh phúc được tìm thấy bất chấp rắc rối! - Quyển sách này có thể làm thay đổi cuộc đời bạn! Andrew Matthews còn là một diễn giả được yêu chuộng trên khắp thế giới. Trong khi diễn thuyết ông còn vẽ cả tranh minh họa nữa! Nếu bạn đang chịu dựng bi kịch cá nhân hay tổn thương nghiêm trọng trong đời, thì cuốn sách này có thể là chưa đủ. Nhưng nó có thể giúp bạn đối mặt với những thách thức trong cuộc sống hằng ngày. Bạn cảm thấy thế giới hiện tại không phù hợp với mình, bạn không thể sống hạnh phúc với nó. Bạn muốn thay đổi thế giới để cho phù hợp với chính bạn. Không! Đừng bao giờ tìm cách thay đổi thế giới, đó là điều không một cá nhân nào làm được. Nếu bạn muốn sống hạnh phúc trong thế giới này, hãy thay đổi chính mình cho phù hợp với nó. Và cuốn sách: “ Đời thay đổi khi chúng ta thay đổi ” của tác giả Andrew Matthews sẽ giúp cho bạn làm điều đó. Bộ sách “Đời Thay Đổi Khi Chúng Ta Thay Đổi” có tổng cộng 6 quyển (6 tập), với tên nguyên bản như sau: 1. Being Happy 2. Making Friends 3. Follow your heart 4. Being a happy teenager 5. Hapiness in a nutshell 6. Hapiness now</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_5f7cbfbd39fcc48b0a178bcec6135f55.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_5f7cbfbd39fcc48b0a178bcec6135f55.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1126-doi-thay-doi-khi-chung-ta-thay-doi-tap-5-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1126-doi-thay-doi-khi-chung-ta-thay-doi-tap-5-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

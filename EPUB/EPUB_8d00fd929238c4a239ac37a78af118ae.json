@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hanh-trang-quan-trong-nhat-cua-cuoc-doi-moi-nguoi-chinh-la-trai-tim-yeu-thuong-13912.html",
+    "title" : "HÀNH TRANG QUAN TRỌNG NHẤT CỦA CUỘC ĐỜI MỖI NGƯỜI CHÍNH LÀ TRÁI TIM YÊU THƯƠNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Người ta vẫn nói dài nhất là cuộc đời, nhưng ngắn nhất cũng là cuộc đời. 60 năm, 70 năm hay hơn 100 năm đi chăng nữa, liệu có mấy ai dám tự tin nói rằng mình sống tốt mỗi ngày, rằng mình không làm điều gì hổ thẹn với lương tâm. Bởi thế mới nói, hành trang quan trọng nhất của cuộc đời mỗi người chính là trái tim yêu thương, là đủ rồi bạn ạ. Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_8d00fd929238c4a239ac37a78af118ae.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_8d00fd929238c4a239ac37a78af118ae.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13912-hanh-trang-quan-trong-nhat-cua-cuoc-doi-moi-nguoi-chinh-la-trai-tim-yeu-thuong-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13912-hanh-trang-quan-trong-nhat-cua-cuoc-doi-moi-nguoi-chinh-la-trai-tim-yeu-thuong-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

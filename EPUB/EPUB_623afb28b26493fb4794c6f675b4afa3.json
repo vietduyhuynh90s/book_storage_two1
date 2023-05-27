@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mat-ma-tay-tang-tap-10-47.html",
+    "title" : "MẬT MÃ TÂY TẠNG - TẬP 10",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà mã",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC CHƯƠNG 70: Vạn Lang Chí Vương: Tử Kỳ Lân CHƯƠNG 71: Cấm địa của sói CHƯƠNG 72: Cánh cửa Chúng sinh CHƯƠNG 73: Dòng sông Phù sinh CHƯƠNG 74: Chào mừng đến với Bạc Ba La thần miếu! CHƯƠNG 75: Chúng thần Tây Tạng CHƯƠNG 76: Tây Tạng Vạn Phật các CHƯƠNG 77: Đến trung tâm thần miếu CHƯƠNG 78: Báu vật nhà Phật CHƯƠNG 79: Sự thật đáng sợ CHƯƠNG 80: Câu chuyện nghìn năm trước CHƯƠNG 81: Kết thúc bằng một tấm ảnh</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_623afb28b26493fb4794c6f675b4afa3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_623afb28b26493fb4794c6f675b4afa3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/47-mat-ma-tay-tang-tap-10-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/47-mat-ma-tay-tang-tap-10-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

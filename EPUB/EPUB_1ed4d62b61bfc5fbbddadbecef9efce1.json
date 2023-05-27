@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ban-tay-cung-la-hoa-83.html",
+    "title" : "BÀN TAY CŨNG LÀ HOA",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Mục lục Thế Lữ - Giây phút chạnh lòng... 3 Giây phút chạnh lòng.. 25 Thế Lữ (1907 - 1989). 27 Nguyễn Bính - Hành phương nam... 28 Hành phương nam. 58 Nguyễn Bính (1918 - 1966).. 59 Tống biệt hành.. 60 Nguyễn Bính - Hoa với rượu... 62 Hoa với rượu.. 80 Xuân tha hương... 84 Tản Đà - Thề non nước.. 88 Thề non nước. 97 Tản Đà (1888 - 1939). 98 Lưu Trọng Lư - Lẽ nào anh chết... 100 Nắng mới... 101 Sầu Rụng. 102 Tiếng Thu.. 102 Lẽ nào anh chết.. 118 Bài thơ cuối cùng.. 120 Lệnh truyền - Xuân Diệu và Thoát hình - Vũ Hoàng Chương.. 121 Lệnh truyền.. 123 Thoát hình. 137 Xuân Diệu (1916 - 1985).. 138 Vũ Hoàng Chương (1916 - 1976).. 138</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_1ed4d62b61bfc5fbbddadbecef9efce1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_1ed4d62b61bfc5fbbddadbecef9efce1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/83-ban-tay-cung-la-hoa-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/83-ban-tay-cung-la-hoa-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

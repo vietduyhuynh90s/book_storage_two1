@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/im-lang-la-mot-loai-tri-tue-mot-loai-canh-gioi-cao-cua-tu-duong-13916.html",
+    "title" : "IM LẶNG LÀ MỘT LOẠI TRÍ TUỆ, MỘT LOẠI CẢNH GIỚI CAO CỦA TU DƯỠNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Một lần, Washington đang cùng một người bạn da trắng đi trên đường. Khi họ đang vừa đi vừa trò chuyện thì Washington bị một người da trắng có tính thích khiêu khích và ngạo mạn cố ý dùng tay đẩy mạnh làm ông ngã xuống đất. Washington đứng dậy, lấy tay phủi bụi đất trên quần áo, không nói gì và trên nét mặt cũng không có vẻ gì là oán hận. Nhưng người bạn da trắng đi cùng ông thì vô cùng bất bình, tức giận nói: “Sao cậu có thể dễ dàng tha thứ cho kẻ đã bắt nạt cậu như thế được?” Washington bình tĩnh nhìn người bạn và nói: “Người nào muốn làm mình bực tức, mình sẽ không để người ấy làm được điều đó. Biện pháp tốt nhất chính là im lặng và không để ý đến họ!” Giọng đọc: Lan Phương</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_a2efc495d9229cec9bf14e999f68d5b7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_a2efc495d9229cec9bf14e999f68d5b7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13916-im-lang-la-mot-loai-tri-tue-mot-loai-canh-gioi-cao-cua-tu-duong-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13916-im-lang-la-mot-loai-tri-tue-mot-loai-canh-gioi-cao-cua-tu-duong-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

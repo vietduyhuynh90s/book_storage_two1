@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nen-nho-4-kieu-nguoi-nen-it-giao-du-trong-cuoc-doi-13913.html",
+    "title" : "NÊN NHỚ 4 KIỂU NGƯỜI NÊN ÍT GIAO DU TRONG CUỘC ĐỜI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Blog Radio",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Con người khi bước sang tuổi trung niên, sự nghiệp có thể nói là đang ở thời kỳ đỉnh cao nhất, gia đình cơ bản cũng đã an lạc. Đây là giai đoạn quan trọng không được lơ là, vậy nên đừng lãng phí thời gian, tình cảm cho những người không xứng đáng, bởi vì thời gian vô cùng quý báu, tình cảm càng đáng trân trọng. Giọng đọc: Titi</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-05-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_2f9ddacbd2bb0753ccacc01272522325.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_2f9ddacbd2bb0753ccacc01272522325.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13913-nen-nho-4-kieu-nguoi-nen-it-giao-du-trong-cuoc-doi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/13913-nen-nho-4-kieu-nguoi-nen-it-giao-du-trong-cuoc-doi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
