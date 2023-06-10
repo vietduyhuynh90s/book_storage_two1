@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/truyen-ngan-ngoi-sao-nho-14002.html",
+    "title" : "TRUYỆN NGẮN: NGÔI SAO NHỎ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Audio8X",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-10",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_17ab7a73b8b0fb6cb44d37b3d7384164.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_17ab7a73b8b0fb6cb44d37b3d7384164.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14002-truyen-ngan-ngoi-sao-nho-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Ngôi Sao Nhỏ (Phần 1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14002-truyen-ngan-ngoi-sao-nho-thuviensach.vn.mp3?t=456",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:07:36 Ngôi Sao Nhỏ (Phần 2)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14002-truyen-ngan-ngoi-sao-nho-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Ngôi Sao Nhỏ (Phần 1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14002-truyen-ngan-ngoi-sao-nho-thuviensach.vn.mp3?t=456",
+    "title" : "00:07:36 Ngôi Sao Nhỏ (Phần 2)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
