@@ -1,0 +1,468 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.nettruyento.com/truyen-tranh/the-gioi-ngoc-rong-hanh-tinh-nguc-tu-186400",
+    "title" : "Thế Giới Ngọc Rồng: Hành Tinh Ngục Tù - Chapter 14",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-12",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 15,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_c26ba876b7407e85e5f89fbf66f67e8a.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/001-a9e0d2d.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_e51d557f5485c9b664c9ce47b046eeb4.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/002-941340c.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_374cd43ecf060a0f17a728269d25a944.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/003-9754a45.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_c7cdc83fe01181fb207de26f71c978df.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/004-41d45e9.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_14850686946118382df9f9ce20856ff4.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/005-c27ff0e.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_be3acf484a29d3007993489d6daab4b1.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/006-8d6ecf9.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_e7b457aff73e93b0c81d71646d2e95a5.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/007-09aed4b.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_c669066eaa59e0bb6639b01d96b8ef69.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/008-0ce3fdf.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_3ffc804524abcc26228f4b16cb8ff96d.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/009-70408f7.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_0829c2810d6e18821cc7262887463e51.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/010-07591d7.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_a41070e33a3f88bb5b7beb36ec7c9a46.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/011-1d32016.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_ef70e7fa77184f7edac14379dc124783.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/012-759d62c.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_fc39dde5aa298cdf543ee74fe0c6b90f.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/013-2ba4deb.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_db3657eb7c5e702f6e21a6cadfea8f62.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/014-e4fbbe3.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_b7eafebbe4548f49fa638a4fc9341737.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/015-a9146af.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_29f0cc3f20d5d83152bef2b0fc1f73a6.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/016-3efae8b.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_fb705308f511bf05d5fb61c20b625e78.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/017-80bc602.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_153d13add8a310121f8d0b76c8f6c3e4.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/018-15af714.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_19213e54cab71ea00284d71f5a32b290.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/019-2c5a4e0.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_6fad310cb9dfccef857cfcfbf0ea4194.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/020-0fc4614.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_73bb442e2a272f49e8c52e1f7fb1a231.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/021-8cc6324.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_19b3d5943c32d74aafa443ffa1981594.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/022-a8d0fe7.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_7bfeee3d2c0e0197822722468dd705b0.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/023-d458a02.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_9cb0d2c08cdf0623f6708b69ee1a360f.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/024-25c89a8.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_7c2bc36adf30155d811fc45221b2d17d.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/025-fdd386d.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_9f078889f0766cfd0b8c363079969e15.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/026-89b80a2.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/comic_storage1/main/IMAGE/IMAGE_0cd23c94d80b7326207150187125e6e7_e9878a0c0a54686b8ff6e9c9ff57f228_331df1f928fa7a4041d5ac11159ed848.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null,
+    "alternate" : [ {
+      "href" : "https://i225.ntcdntempv26.com/data/images/18640/986048/027-d383f54.jpg?data=net",
+      "type" : "image/jpeg",
+      "bitrate" : 0,
+      "duration" : 0,
+      "title" : null,
+      "properties" : null,
+      "alternate" : null
+    } ]
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
