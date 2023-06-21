@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/lieu-pham-tu-huan_20406.html",
+    "title" : "Liễu Phàm Tứ Huấn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Viên Liễu Phàm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-21",
+    "duration" : 14562,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_5733a6d77d479c2c39896935eebf7813.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_5733a6d77d479c2c39896935eebf7813.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/lieu-pham-tu-huan-v2.sna/01.%20C01_LieuPhamTuHuan_Het.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7281,
+    "title" : "01. C01 LieuPhamTuHuan Het",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/lieu-pham-tu-huan-v2.sna/01._C01_LieuPhamTuHuan_Het.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7281,
+    "title" : "01. C01 LieuPhamTuHuan Het",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/lieu-pham-tu-huan-v2.sna/01.%20C01_LieuPhamTuHuan_Het.mp3",
+    "title" : "01. C01 LieuPhamTuHuan Het",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/lieu-pham-tu-huan-v2.sna/01._C01_LieuPhamTuHuan_Het.mp3",
+    "title" : "01. C01 LieuPhamTuHuan Het",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
