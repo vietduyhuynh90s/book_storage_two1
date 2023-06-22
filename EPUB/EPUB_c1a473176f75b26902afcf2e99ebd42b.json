@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/suc-manh-the-power-8622.html",
+    "title" : "SỨC MẠNH - THE POWER",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Rhonda Byrne",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trong cuốn sách này, tôi muốn giới thiệu tới bạn phương pháp để có một cuộc sống phi thường. Có rất nhiều điều bạn cần biết trong cuộc sống, và tất cả đều là những điều tốt đẹp. Thật ra, còn hơn cả tốt đẹp. Mọi thứ thật tuyệt diệu! Vốn dĩ cuộc sống vui vẻ và thoải mái hơn bạn nghĩ nhiều. Một khi hiểu được phương thức vận hành của đời sống, kết hợp với Sức mạnh bên trong, bạn sẽ được trải nghiệm một cuộc đời đủ đầy về mọi mặt - và khi đó, bạn sẽ được sống một cuộc sống phi thường! Và bây giờ, hãy để phép màu bắt đầu thay đổi cuộc đời bạn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_c1a473176f75b26902afcf2e99ebd42b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_c1a473176f75b26902afcf2e99ebd42b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8622-the-power-suc-manh-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8622-the-power-suc-manh-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

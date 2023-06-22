@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mot-nghe-thuat-song-14048.html",
+    "title" : "MỘT NGHỆ THUẬT SỐNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thu Giang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nếu không nhận thấy được cái Quý nơi trong mà chỉ thấy cái Quý nơi ngoài, cái loạn đã bắt đầu sanh ra nơi lòng mình rồi. Đã cho vật này là Quý là Đẹp, tất cũng phải có vật khác Quý hơn và Đẹp hơn. Và cứ nếu như thế mãi mà đi tìm… thì cái Quý, cái Đẹp không biết đâu là cùng mà lòng tham muốn của con người cũng không biết đến đâu là tận. Người ta thường lấy Vinh làm sướng, lấy Nhục làm khổ, mà chính mình phần đông cũng chưa ai biết sao là thật sướng, sao là thật khổ cả. Sướng, theo phần đông, là thấy mình hơn được người; - nhưng trái lại, khổ vì mình cũng còn thua kẻ khác. Thế thì có sướng gì đâu mà gọi là sướng. Chẳng qua sướng hơn kẻ khổ, khổ hơn kẻ sướng mà thôi. Thiên hạ tôn người hiền, trọng kẻ sĩ… chỉ tự mình xúi dục lòng tham lam tranh đấu của kẻ khác. Lão tử đã biết mà nói trước: “ bất kiến khả dục, sử dân tâm bất loạn.” Người ta, ai ai cũng vì hạnh phúc mà làm. Kẻ đi tìm bằng cách này, người đi tìm bằng cách kia, - tuy phương pháp có khác nhau, chung quy cũng chỉ vì ham sướng sợ khổ. ***** Tìm cái lẽ sống - cái sống thật của mình, không phải cái sống sai lầm của bản ngã - là phận sự duy nhất của mỗi một người chúng ta. Sống trong quan niệm lạc lầm của bản ngã, ta sống trong nô lệ, trong đau khổ. Sống trong chân thể của ta, mới thật là sống, sống trong tự do… Đường giải thoát là con đường dẫn ta đi tìm cái lẽ sống chân thật của ta, là con đường duy nhất của những ai nhận chân đặng cái sống vô cùng đang ẩn núp nơi đáy lòng… Thu Giang NGUYỄN DUY CẦN, Sài thành, ngày 22 tháng 5 năm 1960</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_a881ac478aa6bd7cb595983263598b61.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_a881ac478aa6bd7cb595983263598b61.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14048-mot-nghe-thuat-song-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Lời Nhà Xuất Bản",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14048-mot-nghe-thuat-song-thuviensach.vn.mp3?t=2728",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:45:28 Chương Thứ 6 - Cách Mạng Xã Hội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14048-mot-nghe-thuat-song-thuviensach.vn.mp3?t=4545",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:15:45 Chương Thứ 10 - Hành Động Của Kẻ Giải Thoát",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14048-mot-nghe-thuat-song-thuviensach.vn.mp3?t=5826",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:37:06 Phụ Lục - Sống Là Gì ?",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14048-mot-nghe-thuat-song-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Lời Nhà Xuất Bản",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14048-mot-nghe-thuat-song-thuviensach.vn.mp3?t=2728",
+    "title" : "00:45:28 Chương Thứ 6 - Cách Mạng Xã Hội",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14048-mot-nghe-thuat-song-thuviensach.vn.mp3?t=4545",
+    "title" : "01:15:45 Chương Thứ 10 - Hành Động Của Kẻ Giải Thoát",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14048-mot-nghe-thuat-song-thuviensach.vn.mp3?t=5826",
+    "title" : "01:37:06 Phụ Lục - Sống Là Gì ?",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

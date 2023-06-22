@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thong-reo-ngan-hong-14068.html",
+    "title" : "THÔNG REO NGÀN HỐNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thế Quang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nguyễn Công Trứ là một nhân vật lịch sử lỗi lạc, độc đáo, giàu cá tính bậc nhất trong lịch sử Việt Nam, là nguồn cảm hứng phong phú cho sáng tạo nghệ thuật. Nguyễn Thế Quang là một nhà văn viết tiểu thuyết lịch sử mới nổi. Sau cuốn tiểu thuyết Nguyễn Du, viết về đại thi hào dân tộc, được dư luận chú ý, ông viết tiếp cuốn Thông reo ngàn Hống này nói về cuộc đời Nguyễn Công Trứ. Về nhân vật Nguyễn Công Trứ, tác giả không chỉ khẳng định công lao nhiều mặt của nhân vật lịch sử, mà còn tái hiện một nhân cách cao thượng, trong sáng, tài năng lỗi lạc. Dù trải qua nhiều cảnh ngộ khó khăn, oan trái, ông vẫn một lòng trung quân, ái quốc, an dân. Nguyễn không chỉ là một ông quan giỏi, một nhà thơ tài hoa, mà còn một tài tử có tầm văn hóa lớn. Nguyễn là kẻ thích hành lạc, đa tình mà vẫn chung tình. Không phải ngẫu nhiên mà trong tiểu thuyết, bên cạnh Nguyễn Công Trứ còn có hình tượng những người phụ nữ tài hoa, đa tình mà cao thượng tuyệt đẹp. Nguyễn Thế Quang không tập trung vào các giai thoại, thái độ ngất ngưỡng, mà xoáy sâu vào tâm trạng, nỗi đau giằng xé của kẻ sỹ trước thời cuộc.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_c6ebfd512a815640145a282b8a42b0b9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_c6ebfd512a815640145a282b8a42b0b9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14068-thong-reo-ngan-hong-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Thông Reo Ngàn Hống (Tập 01)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14068-thong-reo-ngan-hong-thuviensach.vn.mp3?t=34886",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:41:26 Thông Reo Ngàn Hống (Tập 02)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14068-thong-reo-ngan-hong-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Thông Reo Ngàn Hống (Tập 01)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14068-thong-reo-ngan-hong-thuviensach.vn.mp3?t=34886",
+    "title" : "09:41:26 Thông Reo Ngàn Hống (Tập 02)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

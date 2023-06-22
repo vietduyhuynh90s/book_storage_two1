@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/suong-mu-thang-gieng-14067.html",
+    "title" : "SƯƠNG MÙ THÁNG GIÊNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Uông Triều",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Xoay quanh những mối quan hệ nhiều bất trắc của vương triều nhà Trần ở giai đoạn kháng chiến chống quân Nguyên Mông, tác giả đã xây dựng nên không khí một thời đại hào hùng của nước Đại Việt. Những nhân vật lịch sử như Trần Khánh Dư, công chúa Thiên Thụy, vua Trần Thánh Tông, Trần Nhân Tông hay Quốc công tiết chế Trần Hưng Đạo hiện lên với tâm tư, tình cảm của những con người cụ thể, họ mang những nỗi niềm của dòng tộc mâu thuẫn với lợi ích quốc gia, và thậm chí cả những sân si dục vọng của con người thông thường. Vì nguyên tắc đạo đức và rường mối triều chính, nhà vua phải trừng trị kẻ thông dâm với công chúa, nhưng vì xã tắc, nhà vua vẫn để tướng tài Trần Khánh Dư được sống để sau đó lập công chống giặc. Vì sự hưng vong của quốc gia, Hưng Đạo vương phải bỏ qua hiềm khích đời trước để phụng sự hai vua đánh thắng giặc hai lần. Cuốn tiểu thuyết đan xen giữa giọng điệu hào sảng của sử thi với những trang viết phản ánh nội tâm con người cá nhân, để kể về một thời đại con người vẫn chưa hoàn toàn lệ thuộc vào khuôn khổ Nho giáo cứng nhắc, thời nước Việt vẫn là của những người khảng khái, lẫm liệt mà đầy đam mê, khao khát.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_852e86fec9a946e54941e0e3c919c51e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_852e86fec9a946e54941e0e3c919c51e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14067-suong-mu-thang-gieng-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14067-suong-mu-thang-gieng-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

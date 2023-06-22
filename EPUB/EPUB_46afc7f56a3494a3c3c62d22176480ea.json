@@ -1,0 +1,269 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nguoi-hung-the-hero-7906.html",
+    "title" : "NGƯỜI HÙNG - THE HERO",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Rhonda Byrne",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Hãy tưởng tượng nếu có một tấm bản đồ chỉ cho bạn biết phải đi như thế nào từ chỗ của bạn hiện tạo đến cuộc sống rực rỡ, giàu có, trọn vẹn và chói lọi nhất mà bạn có thể mơ ước có được.Hãy tưởng tượng rằng nếu có một tấm bản đồ chỉ cho bạn mỗi bước đi trên hành trình đến cuộc sống, nhận ra mơ ước lớn nhất của bạn, làm sao để tìm ra cách vượt chướng ngại vật, vượt qua những thử thách, vượt qua những khó khăn và làm sao bạn có sẵn mọi khả năng và phẩm chất mạnh mẽ để chiến thắng trên hành trình của mình.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_46afc7f56a3494a3c3c62d22176480ea.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_46afc7f56a3494a3c3c62d22176480ea.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Lời Giới Thiệu Và Câu Chuyện",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=660",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:11:00 Phần Một: Giấc Mơ - Lời Kêu Gọi Phiêu Lưu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=1650",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:27:30 Phần Một: Giấc Mơ - Từ Chối Cuộc Gọi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=2418",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:40:18 Phần Một: Giấc Mơ - Tìm Kiếm Ước Mơ Của Bạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=2968",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:49:28 Phần Một: Giấc Mơ - Theo Hạnh Phúc Của Bạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=3800",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:03:20 Phần Hai: Người Hùng - Sự Tin Tưởng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=4405",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:13:25 Phần Hai: Người Hùng - Giấc Mơ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=4846",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:20:46 Phần Hai: Người Hùng - Tâm Trí Của Một Anh Hùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=5375",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:29:35 Phần Hai: Người Hùng - Trái Tim Của Một Anh Hùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=6432",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:47:12 Phần Hai: Người Hùng - Con Đường Của Anh Hùng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=6839",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:53:59 Phần Hai: Người Hùng - Lời Cam Kết",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=7601",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:06:41 Phần Ba: Nhiệm Vụ - Mê Cung",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=8039",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:13:59 Phần Ba: Nhiệm Vụ - Naysayers & Đồng Minh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=8668",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:24:28 Phần Ba: Nhiệm Vụ - Con Đường Thử Nghiệm & Phép Lạ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=9688",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:41:28 Phần Ba: Nhiệm Vụ - Thử Thách Tối Cao",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=10228",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:50:28 Phần Bốn: Chiến Thắng - Phần Thưởng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=10800",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:00:00 Phần Bốn: Chiến Thắng - Một Cuộc Sống Đáng Sống",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=11432",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:10:32 Phần Bốn: Chiến Thắng - Người Hùng Trong Bạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=11640",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:14:00 Cảm Ơn Và Xin Hẹn Gặp Lại.",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Lời Giới Thiệu Và Câu Chuyện",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=660",
+    "title" : "00:11:00 Phần Một: Giấc Mơ - Lời Kêu Gọi Phiêu Lưu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=1650",
+    "title" : "00:27:30 Phần Một: Giấc Mơ - Từ Chối Cuộc Gọi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=2418",
+    "title" : "00:40:18 Phần Một: Giấc Mơ - Tìm Kiếm Ước Mơ Của Bạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=2968",
+    "title" : "00:49:28 Phần Một: Giấc Mơ - Theo Hạnh Phúc Của Bạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=3800",
+    "title" : "01:03:20 Phần Hai: Người Hùng - Sự Tin Tưởng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=4405",
+    "title" : "01:13:25 Phần Hai: Người Hùng - Giấc Mơ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=4846",
+    "title" : "01:20:46 Phần Hai: Người Hùng - Tâm Trí Của Một Anh Hùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=5375",
+    "title" : "01:29:35 Phần Hai: Người Hùng - Trái Tim Của Một Anh Hùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=6432",
+    "title" : "01:47:12 Phần Hai: Người Hùng - Con Đường Của Anh Hùng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=6839",
+    "title" : "01:53:59 Phần Hai: Người Hùng - Lời Cam Kết",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=7601",
+    "title" : "02:06:41 Phần Ba: Nhiệm Vụ - Mê Cung",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=8039",
+    "title" : "02:13:59 Phần Ba: Nhiệm Vụ - Naysayers & Đồng Minh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=8668",
+    "title" : "02:24:28 Phần Ba: Nhiệm Vụ - Con Đường Thử Nghiệm & Phép Lạ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=9688",
+    "title" : "02:41:28 Phần Ba: Nhiệm Vụ - Thử Thách Tối Cao",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=10228",
+    "title" : "02:50:28 Phần Bốn: Chiến Thắng - Phần Thưởng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=10800",
+    "title" : "03:00:00 Phần Bốn: Chiến Thắng - Một Cuộc Sống Đáng Sống",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=11432",
+    "title" : "03:10:32 Phần Bốn: Chiến Thắng - Người Hùng Trong Bạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/7906-the-hero-nguoi-hung-thuviensach.vn.mp3?t=11640",
+    "title" : "03:14:00 Cảm Ơn Và Xin Hẹn Gặp Lại.",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

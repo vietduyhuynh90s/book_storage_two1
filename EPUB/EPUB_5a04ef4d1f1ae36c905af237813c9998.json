@@ -1,0 +1,113 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mo-cua-trai-tim-9836.html",
+    "title" : "MỞ CỬA TRÁI TIM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ajahn Brahm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuộc sống vốn là chuỗi những câu chuyện đan xen. Những câu chuyện thông thái trong cuốn sách Mở cửa trái tim của Thiền sư Ajahn Brahm có thể phá vỡ mọi rào cản ngăn cách mọi người thuộc những tôn giáo khác nhau. Mở cửa trái tim được biên dịch từ “Opening The Door Of Your Heart” ấn bản mới, quyển sách bao gồm những câu chuyện của chính sư trụ trì Ajahn Brahm và những câu chuyện khác được ông dùng để hỗ trợ cho việc giảng dạy của mình. Những câu chuyện trong Mở cửa trái tim không chỉ là những câu chuyện về hạnh phúc mà còn là những câu chuyện về tình yêu, về sự tha thứ, về lòng bao dung… Quyển sách đã được phát hành nhiều ngàn bản bằng nhiều ngôn ngữ khác nhau, riêng bản tiếng Thái đã được phát hành hơn 100.000 bản. Sự hiểu biết sâu sắc, tình thương yêu và lòng từ bi chảy xuyên suốt qua những câu chuyện của thầy Ajahn Brahm giống như những dòng sông của nguồn hy vọng; nó khéo léo trong việc liên hệ đến lời dạy của đức Phật và con đường đạt được hạnh phúc thật sự. Mỗi câu chuyện kể, ẩn chứa bên trong nó là bài học về chánh niệm, trí tuệ và từ bi - những yếu tố nền tảng của Phật giáo. “Sự thật” bên trong mỗi câu chuyện sẽ được khám phá qua chính kinh nghiệm trong đời sống của mỗi chúng ta. Có 4 giáo lý chính của đạo Phật đó là: “Hạnh phúc, nguyên nhân của hạnh phúc, những thiếu xót của hạnh phúc, và nguyên nhân cho những sự thiếu xót ấy”. Mở cửa trái tim đề cập đến giáo lý thứ 2 “Nguyên nhân của hạnh phúc”. Dù là những câu chuyện của nhà Phật, được sư trụ trì dùng để giảng dạy nhưng những câu chuyện ấy lại không hề khô khan mà là những câu chuyện rất thật, rất dễ nhận thấy trong cuộc sống, chỉ cần một phút để suy ngẫm, ta sẽ nhận thấy nhiều điều diệu kỳ và sâu sắc bên trong.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_5a04ef4d1f1ae36c905af237813c9998.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_5a04ef4d1f1ae36c905af237813c9998.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9836-mo-cua-trai-tim-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Đôi Dòng Về Ấn Bản Mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9836-mo-cua-trai-tim-thuviensach.vn.mp3?t=2037",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:33:57 Tình Yêu Và Sự Gắn Bó.",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9836-mo-cua-trai-tim-thuviensach.vn.mp3?t=3836",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:03:56 Nóng Giận Và Tha Thứ Tòa Án Lương Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9836-mo-cua-trai-tim-thuviensach.vn.mp3?t=6339",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:45:39 Những Vấn Đề Then Chốt Và Cách Giải Pháp Trắc Ẩn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9836-mo-cua-trai-tim-thuviensach.vn.mp3?t=8644",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:24:04 Sự Khôn Ngoan Và Tĩnh Lặng Nội Tâm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9836-mo-cua-trai-tim-thuviensach.vn.mp3?t=11186",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:06:26 Tự Do Và Khiêm Tốn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9836-mo-cua-trai-tim-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Đôi Dòng Về Ấn Bản Mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9836-mo-cua-trai-tim-thuviensach.vn.mp3?t=2037",
+    "title" : "00:33:57 Tình Yêu Và Sự Gắn Bó.",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9836-mo-cua-trai-tim-thuviensach.vn.mp3?t=3836",
+    "title" : "01:03:56 Nóng Giận Và Tha Thứ Tòa Án Lương Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9836-mo-cua-trai-tim-thuviensach.vn.mp3?t=6339",
+    "title" : "01:45:39 Những Vấn Đề Then Chốt Và Cách Giải Pháp Trắc Ẩn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9836-mo-cua-trai-tim-thuviensach.vn.mp3?t=8644",
+    "title" : "02:24:04 Sự Khôn Ngoan Và Tĩnh Lặng Nội Tâm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9836-mo-cua-trai-tim-thuviensach.vn.mp3?t=11186",
+    "title" : "03:06:26 Tự Do Và Khiêm Tốn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

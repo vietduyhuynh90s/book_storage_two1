@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nhu-may-binh-than-nhu-nuoc-thong-dong-1107.html",
+    "title" : "NHƯ MÂY BÌNH THẢN, NHƯ NƯỚC THONG DONG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Akira Uenishi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Nhân sinh như chén nước, khi vơi lúc đầy. Con đường này vốn chưa bao giờ bằng phẳng, là đường cùng hay là thử thách, chỉ cách nhau bởi một suy nghĩ mà thôi. Không ít lần, ta tự ngước theo những đám mây trôi trên bầu trời xanh thăm thẳm và thầm ngưỡng mộ, ước ao rằng: Giá như cuộc đời cũng nhẹ nhàng, êm đềm như mây, bình thản bay ngang qua trời. Không ít lần, ta tự hỏi làm sao để như dòng nước chảy, vẫn tĩnh tại êm đềm, lại vừa có thể mạnh mẽ, bền bỉ. Không ít lần, ta luôn dằn vặt vì những điều đã trải qua, mơ hồ vì những điều chưa đến. Xin đừng chỉ nhìn rồi ngưỡng mộ mây trôi, ao ước như nước chảy, mà hãy học cách sống “Như mây bình thản, như nước thong dong”, ấy là: Cuộc đời này đâu cần đong đếm những tổn thương, bi ai hay khắc khoải. Nhân gian này, mỗi người đều có một con đường để lựa chọn, để đi. Trên từng bước chân qua đều là thử thách, hãy cứ bước chậm rãi, nhưng thật vững vàng. Có người vì phù phiếm mà đến bên ta, thì cũng sẽ có kẻ vì phù phiếm bỏ ta mà đi. Vì thế, nếu thấy nặng nề quá, hãy nhẹ lòng buông bỏ. Tranh giành thiệt hơn chỉ là cái mẽ bề ngoài. Hãy như dòng nước kia, không phân cao thấp, không chia trước sau, từ từ mà chảy, tĩnh tại mà trôi. Sắc mây thay đổi theo từng giờ. Cứ lựa đời mà sống, thiệt một chút nhưng không bon chen, mất một chút nhưng được thanh thản. Nếu không tự mình tìm được bình an từ bên trong, thì loài người này dù có đi thêm hàng thiên niên kỷ nữa, vẫn cứ trầm luân, vẫn cứ đau khổ. Khi ấy, “Thanh Thản” chỉ còn là một tính từ, một trạng thái trong cuốn từ điển mà thôi. Biển lớn trên trái đất này dù sao vẫn có kích thước giới hạn, vậy mà còn sức dung nạp được trăm nghìn dòng sông, vạn ngàn con suối, dòng thác. Huống hồ lòng người tuy bé nhỏ nhưng mênh mông vô cùng, hà cớ gì không thể bỏ qua những điều nhỏ nhặt, không bao dung, không khoan thai mà sống?! Đời này đâu cần phức tạp, chỉ cần sống như nước chảy, như mây kia, nhẹ nhàng đi hết một kiếp cười. Dù trong tay không còn gì, thì ta vẫn còn nụ cười hiền luôn ẩn giấu trong một trái tim bình lặng.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_acf383fd83ddcd87bf2aff2acc44c92c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_acf383fd83ddcd87bf2aff2acc44c92c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1107-nhu-may-binh-than-nhu-nuoc-thong-dong-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1107-nhu-may-binh-than-nhu-nuoc-thong-dong-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

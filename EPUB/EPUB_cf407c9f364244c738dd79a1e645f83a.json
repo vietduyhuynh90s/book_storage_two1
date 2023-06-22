@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chop-be-mua-nguon-14026.html",
+    "title" : "CHỚP BỂ MƯA NGUỒN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quỳnh Dao",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>\"Tại một làng nhỏ có tên là Đông Sơn thuộc huyện Uyển Bình, tỉnh Hà Bắc. Bây giờ là tiết đầu xuân. Mùa xuân ở phía Bắc đến khá chậm. Băng tuyết của mùa đông chưa tan hết, màu trắng xóa vẫn còn rải rác khắp nơi, mấy bụi cỏ dại như tranh thủ với thời gian bắt đầu đâm chồi, nhưng những cọng cỏ èo uột trên nền đất vàng lạnh trông thật tội... Cạnh đấy là những cây lành lạnh. Chúng vươn những chiếc cành khẳng khiu lên cao, như những bàn tay đang van xin Thượng Đế một điều gì... Ở phía ngoài của làng xóm nhỏ này, khung cảnh càng có vẻ thê lương hơn. Nhưng cái khí hậu ngày hôm nay có vẻ khá hơn. Nắng đã lên, những tia nắng ấm áp rọi lên tuyết, làm sườn đá trên núi óng ánh như tảng ngọc thạch.\" (Trích).</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_cf407c9f364244c738dd79a1e645f83a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_cf407c9f364244c738dd79a1e645f83a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14026-chop-be-mua-nguon-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14026-chop-be-mua-nguon-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

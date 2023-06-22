@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bi-mat-thay-doi-cuoc-doi-toi-8339.html",
+    "title" : "BÍ MẬT THAY ĐỔI CUỘC ĐỜI TÔI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Rhonda Byrne",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Một bộ sưu tập đầy cảm hứng về những câu chuyện thực tế hay và mạnh mẽ nhất từ những độc giả của cuốn sách bán chạy nhất trên toàn thế giới Bí mật. Kể từ lần xuất bản đầu tiên của The Secreta cách đây một thập kỷ, cuốn sách bán chạy nhất của Rhonda Byrne đã mang đến sự bùng nổ của những người thực chia sẻ những câu chuyện thực về cuộc sống thực của họ đã thay đổi một cách kỳ diệu như thế nào để trở nên tốt đẹp hơn. những câu chuyện cảm động trong một tập truyền cảm hứng. Mỗi câu chuyện cung cấp một minh họa chân thực, thực tế về con đường dẫn đến thành công trong mọi lĩnh vực của cuộc sống: tiền bạc, sức khỏe, các mối quan hệ, tình yêu, gia đình và sự nghiệp. Những người trong Bí mật đã thay đổi Lifeshow của tôi hết lần này đến lần khác rằng không ai bị loại trừ khỏi cuộc sống trong mơ của họ.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_c60d726561365e8b87d96f174051a2d6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_c60d726561365e8b87d96f174051a2d6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8339-bi-mat-thay-doi-cuoc-doi-toi-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/8339-bi-mat-thay-doi-cuoc-doi-toi-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

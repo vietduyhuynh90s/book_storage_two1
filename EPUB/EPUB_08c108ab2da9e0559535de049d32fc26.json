@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/khi-toi-dam-uoc-mo-14055.html",
+    "title" : "KHI TÔI DÁM ƯỚC MƠ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Có ước mơ được ấp ủ từ lâu mà đến giờ teen vẫn còn theo đuổi. Có ước mơ chợt đến theo trào lưu và teen đang cố gắng biến nó thành sự thực. Có ước mơ được xây dựng trên sự kì vọng của người khác hoặc ước mơ mới mở ra sau khi ước mơ cũ đã không thể thực hiện. Teen kể chuyện mình, chuyện bạn, đủ lạc quan để ước mơ tiếp tục cất bước nhưng cũng đầy chướng ngại để vấp, ngã, sốc, thử thách ý chí và đam mê.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_08c108ab2da9e0559535de049d32fc26.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_08c108ab2da9e0559535de049d32fc26.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14055-khi-toi-dam-uoc-mo-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 - Track 1 : Có Ước Mơ Ấp Ủ Từ Lâu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14055-khi-toi-dam-uoc-mo-thuviensach.vn.mp3?t=1387",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:23:07 - Track 2 : Đại Lộ Ước Mơ Sẽ Bớt Thênh Thang",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14055-khi-toi-dam-uoc-mo-thuviensach.vn.mp3?t=2648",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:44:08 - Track 3: Dám Thay Đổi, Là Dám Cho Mình Cơ Hội Mới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14055-khi-toi-dam-uoc-mo-thuviensach.vn.mp3?t=4659",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:17:39 - Track 4: Con Đường Ước Mơ Của Mỗi Người Có Thể Là Đại Lộ Thênh Thang",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14055-khi-toi-dam-uoc-mo-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 - Track 1 : Có Ước Mơ Ấp Ủ Từ Lâu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14055-khi-toi-dam-uoc-mo-thuviensach.vn.mp3?t=1387",
+    "title" : "00:23:07 - Track 2 : Đại Lộ Ước Mơ Sẽ Bớt Thênh Thang",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14055-khi-toi-dam-uoc-mo-thuviensach.vn.mp3?t=2648",
+    "title" : "00:44:08 - Track 3: Dám Thay Đổi, Là Dám Cho Mình Cơ Hội Mới",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14055-khi-toi-dam-uoc-mo-thuviensach.vn.mp3?t=4659",
+    "title" : "01:17:39 - Track 4: Con Đường Ước Mơ Của Mỗi Người Có Thể Là Đại Lộ Thênh Thang",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

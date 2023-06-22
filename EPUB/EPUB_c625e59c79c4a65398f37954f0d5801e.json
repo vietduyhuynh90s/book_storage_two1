@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cong-chua-chan-ngong-9045.html",
+    "title" : "CÔNG CHÚA CHĂN NGỖNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Shannon Hale",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Anidori-Kiladra Talinnna Isilee, công chúa của vương triều Kildenree, được sinh ra với đôi mắt nhắm hờ và những từ ngữ có sẵn trên môi. Nàng trải qua những năm đầu đời lắng nghe từng câu chuyện của dì mình và học ngôn ngữ của loài thiên nga. Rồi thì một con ngựa con được sinh ra, với một từ động trên đầu lưỡi nó-đó chính là cái tên của con ngựa: Falada, và khi Ani gọi tên nó ra, nàng cũng tìm thấy chìa khóa để hiểu được ngôn ngữ của con vật yêu quý ấy. Tuy nhiên, khi những món quà kỳ diệu tạo hóa ban cho Ani tăng dần lên, những người khác bắt đầu nghi ngờ. Và chẳng bao lâu Nữ hoàng nhận thấy bà không có ự lựa chọn nào khác ngoài việc gửi nàng đến làm vợ một hoàng tử ở vùng đất lạ… “Những tác phẩm tuyệt vời của Shannon Hale làm cho thú vui đọc ách của tôi càng ngày càng mạnh mẽ” - Stephenie Meyer (Tác giả series Twilight) “Một phiên bản của câu chuyện cổ tích Công chúa chăn ngỗng của anh em nhà Grimm với kết cấu tuyệt vời và sự tái hiện lại sâu sắc. Ngôn ngữ hấp dẫn đưa đến những hình ảnh đẹp đẽ, kịch tính cao trào”. Kirkus Reviews. Bộ sách Câu chuyện về vùng đất Bayer gồm có:- Công Chúa Chăn Ngỗng - Ngọn Lửa Enna - Bí mật của Dòng sông Thông tin tác giả: Shannon Hale sống cùng với chồng và con ở gần thành phố Salt Lake, bang Utar. Bà đã được trao tặng gài thưởng Newbery Honor với cuốn sách Học viện công chúa, Cuốn sách của một ngàn ngày. Ngoài ra, loạt sách viết về vùng đất tưởng tượng Bayern đã thu hút hàng triệu đọc giả trên toàn thế giới và giành được nhiều giải thưởng khác. Bà cũng là tác giả của tiểu thuyết Austenland và một tiểu thuyết đồ họa chung với chồng, Sự trả thù của Rapunze.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_c625e59c79c4a65398f37954f0d5801e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_c625e59c79c4a65398f37954f0d5801e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9045-cong-chua-chan-ngong-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Công Chúa Chăn Ngỗng (Tập 01)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9045-cong-chua-chan-ngong-thuviensach.vn.mp3?t=22523",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:15:23 Công Chúa Chăn Ngỗng (Tập 02)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9045-cong-chua-chan-ngong-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Công Chúa Chăn Ngỗng (Tập 01)",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9045-cong-chua-chan-ngong-thuviensach.vn.mp3?t=22523",
+    "title" : "06:15:23 Công Chúa Chăn Ngỗng (Tập 02)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

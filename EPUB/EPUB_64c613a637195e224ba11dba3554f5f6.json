@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-te-hoc-hai-huoc-10392.html",
+    "title" : "KINH TẾ HỌC HÀI HƯỚC",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Steven D. Levitt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Steven D. Levitt và Stephen J. Dubner là hai cái tên không hề xa lạ với độc giả Việt Nam, với những tựa sách \"Kinh tế học hài hước\", \"Siêu kinh tế học hài hước\", \"Tư duy như một kẻ lập dị\". Chắc chắn, khi đọc cuốn sách này, bạn đọc sẽ bắt gặp những khoảnh khắc khiến các bạn ồ lên vì thú vị, thậm chí là bật cười vì sự độc đáo và hài hước của câu chuyện mà các tác giả mang lại. Nhưng không chỉ hài hước, đó còn là những thực trạng có phần phi lý đang tồn tại ngay trước mắt mà chúng ta không hề hay biết (hoặc không đủ hài hước để nhận ra, cũng có thể là như vậy). *** Steven D. Levitt, nhà kinh tế học trẻ đang giảng dạy tại đại học Chicago (Mỹ) và Stephen J. Dubner là nhà báo, nhà văn nổi tiếng, tác giả nhiều bài viết sắc sảo trên các tờ The New Yorker và New York Times, gặp nhau và cùng giải quyết nhiều vấn đề cuộc sống từ góc độ kinh tế học không hàn lâm mà thiên về những phân tích xã hội, nhân sinh. Ví dụ: khảo sát thị trường mại dâm Mỹ để phô bày nhiều quan niệm, hành xử của người Mỹ với tình dục ngoài hôn nhân qua các thời kỳ, người môi giới bán dâm thì khác gì với người môi giới... nhà đất và giống gì với ông già Noel? Vì sao người ta lại chịu chung sống với sự vô cảm trong lúc bỏ hoang những suy nghĩ giúp mình vị tha hơn? Truyền thông đã làm gì trong việc thổi bùng nỗi sợ cái chết hiếm hoi do cá mập mang tới trong khi lại bình thường hoá những ca tử vong vì tai nạn giao thông? Làm sao để các cảnh sát và chính trị gia ba hoa nước Mỹ bớt hoang tưởng về \"thành tựu\" trong việc hạn chế tệ nạn xã hội? Hai cuốn sách này giúp người đọc khám phá những phép màu của tư duy; bằng sự tinh tường, hài hước, thông minh đó mà nhiều hiện tượng xã hội được giải mã phía sau những quan điểm kinh tế học khiến người đọc dễ dàng bị hấp dẫn, chinh phục một cách bất ngờ!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_64c613a637195e224ba11dba3554f5f6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_64c613a637195e224ba11dba3554f5f6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/10392-kinh-te-hoc-hai-huoc-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/10392-kinh-te-hoc-hai-huoc-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

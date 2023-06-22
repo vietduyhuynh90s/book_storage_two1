@@ -1,0 +1,329 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/chuong-nguyen-hon-ai-1017.html",
+    "title" : "CHUÔNG NGUYỆN HỒN AI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ernest Hemingway",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chuông nguyện hồn ai là một bản hùng ca về cuộc đấu tranh anh dũng của nhân dân Tây Ban Nha chống lại bọn phát xít Franco bảo vệ chế độ cộng hòa, một cuộc chiến kéo dài từ năm 1936 tới năm 1939. Nhân vật chính là Robert Jordan, một chiến sĩ người Mỹ chiến đấu trong Lữ đoàn quốc tế, tham gia cuộc chiến tranh vĩ đại chống lại sự bành trướng toàn cầu của chủ nghĩa phát xít. Trong kế hoạch tấn công nhằm giải phóng một vùng lãnh thổ Tây Ban Nha của Sư đoàn số 14 do tướng Golz người Nga chỉ huy, Robert Jordan được lệnh phối hợp với một nhóm du kích đặt mìn phá hủy một cây cầu để chặn viện binh và đường rút chạy của quân địch. Anh lên đường đến Villaconejos để tổ chức kế hoạch tấn công cây cầu. Tại đây, khi gặp cô du kích Tây Ban Nha xinh đẹp tên là María, mối tình sâu nặng và đồng điệu trong một lý tưởng chung giữa anh và cô nảy nở. Tình yêu đó đã giúp cho hai người nhận thức sâu sắc hơn ý nghĩa của cuộc sống và công việc họ đang làm. Nhưng bỗng Robert Jordan nhận thấy bọn phát xít đã đánh hơi được kế hoạch của cuộc tấn công và đang ráo riết tập trung quân bố trí phản kích. Anh cử ngay Andrés mang báo cáo về Ban chỉ huy Sư đoàn đóng ở Navacerrada đề nghị thay đổi kế hoạch tác chiến và cho ngừng ngay việc phá hủy cầu. Thế nhưng thật không may, do nhiều trắc trở và tính quan liêu của nhiều sĩ quan, lẽ ra đoạn đường chỉ cần đi trong ba giờ, Andrés phải mất cả một ngày. Khi bức thư của Robert Jordan đến tay Golz thì đã quá muộn, những chiếc máy bay ném bom đầu tiên mở màn cho trận đánh đã quần đảo trên bầu trời. Robert Jordan đành cho nổ mìn phá cây cầu theo kế hoạch đã định và dẫn đội du kích rút lui. Dọc đường, bom đạn quân thù khiến anh bị gãy chân, vết thương quá nặng, anh quyết định từ giã đồng đội và người yêu, ở lại ngọn đồi bên cạnh chiếc cầu bị phá nhằm chiến đấu cầm chân địch cho đội du kích rút lui an toàn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_5ce6d638eb8fe975db7e4e8c9f04ecd4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_5ce6d638eb8fe975db7e4e8c9f04ecd4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Chuông Nguyện Hồn Ai - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=3091",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:51:31 Chuông Nguyện Hồn Ai - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=5890",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:38:10 Chuông Nguyện Hồn Ai - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=7828",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:10:28 Chuông Nguyện Hồn Ai - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=11052",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:04:12 Chuông Nguyện Hồn Ai - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=13979",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:52:59 Chuông Nguyện Hồn Ai - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=15520",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:18:40 Chuông Nguyện Hồn Ai - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=21159",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:52:39 Chuông Nguyện Hồn Ai - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=24787",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:53:07 Chuông Nguyện Hồn Ai - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=28853",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:00:53 Chuông Nguyện Hồn Ai - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=32930",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:08:50 Chuông Nguyện Hồn Ai - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=36238",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:03:58 Chuông Nguyện Hồn Ai - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=39437",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:57:17 Chuông Nguyện Hồn Ai - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=41840",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:37:20 Chuông Nguyện Hồn Ai - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=44131",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:15:31 Chuông Nguyện Hồn Ai - Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=46986",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:03:06 Chuông Nguyện Hồn Ai - Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=49774",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:49:34 Chuông Nguyện Hồn Ai - Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=52520",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:35:20 Chuông Nguyện Hồn Ai - Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=54931",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:15:31 Chuông Nguyện Hồn Ai - Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=57300",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:55:00 Chuông Nguyện Hồn Ai - Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=60216",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:43:36 Chuông Nguyện Hồn Ai - Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=63111",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:31:51 Chuông Nguyện Hồn Ai - Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=66136",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:22:16 Chuông Nguyện Hồn Ai - Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=69188",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "19:13:08 Chuông Nguyện Hồn Ai - Phần 24",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Chuông Nguyện Hồn Ai - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=3091",
+    "title" : "00:51:31 Chuông Nguyện Hồn Ai - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=5890",
+    "title" : "01:38:10 Chuông Nguyện Hồn Ai - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=7828",
+    "title" : "02:10:28 Chuông Nguyện Hồn Ai - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=11052",
+    "title" : "03:04:12 Chuông Nguyện Hồn Ai - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=13979",
+    "title" : "03:52:59 Chuông Nguyện Hồn Ai - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=15520",
+    "title" : "04:18:40 Chuông Nguyện Hồn Ai - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=21159",
+    "title" : "05:52:39 Chuông Nguyện Hồn Ai - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=24787",
+    "title" : "06:53:07 Chuông Nguyện Hồn Ai - Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=28853",
+    "title" : "08:00:53 Chuông Nguyện Hồn Ai - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=32930",
+    "title" : "09:08:50 Chuông Nguyện Hồn Ai - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=36238",
+    "title" : "10:03:58 Chuông Nguyện Hồn Ai - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=39437",
+    "title" : "10:57:17 Chuông Nguyện Hồn Ai - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=41840",
+    "title" : "11:37:20 Chuông Nguyện Hồn Ai - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=44131",
+    "title" : "12:15:31 Chuông Nguyện Hồn Ai - Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=46986",
+    "title" : "13:03:06 Chuông Nguyện Hồn Ai - Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=49774",
+    "title" : "13:49:34 Chuông Nguyện Hồn Ai - Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=52520",
+    "title" : "14:35:20 Chuông Nguyện Hồn Ai - Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=54931",
+    "title" : "15:15:31 Chuông Nguyện Hồn Ai - Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=57300",
+    "title" : "15:55:00 Chuông Nguyện Hồn Ai - Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=60216",
+    "title" : "16:43:36 Chuông Nguyện Hồn Ai - Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=63111",
+    "title" : "17:31:51 Chuông Nguyện Hồn Ai - Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=66136",
+    "title" : "18:22:16 Chuông Nguyện Hồn Ai - Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1017-chuong-goi-hon-ai-thuviensach.vn.mp3?t=69188",
+    "title" : "19:13:08 Chuông Nguyện Hồn Ai - Phần 24",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

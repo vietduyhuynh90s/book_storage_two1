@@ -1,0 +1,245 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/rung-na-uy-1381.html",
+    "title" : "RỪNG NA UY",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Murakami Haruki",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Rừng Na-Uy là tiểu thuyết của nhà văn Nhật Bản Murakami Haruki, là dòng hồi tưởng của nhân vật chính là chàng sinh viên bình thường Watanabe Tōru. Tác phẩm này đã đưa Murakami lên thành một trong những nhà văn hàng đầu của Nhật Bản. Cậu ta đã trải qua nhiều cuộc tình chớp nhoáng với nhiều cô gái trẻ ưa tự do. Nhưng cậu ta cũng có những mối tình sâu nặng, điển hình là với Naoko, người yêu của người bạn thân nhất của cậu, một cô gái không ổn định về cảm xúc, và với Midori, một cô gái thẳng thắn và hoạt bát. Các nhân vật trong truyện hầu hết là những con người cô đơn móc nối với nhau. Có những nhân vật đã phải tìm đến cái chết để giải thoát khỏi nỗi đau đớn ấy. Câu chuyện xảy ra với bối cảnh là nước Nhật những năm 1960, khi mà thanh niên Nhật Bản, như thanh niên nhiều nước khác đương thời, đấu tranh chống lại những định kiến tồn tại trong xã hội. Murakami miêu tả những sinh viên cải cách này như những tên đạo đức giả và thiếu sự kiên định.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_5c1961a55229ff0a4f555e6a548ca279.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_5c1961a55229ff0a4f555e6a548ca279.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Rừng Na-Uy - Chương 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=1244",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:20:44 Rừng Na-Uy - Chương 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=3712",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:01:52 Rừng Na-Uy - Chương 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=7155",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:59:15 Rừng Na-Uy - Chương 4 / Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=10253",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:50:53 Rừng Na-Uy - Chương 4 / Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=12697",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:31:37 Rừng Na-Uy - Chương 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=13528",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:45:28 Rừng Na-Uy - Chương 6 / Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=16164",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:29:24 Rừng Na-Uy - Chương 6 / Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=19615",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:26:55 Rừng Na-Uy - Chương 6 / Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=22622",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:17:02 Rừng Na-Uy - Chương 6 / Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=25239",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:00:39 Rừng Na-Uy - Chương 7 / Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=28217",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:50:17 Rừng Na-Uy - Chương 7 / Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=29769",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:16:09 Rừng Na-Uy - Chương 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=32621",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:03:41 Rừng Na-Uy - Chương 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=34973",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:42:53 Rừng Na-Uy - Chương 10 / Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=38304",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:38:24 Rừng Na-Uy - Chương 10 / Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=40205",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:10:05 Rừng Na-Uy - Chương Cuối",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Rừng Na-Uy - Chương 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=1244",
+    "title" : "00:20:44 Rừng Na-Uy - Chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=3712",
+    "title" : "01:01:52 Rừng Na-Uy - Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=7155",
+    "title" : "01:59:15 Rừng Na-Uy - Chương 4 / Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=10253",
+    "title" : "02:50:53 Rừng Na-Uy - Chương 4 / Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=12697",
+    "title" : "03:31:37 Rừng Na-Uy - Chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=13528",
+    "title" : "03:45:28 Rừng Na-Uy - Chương 6 / Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=16164",
+    "title" : "04:29:24 Rừng Na-Uy - Chương 6 / Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=19615",
+    "title" : "05:26:55 Rừng Na-Uy - Chương 6 / Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=22622",
+    "title" : "06:17:02 Rừng Na-Uy - Chương 6 / Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=25239",
+    "title" : "07:00:39 Rừng Na-Uy - Chương 7 / Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=28217",
+    "title" : "07:50:17 Rừng Na-Uy - Chương 7 / Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=29769",
+    "title" : "08:16:09 Rừng Na-Uy - Chương 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=32621",
+    "title" : "09:03:41 Rừng Na-Uy - Chương 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=34973",
+    "title" : "09:42:53 Rừng Na-Uy - Chương 10 / Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=38304",
+    "title" : "10:38:24 Rừng Na-Uy - Chương 10 / Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1381-rung-na-uy-thuviensach.vn.mp3?t=40205",
+    "title" : "11:10:05 Rừng Na-Uy - Chương Cuối",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

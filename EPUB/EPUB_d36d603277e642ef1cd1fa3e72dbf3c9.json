@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/thuat-viet-lach-tu-a-den-z-12495.html",
+    "title" : "THUẬT VIẾT LÁCH TỪ A ĐẾN Z",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngọc Trân",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>\"... Nhiều cây bút chuyên nghiệp thường khuyên người muốn vào nghề viết lách rằng cứ ngồi vào bàn rồi hứng sẽ tới. Tác giả sách này cũng có kinh nghiệm về chuyện đó: cứ viết rồi chữ sẽ ra, bài sẽ thành; miễn rằng mình không chạy theo cái gì quá hoàn chỉnh, thúc ép bản thân phải trở nên quá hoàn hảo. Hãy xem viết lách giống như việc trồng cây: yếu ớt thì che chắn, bón phân, tưới nước; vững vàng rồi thì cho ra nắng gió, tranh đua với đời.Thật ra bạn đã học viết lách rồi - khi còn ngồi trên ghế nhà trường tiểu học và trung học. Giờ chỉ cần ôn lại. Sách này chính là một tài liệu giúp bạn \"ôn lại\" nhưng có mở rộng và theo phương pháp của tác giả sách. Nếu phải viết lách vì công việc hoặc do muốn chọn viết lách như nghề kiếm cơm kiếm thóc, thì chắc chắn sách này được dành cho bạn. Nhưng nếu chỉ xem đó như một nguồn vui, thì sách này cũng lại dành cho bạn. Viết lách là môn giải trí hầu như không tốn tiền. Mà nhiều khi rất hữu ích.\"</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_d36d603277e642ef1cd1fa3e72dbf3c9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_d36d603277e642ef1cd1fa3e72dbf3c9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12495-thuat-viet-lach-tu-a-den-z-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Lời Nói Đầu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12495-thuat-viet-lach-tu-a-den-z-thuviensach.vn.mp3?t=2769",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:46:09 Lập Dàn Bài Cho Chắc Ăn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12495-thuat-viet-lach-tu-a-den-z-thuviensach.vn.mp3?t=4658",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:17:38 Trình Bày Ý Tưởng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12495-thuat-viet-lach-tu-a-den-z-thuviensach.vn.mp3?t=6986",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:56:26 Lắng Nghe Âm Thanh Của Câu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12495-thuat-viet-lach-tu-a-den-z-thuviensach.vn.mp3?t=9073",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:31:13 Cần Dùng Phép Nối",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12495-thuat-viet-lach-tu-a-den-z-thuviensach.vn.mp3?t=11745",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:15:45 Mở Rộng Câu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12495-thuat-viet-lach-tu-a-den-z-thuviensach.vn.mp3?t=13854",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:50:54 Cho Lời Văn Thêm Mạnh Mẽ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12495-thuat-viet-lach-tu-a-den-z-thuviensach.vn.mp3?t=15968",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:26:08 Không Quên Quy Chiếu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12495-thuat-viet-lach-tu-a-den-z-thuviensach.vn.mp3?t=18507",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:08:27 Viết Theo Hình Tháp Ngược",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12495-thuat-viet-lach-tu-a-den-z-thuviensach.vn.mp3?t=21221",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:53:41 Tự Biên Tập",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/12495-thuat-viet-lach-tu-a-den-z-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Lời Nói Đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12495-thuat-viet-lach-tu-a-den-z-thuviensach.vn.mp3?t=2769",
+    "title" : "00:46:09 Lập Dàn Bài Cho Chắc Ăn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12495-thuat-viet-lach-tu-a-den-z-thuviensach.vn.mp3?t=4658",
+    "title" : "01:17:38 Trình Bày Ý Tưởng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12495-thuat-viet-lach-tu-a-den-z-thuviensach.vn.mp3?t=6986",
+    "title" : "01:56:26 Lắng Nghe Âm Thanh Của Câu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12495-thuat-viet-lach-tu-a-den-z-thuviensach.vn.mp3?t=9073",
+    "title" : "02:31:13 Cần Dùng Phép Nối",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12495-thuat-viet-lach-tu-a-den-z-thuviensach.vn.mp3?t=11745",
+    "title" : "03:15:45 Mở Rộng Câu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12495-thuat-viet-lach-tu-a-den-z-thuviensach.vn.mp3?t=13854",
+    "title" : "03:50:54 Cho Lời Văn Thêm Mạnh Mẽ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12495-thuat-viet-lach-tu-a-den-z-thuviensach.vn.mp3?t=15968",
+    "title" : "04:26:08 Không Quên Quy Chiếu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12495-thuat-viet-lach-tu-a-den-z-thuviensach.vn.mp3?t=18507",
+    "title" : "05:08:27 Viết Theo Hình Tháp Ngược",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/12495-thuat-viet-lach-tu-a-den-z-thuviensach.vn.mp3?t=21221",
+    "title" : "05:53:41 Tự Biên Tập",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

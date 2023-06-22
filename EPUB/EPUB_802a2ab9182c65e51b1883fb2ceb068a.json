@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/tong-hop-than-thoai-an-do-1167.html",
+    "title" : "TỔNG HỢP THẦN THOẠI ẤN ĐỘ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Con người sở dĩ không ngừng mở rộng chân trời tri thức chính là vì đã biết luôn luôn nhìn vạn vật quanh mình bằng con mắt mở lớn ngạc nhiên, tra hỏi. Thần thoại là hình thức văn nghệ sớm nhất của ấu thời nhân loại, thời mà óc tưởng tượng bắt đầu bị kích thích, trí suy tưởng bắt đầu nẩy nở, tình cảm bắt đầu phát triển. Vào thời này, con người thấy mình sống ngợp giữa những huyền bí của vũ trụ: cái gì làm các vì tinh tú vận chuyển trên trời, cái gì làm bốn mùa đổi thay cùng với mưa nắng, gió bão, sấm sét? … Và con người bập bẹ giải thích, tin tưởng vạn vật đều có linh hồn. Dĩ chí những dụng cụ do chính họ tạo tác cũng có linh hồn và đời sống riêng tư (tỉ như con chó đá chôn ở trước cửa). Thật là thú vị khi chúng ta thấy rằng sau khi sáng tạo ra các vị thần đầy đủ cả về hình thức lẫn quyền uy rồi con người sinh lòng sùng bái những linh phẩm do chính mình tạo tác đó, uỷ cho nào những nhiệm vụ khuyến thiện trừng gian an bài xã hội … Tóm lại thần linh mang hình ảnh của con người, phản ảnh nếp sống cùng nguyện vọng của con người. Khởi đầu là thần thoại Ấn Độ, thần thoại lâu đời nhất của nhân loại. Chúng tôi chân thành cảm tạ giáo sư Lê Xuân Khoa đã cho phép chúng tôi tham khảo, và đúc kết những điều giáo sư viết về lịch sử, tôn giáo, thần thoại, triết học Ấn Độ trong tác phẩm Nhập Môn Triết Học Ấn Độ của giáo sư (Bộ Quốc Gia Giáo Dục xuất bản, 1965). Vì đây là một “Tuyển tập Văn Chương Nhi Đồng” nên phần kể chuyện ở trên, chúng tôi cố gắng giữ cho đơn giản, nhưng phần chú thích, phần bổ túc để người lớn đọc, chúng tôi cố gắng ghi chú cho đầy đủ nhiều chừng nào hay chừng ấy. Vì thần thoại Ấn Độ liên lạc mật thiết tới lịch sử Ấn, thánh kinh Vê Đa cùng nền triết lý ẩn ngụ trong đó, nên hãy xin tuần tự giới thiệu ngắn gọn những vấn đề trên trước khi đi vào thần thoại Ấn Độ thật sự.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_802a2ab9182c65e51b1883fb2ceb068a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_802a2ab9182c65e51b1883fb2ceb068a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1167-tong-hop-than-thoai-an-do-thuviensach.vn.m4a",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1167-tong-hop-than-thoai-an-do-thuviensach.vn.m4a",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

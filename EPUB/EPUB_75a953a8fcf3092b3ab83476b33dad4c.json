@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-thu-lang-nghiem-14052.html",
+    "title" : "KINH THỦ LĂNG NGHIÊM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tâm Minh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>KINH THỦ LĂNG NGHIÊM Hán dịch: Bát Thích Mật Đế - Việt Dịch: Cư Sĩ Tâm Minh Lê Đình Thám Phật thuyết-pháp theo căn-cơ của chúng-sinh, nên pháp của Phật, khi thấp, khi cao, khi quyền, khi thật, khác nhau. Nhưng dầu Phật dạy \"tam-quy, ngũ-giới, thập-thiện\", dạy \"tứ-đế, thập nhị nhân-duyên\" hay dạy về pháp-tính, pháp-tướng, tâm-tính, chân-như, chân-không, thật-tướng, vân vân... Phật luôn luôn nhằm mục-đích chỉ-bày cho chúng-sinh chứng-ngộ trí-tuệ của Phật, nghĩa là chứng-ngộ Pháp-giới-tính. Kinh Thủ-lăng-nghiêm là một kinh Đại-thừa, chính nơi thấy nghe thông-thường của chúng-sinh mà chỉ ra tâm-tính, rất thích-hợp với căn-cơ hiện nay.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_75a953a8fcf3092b3ab83476b33dad4c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_75a953a8fcf3092b3ab83476b33dad4c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14052-kinh-thu-lang-nghiem-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14052-kinh-thu-lang-nghiem-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

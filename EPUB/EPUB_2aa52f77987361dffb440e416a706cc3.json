@@ -1,0 +1,221 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/noi-buon-chien-tranh-1460.html",
+    "title" : "NỖI BUỒN CHIẾN TRANH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bảo Ninh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tác phẩm là dòng hồi ức của người lính về chiến tranh và thời tuổi trẻ đã trải qua trong bom đạn. Đó là lòng tiếc thương vô hạn đối với những người cùng thế hệ với mình đã nằm xuống, là ám ảnh về thân phận con người trong thời buổi loạn ly, và thông qua thân phận là sự tái hiện đầy xót xa về quá khứ, những suy tư nghiền ngẫm về con đường dấn thân của cả một thế hệ sinh ra trong chiến tranh. Bao trùm lên tất cả, là nỗi buồn sâu xa gắn với từng mảnh đời riêng. Tác phẩm đã bước ra khỏi lối mòn về lòng tự hào dân tộc cùng những chiến công và vinh quang tập thể để nêu lên thông điệp về sự ghê tởm, về tính chất hủy diệt của chiến tranh đối với con người. Vào thời điểm ra đời cuối thập niên 1980, “Nỗi buồn chiến tranh” có thể được xem là tác phẩm văn học Việt Nam hiện đại đầu tiên viết về chiến tranh có cái nhìn khác với quan niệm truyền thống, khẳng định mạnh mẽ vai trò cá nhân trong xã hội, quyền sống, hạnh phúc và đau khổ của con người với tư cách một cá thể độc lập. Tiểu thuyết nhận được giải thưởng Hội Nhà văn Việt Nam năm 1991.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_2aa52f77987361dffb440e416a706cc3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_2aa52f77987361dffb440e416a706cc3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=2814",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:46:54 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=5390",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:29:50 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=8772",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:26:12 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=11765",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:16:05 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=14914",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:08:34 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=16480",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:34:40 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=18919",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:15:19 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=21540",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:59:00 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=24165",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:42:45 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=26185",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:16:25 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=27784",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:43:04 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=30085",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:21:25 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=33278",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:14:38 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=36636",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:10:36 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 15 (End)",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=2814",
+    "title" : "00:46:54 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=5390",
+    "title" : "01:29:50 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=8772",
+    "title" : "02:26:12 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=11765",
+    "title" : "03:16:05 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=14914",
+    "title" : "04:08:34 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=16480",
+    "title" : "04:34:40 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=18919",
+    "title" : "05:15:19 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=21540",
+    "title" : "05:59:00 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=24165",
+    "title" : "06:42:45 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=26185",
+    "title" : "07:16:25 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=27784",
+    "title" : "07:43:04 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=30085",
+    "title" : "08:21:25 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=33278",
+    "title" : "09:14:38 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/1460-noi-buon-chien-tranh-thuviensach.vn.mp3?t=36636",
+    "title" : "10:10:36 Nỗi Buồn Chiến Tranh - Bảo Ninh - Chương 15 (End)",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

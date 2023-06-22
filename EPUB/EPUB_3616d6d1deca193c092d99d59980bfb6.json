@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/vo-gia-chong-tre-7838.html",
+    "title" : "VỢ GIÀ CHỒNG TRẺ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hồ Biểu Chánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chuyện xảy ra trong một xóm lao động tại Sài Gòn. Cô Hai Xuyến là một người phụ nữ có nhan sắc và đa sầu lấy Hai Túc, một công nhân lành nghề đang làm cho một hãng máy tại Sài Gòn. Hai người ở với nhau hơn 10 năm và sanh được một cô con gái tên là Tý. Hai Túc tánh hay ưa ruợu chè, khi say sưa về nhà la rầy, hay đánh đập vợ con. Hàng xóm thường phải can thiệp. Một anh thợ trẻ, tên Giao làm cùng hãng với Hai Túc, ở gần nhà thấy vậy thương hại Hai Xuyến. Vì vậy mỗi lần Hai Xuyến bị đánh đập anh ta đều qua can thiệp và nhiều lúc bị Hai Túc nhục mạ và hành hung. Vì uống ruợu quá độ, trên đường khuya về nhà Hai Túc bị trúng gió chết. Cô Hai Xuyến nhờ sự giúp đỡ của hàng xóm lo chôn cất tử tế Hai Túc. Nhưng sau đó cô lại lo lắng cho cuộc sống tương lai của mình và con. Bù lại cô cũng mừng là vì thoát được cảnh bị đánh đập. Từ ngày Hai Túc mất, Giao qua lại thường xuyên để trực tiếp giúp đỡ cô Hai Xuyến. Trong một bữa nọ Giao thú thật đã thương yêu cô Xuyến từ lâu và xin cưới cô làm vợ. Giao hứa sẽ làm cho cô được hạnh phúc và lo cho Tý. Sau khi đắng đo cô Hai Xuyến chấp nhận, mặc dù cô lớn hơn Giao 11 tuổi. Hai người dọn đi nơi khác sống để tránh khỏi những tiếng dị nghị của hàng xóm. Trong thời gian này Giao lo lắng, yêu thương Hai Xuyến. Ngược lại Xuyến cũng yêu thương và lo lắng cho Giao. Giao lo cho Tý được học hành đàng hoàng và trở thành cô giáo. Tý lập gia đình với một thầy giáo. Cuộc sống hạnh phúc của Giao và Xuyến trôi qua mau, hơn 16 năm. Bây giờ Hai Xuyến đã được 47 tuổi trong khi Giao chỉ mới 36 tuổi, tuổi còn đương thì của một người đàn ông. Cuộc sống trong gia đình bắt đầu có khó khăn. Hai Xuyến biết Giao có tình nhân nhưng cố gắng làm vui để đáp lại tình và nghĩa mà Giao đã giành cho mẹ con Xuyến. Nhưng qua đó Hai Xuyến càng ngày càng buồn và bị ốm dần ….Tình cờ cô giáo Tý về thăm mẹ mới hay việc nầy. Cô tìm ra một giải pháp….</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_3616d6d1deca193c092d99d59980bfb6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_3616d6d1deca193c092d99d59980bfb6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7838-vo-gia-chong-tre-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/7838-vo-gia-chong-tre-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

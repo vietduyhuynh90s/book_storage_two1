@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/5-tuan-tren-khinh-khi-cau-14071.html",
+    "title" : "5 TUẦN TRÊN KHINH KHÍ CẦU",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jules Verne",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Jules Verne (1828 - 1905) nhà văn Pháp nổi tiếng được mệnh danh là bậc thầy về viết truyện phiêu lưu và khoa học viễn tưởng. Ông nổi tiếng ngay từ những tiểu thuyết đầu tay của mình, sách của ông đã được dịch ra nhiều thứ tiếng nước ngoài, phát hành rộng rãi khắp nơi, được mọi người, nhất là giới trẻ, háo hức đón đọc. Trong những năm 1970, so với các tác giả khác thì số sách của Jules Verne được xuất bản đứng hàng thứ ba trên thế giới. Không phải ngẫu nhiên người ta gọi ông là \"người đồng hành bất tử của tuổi trẻ\". J. Verne vừa là nhà văn, vừa là nhà khoa học có kiến thức uyên bác, tư tưởng tiến bộ, trí tưởng tượng phong phú. Ông là người khởi xướng loại truyện khoa học viễn tưởng dựa trên sự thật khoa học. Ông còn là nhà văn kiệt xuất viết tiểu thuyết phiêu lưu mạo hiểm, đồng thời là người cố sức say sưa cho khoa học và tương lai của nó. Đến nay, nhiều dự kiến, ước mơ của ông đã trở thành hiện thực. Nhiều thế hệ bạn đọc trẻ đã được hiểu biết và giáo dục qua các tiểu thuyết của ông. Nhiều nhà bác học, nhà phát minh, nhà du lịch đã cảm ơn J. Verne mỗi khi nhớ lại rằng, thời niên thiếu, nhờ say mê đọc sách của ông mà họ đã phát triển được năng khiếu, thậm chí đã có những phát minh quan trọng. Mùa thu năm 1862, lúc ấy J.Verne 34 tuổi, ông hoàn thành cuốn tiểu thuyết đầu tay, mang tựa đề \"5 tuần lễ trên khinh khí cầu\" nói về những khám phá địa lý giả tưởng ở châu Phi được thực hiện từ trên một khinh khí cầu do ông \"thiết kế chế tạo\" ra. Là một tác phẩm đã từng bị từ chối bởi nhiều nhà phát hành khác khi cho rằng nó quá \"khoa học\", 5 tuần trên khinh khí cầu đã cực kì thành công và tiếng vang của nó đã vượt ra khỏi nước Pháp. Ngoài Hai vạn dặm dưới biển (1870), nhiều tác phẩm của Jules Verne như Năm tuần trên khinh khí cầu (1863), Vòng quanh thế giới trong 80 ngày(1873)... đã chinh phục người đọc khắp năm châu, khẳng định ông là nhà văn đi tiên phong trong thể loại khoa học viễn tưởng, một lối đi riêng biệt trong văn học thế giới. Những ý tưởng thiên tài của ông về cuộc sống hiện đại cũng như các thành tựu khoa học kỹ thuật và hơn hết là khát vọng của con người mà ông đã diễn tả dường như cho đến nay vẫn còn đang thời sự.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_59bb31bf423635d16dc963624d78213f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_59bb31bf423635d16dc963624d78213f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14071-5-tuan-tren-khinh-khi-cau-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14071-5-tuan-tren-khinh-khi-cau-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

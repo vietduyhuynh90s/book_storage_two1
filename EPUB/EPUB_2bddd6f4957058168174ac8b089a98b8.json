@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/doan-mat-vu-cua-ngo-dinh-can-3444.html",
+    "title" : "ĐOÀN MẬT VỤ CỦA NGÔ ĐÌNH CẨN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Văn Phan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“Chiến tranh bí mật,” một lĩnh vực đặc biệt phục vụ cho cuộc chiến tranh đó cũng được Bộ Nội vụ và một số nhà khoa học lưu tâm. Gần đây, tác giả Văn Phan có gửi cho Ban biên tập Nhà xuất bản Công an nhân dân cuốn “Đoàn mật vụ của Ngô Đình Cẩn.” Cuốn sách này cũng chưa phải là một công trình nghiên cứu hoàn chỉnh về “Đoàn công tác đặc biệt miền Trung” - một tổ chức mật vụ nguy hiểm khét tiếng một thời. Song, nó cho ta một bức tranh khái quát về quá trình hình thành, phát triển, diệt vong và di bại của nó đối với cách mạng nước ta.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_2bddd6f4957058168174ac8b089a98b8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_2bddd6f4957058168174ac8b089a98b8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/3444-doan-mat-vu-cua-ngo-dinh-can-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Hình Thành Và Lũng Đoạn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/3444-doan-mat-vu-cua-ngo-dinh-can-thuviensach.vn.mp3?t=2175",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:36:15 Ngô Đình Cẩn Một Tay Che Trời",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/3444-doan-mat-vu-cua-ngo-dinh-can-thuviensach.vn.mp3?t=3716",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:01:56 Bắt Và Truy Bắt",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/3444-doan-mat-vu-cua-ngo-dinh-can-thuviensach.vn.mp3?t=5492",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:31:32 Kế Hoạch Chuyển Hướng Cán Bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/3444-doan-mat-vu-cua-ngo-dinh-can-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Hình Thành Và Lũng Đoạn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/3444-doan-mat-vu-cua-ngo-dinh-can-thuviensach.vn.mp3?t=2175",
+    "title" : "00:36:15 Ngô Đình Cẩn Một Tay Che Trời",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/3444-doan-mat-vu-cua-ngo-dinh-can-thuviensach.vn.mp3?t=3716",
+    "title" : "01:01:56 Bắt Và Truy Bắt",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/3444-doan-mat-vu-cua-ngo-dinh-can-thuviensach.vn.mp3?t=5492",
+    "title" : "01:31:32 Kế Hoạch Chuyển Hướng Cán Bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

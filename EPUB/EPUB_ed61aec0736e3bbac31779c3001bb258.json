@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/bac-si-tot-nhat-la-chinh-minh-tap-3-2123.html",
+    "title" : "BÁC SĨ TỐT NHẤT LÀ CHÍNH MÌNH - TẬP 3",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trân trọng sức khỏe! Tận hưởng sức khỏe! Sáng tạo sức khỏe! Nếu bạn còn trẻ, và mong muốn được sống vui vẻ và khỏe mạnh, hãy đọc quyển sách này! Nếu bạn đã già, và mong muốn sức khỏe sống lâu, hãy đọc quyển sách này! Nếu bạn nghèo khó, không đủ sức mua thuốc men giá đắt, hãy đọc quyển sách này! Nếu bạn giàu có, nhưng lại kém sức khỏe và kém vui, hãy đọc quyển sách này! Chỉ cần 4 giờ ít ỏi đọc kỹ quyển sách này, nó sẽ mang lại 36.000 ngày thu hoạch quí giá cho cả cuộc đời bạn!</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-22",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_ed61aec0736e3bbac31779c3001bb258.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_ed61aec0736e3bbac31779c3001bb258.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/2123-bac-si-tot-nhat-la-chinh-minh-tap-3-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Luyện Thể Lực. Lời Khuyên Hữu Ích Để Sống Khỏe Mạnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2123-bac-si-tot-nhat-la-chinh-minh-tap-3-thuviensach.vn.mp3?t=2183",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:36:23 Đừng Xem Thường Việc Rửa Tay",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2123-bac-si-tot-nhat-la-chinh-minh-tap-3-thuviensach.vn.mp3?t=4624",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:17:04 Ăn Uống Dinh Dưỡng - Những Món Ăn Chữa Bệnh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2123-bac-si-tot-nhat-la-chinh-minh-tap-3-thuviensach.vn.mp3?t=7283",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:01:23 Sức Đề Kháng Và Dẻo Dai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2123-bac-si-tot-nhat-la-chinh-minh-tap-3-thuviensach.vn.mp3?t=9438",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:37:18 Bí Quyết Giữ Cho Huyết Áp Chuẩn",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/2123-bac-si-tot-nhat-la-chinh-minh-tap-3-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Luyện Thể Lực. Lời Khuyên Hữu Ích Để Sống Khỏe Mạnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2123-bac-si-tot-nhat-la-chinh-minh-tap-3-thuviensach.vn.mp3?t=2183",
+    "title" : "00:36:23 Đừng Xem Thường Việc Rửa Tay",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2123-bac-si-tot-nhat-la-chinh-minh-tap-3-thuviensach.vn.mp3?t=4624",
+    "title" : "01:17:04 Ăn Uống Dinh Dưỡng - Những Món Ăn Chữa Bệnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2123-bac-si-tot-nhat-la-chinh-minh-tap-3-thuviensach.vn.mp3?t=7283",
+    "title" : "02:01:23 Sức Đề Kháng Và Dẻo Dai",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/2123-bac-si-tot-nhat-la-chinh-minh-tap-3-thuviensach.vn.mp3?t=9438",
+    "title" : "02:37:18 Bí Quyết Giữ Cho Huyết Áp Chuẩn",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
