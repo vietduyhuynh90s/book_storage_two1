@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/anh-chua-tung-het-yeu-em-14005.html",
+    "title" : "ANH CHƯA TỪNG HẾT YÊU EM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hiền Lương Xal",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cô cao lãnh nhìn anh,khẽ mỉm cười: - Đem lòng yêu một người, có thể là chuyện diễn ra trong tích tắc. Hận một người lại là suốt một đời. Anh chậm rãi bước đến chỗ cô,cúi người xuống,chạm vào tóc cô: - Thật ra anh không muốn khoe khoang có bao nhiêu người phụ nữ muốn bước vào thế giới của anh.Anh chỉ muốn nói, anh đã chuẩn bị cả thế giới của mình cho người con gái duy nhất</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_a3d73e26fbd366a8481e36271757c65a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_a3d73e26fbd366a8481e36271757c65a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14005-anh-chua-tung-het-yeu-em-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14005-anh-chua-tung-het-yeu-em-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
