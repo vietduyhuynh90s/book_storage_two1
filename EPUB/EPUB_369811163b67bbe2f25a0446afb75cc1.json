@@ -1,0 +1,437 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-tieu-bo-tap-4-14102.html",
+    "title" : "KINH TIỂU BỘ - TẬP 4",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Minh Châu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tiểu Bộ kinh có nhan đề “Tiểu Bộ”, nhưng lại chứa đựng số lượng kinh lớn nhất trong năm bộ Nikàya là 15 tập, so với Trường Bộ (3 tập), Trung Bộ (3 tập), Tương Ưng Bộ (5 tập) và Tăng Chi Bộ (3 tập). Chữ “Tiểu” ở đây, theo các vị luận sư, muốn chỉ tính cách hỗn hợp nhiều đề tài được diễn tả bằng nhiều thể văn khác nhau, từ các kinh kệ ngắn gọn do Ðức Phật thuyết giảng, các tiền thân Ðức Phật với hàng ngàn bài kệ do các vị Tỳ kheo cảm tác, tiểu sử các Ðức Phật, các vị A-la-hán, sự tích Thiên cung, Ngạ quỷ do chư vị kết tập kinh điển biên soạn..., đến các luận thư phân tích giáo lý mở đầu cho văn học A Tì Ðàm (Abhidhamma) của Luận tạng về sau.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-24",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_369811163b67bbe2f25a0446afb75cc1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_369811163b67bbe2f25a0446afb75cc1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Tập 3 - Chương 16 - Phẩm Hai Mươi Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=3255",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:54:15 Tập 3 - Chương 17 - Phẩm Ba Mươi Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=4762",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:19:22 Tập 3 - Chương 18-19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=6240",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:44:00 Tập 3 - Chương 20-21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=7971",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:12:51 Tập 3 - Phẩm 1 - Tập 1 Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=8750",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:25:50 Tập 3 - Phẩm 2 - Tập 2 Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=9352",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:35:52 Tập 3 - Phẩm 3 - Tập 3 Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=10109",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:48:29 Tập 3 - Phẩm 4 - Tập 4 Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=10229",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:50:29 Tập 3 - Phẩm 5 - Tập 5 Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=12248",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:24:08 Tập 3 - Phẩm 6 - Tập 6 Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=13388",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:43:08 Tập 3 - Phẩm 7 - Tập 7 Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=13815",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:50:15 Tập 3 - Phẩm 8 - Tập 8 Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=13966",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:52:46 Tập 3 - Phẩm 9 - Tập 9 Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=14139",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:55:39 Tập 3 - Phẩm 10 - Tập 10 Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=14478",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:01:18 Tập 3 - Phẩm 11 - Tập 11 Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=14744",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:05:44 Tập 3 - Phẩm 12 - Tập 12 Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=15009",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:10:09 Tập 3 - Phẩm 13 - Tập 13 Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=17151",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:45:51 Tập 3 - Phẩm 14 - Tập 14 Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=17723",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:55:23 Tập 3 - Phẩm 15 - Tập 15 Kệ",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=18354",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:05:54 Tập 3 - Phẩm 16 Đại Phẩm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=19371",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:22:51 Tập 4 - Chương 1 - Phẩm Apannaka - Chuyện 01 Pháp Tối Thượng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=20845",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:47:25 Tập 4 - Chương 1 - Phẩm Apannaka - Chuyện 02 - 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=21887",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:04:47 Tập 4 - Chương 1 - Phẩm Apannaka - Chuyện Tiểu Triệu Phú",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=23494",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:31:34 Tập 4 - Chương 1 - Phẩm Apannaka - Chuyện 06 - 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=24193",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:43:13 Tập 4 - Chương 1 - Phẩm Apannaka - Chuyện 08 - 09 - 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=25787",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:09:47 Tập 4 - Chương 1 - Phẩm Giới - Chuyện 11 - 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=27425",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:37:05 Tập 4 - Chương 1 - Phẩm Giới - Chuyện 13 Đến 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=28854",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:00:54 Tập 4 - Chương 1 - Phẩm Giới - Chuyện 17 Đến 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=29818",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:16:58 Tập 4 - Chương 1 - Phẩm Kurunga - Chuyện 21 Đến 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=31553",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:45:53 Tập 4 - Chương 1 - Phẩm Kurunga - Chuyện 26 Đến 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=33320",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:15:20 Tập 4 - Chương 1 - Phẩm Kulavaka - Chuyện 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=34435",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:33:55 Tập 4 - Chương 1 - Phẩm Kulavaka - Chuyện 32 Đến 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=36297",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:04:57 Tập 4 - Chương 1 - Phẩm Kulavaka - Chuyện 38 Đến 40",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Tập 3 - Chương 16 - Phẩm Hai Mươi Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=3255",
+    "title" : "00:54:15 Tập 3 - Chương 17 - Phẩm Ba Mươi Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=4762",
+    "title" : "01:19:22 Tập 3 - Chương 18-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=6240",
+    "title" : "01:44:00 Tập 3 - Chương 20-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=7971",
+    "title" : "02:12:51 Tập 3 - Phẩm 1 - Tập 1 Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=8750",
+    "title" : "02:25:50 Tập 3 - Phẩm 2 - Tập 2 Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=9352",
+    "title" : "02:35:52 Tập 3 - Phẩm 3 - Tập 3 Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=10109",
+    "title" : "02:48:29 Tập 3 - Phẩm 4 - Tập 4 Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=10229",
+    "title" : "02:50:29 Tập 3 - Phẩm 5 - Tập 5 Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=12248",
+    "title" : "03:24:08 Tập 3 - Phẩm 6 - Tập 6 Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=13388",
+    "title" : "03:43:08 Tập 3 - Phẩm 7 - Tập 7 Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=13815",
+    "title" : "03:50:15 Tập 3 - Phẩm 8 - Tập 8 Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=13966",
+    "title" : "03:52:46 Tập 3 - Phẩm 9 - Tập 9 Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=14139",
+    "title" : "03:55:39 Tập 3 - Phẩm 10 - Tập 10 Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=14478",
+    "title" : "04:01:18 Tập 3 - Phẩm 11 - Tập 11 Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=14744",
+    "title" : "04:05:44 Tập 3 - Phẩm 12 - Tập 12 Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=15009",
+    "title" : "04:10:09 Tập 3 - Phẩm 13 - Tập 13 Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=17151",
+    "title" : "04:45:51 Tập 3 - Phẩm 14 - Tập 14 Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=17723",
+    "title" : "04:55:23 Tập 3 - Phẩm 15 - Tập 15 Kệ",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=18354",
+    "title" : "05:05:54 Tập 3 - Phẩm 16 Đại Phẩm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=19371",
+    "title" : "05:22:51 Tập 4 - Chương 1 - Phẩm Apannaka - Chuyện 01 Pháp Tối Thượng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=20845",
+    "title" : "05:47:25 Tập 4 - Chương 1 - Phẩm Apannaka - Chuyện 02 - 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=21887",
+    "title" : "06:04:47 Tập 4 - Chương 1 - Phẩm Apannaka - Chuyện Tiểu Triệu Phú",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=23494",
+    "title" : "06:31:34 Tập 4 - Chương 1 - Phẩm Apannaka - Chuyện 06 - 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=24193",
+    "title" : "06:43:13 Tập 4 - Chương 1 - Phẩm Apannaka - Chuyện 08 - 09 - 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=25787",
+    "title" : "07:09:47 Tập 4 - Chương 1 - Phẩm Giới - Chuyện 11 - 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=27425",
+    "title" : "07:37:05 Tập 4 - Chương 1 - Phẩm Giới - Chuyện 13 Đến 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=28854",
+    "title" : "08:00:54 Tập 4 - Chương 1 - Phẩm Giới - Chuyện 17 Đến 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=29818",
+    "title" : "08:16:58 Tập 4 - Chương 1 - Phẩm Kurunga - Chuyện 21 Đến 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=31553",
+    "title" : "08:45:53 Tập 4 - Chương 1 - Phẩm Kurunga - Chuyện 26 Đến 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=33320",
+    "title" : "09:15:20 Tập 4 - Chương 1 - Phẩm Kulavaka - Chuyện 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=34435",
+    "title" : "09:33:55 Tập 4 - Chương 1 - Phẩm Kulavaka - Chuyện 32 Đến 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14102-kinh-tieu-bo-tap-4-thuviensach.vn.mp3?t=36297",
+    "title" : "10:04:57 Tập 4 - Chương 1 - Phẩm Kulavaka - Chuyện 38 Đến 40",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

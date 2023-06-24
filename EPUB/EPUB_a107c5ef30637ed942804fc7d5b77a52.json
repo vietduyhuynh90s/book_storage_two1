@@ -1,0 +1,317 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kinh-tieu-bo-tap-10-14108.html",
+    "title" : "KINH TIỂU BỘ - TẬP 10",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Minh Châu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tiểu Bộ kinh có nhan đề “Tiểu Bộ”, nhưng lại chứa đựng số lượng kinh lớn nhất trong năm bộ Nikàya là 15 tập, so với Trường Bộ (3 tập), Trung Bộ (3 tập), Tương Ưng Bộ (5 tập) và Tăng Chi Bộ (3 tập). Chữ “Tiểu” ở đây, theo các vị luận sư, muốn chỉ tính cách hỗn hợp nhiều đề tài được diễn tả bằng nhiều thể văn khác nhau, từ các kinh kệ ngắn gọn do Ðức Phật thuyết giảng, các tiền thân Ðức Phật với hàng ngàn bài kệ do các vị Tỳ kheo cảm tác, tiểu sử các Ðức Phật, các vị A-la-hán, sự tích Thiên cung, Ngạ quỷ do chư vị kết tập kinh điển biên soạn..., đến các luận thư phân tích giáo lý mở đầu cho văn học A Tì Ðàm (Abhidhamma) của Luận tạng về sau.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-24",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_a107c5ef30637ed942804fc7d5b77a52.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_a107c5ef30637ed942804fc7d5b77a52.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Tập 8 - Chương 16 - Phẩm Ba Mươi Bài Kệ - Chuyện Vương Tử Chiến Thắng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=1399",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:23:19 Tập 8 - Chương 16 - Phẩm Ba Mươi Bài Kệ - Chuyện Tượng Vương Ở Hồ Chaddanta",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=3393",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:56:33 Tập 8 - Chương 16 - Phẩm Ba Mươi Bài Kệ - Chuyện Nam Tử Sambhava",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=4529",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:15:29 Tập 8 - Chương 16 - Phẩm Ba Mươi Bài Kệ - Chuyện Khỉ Chúa - Tiền Thân Dakarakkhasa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=5289",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:28:09 Tập 8 - Chương 16 - Phẩm Ba Mươi Bài Kệ - Chuyện Long Vương Pandara",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=6227",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:43:47 Tập 8 - Chương 16 - Phẩm Ba Mươi Bài Kệ - Chuyện Hoàng Hậu Sambulà",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=7183",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:59:43 Tập 8 - Chương 16 - Phẩm Ba Mươi Bài Kệ - Chuyện Vị Thần Cây Tindu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=7962",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:12:42 Tập 9 - Chương 17 - Phẩm Bốn Mươi Bài Kệ - Chuyện Ba Con Chim",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=9093",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:31:33 Tập 9 - Chương 17 - Phẩm Bốn Mươi Bài Kệ - Chuyện Đại Nhân Thiện Xạ Sarabhanga",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=11785",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:16:25 Tập 9 - Chương 17 - Phẩm Bốn Mươi Bài Kệ - Chuyện Thiên Nữ Alambusà",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=12757",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:32:37 Tập 9 - Chương 17 - Phẩm Bốn Mươi Bài Kệ - Chuyện Long Vương Samkhapàla",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=14073",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:54:33 Tập 9 - Chương 17 - Phẩm Bốn Mươi Bài Kệ - Chuyện Tiểu Sutasoma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=15322",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:15:22 Tập 9 - Chương 18 - Phẩm Năm Mươi Bài Kệ - Chuyện Công Chúa Nalinikà",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=16376",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:32:56 Tập 9 - Chương 18 - Phẩm Năm Mươi Bài Kệ - Chuyện Kỳ Nữ Ummadantì",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=18000",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:00:00 Tập 9 - Chương 18 - Phẩm Năm Mươi Bài Kệ - Chuyện Hiền Giả Đại Bồ-Đề",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=20199",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:36:39 Tập 9 - Chương 19 - Phẩm Sáu Mươi Bài Kệ - Chuyện Hiền Giả Sonaka",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=21742",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:02:22 Tập 9 - Chương 19 - Phẩm Sáu Mươi Bài Kệ - Chuyện Hiền Giả Samkicca",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=22959",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:22:39 Tập 9 - Chương 20 - Phẩm Bảy Mươi Bài Kệ - Chuyện Đại Đế Kusa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=27819",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:43:39 Tập 9 - Chương 20 - Phẩm Bảy Mươi Bài Kệ - Chuyện Đại Hiền Giả Sona-Nanda",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=30181",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:23:01 Tập 9 - Chương 21 - Phẩm Tám Mươi Bài Kệ - Chuyện Tiểu Thiên Nga",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=32484",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:01:24 Tập 9 - Chương 21 - Phẩm Tám Mươi Bài Kệ - Chuyện Đại Thiên Nga",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=35374",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:49:34 Tập 9 - Chương 21 - Phẩm Tám Mươi Bài Kệ - Chuyện Thực Phẩm Thiên Giới",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=36710",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:11:50 Tập 9 - Chương 21 - Phẩm Tám Mươi Bài Kệ - Chuyện Thực Phẩm Thiên Giới - Tiếp Theo",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Tập 8 - Chương 16 - Phẩm Ba Mươi Bài Kệ - Chuyện Vương Tử Chiến Thắng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=1399",
+    "title" : "00:23:19 Tập 8 - Chương 16 - Phẩm Ba Mươi Bài Kệ - Chuyện Tượng Vương Ở Hồ Chaddanta",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=3393",
+    "title" : "00:56:33 Tập 8 - Chương 16 - Phẩm Ba Mươi Bài Kệ - Chuyện Nam Tử Sambhava",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=4529",
+    "title" : "01:15:29 Tập 8 - Chương 16 - Phẩm Ba Mươi Bài Kệ - Chuyện Khỉ Chúa - Tiền Thân Dakarakkhasa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=5289",
+    "title" : "01:28:09 Tập 8 - Chương 16 - Phẩm Ba Mươi Bài Kệ - Chuyện Long Vương Pandara",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=6227",
+    "title" : "01:43:47 Tập 8 - Chương 16 - Phẩm Ba Mươi Bài Kệ - Chuyện Hoàng Hậu Sambulà",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=7183",
+    "title" : "01:59:43 Tập 8 - Chương 16 - Phẩm Ba Mươi Bài Kệ - Chuyện Vị Thần Cây Tindu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=7962",
+    "title" : "02:12:42 Tập 9 - Chương 17 - Phẩm Bốn Mươi Bài Kệ - Chuyện Ba Con Chim",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=9093",
+    "title" : "02:31:33 Tập 9 - Chương 17 - Phẩm Bốn Mươi Bài Kệ - Chuyện Đại Nhân Thiện Xạ Sarabhanga",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=11785",
+    "title" : "03:16:25 Tập 9 - Chương 17 - Phẩm Bốn Mươi Bài Kệ - Chuyện Thiên Nữ Alambusà",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=12757",
+    "title" : "03:32:37 Tập 9 - Chương 17 - Phẩm Bốn Mươi Bài Kệ - Chuyện Long Vương Samkhapàla",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=14073",
+    "title" : "03:54:33 Tập 9 - Chương 17 - Phẩm Bốn Mươi Bài Kệ - Chuyện Tiểu Sutasoma",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=15322",
+    "title" : "04:15:22 Tập 9 - Chương 18 - Phẩm Năm Mươi Bài Kệ - Chuyện Công Chúa Nalinikà",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=16376",
+    "title" : "04:32:56 Tập 9 - Chương 18 - Phẩm Năm Mươi Bài Kệ - Chuyện Kỳ Nữ Ummadantì",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=18000",
+    "title" : "05:00:00 Tập 9 - Chương 18 - Phẩm Năm Mươi Bài Kệ - Chuyện Hiền Giả Đại Bồ-Đề",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=20199",
+    "title" : "05:36:39 Tập 9 - Chương 19 - Phẩm Sáu Mươi Bài Kệ - Chuyện Hiền Giả Sonaka",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=21742",
+    "title" : "06:02:22 Tập 9 - Chương 19 - Phẩm Sáu Mươi Bài Kệ - Chuyện Hiền Giả Samkicca",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=22959",
+    "title" : "06:22:39 Tập 9 - Chương 20 - Phẩm Bảy Mươi Bài Kệ - Chuyện Đại Đế Kusa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=27819",
+    "title" : "07:43:39 Tập 9 - Chương 20 - Phẩm Bảy Mươi Bài Kệ - Chuyện Đại Hiền Giả Sona-Nanda",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=30181",
+    "title" : "08:23:01 Tập 9 - Chương 21 - Phẩm Tám Mươi Bài Kệ - Chuyện Tiểu Thiên Nga",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=32484",
+    "title" : "09:01:24 Tập 9 - Chương 21 - Phẩm Tám Mươi Bài Kệ - Chuyện Đại Thiên Nga",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=35374",
+    "title" : "09:49:34 Tập 9 - Chương 21 - Phẩm Tám Mươi Bài Kệ - Chuyện Thực Phẩm Thiên Giới",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14108-kinh-tieu-bo-tap-10-thuviensach.vn.mp3?t=36710",
+    "title" : "10:11:50 Tập 9 - Chương 21 - Phẩm Tám Mươi Bài Kệ - Chuyện Thực Phẩm Thiên Giới - Tiếp Theo",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
