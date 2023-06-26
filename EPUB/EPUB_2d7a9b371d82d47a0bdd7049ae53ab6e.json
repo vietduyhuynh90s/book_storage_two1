@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ngu-cung-nguoi-chet.html",
+    "title" : "Ngủ Cùng Người Chết",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thảo Trang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 43289,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_2d7a9b371d82d47a0bdd7049ae53ab6e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_2d7a9b371d82d47a0bdd7049ae53ab6e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngu-cung-nguoi-chet/ngu-cung-nguoi-chet.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4725,
+    "title" : "ngu-cung-nguoi-chet",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-nguoi-chet/ngu-cung-nguoi-chet-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4053,
+    "title" : "ngu-cung-nguoi-chet-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-nguoi-chet/ngu-cung-nguoi-chet-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4106,
+    "title" : "ngu-cung-nguoi-chet-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-nguoi-chet/ngu-cung-nguoi-chet-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3978,
+    "title" : "ngu-cung-nguoi-chet-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-nguoi-chet/ngu-cung-nguoi-chet-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3990,
+    "title" : "ngu-cung-nguoi-chet-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-nguoi-chet/ngu-cung-nguoi-chet-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3978,
+    "title" : "ngu-cung-nguoi-chet-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-nguoi-chet/ngu-cung-nguoi-chet-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3950,
+    "title" : "ngu-cung-nguoi-chet-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-nguoi-chet/ngu-cung-nguoi-chet-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3917,
+    "title" : "ngu-cung-nguoi-chet-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-nguoi-chet/ngu-cung-nguoi-chet-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4087,
+    "title" : "ngu-cung-nguoi-chet-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-nguoi-chet/ngu-cung-nguoi-chet-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6505,
+    "title" : "ngu-cung-nguoi-chet-tap-10",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngu-cung-nguoi-chet/ngu-cung-nguoi-chet.mp3",
+    "title" : "ngu-cung-nguoi-chet",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-nguoi-chet/ngu-cung-nguoi-chet-tap-2.mp3",
+    "title" : "ngu-cung-nguoi-chet-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-nguoi-chet/ngu-cung-nguoi-chet-tap-3.mp3",
+    "title" : "ngu-cung-nguoi-chet-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-nguoi-chet/ngu-cung-nguoi-chet-tap-4.mp3",
+    "title" : "ngu-cung-nguoi-chet-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-nguoi-chet/ngu-cung-nguoi-chet-tap-5.mp3",
+    "title" : "ngu-cung-nguoi-chet-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-nguoi-chet/ngu-cung-nguoi-chet-tap-6.mp3",
+    "title" : "ngu-cung-nguoi-chet-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-nguoi-chet/ngu-cung-nguoi-chet-tap-7.mp3",
+    "title" : "ngu-cung-nguoi-chet-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-nguoi-chet/ngu-cung-nguoi-chet-tap-8.mp3",
+    "title" : "ngu-cung-nguoi-chet-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-nguoi-chet/ngu-cung-nguoi-chet-tap-9.mp3",
+    "title" : "ngu-cung-nguoi-chet-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ngu-cung-nguoi-chet/ngu-cung-nguoi-chet-tap-10.mp3",
+    "title" : "ngu-cung-nguoi-chet-tap-10",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

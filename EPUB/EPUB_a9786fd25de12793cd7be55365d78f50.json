@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/cuoc-doi.html",
+    "title" : "Cuộc đời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Thu Huyền",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_a9786fd25de12793cd7be55365d78f50.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_a9786fd25de12793cd7be55365d78f50.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801503.us.archive.org/8/items/cuoc-doi-full/CuocDoi_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cuộc đời tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801503.us.archive.org/8/items/cuoc-doi-full/CuocDoi_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cuộc đời tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801503.us.archive.org/8/items/cuoc-doi-full/CuocDoi_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cuộc đời tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801503.us.archive.org/8/items/cuoc-doi-full/CuocDoi_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cuộc đời tập 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801503.us.archive.org/8/items/cuoc-doi-full/CuocDoi_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Cuộc đời tập 5",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801503.us.archive.org/8/items/cuoc-doi-full/CuocDoi_01.mp3",
+    "title" : "Cuộc đời tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801503.us.archive.org/8/items/cuoc-doi-full/CuocDoi_02.mp3",
+    "title" : "Cuộc đời tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801503.us.archive.org/8/items/cuoc-doi-full/CuocDoi_03.mp3",
+    "title" : "Cuộc đời tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801503.us.archive.org/8/items/cuoc-doi-full/CuocDoi_04.mp3",
+    "title" : "Cuộc đời tập 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801503.us.archive.org/8/items/cuoc-doi-full/CuocDoi_05.mp3",
+    "title" : "Cuộc đời tập 5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

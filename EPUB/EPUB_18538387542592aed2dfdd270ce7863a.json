@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ai-vua-thap-nhang-vong-hon.html",
+    "title" : "Ai vừa thắp nhang vong hồn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngọc Sơn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_18538387542592aed2dfdd270ce7863a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_18538387542592aed2dfdd270ce7863a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801502.us.archive.org/2/items/ai-vua-thap-nhang-vong-hon-full/AiVuaThapNhangVongHon_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ai vừa thắp nhang vong hồn tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801502.us.archive.org/2/items/ai-vua-thap-nhang-vong-hon-full/AiVuaThapNhangVongHon_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Ai vừa thắp nhang vong hồn tập 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801502.us.archive.org/2/items/ai-vua-thap-nhang-vong-hon-full/AiVuaThapNhangVongHon_01.mp3",
+    "title" : "Ai vừa thắp nhang vong hồn tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801502.us.archive.org/2/items/ai-vua-thap-nhang-vong-hon-full/AiVuaThapNhangVongHon_02.mp3",
+    "title" : "Ai vừa thắp nhang vong hồn tập 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

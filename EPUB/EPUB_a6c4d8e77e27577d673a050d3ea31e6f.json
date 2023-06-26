@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/co-giao-toi-nuoi-ma-ga.html",
+    "title" : "Cô Giáo Tôi Nuôi Ma Gà",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thảo Trang",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 15571,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_a6c4d8e77e27577d673a050d3ea31e6f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_a6c4d8e77e27577d673a050d3ea31e6f.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/cogiaotoinuoimaga/cogiaotoinuoimaga.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4151,
+    "title" : "cogiaotoinuoimaga",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cogiaotoinuoimaga/cogiaotoinuoimaga_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3834,
+    "title" : "cogiaotoinuoimaga_2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cogiaotoinuoimaga/cogiaotoinuoimaga_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3545,
+    "title" : "cogiaotoinuoimaga_3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/cogiaotoinuoimaga/cogiaotoinuoimaga_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4041,
+    "title" : "cogiaotoinuoimaga_4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/cogiaotoinuoimaga/cogiaotoinuoimaga.mp3",
+    "title" : "cogiaotoinuoimaga",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cogiaotoinuoimaga/cogiaotoinuoimaga_2.mp3",
+    "title" : "cogiaotoinuoimaga_2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cogiaotoinuoimaga/cogiaotoinuoimaga_3.mp3",
+    "title" : "cogiaotoinuoimaga_3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/cogiaotoinuoimaga/cogiaotoinuoimaga_4.mp3",
+    "title" : "cogiaotoinuoimaga_4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

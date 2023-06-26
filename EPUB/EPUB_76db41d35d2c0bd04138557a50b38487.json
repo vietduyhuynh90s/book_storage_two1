@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/mieu-xa-thieng.html",
+    "title" : "Miếu Xà Thiêng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Gia Phúc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 6484,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_76db41d35d2c0bd04138557a50b38487.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_76db41d35d2c0bd04138557a50b38487.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/mieu-xa-thieng/mieu-xa-thieng.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3388,
+    "title" : "mieu-xa-thieng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/mieu-xa-thieng/mieu-xa-thieng-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3096,
+    "title" : "mieu-xa-thieng-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/mieu-xa-thieng/mieu-xa-thieng.mp3",
+    "title" : "mieu-xa-thieng",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/mieu-xa-thieng/mieu-xa-thieng-tap-2.mp3",
+    "title" : "mieu-xa-thieng-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

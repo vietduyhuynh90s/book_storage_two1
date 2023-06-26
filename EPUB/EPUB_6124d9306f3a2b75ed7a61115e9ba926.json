@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/vien-dieu-duong-ma-quai.html",
+    "title" : "Viện Điều Dưỡng Ma Quái",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ngô Đồng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 3548,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_6124d9306f3a2b75ed7a61115e9ba926.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_6124d9306f3a2b75ed7a61115e9ba926.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vien-dieu-duong-ma-quai/vien-dieu-duong-ma-quai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3548,
+    "title" : "vien-dieu-duong-ma-quai",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vien-dieu-duong-ma-quai/vien-dieu-duong-ma-quai.mp3",
+    "title" : "vien-dieu-duong-ma-quai",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

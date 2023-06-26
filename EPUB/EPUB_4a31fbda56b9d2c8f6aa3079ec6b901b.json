@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/co-quy-o-que-toi.html",
+    "title" : "Có quỷ ở quê tôi",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Đang cập nhập",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_4a31fbda56b9d2c8f6aa3079ec6b901b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_4a31fbda56b9d2c8f6aa3079ec6b901b.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801400.us.archive.org/4/items/co-quy-o-que-toi/co-quy-o-que-toi-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Có quỷ ở quê tôi Tập 1 - MC Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801400.us.archive.org/4/items/co-quy-o-que-toi/co-quy-o-que-toi-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Có quỷ ở quê tôi Tập 2 - MC Quàng A Tũn - Nghetruyenma.net",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801400.us.archive.org/4/items/co-quy-o-que-toi/co-quy-o-que-toi-tap-1.mp3",
+    "title" : "Có quỷ ở quê tôi Tập 1 - MC Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801400.us.archive.org/4/items/co-quy-o-que-toi/co-quy-o-que-toi-tap-2.mp3",
+    "title" : "Có quỷ ở quê tôi Tập 2 - MC Quàng A Tũn - Nghetruyenma.net",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

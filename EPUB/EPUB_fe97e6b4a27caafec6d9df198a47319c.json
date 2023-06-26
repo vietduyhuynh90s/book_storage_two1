@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/chuyen-am.html",
+    "title" : "Chuyện âm",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Xuân Võ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_fe97e6b4a27caafec6d9df198a47319c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_fe97e6b4a27caafec6d9df198a47319c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801509.us.archive.org/25/items/chuyen-am-full/ChuyenAm_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Chuyện âm tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801509.us.archive.org/25/items/chuyen-am-full/ChuyenAm_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Chuyện âm tập 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801509.us.archive.org/25/items/chuyen-am-full/ChuyenAm_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Chuyện âm tập 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801509.us.archive.org/25/items/chuyen-am-full/ChuyenAm_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Chuyện âm tập 4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801509.us.archive.org/25/items/chuyen-am-full/ChuyenAm_01.mp3",
+    "title" : "Chuyện âm tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801509.us.archive.org/25/items/chuyen-am-full/ChuyenAm_02.mp3",
+    "title" : "Chuyện âm tập 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801509.us.archive.org/25/items/chuyen-am-full/ChuyenAm_03.mp3",
+    "title" : "Chuyện âm tập 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801509.us.archive.org/25/items/chuyen-am-full/ChuyenAm_04.mp3",
+    "title" : "Chuyện âm tập 4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

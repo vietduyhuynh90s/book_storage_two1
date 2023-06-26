@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/hai-doi-tra-nghiep.html",
+    "title" : "Hai Đời Trả Nghiệp",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Người Cõi Âm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_269afaaf5e06ee7d02d762a6a4f8acb8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_269afaaf5e06ee7d02d762a6a4f8acb8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801502.us.archive.org/6/items/hai-doi-tra-nghiep/hai-doi-tra-nghiep-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Hai đời trả nghiệp tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801502.us.archive.org/6/items/hai-doi-tra-nghiep/hai-doi-tra-nghiep-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Hai đời trả nghiệp tập 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801502.us.archive.org/6/items/hai-doi-tra-nghiep/hai-doi-tra-nghiep-tap-1.mp3",
+    "title" : "Hai đời trả nghiệp tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801502.us.archive.org/6/items/hai-doi-tra-nghiep/hai-doi-tra-nghiep-tap-2.mp3",
+    "title" : "Hai đời trả nghiệp tập 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

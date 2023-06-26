@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/yeu-nguoi-khong-bong.html",
+    "title" : "Yêu Người Không Bóng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Đan Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 12194,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_817fd2f94740994b73404bab6d45285a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_817fd2f94740994b73404bab6d45285a.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/yeu-nguoi-khong-bong/yeu-nguoi-khong-bong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4007,
+    "title" : "yeu-nguoi-khong-bong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-nguoi-khong-bong/yeu-nguoi-khong-bong-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3975,
+    "title" : "yeu-nguoi-khong-bong-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/yeu-nguoi-khong-bong/yeu-nguoi-khong-bong-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4212,
+    "title" : "yeu-nguoi-khong-bong-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/yeu-nguoi-khong-bong/yeu-nguoi-khong-bong.mp3",
+    "title" : "yeu-nguoi-khong-bong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-nguoi-khong-bong/yeu-nguoi-khong-bong-tap-2.mp3",
+    "title" : "yeu-nguoi-khong-bong-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/yeu-nguoi-khong-bong/yeu-nguoi-khong-bong-tap-3.mp3",
+    "title" : "yeu-nguoi-khong-bong-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

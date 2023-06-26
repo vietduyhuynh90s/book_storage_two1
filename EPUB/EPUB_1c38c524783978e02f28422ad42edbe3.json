@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/giac-quan-thu-6.html",
+    "title" : "Giác Quan Thứ 6",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hiếu Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_1c38c524783978e02f28422ad42edbe3.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_1c38c524783978e02f28422ad42edbe3.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia801405.us.archive.org/13/items/giac-quan-thu-6/giac-quan-thu-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Giác quan thứ 6 tập 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia801405.us.archive.org/13/items/giac-quan-thu-6/giac-quan-thu-6-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Giác quan thứ 6 tập 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia801405.us.archive.org/13/items/giac-quan-thu-6/giac-quan-thu-6.mp3",
+    "title" : "Giác quan thứ 6 tập 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia801405.us.archive.org/13/items/giac-quan-thu-6/giac-quan-thu-6-tap-2.mp3",
+    "title" : "Giác quan thứ 6 tập 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
