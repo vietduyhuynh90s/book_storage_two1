@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/hon-co-mi-x-ac-co-hoa.html",
+    "title" : "Hồn Cô Mị X.ác Cô Hoa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhà Văn Bố Láo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-26",
+    "duration" : 18184,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_bcf5ca27e7978d3bcc530b35d2a02319.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_bcf5ca27e7978d3bcc530b35d2a02319.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hon-co-mi-x-ac-co-hoa/hon-co-mi-x-ac-co-hoa.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6239,
+    "title" : "hon-co-mi-x-ac-co-hoa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hon-co-mi-x-ac-co-hoa/hon-co-mi-x-ac-co-hoa-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5704,
+    "title" : "hon-co-mi-x-ac-co-hoa-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/hon-co-mi-x-ac-co-hoa/hon-co-mi-x-ac-co-hoa-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6241,
+    "title" : "hon-co-mi-x-ac-co-hoa-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hon-co-mi-x-ac-co-hoa/hon-co-mi-x-ac-co-hoa.mp3",
+    "title" : "hon-co-mi-x-ac-co-hoa",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hon-co-mi-x-ac-co-hoa/hon-co-mi-x-ac-co-hoa-tap-2.mp3",
+    "title" : "hon-co-mi-x-ac-co-hoa-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hon-co-mi-x-ac-co-hoa/hon-co-mi-x-ac-co-hoa-tap-3.mp3",
+    "title" : "hon-co-mi-x-ac-co-hoa-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
