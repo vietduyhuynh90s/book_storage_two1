@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/phong-tro-co-ma-2.html",
+    "title" : "Phòng Trọ Có Ma",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Luna Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 9905,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_9eb5173537f64e0e65e753457ac2377a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_9eb5173537f64e0e65e753457ac2377a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phong-tro-co-ma_202203/phong-tro-co-ma.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3656,
+    "title" : "phong-tro-co-ma",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-tro-co-ma_202203/phong-tro-co-ma-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3566,
+    "title" : "phong-tro-co-ma-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phong-tro-co-ma_202203/phong-tro-co-ma-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2683,
+    "title" : "phong-tro-co-ma-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phong-tro-co-ma_202203/phong-tro-co-ma.mp3",
+    "title" : "phong-tro-co-ma",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tro-co-ma_202203/phong-tro-co-ma-tap-2.mp3",
+    "title" : "phong-tro-co-ma-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phong-tro-co-ma_202203/phong-tro-co-ma-tap-3.mp3",
+    "title" : "phong-tro-co-ma-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

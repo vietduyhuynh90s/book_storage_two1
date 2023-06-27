@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/luyen-cuu-am-nuoi-hon-sat.html",
+    "title" : "Luyện Cửu Âm Nuôi Hồn Sát",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tuấn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 11373,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_e5deec8c90e449b2f5b29185acf3067a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_e5deec8c90e449b2f5b29185acf3067a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/luyen-cuu-am-nuoi-hon-sat/luyen-cuu-am-nuoi-hon-sat.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6131,
+    "title" : "luyen-cuu-am-nuoi-hon-sat",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/luyen-cuu-am-nuoi-hon-sat/luyen-cuu-am-nuoi-hon-sat-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5242,
+    "title" : "luyen-cuu-am-nuoi-hon-sat-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/luyen-cuu-am-nuoi-hon-sat/luyen-cuu-am-nuoi-hon-sat.mp3",
+    "title" : "luyen-cuu-am-nuoi-hon-sat",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/luyen-cuu-am-nuoi-hon-sat/luyen-cuu-am-nuoi-hon-sat-tap-2.mp3",
+    "title" : "luyen-cuu-am-nuoi-hon-sat-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

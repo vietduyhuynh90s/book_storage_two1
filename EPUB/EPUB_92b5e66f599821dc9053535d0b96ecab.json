@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/trung-tang-trong-ngon-lua.html",
+    "title" : "Trùng Tang Trong Ngọn Lửa",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hà Dương",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 48686,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_92b5e66f599821dc9053535d0b96ecab.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_92b5e66f599821dc9053535d0b96ecab.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4293,
+    "title" : "trung-tang-trong-ngon-lua",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4213,
+    "title" : "trung-tang-trong-ngon-lua-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4105,
+    "title" : "trung-tang-trong-ngon-lua-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4348,
+    "title" : "trung-tang-trong-ngon-lua-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4366,
+    "title" : "trung-tang-trong-ngon-lua-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4178,
+    "title" : "trung-tang-trong-ngon-lua-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4300,
+    "title" : "trung-tang-trong-ngon-lua-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4689,
+    "title" : "trung-tang-trong-ngon-lua-tap-8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua-tap-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4676,
+    "title" : "trung-tang-trong-ngon-lua-tap-9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua-tap-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4541,
+    "title" : "trung-tang-trong-ngon-lua-tap-10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua-tap-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4977,
+    "title" : "trung-tang-trong-ngon-lua-tap-11",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua.mp3",
+    "title" : "trung-tang-trong-ngon-lua",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua-tap-2.mp3",
+    "title" : "trung-tang-trong-ngon-lua-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua-tap-3.mp3",
+    "title" : "trung-tang-trong-ngon-lua-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua-tap-4.mp3",
+    "title" : "trung-tang-trong-ngon-lua-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua-tap-5.mp3",
+    "title" : "trung-tang-trong-ngon-lua-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua-tap-6.mp3",
+    "title" : "trung-tang-trong-ngon-lua-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua-tap-7.mp3",
+    "title" : "trung-tang-trong-ngon-lua-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua-tap-8.mp3",
+    "title" : "trung-tang-trong-ngon-lua-tap-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua-tap-9.mp3",
+    "title" : "trung-tang-trong-ngon-lua-tap-9",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua-tap-10.mp3",
+    "title" : "trung-tang-trong-ngon-lua-tap-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trung-tang-trong-ngon-lua/trung-tang-trong-ngon-lua-tap-11.mp3",
+    "title" : "trung-tang-trong-ngon-lua-tap-11",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

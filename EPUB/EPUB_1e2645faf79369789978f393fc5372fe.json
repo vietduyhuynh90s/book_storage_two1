@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/phong-tro-ma-so-9-ngo-53-de-la-thanh.html",
+    "title" : "Phòng Trọ Ma Số 9 ngõ 53 Đê La Thành",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhung Mina",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 6635,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_1e2645faf79369789978f393fc5372fe.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_1e2645faf79369789978f393fc5372fe.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phong-tro-ma-so-49-ngo-53-de-la-thanh/phong-tro-ma-so-49-ngo-53-de-la-thanh.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6635,
+    "title" : "phong-tro-ma-so-49-ngo-53-de-la-thanh",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phong-tro-ma-so-49-ngo-53-de-la-thanh/phong-tro-ma-so-49-ngo-53-de-la-thanh.mp3",
+    "title" : "phong-tro-ma-so-49-ngo-53-de-la-thanh",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

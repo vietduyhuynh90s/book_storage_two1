@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ngoi-mo-duoi-chan-deo-mong.html",
+    "title" : "Ngôi Mộ Dưới Chân Đèo Mông",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Sỹ Đoàn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 3999,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_40cede898c5395d996ad3a8e8b5b3aac.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_40cede898c5395d996ad3a8e8b5b3aac.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ngoi-mo-duoi-chan-deo-mong/ngoi-mo-duoi-chan-deo-mong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3999,
+    "title" : "ngoi-mo-duoi-chan-deo-mong",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ngoi-mo-duoi-chan-deo-mong/ngoi-mo-duoi-chan-deo-mong.mp3",
+    "title" : "ngoi-mo-duoi-chan-deo-mong",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

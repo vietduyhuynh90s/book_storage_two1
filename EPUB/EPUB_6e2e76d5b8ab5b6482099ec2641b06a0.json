@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/phap-su-luan-lac-tim-tho-cong.html",
+    "title" : "Pháp Sư Luận Lác Tìm Thổ Công",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diễm Hằng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 13396,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_6e2e76d5b8ab5b6482099ec2641b06a0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_6e2e76d5b8ab5b6482099ec2641b06a0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phap-su-luan-lac-tim-tho-cong/phap-su-luan-lac-tim-tho-cong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6496,
+    "title" : "phap-su-luan-lac-tim-tho-cong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phap-su-luan-lac-tim-tho-cong/phap-su-luan-lac-tim-tho-cong-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6900,
+    "title" : "phap-su-luan-lac-tim-tho-cong-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phap-su-luan-lac-tim-tho-cong/phap-su-luan-lac-tim-tho-cong.mp3",
+    "title" : "phap-su-luan-lac-tim-tho-cong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phap-su-luan-lac-tim-tho-cong/phap-su-luan-lac-tim-tho-cong-tap-2.mp3",
+    "title" : "phap-su-luan-lac-tim-tho-cong-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

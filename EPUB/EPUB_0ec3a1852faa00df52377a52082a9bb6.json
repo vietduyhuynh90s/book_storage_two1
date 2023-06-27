@@ -1,0 +1,89 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/phap-su-den.html",
+    "title" : "Pháp Sư Đen Phần 2",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nam Kun",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 19165,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_0ec3a1852faa00df52377a52082a9bb6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_0ec3a1852faa00df52377a52082a9bb6.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/psden2/phap-su-den-phan-2-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4254,
+    "title" : "phap-su-den-phan-2-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/psden2/phap-su-den-phan-2-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6465,
+    "title" : "phap-su-den-phan-2-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/psden2/phap-su-den-phan-2-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3861,
+    "title" : "phap-su-den-phan-2-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/psden2/phap-su-den-phan-2-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4585,
+    "title" : "phap-su-den-phan-2-tap-4",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/psden2/phap-su-den-phan-2-tap-1.mp3",
+    "title" : "phap-su-den-phan-2-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/psden2/phap-su-den-phan-2-tap-2.mp3",
+    "title" : "phap-su-den-phan-2-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/psden2/phap-su-den-phan-2-tap-3.mp3",
+    "title" : "phap-su-den-phan-2-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/psden2/phap-su-den-phan-2-tap-4.mp3",
+    "title" : "phap-su-den-phan-2-tap-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

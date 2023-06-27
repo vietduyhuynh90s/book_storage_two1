@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/x-ac-c-het-trong-chuong-ga.html",
+    "title" : "X.ác C.hết Trong Chuồng Gà",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thuận Thiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 6835,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_03ae70f5e9e9fd2e9c2676441827f91a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_03ae70f5e9e9fd2e9c2676441827f91a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/xac-chet-trong-chuong-ga/xac-chet-trong-chuong-ga.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6835,
+    "title" : "xac-chet-trong-chuong-ga",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/xac-chet-trong-chuong-ga/xac-chet-trong-chuong-ga.mp3",
+    "title" : "xac-chet-trong-chuong-ga",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

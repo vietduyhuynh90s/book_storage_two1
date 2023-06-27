@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/con-meo-den-duoi-goc-cay-hoe.html",
+    "title" : "Con Mèo Đen Dưới Gốc Cây Hòe",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lãnh Nguyệt",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 4980,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_0f4c87885f6f8d783087428fc91e9e73.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_0f4c87885f6f8d783087428fc91e9e73.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/con-meo-den-duoi-goc-cay-hoe/con-meo-den-duoi-goc-cay-hoe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4980,
+    "title" : "con-meo-den-duoi-goc-cay-hoe",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/con-meo-den-duoi-goc-cay-hoe/con-meo-den-duoi-goc-cay-hoe.mp3",
+    "title" : "con-meo-den-duoi-goc-cay-hoe",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

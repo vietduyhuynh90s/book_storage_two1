@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/van-quan-tai-o-xuong-moc.html",
+    "title" : "Ván Quan Tài Ở Xưởng Mộc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhà Văn Bố Láo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 5366,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_34cf3a2ce4a97a32af4fb755895761be.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_34cf3a2ce4a97a32af4fb755895761be.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/van-quan-tai-o-xuong-moc/van-quan-tai-o-xuong-moc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5366,
+    "title" : "van-quan-tai-o-xuong-moc",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/van-quan-tai-o-xuong-moc/van-quan-tai-o-xuong-moc.mp3",
+    "title" : "van-quan-tai-o-xuong-moc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

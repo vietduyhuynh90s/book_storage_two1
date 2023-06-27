@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nha-ho-pham-co-ma.html",
+    "title" : "Nhà Họ Phạm Có Ma",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Luna Nguyễn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 12497,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_345df767f9510e67f53aeb81536d4c1d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_345df767f9510e67f53aeb81536d4c1d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/con-ma-nha-ba-ho-pham/con-ma-nha-ba-ho-pham.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6575,
+    "title" : "con-ma-nha-ba-ho-pham",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/con-ma-nha-ba-ho-pham/nha-ho-pham-co-ma-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5922,
+    "title" : "nha-ho-pham-co-ma-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/con-ma-nha-ba-ho-pham/con-ma-nha-ba-ho-pham.mp3",
+    "title" : "con-ma-nha-ba-ho-pham",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-ma-nha-ba-ho-pham/nha-ho-pham-co-ma-tap-2.mp3",
+    "title" : "nha-ho-pham-co-ma-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

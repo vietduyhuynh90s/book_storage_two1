@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/nghiep-bua-ngai.html",
+    "title" : "Nghiệp Bùa Ngải",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thảo Vy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 10759,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_f63f3221189e2ca8d5382cf7464acc61.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_f63f3221189e2ca8d5382cf7464acc61.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nghiep-bua-ngai/nghiep-bua-ngai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5025,
+    "title" : "nghiep-bua-ngai",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/nghiep-bua-ngai/nghiep-bua-ngai-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5734,
+    "title" : "nghiep-bua-ngai-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nghiep-bua-ngai/nghiep-bua-ngai.mp3",
+    "title" : "nghiep-bua-ngai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nghiep-bua-ngai/nghiep-bua-ngai-tap-2.mp3",
+    "title" : "nghiep-bua-ngai-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

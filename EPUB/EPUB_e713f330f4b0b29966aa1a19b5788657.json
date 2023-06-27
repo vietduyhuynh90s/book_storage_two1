@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/thay-phap-diet-thuong-luong.html",
+    "title" : "Thầy Pháp Diệt Thuồng Luồng",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Diễm Hằng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 11639,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_e713f330f4b0b29966aa1a19b5788657.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_e713f330f4b0b29966aa1a19b5788657.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phap-su-diet-thuong-luong/phap-su-diet-thuong-luong.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5435,
+    "title" : "phap-su-diet-thuong-luong",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/phap-su-diet-thuong-luong/thay-phap-diet-thuong-luong-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6204,
+    "title" : "thay-phap-diet-thuong-luong-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phap-su-diet-thuong-luong/phap-su-diet-thuong-luong.mp3",
+    "title" : "phap-su-diet-thuong-luong",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phap-su-diet-thuong-luong/thay-phap-diet-thuong-luong-tap-2.mp3",
+    "title" : "thay-phap-diet-thuong-luong-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

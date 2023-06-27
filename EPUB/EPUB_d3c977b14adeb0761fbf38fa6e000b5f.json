@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/anh-lua-dem-cho-cai-be.html",
+    "title" : "Ánh Lửa Đêm Chợ Cái Bè",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Giang Messi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 8738,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_d3c977b14adeb0761fbf38fa6e000b5f.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_d3c977b14adeb0761fbf38fa6e000b5f.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/anh-lua-dem-cho-cai-be/anh-lua-dem-cho-cai-be.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4192,
+    "title" : "anh-lua-dem-cho-cai-be",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/anh-lua-dem-cho-cai-be/anh-lua-dem-cho-cai-be-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4546,
+    "title" : "anh-lua-dem-cho-cai-be-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/anh-lua-dem-cho-cai-be/anh-lua-dem-cho-cai-be.mp3",
+    "title" : "anh-lua-dem-cho-cai-be",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/anh-lua-dem-cho-cai-be/anh-lua-dem-cho-cai-be-tap-2.mp3",
+    "title" : "anh-lua-dem-cho-cai-be-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

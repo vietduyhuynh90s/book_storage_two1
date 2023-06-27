@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/quy-doi-lang-tre.html",
+    "title" : "Quỷ Đói Làng Tre",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sói",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 12535,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_198282ee90bf231c557aa6cc2c6f3e77.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_198282ee90bf231c557aa6cc2c6f3e77.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thay-cung-diet-quy-doi-lang-tre/thay-cung-diet-quy-doi-lang-tre.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6055,
+    "title" : "thay-cung-diet-quy-doi-lang-tre",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-cung-diet-quy-doi-lang-tre/diet-quy-doi-lang-tre-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6480,
+    "title" : "diet-quy-doi-lang-tre-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thay-cung-diet-quy-doi-lang-tre/thay-cung-diet-quy-doi-lang-tre.mp3",
+    "title" : "thay-cung-diet-quy-doi-lang-tre",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-cung-diet-quy-doi-lang-tre/diet-quy-doi-lang-tre-tap-2.mp3",
+    "title" : "diet-quy-doi-lang-tre-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

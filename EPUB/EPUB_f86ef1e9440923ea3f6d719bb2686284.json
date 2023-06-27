@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/x-ac-ai-trong-tuong-phong-tro.html",
+    "title" : "X.ác Ai Trong Tường Phòng Trọ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Phong Tường",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 7274,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_f86ef1e9440923ea3f6d719bb2686284.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_f86ef1e9440923ea3f6d719bb2686284.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/xac-ai-trong-tuong-phong-tro/xac-ai-trong-tuong-phong-tro.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 7274,
+    "title" : "xac-ai-trong-tuong-phong-tro",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/xac-ai-trong-tuong-phong-tro/xac-ai-trong-tuong-phong-tro.mp3",
+    "title" : "xac-ai-trong-tuong-phong-tro",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

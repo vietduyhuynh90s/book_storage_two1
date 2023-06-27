@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/ac-vong-deo-bam.html",
+    "title" : "Ác Vong Đeo Bám",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Lâm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 10211,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_9b3ceba3efc979074af936c98bd68218.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_9b3ceba3efc979074af936c98bd68218.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/ac-vong-deo-bam/ac-vong-deo-bam.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3662,
+    "title" : "ac-vong-deo-bam",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ac-vong-deo-bam/ac-vong-deo-bam-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3448,
+    "title" : "ac-vong-deo-bam-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/ac-vong-deo-bam/ac-vong-deo-bam-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3101,
+    "title" : "ac-vong-deo-bam-tap-3",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/ac-vong-deo-bam/ac-vong-deo-bam.mp3",
+    "title" : "ac-vong-deo-bam",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ac-vong-deo-bam/ac-vong-deo-bam-tap-2.mp3",
+    "title" : "ac-vong-deo-bam-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/ac-vong-deo-bam/ac-vong-deo-bam-tap-3.mp3",
+    "title" : "ac-vong-deo-bam-tap-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

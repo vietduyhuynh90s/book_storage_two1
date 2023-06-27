@@ -1,0 +1,137 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/quy-quai-tac-loan.html",
+    "title" : "Quỷ Quái Tác Loạn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cổ Phong Sĩ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 32284,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_ae7356a2a3167d276e6782c7cff1908d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_ae7356a2a3167d276e6782c7cff1908d.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quy-quai-tac-loan/quy-quai-tac-loan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3822,
+    "title" : "quy-quai-tac-loan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-quai-tac-loan/quy-quai-tac-loan-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3927,
+    "title" : "quy-quai-tac-loan-tap-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-quai-tac-loan/quy-quai-tac-loan-tap-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3948,
+    "title" : "quy-quai-tac-loan-tap-3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-quai-tac-loan/quy-quai-tac-loan-tap-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3920,
+    "title" : "quy-quai-tac-loan-tap-4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-quai-tac-loan/quy-quai-tac-loan-tap-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4068,
+    "title" : "quy-quai-tac-loan-tap-5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-quai-tac-loan/quy-quai-tac-loan-tap-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4228,
+    "title" : "quy-quai-tac-loan-tap-6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-quai-tac-loan/quy-quai-tac-loan-tap-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4073,
+    "title" : "quy-quai-tac-loan-tap-7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/quy-quai-tac-loan/quy-quai-tac-loan-tap-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4298,
+    "title" : "quy-quai-tac-loan-tap-8",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quy-quai-tac-loan/quy-quai-tac-loan.mp3",
+    "title" : "quy-quai-tac-loan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-quai-tac-loan/quy-quai-tac-loan-tap-2.mp3",
+    "title" : "quy-quai-tac-loan-tap-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-quai-tac-loan/quy-quai-tac-loan-tap-3.mp3",
+    "title" : "quy-quai-tac-loan-tap-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-quai-tac-loan/quy-quai-tac-loan-tap-4.mp3",
+    "title" : "quy-quai-tac-loan-tap-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-quai-tac-loan/quy-quai-tac-loan-tap-5.mp3",
+    "title" : "quy-quai-tac-loan-tap-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-quai-tac-loan/quy-quai-tac-loan-tap-6.mp3",
+    "title" : "quy-quai-tac-loan-tap-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-quai-tac-loan/quy-quai-tac-loan-tap-7.mp3",
+    "title" : "quy-quai-tac-loan-tap-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/quy-quai-tac-loan/quy-quai-tac-loan-tap-8.mp3",
+    "title" : "quy-quai-tac-loan-tap-8",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

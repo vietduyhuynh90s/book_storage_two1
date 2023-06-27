@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://nghetruyenma.net/thay-ton-cuu-luyen-ta.html",
+    "title" : "Thầy Tôn Cửu Luyện Tà",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoa Bỉ Ngạn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-27",
+    "duration" : 11755,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_cbfe936c2b9a5ca3b5016f0fca7b8840.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_cbfe936c2b9a5ca3b5016f0fca7b8840.webp",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thay-ton-luyen-ta/thay-ton-luyen-ta-tap-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5505,
+    "title" : "thay-ton-luyen-ta-tap-1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/thay-ton-luyen-ta/thay-ton-cuu-luyen-ta-tap-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6250,
+    "title" : "thay-ton-cuu-luyen-ta-tap-2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thay-ton-luyen-ta/thay-ton-luyen-ta-tap-1.mp3",
+    "title" : "thay-ton-luyen-ta-tap-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thay-ton-luyen-ta/thay-ton-cuu-luyen-ta-tap-2.mp3",
+    "title" : "thay-ton-cuu-luyen-ta-tap-2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
