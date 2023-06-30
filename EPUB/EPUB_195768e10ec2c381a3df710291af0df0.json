@@ -1,0 +1,65 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.youtube.com/watch?v=C_D6cP3e2-o",
+    "title" : "Dear, Darling",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hiên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "Sau 2 năm vắng bóng, Hiên đã quay trở lại với cuốn sách “Dear, Darling”. Là nữ tác giả nổi tiếng trong lòng độc giả nữ, cô sở hữu nhiều tác phẩm ăn khách như: Stay With Me, Anh ấy đã không nắm tay tôi,… Tất cả các tác phẩm của Hiên đều mang một điểm chung là giàu hoài niệm, nhưng với sự trở lại lần này, “Dear, Darling” như một làn gió mới, mang nét lạc quan, vui tươi hơn nhiều.Đến với cuốn sách “Dear, Darling”, bạn sẽ được hòa mình vào dòng cảm xúc có chút ngổn ngang, đau đớn, nhưng thật hạnh phúc. Chất văn của Hiên bao giờ cũng đậm chất thơ, đưa chúng ta về lại những năm tháng đau khổ sau cuộc tình đổ vỡ, để rồi dịu dàng chữa lành trái tim ta.",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-06-30",
+    "duration" : 7286,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_195768e10ec2c381a3df710291af0df0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_195768e10ec2c381a3df710291af0df0.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://ia802705.us.archive.org/18/items/dear-darling/dear-darling-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://ia802705.us.archive.org/18/items/dear-darling/dear-darling-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Phần 2",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://ia802705.us.archive.org/18/items/dear-darling/dear-darling-1.mp3",
+    "title" : "Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://ia802705.us.archive.org/18/items/dear-darling/dear-darling-2.mp3",
+    "title" : "Phần 2",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
