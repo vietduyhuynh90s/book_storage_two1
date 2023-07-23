@@ -1,0 +1,173 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/phap-bao-dan-kinh-5514.html",
+    "title" : "PHÁP BẢO ĐÀN KINH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lục Tổ Huệ Năng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Pháp Bảo Đàn Kinh - Lục Tổ Huệ Năng Giảng “Cuốn sách có nội dung ngắn gọn, súc tích, đọc vào từng câu chữ mà thấy cả tâm chấn động thình thịch” - Đây là tác phẩm chọn lọc đắc ý nhất mà dịch giả muốn gửi đến Quý độc giả như một cách gieo hạt giống duyên lành trong dòng đời vội vã này. Lục tổ Huệ Năng là một nhân vật lịch sử đi vào huyền thoại. Tiểu sử về ngài và sự nghiệp giáo hóa của ngài đều ghi rõ trong cuốn Pháp Bảo Ðàn Kinh này, cũng là tác phẩm duy nhất ngài để lại. Cuộc đời và duyên hạnh ngộ của ngài là một sự kỳ lạ. Là một vị Tổ không biết chữ nhưng đại trí đại huệ, thông suốt giáo pháp, ngài đã giáo hóa thành tựu vô số đệ tử và phát triển Thiền tông thành công rực rỡ nhất, ảnh hưởng đến văn hóa các nước như Trung Quốc, Nhật, Hàn Quốc, Việt Nam… Hiện nay, cuốn sách vẫn là đề tài sâu sắc và là nguồn cảm hứng cho mọi người tìm hiểu học Thiền.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_cfb46f7bc38b6da0b5dc0172da829c5c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_cfb46f7bc38b6da0b5dc0172da829c5c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Lời Dịch Giả",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=171",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:02:51 Phẩm Tựa Thứ 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=1622",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:27:02 Phẩm Bát Nhã Thứ 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=2990",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:49:50 Phẩm Nghi Vấn Thứ 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=3648",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:00:48 Phẩm Ðịnh Huệ Thứ 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=4063",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:07:43 Phẩm Tọa Thiền Thứ 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=4206",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:10:06 Phẩm Sám Hối Thứ 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=5128",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:25:28 Phẩm Cơ Duyên Thứ 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=7914",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:11:54 Phẩm Ðốn Tiệm Thứ 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=8705",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:25:05 Phẩm Hộ Pháp Thứ 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=9031",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:30:31 Phẩm Phó Chúc Thứ 10",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Lời Dịch Giả",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=171",
+    "title" : "00:02:51 Phẩm Tựa Thứ 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=1622",
+    "title" : "00:27:02 Phẩm Bát Nhã Thứ 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=2990",
+    "title" : "00:49:50 Phẩm Nghi Vấn Thứ 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=3648",
+    "title" : "01:00:48 Phẩm Ðịnh Huệ Thứ 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=4063",
+    "title" : "01:07:43 Phẩm Tọa Thiền Thứ 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=4206",
+    "title" : "01:10:06 Phẩm Sám Hối Thứ 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=5128",
+    "title" : "01:25:28 Phẩm Cơ Duyên Thứ 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=7914",
+    "title" : "02:11:54 Phẩm Ðốn Tiệm Thứ 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=8705",
+    "title" : "02:25:05 Phẩm Hộ Pháp Thứ 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/5514-phap-bao-dan-kinh-thuviensach.vn.mp3?t=9031",
+    "title" : "02:30:31 Phẩm Phó Chúc Thứ 10",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

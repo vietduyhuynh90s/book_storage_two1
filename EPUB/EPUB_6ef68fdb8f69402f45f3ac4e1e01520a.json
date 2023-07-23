@@ -1,0 +1,617 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-9896.html",
+    "title" : "HÀO MÔN KINH MỘNG 2 - KHẾ ƯỚC ĐÀN UKULELE",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Ân Tầm",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cô và anh bắt đầu đầy mờ ám nhưng chỉ giới hạn ở &quot;Tình nhân dự tiệc&quot;. Trước mặt người khác, cô và anh quấn quýt yêu thương. Nhưng sau lưng họ, cô và anh là hai người xa lạ, xa lạ đến mức chỉ biết tên họ và số điện thoại của nhau. Đến một ngày anh gặp được mặt mộc của cô, đến một ngày cô trông thấy mối tình đầu của mình. &quot;Em còn yêu anh ta?&quot; Ánh mắt anh dừng trên mặt cô. Cô gật đầu. Anh điềm nhiên như không, &quot;Được, tôi thành toàn cho em.&quot; Từ được đề bạt đến thăng tiến, từ bị bạn thân bán đứng đến tìm được công việc khác, từ vật hy sinh đến gầy dựng sự nghiệp thành công. Cuộc sống của cô dường như đã không còn liên quan tới anh. Rồi một ngày mối tình đầu của cô quay về, cô mới biết hạnh phúc nhìn như mật ngọt chỉ là khế ước. Giang Mạc Viễn nói, &quot;Trở lại bên tôi, tôi có thể cho em cái em muốn.&quot; Trình Thiếu Tiên nói, &quot;Thực ra em rất có năng lực, chỉ cần tôi cho em điểm tựa.&quot; Cố Mặc nói, &quot;Chúng ta rất giống nhau, vì vậy phải nương tựa đối phương mới đủ ấm áp.&quot; Cuộc sống đã định sẵn để cô gặp gỡ hai người. Một người với quãng thời gian tươi đẹp và rung động, một người với năm tháng dịu dàng và ấm áp. Có điều cô không tài nào ngờ nổi, năm tháng dịu dàng và ấm áp kia lại là... một trò chơi thương trường và tình yêu được sắp đặt sẵn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_6ef68fdb8f69402f45f3ac4e1e01520a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_6ef68fdb8f69402f45f3ac4e1e01520a.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Khế Ước Đàn Ukulele - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=5608",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:33:28 Khế Ước Đàn Ukulele - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=13747",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:49:07 Khế Ước Đàn Ukulele - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=19422",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:23:42 Khế Ước Đàn Ukulele - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=25372",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:02:52 Khế Ước Đàn Ukulele - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=30826",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:33:46 Khế Ước Đàn Ukulele - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=37237",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:20:37 Khế Ước Đàn Ukulele - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=42770",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:52:50 Khế Ước Đàn Ukulele - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=49019",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:36:59 Khế Ước Đàn Ukulele - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=54148",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:02:28 Khế Ước Đàn Ukulele - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=60462",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:47:42 Khế Ước Đàn Ukulele - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=66679",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "18:31:19 Khế Ước Đàn Ukulele - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=74107",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "20:35:07 Khế Ước Đàn Ukulele - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=78696",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "21:51:36 Khế Ước Đàn Ukulele - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=84795",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "23:33:15 Khế Ước Đàn Ukulele - Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=90086",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "25:01:26 Khế Ước Đàn Ukulele - Phần 16",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=96169",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "26:42:49 Khế Ước Đàn Ukulele - Phần 17",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=101833",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "28:17:13 Khế Ước Đàn Ukulele - Phần 18",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=105469",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "29:17:49 Khế Ước Đàn Ukulele - Phần 19",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=110492",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "30:41:32 Khế Ước Đàn Ukulele - Phần 20",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=115626",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "32:07:06 Khế Ước Đàn Ukulele - Phần 21",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=120654",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "33:30:54 Khế Ước Đàn Ukulele - Phần 22",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=125444",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "34:50:44 Khế Ước Đàn Ukulele - Phần 23",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=132819",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "36:53:39 Khế Ước Đàn Ukulele - Phần 24",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=136825",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "38:00:25 Khế Ước Đàn Ukulele - Phần 25",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=144332",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "40:05:32 Khế Ước Đàn Ukulele - Phần 26",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=151407",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "42:03:27 Khế Ước Đàn Ukulele - Phần 27",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=158639",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "44:03:59 Khế Ước Đàn Ukulele - Phần 28",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=165841",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "46:04:01 Khế Ước Đàn Ukulele - Phần 29",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=173430",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "48:10:30 Khế Ước Đàn Ukulele - Phần 30",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=180750",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "50:12:30 Khế Ước Đàn Ukulele - Phần 31",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=186522",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "51:48:42 Khế Ước Đàn Ukulele - Phần 32",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=193830",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "53:50:30 Khế Ước Đàn Ukulele - Phần 33",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=201144",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "55:52:24 Khế Ước Đàn Ukulele - Phần 34",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=206782",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "57:26:22 Khế Ước Đàn Ukulele - Phần 35",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=214698",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "59:38:18 Khế Ước Đàn Ukulele - Phần 36",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=219781",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "61:03:01 Khế Ước Đàn Ukulele - Phần 37",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=226170",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "62:49:30 Khế Ước Đàn Ukulele - Phần 38",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=231513",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "64:18:33 Khế Ước Đàn Ukulele - Phần 39",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=237114",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "65:51:54 Khế Ước Đàn Ukulele - Phần 40",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=243169",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "67:32:49 Khế Ước Đàn Ukulele - Phần 41",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=248777",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "69:06:17 Khế Ước Đàn Ukulele - Phần 42",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=254385",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "70:39:45 Khế Ước Đàn Ukulele - Phần 43",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=259756",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "72:09:16 Khế Ước Đàn Ukulele - Phần 44",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=265515",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "73:45:15 Khế Ước Đàn Ukulele - Phần 45",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=271992",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "75:33:12 Khế Ước Đàn Ukulele - Phần 46",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=277337",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "77:02:17 Khế Ước Đàn Ukulele - Phần 47",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=283310",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "78:41:50 Khế Ước Đàn Ukulele - Phần 48 - End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Khế Ước Đàn Ukulele - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=5608",
+    "title" : "01:33:28 Khế Ước Đàn Ukulele - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=13747",
+    "title" : "03:49:07 Khế Ước Đàn Ukulele - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=19422",
+    "title" : "05:23:42 Khế Ước Đàn Ukulele - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=25372",
+    "title" : "07:02:52 Khế Ước Đàn Ukulele - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=30826",
+    "title" : "08:33:46 Khế Ước Đàn Ukulele - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=37237",
+    "title" : "10:20:37 Khế Ước Đàn Ukulele - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=42770",
+    "title" : "11:52:50 Khế Ước Đàn Ukulele - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=49019",
+    "title" : "13:36:59 Khế Ước Đàn Ukulele - Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=54148",
+    "title" : "15:02:28 Khế Ước Đàn Ukulele - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=60462",
+    "title" : "16:47:42 Khế Ước Đàn Ukulele - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=66679",
+    "title" : "18:31:19 Khế Ước Đàn Ukulele - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=74107",
+    "title" : "20:35:07 Khế Ước Đàn Ukulele - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=78696",
+    "title" : "21:51:36 Khế Ước Đàn Ukulele - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=84795",
+    "title" : "23:33:15 Khế Ước Đàn Ukulele - Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=90086",
+    "title" : "25:01:26 Khế Ước Đàn Ukulele - Phần 16",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=96169",
+    "title" : "26:42:49 Khế Ước Đàn Ukulele - Phần 17",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=101833",
+    "title" : "28:17:13 Khế Ước Đàn Ukulele - Phần 18",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=105469",
+    "title" : "29:17:49 Khế Ước Đàn Ukulele - Phần 19",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=110492",
+    "title" : "30:41:32 Khế Ước Đàn Ukulele - Phần 20",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=115626",
+    "title" : "32:07:06 Khế Ước Đàn Ukulele - Phần 21",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=120654",
+    "title" : "33:30:54 Khế Ước Đàn Ukulele - Phần 22",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=125444",
+    "title" : "34:50:44 Khế Ước Đàn Ukulele - Phần 23",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=132819",
+    "title" : "36:53:39 Khế Ước Đàn Ukulele - Phần 24",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=136825",
+    "title" : "38:00:25 Khế Ước Đàn Ukulele - Phần 25",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=144332",
+    "title" : "40:05:32 Khế Ước Đàn Ukulele - Phần 26",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=151407",
+    "title" : "42:03:27 Khế Ước Đàn Ukulele - Phần 27",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=158639",
+    "title" : "44:03:59 Khế Ước Đàn Ukulele - Phần 28",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=165841",
+    "title" : "46:04:01 Khế Ước Đàn Ukulele - Phần 29",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=173430",
+    "title" : "48:10:30 Khế Ước Đàn Ukulele - Phần 30",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=180750",
+    "title" : "50:12:30 Khế Ước Đàn Ukulele - Phần 31",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=186522",
+    "title" : "51:48:42 Khế Ước Đàn Ukulele - Phần 32",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=193830",
+    "title" : "53:50:30 Khế Ước Đàn Ukulele - Phần 33",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=201144",
+    "title" : "55:52:24 Khế Ước Đàn Ukulele - Phần 34",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=206782",
+    "title" : "57:26:22 Khế Ước Đàn Ukulele - Phần 35",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=214698",
+    "title" : "59:38:18 Khế Ước Đàn Ukulele - Phần 36",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=219781",
+    "title" : "61:03:01 Khế Ước Đàn Ukulele - Phần 37",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=226170",
+    "title" : "62:49:30 Khế Ước Đàn Ukulele - Phần 38",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=231513",
+    "title" : "64:18:33 Khế Ước Đàn Ukulele - Phần 39",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=237114",
+    "title" : "65:51:54 Khế Ước Đàn Ukulele - Phần 40",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=243169",
+    "title" : "67:32:49 Khế Ước Đàn Ukulele - Phần 41",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=248777",
+    "title" : "69:06:17 Khế Ước Đàn Ukulele - Phần 42",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=254385",
+    "title" : "70:39:45 Khế Ước Đàn Ukulele - Phần 43",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=259756",
+    "title" : "72:09:16 Khế Ước Đàn Ukulele - Phần 44",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=265515",
+    "title" : "73:45:15 Khế Ước Đàn Ukulele - Phần 45",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=271992",
+    "title" : "75:33:12 Khế Ước Đàn Ukulele - Phần 46",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=277337",
+    "title" : "77:02:17 Khế Ước Đàn Ukulele - Phần 47",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/9896-hao-mon-kinh-mong-2-khe-uoc-dan-ukulele-thuviensach.vn.mp3?t=283310",
+    "title" : "78:41:50 Khế Ước Đàn Ukulele - Phần 48 - End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

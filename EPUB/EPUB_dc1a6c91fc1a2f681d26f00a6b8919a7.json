@@ -1,0 +1,233 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/may-tren-dong-bay-mai-10756.html",
+    "title" : "MÂY TRÊN ĐỒNG BAY MÃI",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "An Dĩ Mạch",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>&quot;Mây trên đồng bay mãi&quot; mở đầu bằng mối tình đầu giữa cô gái nghèo An Dĩ Mạch và chàng thanh niên tên Vân Mộ Hàn. Họ yêu nhau 3 năm, với rất nhiều kỷ niệm đẹp của thời tuổi trẻ ngây thơ trong sáng. Thế nhưng, những hiểu lầm tai hại đã đẩy họ theo hai hướng khác nhau. Để rồi sau đó, mỗi người đều phải vật lộn để quên người kia, để bắt đầu với cuộc sống mới và gắn bó với những người mới. 6 năm sau, số phận khiến họ gặp lại, hai người nhận ra rằng họ không thể nào quên mối tình đầu của mình, nhưng nỗi hận thù quá lớn chất chứa trong tim khiến họ không có cách nào quay đầu lại... Sự lãng mạn, nỗi cô đơn vô tận, và cả những mất mát không thể lấy lại được của từng nhân vật trong hành trình tìm kiếm tình yêu đã được tác giả thể hiện bằng nhiều tình tiết kết hợp chặt chẽ giữa lý trí và cảm xúc. Những rắc rối phức tạp của cuộc sống hiện đại và những mâu thuẫn trong nội tâm của con người khiến không ít người đánh mất niềm tin vào người mình yêu thương.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_dc1a6c91fc1a2f681d26f00a6b8919a7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_dc1a6c91fc1a2f681d26f00a6b8919a7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Mây Trên Đồng Bay Mãi - Phần1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=3915",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:05:15 Mây Trên Đồng Bay Mãi - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=7161",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:59:21 Mây Trên Đồng Bay Mãi - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=10933",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:02:13 Mây Trên Đồng Bay Mãi - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=14431",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:00:31 Mây Trên Đồng Bay Mãi - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=18454",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:07:34 Mây Trên Đồng Bay Mãi - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=22261",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:11:01 Mây Trên Đồng Bay Mãi - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=24844",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:54:04 Mây Trên Đồng Bay Mãi - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=28564",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:56:04 Mây Trên Đồng Bay Mãi - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=32290",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:58:10 Mây Trên Đồng Bay Mãi - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=35472",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "09:51:12 Mây Trên Đồng Bay Mãi - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=39224",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:53:44 Mây Trên Đồng Bay Mãi - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=42903",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "11:55:03 Mây Trên Đồng Bay Mãi - Phần 14",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=46584",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:56:24 Mây Trên Đồng Bay Mãi - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=50440",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "14:00:40 Mây Trên Đồng Bay Mãi - Phần 15",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=54047",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:00:47 Mây Trên Đồng Bay Mãi - Phần 16 - End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Mây Trên Đồng Bay Mãi - Phần1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=3915",
+    "title" : "01:05:15 Mây Trên Đồng Bay Mãi - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=7161",
+    "title" : "01:59:21 Mây Trên Đồng Bay Mãi - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=10933",
+    "title" : "03:02:13 Mây Trên Đồng Bay Mãi - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=14431",
+    "title" : "04:00:31 Mây Trên Đồng Bay Mãi - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=18454",
+    "title" : "05:07:34 Mây Trên Đồng Bay Mãi - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=22261",
+    "title" : "06:11:01 Mây Trên Đồng Bay Mãi - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=24844",
+    "title" : "06:54:04 Mây Trên Đồng Bay Mãi - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=28564",
+    "title" : "07:56:04 Mây Trên Đồng Bay Mãi - Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=32290",
+    "title" : "08:58:10 Mây Trên Đồng Bay Mãi - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=35472",
+    "title" : "09:51:12 Mây Trên Đồng Bay Mãi - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=39224",
+    "title" : "10:53:44 Mây Trên Đồng Bay Mãi - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=42903",
+    "title" : "11:55:03 Mây Trên Đồng Bay Mãi - Phần 14",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=46584",
+    "title" : "12:56:24 Mây Trên Đồng Bay Mãi - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=50440",
+    "title" : "14:00:40 Mây Trên Đồng Bay Mãi - Phần 15",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10756-may-tren-dong-bay-mai-thuviensach.vn.mp3?t=54047",
+    "title" : "15:00:47 Mây Trên Đồng Bay Mãi - Phần 16 - End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

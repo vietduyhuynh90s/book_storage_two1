@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/mot-toa-thanh-dang-cho-anh-10875.html",
+    "title" : "MỘT TÒA THÀNH ĐANG CHỜ ANH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Cửu Nguyệt Hi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>&quot;Không có gì khiến trái tim con người ta đau đớn hơn tình cảm.&quot; Cô hy vọng xa vời, mong mỏi sẽ có một người vượt qua muôn nẻo đường đến để yêu cô, gõ cửa tòa thành tĩnh mịch trong cô: &quot;Tôi có thể bước vào không?&quot;. Khi đó, cô sẽ mở cửa cho anh: &quot;Vậy sau này anh không được bước ra đâu nhé!&quot;. Anh nói: &quot;Được.&quot; Thế là họ bên nhau mãi mãi. Đây vốn là đạo lý vô cùng đơn giản, nhưng khi ấy cô không hiểu rõ được lòng mình, nhẫn tâm xua đuổi anh, còn im hơi lặng tiếng cõng theo tòa thành của mình chạy trốn suốt mười năm. Có điều, sau này cô chợt phát hiện, tòa thành trong lòng từ đó cũng không mở cửa thêm lần nào nữa. Cửa ải kia phải dùng mười năm đánh đổi, chỉ chờ người ban đầu lặn lội vượt đường xa, không màng sương gió đuổi theo bước vào.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_99c6a302f050ebe2a298029031afdf40.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_99c6a302f050ebe2a298029031afdf40.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Một Tòa Thành Đang Chờ Anh - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=4790",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:19:50 Một Tòa Thành Đang Chờ Anh - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=8577",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:22:57 Một Tòa Thành Đang Chờ Anh - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=12912",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:35:12 Một Tòa Thành Đang Chờ Anh - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=19053",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:17:33 Một Tòa Thành Đang Chờ Anh - Phần 5",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=23853",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:37:33 Một Tòa Thành Đang Chờ Anh - Phần 6",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=27689",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "07:41:29 Một Tòa Thành Đang Chờ Anh - Phần 7",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=31478",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "08:44:38 Một Tòa Thành Đang Chờ Anh - Phần 8",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=37225",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "10:20:25 Một Tòa Thành Đang Chờ Anh - Phần 9",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=44661",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "12:24:21 Một Tòa Thành Đang Chờ Anh - Phần 10",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=48414",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "13:26:54 Một Tòa Thành Đang Chờ Anh - Phần 11",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=55987",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "15:33:07 Một Tòa Thành Đang Chờ Anh - Phần 12",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=61083",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "16:58:03 Một Tòa Thành Đang Chờ Anh - Phần 13",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=64166",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "17:49:26 Một Tòa Thành Đang Chờ Anh - Phần 14 Cuối",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Một Tòa Thành Đang Chờ Anh - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=4790",
+    "title" : "01:19:50 Một Tòa Thành Đang Chờ Anh - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=8577",
+    "title" : "02:22:57 Một Tòa Thành Đang Chờ Anh - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=12912",
+    "title" : "03:35:12 Một Tòa Thành Đang Chờ Anh - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=19053",
+    "title" : "05:17:33 Một Tòa Thành Đang Chờ Anh - Phần 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=23853",
+    "title" : "06:37:33 Một Tòa Thành Đang Chờ Anh - Phần 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=27689",
+    "title" : "07:41:29 Một Tòa Thành Đang Chờ Anh - Phần 7",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=31478",
+    "title" : "08:44:38 Một Tòa Thành Đang Chờ Anh - Phần 8",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=37225",
+    "title" : "10:20:25 Một Tòa Thành Đang Chờ Anh - Phần 9",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=44661",
+    "title" : "12:24:21 Một Tòa Thành Đang Chờ Anh - Phần 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=48414",
+    "title" : "13:26:54 Một Tòa Thành Đang Chờ Anh - Phần 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=55987",
+    "title" : "15:33:07 Một Tòa Thành Đang Chờ Anh - Phần 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=61083",
+    "title" : "16:58:03 Một Tòa Thành Đang Chờ Anh - Phần 13",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/10875-mot-toa-thanh-dang-cho-anh-thuviensach.vn.mp3?t=64166",
+    "title" : "17:49:26 Một Tòa Thành Đang Chờ Anh - Phần 14 Cuối",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
