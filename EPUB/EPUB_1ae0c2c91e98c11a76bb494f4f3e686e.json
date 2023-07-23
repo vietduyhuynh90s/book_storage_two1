@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/ac-quy-rung-phe-tich-14195.html",
+    "title" : "ÁC QUỶ RỪNG PHẾ TÍCH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nam Thanh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Chuỗi tác phẩm Aftermath Saga lấy bối cảnh thế giới ở thế kỷ 23 và lấy mốc khởi đầu là sự kiện thảm họa nhà máy điện hạt nhân Chernobyl (1986) - trên thực tế là một dự án bí ẩn được thực hiện bởi Chính phủ Liên Xô cũ. Năm 1986, nhà máy điện hạt nhân Chernobyl phát nổ và lập tức biến bán kính hàng trăm kilomet xung quanh nó trở thành một vùng đất chết, đồng thời lưu giữ lại mối hiểm họa khổng lồ dưới lòng đất. Tuy nhiên trái với dự đoán của loài người, chỉ sau hơn 30 năm, Chernobyl nhanh chóng hồi sinh với hệ sinh quyển tuyệt vời khác. Năm 2120: Tập đoàn Ying Industries đưa ra cảnh báo về khả năng phát nổ của tàn tích Chernobyl, đồng thời lãnh trách nhiệm xử lý hậu quả, nhưng trên thực tế lại che đậy một âm mưu khác. Sử dụng nguồn năng lượng khổng lồ vẫn đang tồn tại ở Chernobyl, tập đoàn Ying muốn xây dựng một trạm phát sóng khổng lồ để phát ra tín hiệu điều khiển sóng não con người nhằm mục tiêu thống trị thế giới. Kế hoạch này thất bại và gây rò rỉ trực tiếp chất độc có hại ra khu vực rừng bao quanh Chernobyl. Theo dòng câu chuyện, người đọc sẽ dần tiếp cận với một thế giới vô tiền khoáng hậu với “Hạt Temno” - thứ vật chất thao túng sinh mệnh của vạn vật; Công nghệ thao túng trí não mang tên “Aftermath” cùng những chủng loài sinh vật hoang dã dần có được trí tuệ như con người. Kể từ đây, thế giới rộng lớn thứ kỷ 23 với đầy rẫy những biến động căng thẳng sẽ được mở ra, đan xen lẫn nhau một cách hấp dẫn, hé lộ nên âm mưu thống trị thế giới của một kẻ phản diện “bất tử”.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_1ae0c2c91e98c11a76bb494f4f3e686e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_1ae0c2c91e98c11a76bb494f4f3e686e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14195-ac-quy-rung-phe-tich-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Ác Quỷ Rừng Phế Tích - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14195-ac-quy-rung-phe-tich-thuviensach.vn.mp3?t=3611",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:00:11 Ác Quỷ Rừng Phế Tích - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14195-ac-quy-rung-phe-tich-thuviensach.vn.mp3?t=6700",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:51:40 Ác Quỷ Rừng Phế Tích - Phần 3",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14195-ac-quy-rung-phe-tich-thuviensach.vn.mp3?t=10374",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:52:54 Ác Quỷ Rừng Phế Tích - Phần 4",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14195-ac-quy-rung-phe-tich-thuviensach.vn.mp3?t=14206",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:56:46 Ác Quỷ Rừng Phế Tích - Phần 5 End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14195-ac-quy-rung-phe-tich-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Ác Quỷ Rừng Phế Tích - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14195-ac-quy-rung-phe-tich-thuviensach.vn.mp3?t=3611",
+    "title" : "01:00:11 Ác Quỷ Rừng Phế Tích - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14195-ac-quy-rung-phe-tich-thuviensach.vn.mp3?t=6700",
+    "title" : "01:51:40 Ác Quỷ Rừng Phế Tích - Phần 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14195-ac-quy-rung-phe-tich-thuviensach.vn.mp3?t=10374",
+    "title" : "02:52:54 Ác Quỷ Rừng Phế Tích - Phần 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14195-ac-quy-rung-phe-tich-thuviensach.vn.mp3?t=14206",
+    "title" : "03:56:46 Ác Quỷ Rừng Phế Tích - Phần 5 End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

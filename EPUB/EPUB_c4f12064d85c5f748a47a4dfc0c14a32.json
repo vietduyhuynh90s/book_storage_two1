@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/nguoi-ve-dau-non-14469.html",
+    "title" : "NGƯỜI VỀ ĐẦU NON",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Võ Hồng",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Tiểu sử:</p><p>Võ Hồng (5 tháng 5 năm 1921 - 31 tháng 3 năm 2013), các bút danh khác: Ngân Sơn, Võ An Thạch, là một nhà văn Việt Nam. Võ Hồng sinh ngày 5 tháng 5 năm 1921 tại làng Ngân Sơn, xã An Thạch, huyện Tuy An, tỉnh Phú Yên. Truyện ngắn đầu tay của ông Mùa gặt đăng trên Tiểu thuyết thứ bảy vào năm 1939 với bút danh Ngân Sơn. Đến năm 1959, ông gia nhập làng văn với tập truyện ngắn Hoài cố nhân. Là nhà văn nhưng Võ Hồng có nhiều năm gắn bó với sự nghiệp dạy học. Ông theo học tú tài ở Hà Nội, chưa tròn năm thì chiến tranh nổ ra, ông lên tàu về quê (năm 1943) và dạy học. Ông từng giữ các chức vụ Trưởng ty Bình dân học vụ tỉnh Phú Yên (1949) và là hiệu trưởng một số trường trung học tại Phú Yên, Nha Trang cho đến khi về hưu năm 1978. Văn của ông chứa đựng sự gắn bó yêu thương con người, yêu thương quê hương, dân tộc một cách tự nhiên. Dưới ngòi bút Võ Hồng, hình ảnh quê hương, con người Việt Nam được ghi lại như những bức tranh sinh động, trung thực và đầy rung cảm. Tác phẩm của ông ghi lại khá chân thực và tinh tế cuộc sống, sinh hoạt của người dân vùng Nam Trung Bộ. Nhiều tác phẩm của Võ Hồng đã được trích giảng trong sách giáo khoa văn cho chương trình trung học trước năm 1975. Sau năm 1975, văn nghiệp của ông là đề tài cho nhiều luận án tiến sĩ, thạc sĩ văn chương. Ông được đánh giá là một trong những nhà văn lớn của Việt Nam. Từ năm 1956 ông sống tại Nha Trang cho đến lúc qua đời. Từ năm 2006, do tuổi cao, ông mắc bệnh nặng, phải nằm một chỗ. Đến 31 tháng 3 năm 2013, ông qua đời tại nhà riêng ở Nha Trang. Võ Hồng lập gia đình, đến năm 1957 thì vợ ông qua đời, để lại ba con nhỏ: lớn nhất 9 tuổi và nhỏ nhất 3 tuổi. Từ ngày vợ mất, ông không lấy người khác, vì ông sợ lấy vợ lần nữa sẽ làm khổ các con. Sau này, các con đều lớn, ông vẫn sống một mình tại nhà riêng ở 53 đường Hồng Bàng, Nha Trang.</p><p>Tác phẩm</p><p>Tác phẩm văn chương của ông gồm 8 tiểu thuyết và truyện dài, trên 70 truyện ngắn, nhiều tập tùy bút, bút ký, truyện viết cho thiếu nhi; hơn 40 bài viết, bài khảo cứu, phê bình văn học. Đến trước khi mất ông, Võ Hồng đã in 30 cuốn sách thuộc nhiều thể loại. Tác phẩm Tiếng chuông chiêu mộ (in 2005) được xem như cuốn sách cuối cùng của Võ Hồng. Dưới đây là một số tác phẩm chính.</p><p>Tiểu thuyết, truyện dài</p><p>Truyện ngắn</p><p>Tùy bút</p><p>Thơ</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_c4f12064d85c5f748a47a4dfc0c14a32.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_c4f12064d85c5f748a47a4dfc0c14a32.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14469-nguoi-ve-dau-non-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Người Về Đầu Non. Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14469-nguoi-ve-dau-non-thuviensach.vn.mp3?t=4081",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:08:01 Người Về Đầu Non. Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14469-nguoi-ve-dau-non-thuviensach.vn.mp3?t=7605",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:06:45 Người Về Đầu Non. Tập 03 - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14469-nguoi-ve-dau-non-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Người Về Đầu Non. Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14469-nguoi-ve-dau-non-thuviensach.vn.mp3?t=4081",
+    "title" : "01:08:01 Người Về Đầu Non. Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14469-nguoi-ve-dau-non-thuviensach.vn.mp3?t=7605",
+    "title" : "02:06:45 Người Về Đầu Non. Tập 03 - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

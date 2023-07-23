@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/day-con-lam-giau-tap-8-14235.html",
+    "title" : "DẠY CON LÀM GIÀU - TẬP 8",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Robert T. Kiyosaki",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Trong cuộc sống, thực tế có khá nhiều cách để bạn trở nên giàu có, mỗi cách sẽ có một cái giá khác nhau. Tuy nhiên, cái giá không phải lúc nào cũng được đo bằng tiền, mặc dù tiền bạc là phần thưởng cho việc trả giá. Để giàu có bạn sống một cách tằn tiện rồi chết đói trên đống vàng, bạn học thật giỏi và tránh mắc mọi sai lầm nhưng cuối cùng vẫn thất bại, bạn có người bạn đời giàu sụ thế mà lại sống đau khổ vì thiếu tình yêu, bạn đặt toàn bộ cuộc sống vào kết quả xổ số hiếm hoi, bạn được thừa hưởng một gia tài nhưng không đủ khôn ngoan và có kiến thức tài chính tốt… Trong số này bạn có chọn ra cho mình được một cách? Nếu như không thì vẫn còn nhiều cách tốt hơn để bạn kiếm được những đồng tiền tích cực. Vấn đề là bạn có chịu thay đổi và sẵn lòng trả giá hay không? Cuốn sách này sẽ giúp bạn lựa chọn một phương cách đúng đắn nhất để tạo ra những đồng tiền tích cực.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_b2f27c0119f8c41155e85cb6546666d8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_b2f27c0119f8c41155e85cb6546666d8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14235-day-con-lam-giau-tap-8-thuviensach.vn.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14235-day-con-lam-giau-tap-8-thuviensach.vn.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

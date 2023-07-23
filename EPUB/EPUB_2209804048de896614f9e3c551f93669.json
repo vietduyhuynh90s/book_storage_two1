@@ -1,0 +1,209 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/kho-tang-truyen-co-tich-viet-nam-14229.html",
+    "title" : "KHO TÀNG TRUYỆN CỔ TÍCH VIỆT NAM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn đổng Chi",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>MỤC LỤC</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_2209804048de896614f9e3c551f93669.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_2209804048de896614f9e3c551f93669.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Truyện Cổ Tích Việt Nam - Trinh Phụ Hai Chồng",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=502",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:08:22 Truyện Cổ Tích Việt Nam - Nói Dối Như Cuội",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=1244",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:20:44 Truyện Cổ Tích Việt Nam - Ai Mua Hành Tôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=1691",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:28:11 Truyện Cổ Tích Việt Nam - Nợ Như Chúa Chổm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=2369",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:39:29 Truyện Cổ Tích Việt Nam - Thạch Sanh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=3050",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:50:50 Truyện Cổ Tích Việt Nam - Bụng Làm Dạ Chịu Hay Là Truyện Thầy Hít",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=3477",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:57:57 Truyện Cổ Tích Việt Nam - Nợ Tình... Chưa Tan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=3832",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:03:52 Truyện Cổ Tích Việt Nam - Thạch Sùng Còn Thiếu Mẻ Kho",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=4380",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:13:00 Truyện Cổ Tích Việt Nam - Của Thiên Trả Địa",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=4746",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:19:06 Truyện Cổ Tích Việt Nam - Đồng Tiền Vạn Lịch",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=5246",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:27:26 Truyện Cổ Tích Việt Nam - Sọ Dừa - Em Bé Thông Minh",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=6059",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:40:59 Truyện Cổ Tích Việt Nam - Truyền Thuyết Tháng Gióng - Sự Tích Hồ Gươm - Bánh Chưng Bánh Giầy",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=7289",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:01:29 Truyện Cổ Tích Việt Nam - Sự Tích Động Từ Thức",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=7934",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:12:14 Truyện Cổ Tích Việt Nam - Lẩy Bẩy Như Cao Biền Dậy Non",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Truyện Cổ Tích Việt Nam - Trinh Phụ Hai Chồng",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=502",
+    "title" : "00:08:22 Truyện Cổ Tích Việt Nam - Nói Dối Như Cuội",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=1244",
+    "title" : "00:20:44 Truyện Cổ Tích Việt Nam - Ai Mua Hành Tôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=1691",
+    "title" : "00:28:11 Truyện Cổ Tích Việt Nam - Nợ Như Chúa Chổm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=2369",
+    "title" : "00:39:29 Truyện Cổ Tích Việt Nam - Thạch Sanh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=3050",
+    "title" : "00:50:50 Truyện Cổ Tích Việt Nam - Bụng Làm Dạ Chịu Hay Là Truyện Thầy Hít",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=3477",
+    "title" : "00:57:57 Truyện Cổ Tích Việt Nam - Nợ Tình... Chưa Tan",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=3832",
+    "title" : "01:03:52 Truyện Cổ Tích Việt Nam - Thạch Sùng Còn Thiếu Mẻ Kho",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=4380",
+    "title" : "01:13:00 Truyện Cổ Tích Việt Nam - Của Thiên Trả Địa",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=4746",
+    "title" : "01:19:06 Truyện Cổ Tích Việt Nam - Đồng Tiền Vạn Lịch",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=5246",
+    "title" : "01:27:26 Truyện Cổ Tích Việt Nam - Sọ Dừa - Em Bé Thông Minh",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=6059",
+    "title" : "01:40:59 Truyện Cổ Tích Việt Nam - Truyền Thuyết Tháng Gióng - Sự Tích Hồ Gươm - Bánh Chưng Bánh Giầy",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=7289",
+    "title" : "02:01:29 Truyện Cổ Tích Việt Nam - Sự Tích Động Từ Thức",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14229-kho-tang-truyen-co-tich-viet-nam-thuviensach.vn.mp3?t=7934",
+    "title" : "02:12:14 Truyện Cổ Tích Việt Nam - Lẩy Bẩy Như Cao Biền Dậy Non",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,149 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/gai-tro-14448.html",
+    "title" : "GÁI TRỌ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoàng Hải Thủy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_8e2571f51b0ffeefcae5086b0c4591c9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_8e2571f51b0ffeefcae5086b0c4591c9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14448-gai-tro-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Gái Trọ. Tập 01",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14448-gai-tro-thuviensach.vn.mp3?t=4049",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:07:29 Gái Trọ. Tập 02",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14448-gai-tro-thuviensach.vn.mp3?t=6388",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:46:28 Gái Trọ. Tập 03",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14448-gai-tro-thuviensach.vn.mp3?t=9393",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:36:33 Gái Trọ. Tập 04",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14448-gai-tro-thuviensach.vn.mp3?t=12547",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:29:07 Gái Trọ. Tập 05",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14448-gai-tro-thuviensach.vn.mp3?t=16301",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:31:41 Gái Trọ. Tập 06",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14448-gai-tro-thuviensach.vn.mp3?t=18964",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:16:04 Gái Trọ. Tập 07",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14448-gai-tro-thuviensach.vn.mp3?t=21732",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:02:12 Gái Trọ. Tập 08",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14448-gai-tro-thuviensach.vn.mp3?t=24406",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "06:46:46 Gái Trọ. Tập 09 - Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14448-gai-tro-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Gái Trọ. Tập 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14448-gai-tro-thuviensach.vn.mp3?t=4049",
+    "title" : "01:07:29 Gái Trọ. Tập 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14448-gai-tro-thuviensach.vn.mp3?t=6388",
+    "title" : "01:46:28 Gái Trọ. Tập 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14448-gai-tro-thuviensach.vn.mp3?t=9393",
+    "title" : "02:36:33 Gái Trọ. Tập 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14448-gai-tro-thuviensach.vn.mp3?t=12547",
+    "title" : "03:29:07 Gái Trọ. Tập 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14448-gai-tro-thuviensach.vn.mp3?t=16301",
+    "title" : "04:31:41 Gái Trọ. Tập 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14448-gai-tro-thuviensach.vn.mp3?t=18964",
+    "title" : "05:16:04 Gái Trọ. Tập 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14448-gai-tro-thuviensach.vn.mp3?t=21732",
+    "title" : "06:02:12 Gái Trọ. Tập 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14448-gai-tro-thuviensach.vn.mp3?t=24406",
+    "title" : "06:46:46 Gái Trọ. Tập 09 - Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

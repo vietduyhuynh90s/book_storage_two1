@@ -1,0 +1,161 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/99-truyen-cuoi-dan-gian-viet-nam-14230.html",
+    "title" : "99 TRUYỆN CƯỜI DÂN GIAN VIỆT NAM",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cùng với tục ngữ, ca dao, dân ca, cổ tích, thần thoại..., truyện cười dân gian, cũng còn gọi là truyện tiếu lâm, là di sản quý giá mà cha ông đã để lại cho chúng ta, để gìn giữ và phát triển... Ngoài việc tích hợp văn hóa và phản ánh đời sống và trình độ văn minh của dân tộc ta qua các thời đại, truyện cười dân gian tham dự và góp phần làm phong phú thêm đời sống tinh thần của con người Việt Nam. Tập 99 Truyện cười dân gian Việt Nam này, vì lẽ đó, luôn là một kho tàng cần được đọc và chia sẻ.*** 99 Truyện cười dân gian Việt Nam gồm có:</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_b19473b59340ab819bbbb463ab14f9c9.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_b19473b59340ab819bbbb463ab14f9c9.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14230-99-truyen-cuoi-dan-gian-viet-nam-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Trò Khá Hơn Thầy Rồi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14230-99-truyen-cuoi-dan-gian-viet-nam-thuviensach.vn.mp3?t=619",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:10:19 Nói Chữ - Cây Bất Bể Đông",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14230-99-truyen-cuoi-dan-gian-viet-nam-thuviensach.vn.mp3?t=1317",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:21:57 Kén Rể Hay Chữ - Trí Khôn Của Ta Đây",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14230-99-truyen-cuoi-dan-gian-viet-nam-thuviensach.vn.mp3?t=2008",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:33:28 Thầy Bói Xem Voi - Ghen Bóng Ghen Gió",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14230-99-truyen-cuoi-dan-gian-viet-nam-thuviensach.vn.mp3?t=2663",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:44:23 Ghen Với Người Trong Chiêm Bao - Hâm Nước Mắm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14230-99-truyen-cuoi-dan-gian-viet-nam-thuviensach.vn.mp3?t=3299",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:54:59 May Quá - Tính Hay Quên - Thế, Bánh Tao Đâu",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14230-99-truyen-cuoi-dan-gian-viet-nam-thuviensach.vn.mp3?t=3965",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:06:05 Tài Bịa - Tham Ăn - Nói Có Đầu Có Đuôi",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14230-99-truyen-cuoi-dan-gian-viet-nam-thuviensach.vn.mp3?t=4623",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:17:03 Không Xu Nịnh - Đừng Nói Nữa Mà Tao Thèm",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14230-99-truyen-cuoi-dan-gian-viet-nam-thuviensach.vn.mp3?t=5191",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:26:31 Ba Anh Đầy Tớ - Thi Nói Khoác - Tiễn Quan",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14230-99-truyen-cuoi-dan-gian-viet-nam-thuviensach.vn.mp3?t=5850",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:37:30 Diệu Kế - Trung Thần Nghĩa Sĩ - Ông Quan Thanh Liêm",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14230-99-truyen-cuoi-dan-gian-viet-nam-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Trò Khá Hơn Thầy Rồi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14230-99-truyen-cuoi-dan-gian-viet-nam-thuviensach.vn.mp3?t=619",
+    "title" : "00:10:19 Nói Chữ - Cây Bất Bể Đông",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14230-99-truyen-cuoi-dan-gian-viet-nam-thuviensach.vn.mp3?t=1317",
+    "title" : "00:21:57 Kén Rể Hay Chữ - Trí Khôn Của Ta Đây",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14230-99-truyen-cuoi-dan-gian-viet-nam-thuviensach.vn.mp3?t=2008",
+    "title" : "00:33:28 Thầy Bói Xem Voi - Ghen Bóng Ghen Gió",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14230-99-truyen-cuoi-dan-gian-viet-nam-thuviensach.vn.mp3?t=2663",
+    "title" : "00:44:23 Ghen Với Người Trong Chiêm Bao - Hâm Nước Mắm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14230-99-truyen-cuoi-dan-gian-viet-nam-thuviensach.vn.mp3?t=3299",
+    "title" : "00:54:59 May Quá - Tính Hay Quên - Thế, Bánh Tao Đâu",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14230-99-truyen-cuoi-dan-gian-viet-nam-thuviensach.vn.mp3?t=3965",
+    "title" : "01:06:05 Tài Bịa - Tham Ăn - Nói Có Đầu Có Đuôi",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14230-99-truyen-cuoi-dan-gian-viet-nam-thuviensach.vn.mp3?t=4623",
+    "title" : "01:17:03 Không Xu Nịnh - Đừng Nói Nữa Mà Tao Thèm",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14230-99-truyen-cuoi-dan-gian-viet-nam-thuviensach.vn.mp3?t=5191",
+    "title" : "01:26:31 Ba Anh Đầy Tớ - Thi Nói Khoác - Tiễn Quan",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14230-99-truyen-cuoi-dan-gian-viet-nam-thuviensach.vn.mp3?t=5850",
+    "title" : "01:37:30 Diệu Kế - Trung Thần Nghĩa Sĩ - Ông Quan Thanh Liêm",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

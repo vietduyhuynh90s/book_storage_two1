@@ -1,0 +1,101 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/xin-doi-ton-thuong-lay-truong-thanh-14328.html",
+    "title" : "XIN ĐỔI TỔN THƯƠNG LẤY TRƯỞNG THÀNH",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lý Ái Linh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Lý Ái Linh đã sẵn sàng trở lại cùng độc giả Việt Nam với cuốn sách thứ tư mang tên Xin Đổi Tổn Thương Lấy Trưởng Thành. Những trang văn của cô đậm chất riêng, nhạy bén trong tiết tấu ngôn ngữ, sinh động và tràn đầy cảm xúc nhịp điệu, bản thân câu chữ đã mang một linh hồn độc nhất. Trong cuốn sách này, tác giả đã xoáy sâu vào đời sống để bóc tách sự chân thật đến mức đôi khi khiến con người run rẩy vì cảm thấy đau đớn, nhưng đồng thời cũng sử dụng câu chữ để chải chuốt cho cuộc sống, cân bằng những sóng gió và xoa dịu những thăng trầm của đời người. Đọc Xin Đổi Tổn Thương Lấy Trưởng Thành để hiểu rằng mỗi sự trưởng thành của chúng ta đều được kết nên từ trăm ngàn nỗi tổn thương. Không có chuyến du ngoạn nào trên đời là miễn phí, thành công luôn cần vốn liếng và điều kiện. Cho dù ngày hôm nay của bạn có như thế nào, hãy tin rằng thời gian rồi sẽ mang đến cho bạn hoa thơm và trái ngọt, đủ để đáp lại những cố gắng và nếm trải bạn từng dốc lòng thực hiện. Trong thế giới phức tạp và ồn ào này, ai mà không mang trên mình nhiều vết sẹo? Nhưng những người thực sự mạnh mẽ sẽ đem tổn thương đổi lấy một chiếc vương miện quý giá và độc nhất - đó là sự trưởng thành từ trong cốt tủy, là khí chất của một người đã từng đau, từng thất vọng, nhưng không bao giờ e ngại thử thách để cuối cùng được kiêu hãnh đứng giữa cuộc đời. “Chúc cho tất cả những người con gái chân thành và đam mê trong tình yêu, trưởng thành hơn nhờ vào sai lầm, hãy yêu đúng cách để tình yêu được tỏa sáng.” “Chỉ có kiên cường bước tiếp mới thể hiện lòng tôn trọng lớn lao nhất với sinh mệnh, mới là sự đáp trả thông minh nhất trước những đau thương.”</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_e53cd1ba26f11a2680117154161567ce.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_e53cd1ba26f11a2680117154161567ce.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14328-xin-doi-ton-thuong-lay-truong-thanh-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Phụ Nữ Đa Tình, Đàn Ông Bội Bạc Đều Có Nguyên Do",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14328-xin-doi-ton-thuong-lay-truong-thanh-thuviensach.vn.mp3?t=3632",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:00:32 Sự Mạnh Mẽ Và Tỏa Sáng Của Chính Mình",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14328-xin-doi-ton-thuong-lay-truong-thanh-thuviensach.vn.mp3?t=7555",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:05:55 Hôn Nhân Là Quá Trình Tuyển Chọn, Bồi Dưỡng, Sử Dụng, Giữ Lại",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14328-xin-doi-ton-thuong-lay-truong-thanh-thuviensach.vn.mp3?t=11132",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:05:32 Nếu Bạn Không Gây Tổn Thương Tình Yêu Sẽ Còn Nguyên Vẹn",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14328-xin-doi-ton-thuong-lay-truong-thanh-thuviensach.vn.mp3?t=16125",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:28:45 Lưu Lại Nhg Khoảnh Khắc Tốt Đẹp. Bỏ Bớt Những Giận Hờn # Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14328-xin-doi-ton-thuong-lay-truong-thanh-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Phụ Nữ Đa Tình, Đàn Ông Bội Bạc Đều Có Nguyên Do",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14328-xin-doi-ton-thuong-lay-truong-thanh-thuviensach.vn.mp3?t=3632",
+    "title" : "01:00:32 Sự Mạnh Mẽ Và Tỏa Sáng Của Chính Mình",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14328-xin-doi-ton-thuong-lay-truong-thanh-thuviensach.vn.mp3?t=7555",
+    "title" : "02:05:55 Hôn Nhân Là Quá Trình Tuyển Chọn, Bồi Dưỡng, Sử Dụng, Giữ Lại",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14328-xin-doi-ton-thuong-lay-truong-thanh-thuviensach.vn.mp3?t=11132",
+    "title" : "03:05:32 Nếu Bạn Không Gây Tổn Thương Tình Yêu Sẽ Còn Nguyên Vẹn",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14328-xin-doi-ton-thuong-lay-truong-thanh-thuviensach.vn.mp3?t=16125",
+    "title" : "04:28:45 Lưu Lại Nhg Khoảnh Khắc Tốt Đẹp. Bỏ Bớt Những Giận Hờn # Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

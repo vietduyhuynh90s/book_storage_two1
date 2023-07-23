@@ -1,0 +1,77 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/cuoc-doi-moi-nguoi-phu-nu-bat-dau-tu-su-tu-ton-14440.html",
+    "title" : "CUỘC ĐỜI MỖI NGƯỜI PHỤ NỮ BẮT ĐẦU TỪ SỰ TỰ TÔN",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Insook Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>Cuốn thánh kinh dành cho phái nữ bán chạy nhất Hàn Quốc! Đã bán được 3.800.000 bản - Cứ 10 người Hàn Quốc thì 9 người đã từng đọc cuốn sách này. Lòng tự tôn có thực sự quan trọng trong cuộc sống của chúng ta không? “Lòng tự tôn không tồn tại độc lập mà là một yếu tố thiết yếu có ảnh hưởng đến mọi điều, từ nhân cách, năng lực cho đến sức khỏe của chúng ta. Xét cho cùng, chúng ta là những thực thể sống, nếu thiếu lòng tự tôn sẽ không thể sinh tồn, lại càng không thể có được một cuộc sống chất lượng”. Insook Nam chắc chắn sẽ giúp bạn hiểu rõ hơn về tầm quan trọng của sự cân bằng và bản chất của lòng tự tôn thông qua nhiều biện pháp có tính ứng dụng cao, không những giúp khắc phục được những nỗi sợ hãi dù lớn dù nhỏ bị khắc sâu từ thời thơ bé, mà còn giúp chúng ta tìm ta giá trị đích thực của bản thân, từ đó có thể xây dựng cuộc sống tốt đẹp hơn. Để nuôi dưỡng lòng tự tôn, phải bắt đầu bằng việc đặt những tấm gương tốt, giúp phản chiếu hình ảnh đẹp của bản thân ở xung quanh. Chúng ta phải biết thay thế những tấm gương tốt vào vị trí những tấm gương xấu, chúng ta sẽ cảm nhận được cuộc sống xung quanh cũng nhanh chóng thay đổi. Bản thân chúng ta không thay đổi, nhưng về mặt cảm xúc, lại có thể sống một cuộc sống tự do hơn. Sau này, còn có thể cảm nhận được sự thay đổi thực sự đến từ chúng ta và tất cả những điều xung quanh ta. Hy vọng, những độc giả đọc cuốn sách này, có thể trải nghiệm những kinh nghiệm giống như tác giả đã trải qua. Cuốn sách này, sẽ giúp bạn vứt bỏ những tấm gương xấu, thay vào đó là những tấm gương phản chiếu hình ảnh tốt đẹp nhất của các bạn. Hãy thử lôi kéo khái niệm có thể hiểu thấu và điều chỉnh tâm hồn, vốn tồn tại trong thế giới trừu tượng - là lòng tự tôn - ra thế giới thực tại. Chỉ với một chút ít lòng dũng cảm, dám đương đầu, bạn có thể dễ dàng tìm ra câu trả lời bạn muốn.</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_20ccfb78901c9b0006bc0be6e9975b35.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_20ccfb78901c9b0006bc0be6e9975b35.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14440-cuoc-doi-moi-nguoi-phu-nu-bat-dau-tu-su-tu-ton-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Cuộc Đời Mỗi Người Phụ Nữ Bắt Đầu Từ Sự Tự Tôn - Phần 1",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14440-cuoc-doi-moi-nguoi-phu-nu-bat-dau-tu-su-tu-ton-thuviensach.vn.mp3?t=2068",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:34:28 Cuộc Đời Mỗi Người Phụ Nữ Bắt Đầu Từ Sự Tự Tôn - Phần 2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14440-cuoc-doi-moi-nguoi-phu-nu-bat-dau-tu-su-tu-ton-thuviensach.vn.mp3?t=4508",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:15:08 Cuộc Đời Mỗi Người Phụ Nữ Bắt Đầu Từ Sự Tự Tôn - Phần 3 End",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14440-cuoc-doi-moi-nguoi-phu-nu-bat-dau-tu-su-tu-ton-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Cuộc Đời Mỗi Người Phụ Nữ Bắt Đầu Từ Sự Tự Tôn - Phần 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14440-cuoc-doi-moi-nguoi-phu-nu-bat-dau-tu-su-tu-ton-thuviensach.vn.mp3?t=2068",
+    "title" : "00:34:28 Cuộc Đời Mỗi Người Phụ Nữ Bắt Đầu Từ Sự Tự Tôn - Phần 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14440-cuoc-doi-moi-nguoi-phu-nu-bat-dau-tu-su-tu-ton-thuviensach.vn.mp3?t=4508",
+    "title" : "01:15:08 Cuộc Đời Mỗi Người Phụ Nữ Bắt Đầu Từ Sự Tự Tôn - Phần 3 End",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,185 @@
+{
+  "metadata" : {
+    "identifier" : "https://thuviensach.vn/neu-em-an-lanh-do-la-ngay-nang-14295.html",
+    "title" : "NẾU EM AN LÀNH, ĐÓ LÀ NGÀY NẮNG",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bạch Lạc Mai",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>“Mỗi một con người đến thế giới này, đều là khách qua đường vội vã. Có những người khi gặp gỡ họ, quay mình là quên; có những người lướt qua họ, buộc phải quay đầu. Tất cả gặp gỡ và ngoái nhìn đều là duyên phận, khi bạn yêu một bóng hình nào đó, luyến lưu một ánh mắt nào đó, có nghĩa là trong tim bạn đã kết một đoạn tình duyên. Chỉ là duyên sâu duyên mỏng, bất cứ ai đều không thể nắm chắc, tụ tan không có lý do, cúng ta đều phải đối đãi bằng cái tâm bình thường.”</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-23",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_057c189448beef48aa3027320c88ba9c.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_057c189448beef48aa3027320c88ba9c.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=0",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:00:00 Đóa Sen Trắng Được Mong Đợi Trong Mơ 1-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=2308",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "00:38:28 Đóa Sen Trắng Được Mong Đợi Trong Mơ 2-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=3605",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:00:05 Mối Tình Dang Dở Cambridge 1-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=5556",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:32:36 Mối Tình Dang Dở Cambridge 2-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=6763",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "01:52:43 Yêu Thực Sự Là Một Cuộc Tu Hành 1-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=8114",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:15:14 Yêu Thực Sự Là Một Cuộc Tu Hành 2-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=9880",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "02:44:40 Dạo Bước Giữa Khói Lửa Hồng Trần 1-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=11127",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:05:27 Dạo Bước Giữa Khói Lửa Hồng Trần 2-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=13003",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "03:36:43 Anh Là Những Ngày Tháng Tư Nhân Gian 1-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=14860",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:07:40 Anh Là Những Ngày Tháng Tư Nhân Gian 2-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=16926",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "04:42:06 Nhân Sinh Tụ Tan 1-2",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=18941",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "05:15:41 Nhân Sinh Tụ Tan 2-2 # Hết",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=0",
+    "title" : "00:00:00 Đóa Sen Trắng Được Mong Đợi Trong Mơ 1-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=2308",
+    "title" : "00:38:28 Đóa Sen Trắng Được Mong Đợi Trong Mơ 2-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=3605",
+    "title" : "01:00:05 Mối Tình Dang Dở Cambridge 1-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=5556",
+    "title" : "01:32:36 Mối Tình Dang Dở Cambridge 2-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=6763",
+    "title" : "01:52:43 Yêu Thực Sự Là Một Cuộc Tu Hành 1-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=8114",
+    "title" : "02:15:14 Yêu Thực Sự Là Một Cuộc Tu Hành 2-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=9880",
+    "title" : "02:44:40 Dạo Bước Giữa Khói Lửa Hồng Trần 1-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=11127",
+    "title" : "03:05:27 Dạo Bước Giữa Khói Lửa Hồng Trần 2-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=13003",
+    "title" : "03:36:43 Anh Là Những Ngày Tháng Tư Nhân Gian 1-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=14860",
+    "title" : "04:07:40 Anh Là Những Ngày Tháng Tư Nhân Gian 2-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=16926",
+    "title" : "04:42:06 Nhân Sinh Tụ Tan 1-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://thuviensach.vn/img/audio/14295-neu-em-an-lanh-do-la-ngay-nang-thuviensach.vn.mp3?t=18941",
+    "title" : "05:15:41 Nhân Sinh Tụ Tan 2-2 # Hết",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
