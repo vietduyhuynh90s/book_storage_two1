@@ -1,0 +1,53 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.youtube.com/watch?v=sYmkqCGaJoQ",
+    "title" : "[Short] Bí Quyết Giúp Con Tăng Khả Năng Tập Trung (Thư viện tỉnh Tây Ninh)",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hạnh Nguyên",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<div>     <div>         <div>             <div>                 <div>                     <div>                         <div>Rất nhiều bậc cha mẹ cho rằng ph&acirc;n t&aacute;n, thiếu tập trung l&agrave; loại bệnh của con em họ v&agrave; n&oacute; l&agrave;m họ v&ocirc; c&ugrave;ng đau đầu, kh&ocirc;ng t&igrave;m ra c&aacute;ch giải quyết thấu đ&aacute;o. Cho d&ugrave; tr&aacute;ch mắng, bắt chịu phạt nhưng ch&uacute;ng vẫn chứng n&agrave;o tật nấy. Phải chăng bắt trẻ em tập trung l&agrave; kh&ocirc;ng thể? Hay theo độ tuổi lớn dần khả năng tập trung của ch&uacute;ng sẽ tốt hơn?<br>C&oacute; người quan niệm trẻ con kh&ocirc;ng thể tập trung l&agrave; chuyện thường t&igrave;nh, &ldquo;n&oacute; ngồi kh&ocirc;ng y&ecirc;n&rdquo; l&agrave; do n&oacute; c&ograve;n nhỏ, cứ kệ n&oacute; đi, lớn l&ecirc;n n&oacute; khắc thay đổi. C&oacute; người th&igrave; qu&aacute; lo lắng về việc mất tập trung của con c&aacute;i n&ecirc;n đ&atilde; g&acirc;y &aacute;p chế đặc biệt khiến ch&uacute;ng rơi v&agrave; trạng th&aacute;i chống đối, thiếu hợp t&aacute;c với cha mẹ. Tr&ecirc;n thực tế việc bỏ mặc trẻ hay &aacute;p chế trẻ đều kh&ocirc;ng phải l&agrave; biện ph&aacute;p tốt.<br>Khả năng tập trung cao sẽ gi&uacute;p một người b&igrave;nh thường l&agrave;m được những điều phi thường. Cuốn s&aacute;ch bật m&iacute; cho bạn &ldquo;B&iacute; quyết gi&uacute;p con tăng khả năng tập trung&rdquo; để con đạt được những th&agrave;nh c&ocirc;ng trong cuộc đời.<p>Gi&aacute; sản phẩm tr&ecirc;n Tiki đ&atilde; bao gồm thuế theo luật hiện h&agrave;nh. B&ecirc;n cạnh đ&oacute;, tuỳ v&agrave;o loại sản phẩm, h&igrave;nh thức v&agrave; địa chỉ giao h&agrave;ng m&agrave; c&oacute; thể ph&aacute;t sinh th&ecirc;m chi ph&iacute; kh&aacute;c như ph&iacute; vận chuyển, phụ ph&iacute; h&agrave;ng cồng kềnh, thuế nhập khẩu (đối với đơn h&agrave;ng giao từ nước ngo&agrave;i c&oacute; gi&aacute; trị tr&ecirc;n 1 triệu đồng).....</p>                         </div>                     </div>                 </div>             </div>         </div>     </div> </div> <div><br></div>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-24",
+    "duration" : 3643,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_afb93841ed72f65cf0018e3cbca23920.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_afb93841ed72f65cf0018e3cbca23920.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/AUDIO/AUDIO_afb93841ed72f65cf0018e3cbca23920_ab7295db295c9a8f9f7c5703c9e7e9a9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3643,
+    "title" : "Trọn bộ",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/AUDIO/AUDIO_afb93841ed72f65cf0018e3cbca23920_ab7295db295c9a8f9f7c5703c9e7e9a9.mp3",
+    "title" : "Trọn bộ",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
