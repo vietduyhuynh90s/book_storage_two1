@@ -1,0 +1,389 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/dao-mo-but-ky-nam-phai-tam-thuc_4828.html",
+    "title" : "Đạo Mộ Bút Ký - Nam Phái Tam Thúc.",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nam Phái Tam Thúc",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-07-25",
+    "duration" : 157561,
+    "abridged" : false,
+    "conformsTo" : null,
+    "numberOfPages" : null,
+    "readingProgression" : null,
+    "belongsTo" : null,
+    "presentation" : null,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/EPUB/EPUB_1ffe10d578878988a59caed64a460c35.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/IMAGE/IMAGE_1ffe10d578878988a59caed64a460c35.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.001.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17459,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.001",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.002.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17732,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.002",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.003.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17678,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.003",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.004.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15716,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.004",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.005.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17379,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.005",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.006.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 17496,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.006",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.007.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18483,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.007",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.008.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 18623,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.008",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.009.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 651,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.009",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.010.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 966,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.010",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.011.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 664,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.011",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.012.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 783,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.012",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.013.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 606,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.013",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.014.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 857,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.014",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.015.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1077,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.015",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.016.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 687,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.016",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.017.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 819,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.017",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.018.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 849,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.018",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.019.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 704,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.019",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.020.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1924,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.020",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.021.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 479,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.021",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.022.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1044,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.022",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.023.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 830,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.023",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.024.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 657,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.024",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.025.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 781,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.025",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.026.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 773,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.026",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.027.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 497,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.027",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.028.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 708,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.028",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.029.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 639,
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.029",
+    "properties" : null,
+    "alternate" : null
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.001.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.001",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.002.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.002",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.003.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.003",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.004.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.004",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.005.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.005",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.006.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.006",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.007.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.007",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.008.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.008",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.009.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.009",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.010.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.010",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.011.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.011",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.012.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.012",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.013.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.013",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.014.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.014",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.015.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.015",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.016.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.016",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.017.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.017",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.018.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.018",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.019.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.019",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.020.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.020",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.021.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.021",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.022.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.022",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.023.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.023",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.024.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.024",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.025.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.025",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.026.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.026",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.027.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.027",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.028.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.028",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/AudioBookDaoMoButKyNamPhaiTamThuc/Audio%20S%C3%A1ch%20N%C3%B3i%20Tr%E1%BB%99m%20M%E1%BB%99%20Ma%20Qu%C3%A1i%20-%20%C4%90%E1%BA%A1o%20M%E1%BB%99%20B%C3%BAt%20K%C3%BD%20-%20Nam%20Ph%C3%A1i%20Tam%20Th%C3%BAc.029.mp3",
+    "title" : "Audio Sách Nói Trộm Mộ Ma Quái - Đạo Mộ Bút Ký - Nam Phái Tam Thúc.029",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
