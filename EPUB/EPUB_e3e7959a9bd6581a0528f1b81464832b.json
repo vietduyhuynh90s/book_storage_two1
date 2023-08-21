@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-21",
     "duration" : 8116,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/an-mang-chuot-9-dau/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e3e7959a9bd6581a0528f1b81464832b_a9fe96e1e6cdf48712d7445471d1005d.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3238,
@@ -44,21 +44,33 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/an-mang-chuot-9-dau/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e3e7959a9bd6581a0528f1b81464832b_78a44466df428900dfeb8394fe50f57a_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4878,
-    "title" : "Chuột Chín Đầu và Thủy Thần Giáo",
+    "duration" : 0,
+    "title" : "Chuột Chín Đầu và Thủy Thần Giáo (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e3e7959a9bd6581a0528f1b81464832b_78a44466df428900dfeb8394fe50f57a_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Chuột Chín Đầu và Thủy Thần Giáo (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/an-mang-chuot-9-dau/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e3e7959a9bd6581a0528f1b81464832b_a9fe96e1e6cdf48712d7445471d1005d.mp3",
     "title" : "37 bức thư tố giác",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/an-mang-chuot-9-dau/2.mp3",
-    "title" : "Chuột Chín Đầu và Thủy Thần Giáo",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e3e7959a9bd6581a0528f1b81464832b_78a44466df428900dfeb8394fe50f57a_1.mp3",
+    "title" : "Chuột Chín Đầu và Thủy Thần Giáo (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e3e7959a9bd6581a0528f1b81464832b_78a44466df428900dfeb8394fe50f57a_2.mp3",
+    "title" : "Chuột Chín Đầu và Thủy Thần Giáo (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

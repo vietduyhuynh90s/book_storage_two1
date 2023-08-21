@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-16",
+    "published" : "2023-08-19",
     "duration" : 3400,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,17 +36,29 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/24h_20211201/24h.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_5ca0c67f2b543be94a121fdf3b1110e5_29a3c575c2bea64d7a22493f6b5aa466_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3400,
-    "title" : "24h",
+    "duration" : 0,
+    "title" : "24h (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_5ca0c67f2b543be94a121fdf3b1110e5_29a3c575c2bea64d7a22493f6b5aa466_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "24h (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/24h_20211201/24h.mp3",
-    "title" : "24h",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_5ca0c67f2b543be94a121fdf3b1110e5_29a3c575c2bea64d7a22493f6b5aa466_1.mp3",
+    "title" : "24h (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_5ca0c67f2b543be94a121fdf3b1110e5_29a3c575c2bea64d7a22493f6b5aa466_2.mp3",
+    "title" : "24h (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

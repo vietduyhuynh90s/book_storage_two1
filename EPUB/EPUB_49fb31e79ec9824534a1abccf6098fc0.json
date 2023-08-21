@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-16",
+    "published" : "2023-08-19",
     "duration" : 9307,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/2_20210116_20210116_0920/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_49fb31e79ec9824534a1abccf6098fc0_4a696ba63741c888c0983c5b0144d3db.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 4297,
@@ -44,21 +44,33 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/2_20210116_20210116_0920/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_49fb31e79ec9824534a1abccf6098fc0_5ddf37fc2fc57ac4102afcad373d239d_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5010,
-    "title" : "2",
+    "duration" : 0,
+    "title" : "2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_49fb31e79ec9824534a1abccf6098fc0_5ddf37fc2fc57ac4102afcad373d239d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "2 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/2_20210116_20210116_0920/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_49fb31e79ec9824534a1abccf6098fc0_4a696ba63741c888c0983c5b0144d3db.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/2_20210116_20210116_0920/2.mp3",
-    "title" : "2",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_49fb31e79ec9824534a1abccf6098fc0_5ddf37fc2fc57ac4102afcad373d239d_1.mp3",
+    "title" : "2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_49fb31e79ec9824534a1abccf6098fc0_5ddf37fc2fc57ac4102afcad373d239d_2.mp3",
+    "title" : "2 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

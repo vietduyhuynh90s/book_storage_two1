@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-19",
     "duration" : 6951,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/2_20210117/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_0984715219710cb5c508124548733af8_101be555eb8c81b09eb3071ab9e786c4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3208,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/2_20210117/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_0984715219710cb5c508124548733af8_57faf3a83ec2af0f8e27ee2ecd44a3c8.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3743,
@@ -53,11 +53,11 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/2_20210117/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_0984715219710cb5c508124548733af8_101be555eb8c81b09eb3071ab9e786c4.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/2_20210117/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_0984715219710cb5c508124548733af8_57faf3a83ec2af0f8e27ee2ecd44a3c8.mp3",
     "title" : "2",
     "children" : [ ]
   } ],
