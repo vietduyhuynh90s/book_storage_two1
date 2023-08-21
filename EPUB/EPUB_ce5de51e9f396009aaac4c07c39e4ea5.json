@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-16",
+    "published" : "2023-08-21",
     "duration" : 8614,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/dongtrinhngai_201903/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ce5de51e9f396009aaac4c07c39e4ea5_eaf1f7315b560bf703fc16b57d32caff.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3336,
@@ -44,21 +44,33 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/dongtrinhngai_201903/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ce5de51e9f396009aaac4c07c39e4ea5_8b1313026a42439ec5618dab01b2093d_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5278,
-    "title" : "2",
+    "duration" : 0,
+    "title" : "2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ce5de51e9f396009aaac4c07c39e4ea5_8b1313026a42439ec5618dab01b2093d_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "2 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/dongtrinhngai_201903/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ce5de51e9f396009aaac4c07c39e4ea5_eaf1f7315b560bf703fc16b57d32caff.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/dongtrinhngai_201903/2.mp3",
-    "title" : "2",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ce5de51e9f396009aaac4c07c39e4ea5_8b1313026a42439ec5618dab01b2093d_1.mp3",
+    "title" : "2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_ce5de51e9f396009aaac4c07c39e4ea5_8b1313026a42439ec5618dab01b2093d_2.mp3",
+    "title" : "2 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
