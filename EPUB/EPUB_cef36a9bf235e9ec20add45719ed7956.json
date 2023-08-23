@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-22",
     "duration" : 10936,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/nam-duong-huyen-thuat/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_cef36a9bf235e9ec20add45719ed7956_891f77c07fa25069847624e091c6c858.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3793,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nam-duong-huyen-thuat/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_cef36a9bf235e9ec20add45719ed7956_84e84807d16a262448d42ee9054b0cb6.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3728,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/nam-duong-huyen-thuat/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_cef36a9bf235e9ec20add45719ed7956_ac2890fe77996857f811432f28bded15.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3415,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/nam-duong-huyen-thuat/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_cef36a9bf235e9ec20add45719ed7956_891f77c07fa25069847624e091c6c858.mp3",
     "title" : "1",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nam-duong-huyen-thuat/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_cef36a9bf235e9ec20add45719ed7956_84e84807d16a262448d42ee9054b0cb6.mp3",
     "title" : "2",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/nam-duong-huyen-thuat/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_cef36a9bf235e9ec20add45719ed7956_ac2890fe77996857f811432f28bded15.mp3",
     "title" : "3",
     "children" : [ ]
   } ],

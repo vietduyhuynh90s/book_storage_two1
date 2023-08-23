@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-12",
+    "published" : "2023-08-22",
     "duration" : 10077,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,149 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/lam-le-2_202112/lam-le-1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_9b1538ab49f95792bfa7524efa4fe60a_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3483,
-    "title" : "No.9\nEsther’s Waltz",
+    "duration" : 0,
+    "title" : "No.9\nEsther’s Waltz (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/lam-le-2_202112/lam-le-2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_9b1538ab49f95792bfa7524efa4fe60a_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4147,
-    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 2) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN",
+    "duration" : 0,
+    "title" : "No.9\nEsther’s Waltz (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/lam-le-2_202112/lam-le-3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_9b1538ab49f95792bfa7524efa4fe60a_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2447,
-    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 3- CUỐI) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN",
+    "duration" : 0,
+    "title" : "No.9\nEsther’s Waltz (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_9b1538ab49f95792bfa7524efa4fe60a_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "No.9\nEsther’s Waltz (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_262df2596ef86496c4c50488b28c4f75_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 2) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_262df2596ef86496c4c50488b28c4f75_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 2) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_262df2596ef86496c4c50488b28c4f75_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 2) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_262df2596ef86496c4c50488b28c4f75_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 2) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_262df2596ef86496c4c50488b28c4f75_5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 2) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN (5)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_579b0a4b7202eb17167d037b8ed820f7_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 3- CUỐI) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_579b0a4b7202eb17167d037b8ed820f7_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 3- CUỐI) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_579b0a4b7202eb17167d037b8ed820f7_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 3- CUỐI) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/lam-le-2_202112/lam-le-1.mp3",
-    "title" : "No.9\nEsther’s Waltz",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_9b1538ab49f95792bfa7524efa4fe60a_1.mp3",
+    "title" : "No.9\nEsther’s Waltz (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/lam-le-2_202112/lam-le-2.mp3",
-    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 2) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_9b1538ab49f95792bfa7524efa4fe60a_2.mp3",
+    "title" : "No.9\nEsther’s Waltz (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/lam-le-2_202112/lam-le-3.mp3",
-    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 3- CUỐI) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_9b1538ab49f95792bfa7524efa4fe60a_3.mp3",
+    "title" : "No.9\nEsther’s Waltz (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_9b1538ab49f95792bfa7524efa4fe60a_4.mp3",
+    "title" : "No.9\nEsther’s Waltz (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_262df2596ef86496c4c50488b28c4f75_1.mp3",
+    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 2) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_262df2596ef86496c4c50488b28c4f75_2.mp3",
+    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 2) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_262df2596ef86496c4c50488b28c4f75_3.mp3",
+    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 2) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_262df2596ef86496c4c50488b28c4f75_4.mp3",
+    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 2) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_262df2596ef86496c4c50488b28c4f75_5.mp3",
+    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 2) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN (5)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_579b0a4b7202eb17167d037b8ed820f7_1.mp3",
+    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 3- CUỐI) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_579b0a4b7202eb17167d037b8ed820f7_2.mp3",
+    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 3- CUỐI) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_e9ce12f5425eb90b62037d771fb9a81e_579b0a4b7202eb17167d037b8ed820f7_3.mp3",
+    "title" : "Nghe tiểu thuyết LÀM LẼ (PHẦN 3- CUỐI) - TÁC GIẢ: MẠNH PHÚ TƯ| TÁC PHẨM 'GIỰT' GIẢI TỰ LỰC VĂN ĐOÀN (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
