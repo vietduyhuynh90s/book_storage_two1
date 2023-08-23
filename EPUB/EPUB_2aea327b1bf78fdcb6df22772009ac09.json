@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-12",
+    "published" : "2023-08-23",
     "duration" : 56427,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,137 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/PYTM-KDR/001.PYTM.KDR.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_0ea815beaf424d49ca2aaa535e3a1017_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 19386,
-    "title" : "001.PYTM.KDR",
+    "duration" : 0,
+    "title" : "001.PYTM.KDR (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/PYTM-KDR/002.PYTM.KDR.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_0ea815beaf424d49ca2aaa535e3a1017_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 19186,
-    "title" : "002.PYTM.KDR",
+    "duration" : 0,
+    "title" : "001.PYTM.KDR (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/PYTM-KDR/003.PYTM.KDR.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_0ea815beaf424d49ca2aaa535e3a1017_3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 17855,
-    "title" : "003.PYTM.KDR",
+    "duration" : 0,
+    "title" : "001.PYTM.KDR (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_0ea815beaf424d49ca2aaa535e3a1017_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "001.PYTM.KDR (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_96e52c69d5deb23222adc40e70248dce_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "002.PYTM.KDR (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_96e52c69d5deb23222adc40e70248dce_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "002.PYTM.KDR (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_96e52c69d5deb23222adc40e70248dce_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "002.PYTM.KDR (3)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_96e52c69d5deb23222adc40e70248dce_4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "002.PYTM.KDR (4)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_768dfa69811fba066f222bdcc291cd25_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "003.PYTM.KDR (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_768dfa69811fba066f222bdcc291cd25_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "003.PYTM.KDR (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_768dfa69811fba066f222bdcc291cd25_3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "003.PYTM.KDR (3)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/PYTM-KDR/001.PYTM.KDR.mp3",
-    "title" : "001.PYTM.KDR",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_0ea815beaf424d49ca2aaa535e3a1017_1.mp3",
+    "title" : "001.PYTM.KDR (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/PYTM-KDR/002.PYTM.KDR.mp3",
-    "title" : "002.PYTM.KDR",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_0ea815beaf424d49ca2aaa535e3a1017_2.mp3",
+    "title" : "001.PYTM.KDR (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/PYTM-KDR/003.PYTM.KDR.mp3",
-    "title" : "003.PYTM.KDR",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_0ea815beaf424d49ca2aaa535e3a1017_3.mp3",
+    "title" : "001.PYTM.KDR (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_0ea815beaf424d49ca2aaa535e3a1017_4.mp3",
+    "title" : "001.PYTM.KDR (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_96e52c69d5deb23222adc40e70248dce_1.mp3",
+    "title" : "002.PYTM.KDR (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_96e52c69d5deb23222adc40e70248dce_2.mp3",
+    "title" : "002.PYTM.KDR (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_96e52c69d5deb23222adc40e70248dce_3.mp3",
+    "title" : "002.PYTM.KDR (3)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_96e52c69d5deb23222adc40e70248dce_4.mp3",
+    "title" : "002.PYTM.KDR (4)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_768dfa69811fba066f222bdcc291cd25_1.mp3",
+    "title" : "003.PYTM.KDR (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_768dfa69811fba066f222bdcc291cd25_2.mp3",
+    "title" : "003.PYTM.KDR (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_2aea327b1bf78fdcb6df22772009ac09_768dfa69811fba066f222bdcc291cd25_3.mp3",
+    "title" : "003.PYTM.KDR (3)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-23",
     "duration" : 9933,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,77 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/tu-hon-1/tu-hon-1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_38a7ca8d77535ccd598dff0c61aa375e_028ae3fa7b3fd1627bf9b099f7319afb_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
-    "title" : "tu-hon-1",
+    "duration" : 0,
+    "title" : "tu-hon-1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tu-hon-1/tu-hon-2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_38a7ca8d77535ccd598dff0c61aa375e_028ae3fa7b3fd1627bf9b099f7319afb_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
-    "title" : "tu-hon-2",
+    "duration" : 0,
+    "title" : "tu-hon-1 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/tu-hon-1/tu-hon-3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_38a7ca8d77535ccd598dff0c61aa375e_0881bb25bee57ce2750092033eb2cbcc_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2733,
-    "title" : "tu-hon-3",
+    "duration" : 0,
+    "title" : "tu-hon-2 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_38a7ca8d77535ccd598dff0c61aa375e_0881bb25bee57ce2750092033eb2cbcc_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-hon-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_38a7ca8d77535ccd598dff0c61aa375e_3987eed16aae073e9504b69f0bc14ee1_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-hon-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_38a7ca8d77535ccd598dff0c61aa375e_3987eed16aae073e9504b69f0bc14ee1_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "tu-hon-3 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/tu-hon-1/tu-hon-1.mp3",
-    "title" : "tu-hon-1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_38a7ca8d77535ccd598dff0c61aa375e_028ae3fa7b3fd1627bf9b099f7319afb_1.mp3",
+    "title" : "tu-hon-1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tu-hon-1/tu-hon-2.mp3",
-    "title" : "tu-hon-2",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_38a7ca8d77535ccd598dff0c61aa375e_028ae3fa7b3fd1627bf9b099f7319afb_2.mp3",
+    "title" : "tu-hon-1 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/tu-hon-1/tu-hon-3.mp3",
-    "title" : "tu-hon-3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_38a7ca8d77535ccd598dff0c61aa375e_0881bb25bee57ce2750092033eb2cbcc_1.mp3",
+    "title" : "tu-hon-2 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_38a7ca8d77535ccd598dff0c61aa375e_0881bb25bee57ce2750092033eb2cbcc_2.mp3",
+    "title" : "tu-hon-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_38a7ca8d77535ccd598dff0c61aa375e_3987eed16aae073e9504b69f0bc14ee1_1.mp3",
+    "title" : "tu-hon-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_38a7ca8d77535ccd598dff0c61aa375e_3987eed16aae073e9504b69f0bc14ee1_2.mp3",
+    "title" : "tu-hon-3 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
