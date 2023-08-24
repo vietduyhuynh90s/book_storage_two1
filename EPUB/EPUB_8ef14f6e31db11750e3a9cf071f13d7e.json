@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-24",
     "duration" : 16149,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,77 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/mieng-ngon-ha-noi/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_8ef14f6e31db11750e3a9cf071f13d7e_b594e340d5f066550e8737d8b17c51da_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 4620,
-    "title" : "1 - Đề tặng, Thay Lời Tựa, Phở Bò - Món Quà Căn Bản, Phở Gà",
+    "duration" : 0,
+    "title" : "1 - Đề tặng, Thay Lời Tựa, Phở Bò - Món Quà Căn Bản, Phở Gà (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mieng-ngon-ha-noi/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_8ef14f6e31db11750e3a9cf071f13d7e_b594e340d5f066550e8737d8b17c51da_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5866,
-    "title" : "2 - Cốm Vòng, Rươi, Ngô Rang, Khoai Lùi",
+    "duration" : 0,
+    "title" : "1 - Đề tặng, Thay Lời Tựa, Phở Bò - Món Quà Căn Bản, Phở Gà (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/mieng-ngon-ha-noi/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_8ef14f6e31db11750e3a9cf071f13d7e_3321101e36d6cab33cc9753d484cec64_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5663,
-    "title" : "3 - Chả Cá, Thịt Cầy, Tiết Canh, Cháo Lòng",
+    "duration" : 0,
+    "title" : "2 - Cốm Vòng, Rươi, Ngô Rang, Khoai Lùi (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_8ef14f6e31db11750e3a9cf071f13d7e_3321101e36d6cab33cc9753d484cec64_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "2 - Cốm Vòng, Rươi, Ngô Rang, Khoai Lùi (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_8ef14f6e31db11750e3a9cf071f13d7e_0cc6f9418c63551b82e6aaec1e8acc33_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "3 - Chả Cá, Thịt Cầy, Tiết Canh, Cháo Lòng (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_8ef14f6e31db11750e3a9cf071f13d7e_0cc6f9418c63551b82e6aaec1e8acc33_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "3 - Chả Cá, Thịt Cầy, Tiết Canh, Cháo Lòng (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/mieng-ngon-ha-noi/1.mp3",
-    "title" : "1 - Đề tặng, Thay Lời Tựa, Phở Bò - Món Quà Căn Bản, Phở Gà",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_8ef14f6e31db11750e3a9cf071f13d7e_b594e340d5f066550e8737d8b17c51da_1.mp3",
+    "title" : "1 - Đề tặng, Thay Lời Tựa, Phở Bò - Món Quà Căn Bản, Phở Gà (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mieng-ngon-ha-noi/2.mp3",
-    "title" : "2 - Cốm Vòng, Rươi, Ngô Rang, Khoai Lùi",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_8ef14f6e31db11750e3a9cf071f13d7e_b594e340d5f066550e8737d8b17c51da_2.mp3",
+    "title" : "1 - Đề tặng, Thay Lời Tựa, Phở Bò - Món Quà Căn Bản, Phở Gà (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/mieng-ngon-ha-noi/3.mp3",
-    "title" : "3 - Chả Cá, Thịt Cầy, Tiết Canh, Cháo Lòng",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_8ef14f6e31db11750e3a9cf071f13d7e_3321101e36d6cab33cc9753d484cec64_1.mp3",
+    "title" : "2 - Cốm Vòng, Rươi, Ngô Rang, Khoai Lùi (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_8ef14f6e31db11750e3a9cf071f13d7e_3321101e36d6cab33cc9753d484cec64_2.mp3",
+    "title" : "2 - Cốm Vòng, Rươi, Ngô Rang, Khoai Lùi (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_8ef14f6e31db11750e3a9cf071f13d7e_0cc6f9418c63551b82e6aaec1e8acc33_1.mp3",
+    "title" : "3 - Chả Cá, Thịt Cầy, Tiết Canh, Cháo Lòng (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_8ef14f6e31db11750e3a9cf071f13d7e_0cc6f9418c63551b82e6aaec1e8acc33_2.mp3",
+    "title" : "3 - Chả Cá, Thịt Cầy, Tiết Canh, Cháo Lòng (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

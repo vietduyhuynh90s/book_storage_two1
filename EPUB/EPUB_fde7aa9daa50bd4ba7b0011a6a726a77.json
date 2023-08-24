@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-24",
     "duration" : 17698,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,41 +36,77 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/toiyeuemgaigia/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_fde7aa9daa50bd4ba7b0011a6a726a77_da27d4b0ed77b857ffd7de98bbc9a82c_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5572,
-    "title" : "MC Huệ Trần || TRUYỆN NGẮN HAY CHỌN LỌC",
+    "duration" : 0,
+    "title" : "MC Huệ Trần || TRUYỆN NGẮN HAY CHỌN LỌC (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/toiyeuemgaigia/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_fde7aa9daa50bd4ba7b0011a6a726a77_da27d4b0ed77b857ffd7de98bbc9a82c_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 5867,
-    "title" : "MC Huệ Trần || TRUYỆN HAY CHỌN LỌC",
+    "duration" : 0,
+    "title" : "MC Huệ Trần || TRUYỆN NGẮN HAY CHỌN LỌC (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/toiyeuemgaigia/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_fde7aa9daa50bd4ba7b0011a6a726a77_41c8af76681c733c2addd4a4dd29454f_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 6259,
-    "title" : "Tôi Yêu Em Bạn Gái Giả P3 (End) - MC Huệ Trần || TRUYỆN HAY CHỌN LỌC",
+    "duration" : 0,
+    "title" : "MC Huệ Trần || TRUYỆN HAY CHỌN LỌC (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_fde7aa9daa50bd4ba7b0011a6a726a77_41c8af76681c733c2addd4a4dd29454f_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "MC Huệ Trần || TRUYỆN HAY CHỌN LỌC (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_fde7aa9daa50bd4ba7b0011a6a726a77_59ac92776720a9e5f8a3e65aeb7a54b0_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tôi Yêu Em Bạn Gái Giả P3 (End) - MC Huệ Trần || TRUYỆN HAY CHỌN LỌC (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_fde7aa9daa50bd4ba7b0011a6a726a77_59ac92776720a9e5f8a3e65aeb7a54b0_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Tôi Yêu Em Bạn Gái Giả P3 (End) - MC Huệ Trần || TRUYỆN HAY CHỌN LỌC (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/toiyeuemgaigia/1.mp3",
-    "title" : "MC Huệ Trần || TRUYỆN NGẮN HAY CHỌN LỌC",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_fde7aa9daa50bd4ba7b0011a6a726a77_da27d4b0ed77b857ffd7de98bbc9a82c_1.mp3",
+    "title" : "MC Huệ Trần || TRUYỆN NGẮN HAY CHỌN LỌC (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/toiyeuemgaigia/2.mp3",
-    "title" : "MC Huệ Trần || TRUYỆN HAY CHỌN LỌC",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_fde7aa9daa50bd4ba7b0011a6a726a77_da27d4b0ed77b857ffd7de98bbc9a82c_2.mp3",
+    "title" : "MC Huệ Trần || TRUYỆN NGẮN HAY CHỌN LỌC (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/toiyeuemgaigia/3.mp3",
-    "title" : "Tôi Yêu Em Bạn Gái Giả P3 (End) - MC Huệ Trần || TRUYỆN HAY CHỌN LỌC",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_fde7aa9daa50bd4ba7b0011a6a726a77_41c8af76681c733c2addd4a4dd29454f_1.mp3",
+    "title" : "MC Huệ Trần || TRUYỆN HAY CHỌN LỌC (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_fde7aa9daa50bd4ba7b0011a6a726a77_41c8af76681c733c2addd4a4dd29454f_2.mp3",
+    "title" : "MC Huệ Trần || TRUYỆN HAY CHỌN LỌC (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_fde7aa9daa50bd4ba7b0011a6a726a77_59ac92776720a9e5f8a3e65aeb7a54b0_1.mp3",
+    "title" : "Tôi Yêu Em Bạn Gái Giả P3 (End) - MC Huệ Trần || TRUYỆN HAY CHỌN LỌC (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_fde7aa9daa50bd4ba7b0011a6a726a77_59ac92776720a9e5f8a3e65aeb7a54b0_2.mp3",
+    "title" : "Tôi Yêu Em Bạn Gái Giả P3 (End) - MC Huệ Trần || TRUYỆN HAY CHỌN LỌC (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
