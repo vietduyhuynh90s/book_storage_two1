@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-23",
     "duration" : 9633,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,15 +36,23 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/phut-nhin-lai-minh.sna/PHUT_NHIN_LAI_MINH_01.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_c0a78c70673e8b52547c2bca54a370f0_5c042588846efa5d1af7fd1f982b262f_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3240,
-    "title" : "PHUT NHIN LAI MINH 01",
+    "duration" : 0,
+    "title" : "PHUT NHIN LAI MINH 01 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/phut-nhin-lai-minh.sna/PHUT_NHIN_LAI_MINH_02.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_c0a78c70673e8b52547c2bca54a370f0_5c042588846efa5d1af7fd1f982b262f_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "PHUT NHIN LAI MINH 01 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_c0a78c70673e8b52547c2bca54a370f0_9b3ce999db49bc3c9662550b30d86653.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2452,
@@ -52,25 +60,41 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/phut-nhin-lai-minh.sna/PHUT_NHIN_LAI_MINH_03.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_c0a78c70673e8b52547c2bca54a370f0_d3b8776a7328c4929b4b542e6464119f_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3941,
-    "title" : "PHUT NHIN LAI MINH 03",
+    "duration" : 0,
+    "title" : "PHUT NHIN LAI MINH 03 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_c0a78c70673e8b52547c2bca54a370f0_d3b8776a7328c4929b4b542e6464119f_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "PHUT NHIN LAI MINH 03 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/phut-nhin-lai-minh.sna/PHUT_NHIN_LAI_MINH_01.mp3",
-    "title" : "PHUT NHIN LAI MINH 01",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_c0a78c70673e8b52547c2bca54a370f0_5c042588846efa5d1af7fd1f982b262f_1.mp3",
+    "title" : "PHUT NHIN LAI MINH 01 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/phut-nhin-lai-minh.sna/PHUT_NHIN_LAI_MINH_02.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_c0a78c70673e8b52547c2bca54a370f0_5c042588846efa5d1af7fd1f982b262f_2.mp3",
+    "title" : "PHUT NHIN LAI MINH 01 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_c0a78c70673e8b52547c2bca54a370f0_9b3ce999db49bc3c9662550b30d86653.mp3",
     "title" : "PHUT NHIN LAI MINH 02",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/phut-nhin-lai-minh.sna/PHUT_NHIN_LAI_MINH_03.mp3",
-    "title" : "PHUT NHIN LAI MINH 03",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_c0a78c70673e8b52547c2bca54a370f0_d3b8776a7328c4929b4b542e6464119f_1.mp3",
+    "title" : "PHUT NHIN LAI MINH 03 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_c0a78c70673e8b52547c2bca54a370f0_d3b8776a7328c4929b4b542e6464119f_2.mp3",
+    "title" : "PHUT NHIN LAI MINH 03 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
