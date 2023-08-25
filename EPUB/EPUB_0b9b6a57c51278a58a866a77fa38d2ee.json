@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-25",
     "duration" : 13631,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,53 +36,101 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/ngoi-truong-1/ngoi-truong-1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_0b9b6a57c51278a58a866a77fa38d2ee_5a41f242b23f492d084b206e10cd54ec_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
-    "title" : "ngoi-truong-1",
+    "duration" : 0,
+    "title" : "ngoi-truong-1 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ngoi-truong-1/ngoi-truong-2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_0b9b6a57c51278a58a866a77fa38d2ee_5a41f242b23f492d084b206e10cd54ec_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
-    "title" : "ngoi-truong-2",
+    "duration" : 0,
+    "title" : "ngoi-truong-1 (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ngoi-truong-1/ngoi-truong-3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_0b9b6a57c51278a58a866a77fa38d2ee_d560e16672266ab074c9c116339cacb6_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 3600,
-    "title" : "ngoi-truong-3",
+    "duration" : 0,
+    "title" : "ngoi-truong-2 (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/ngoi-truong-1/ngoi-truong-4.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_0b9b6a57c51278a58a866a77fa38d2ee_d560e16672266ab074c9c116339cacb6_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 2831,
-    "title" : "ngoi-truong-4",
+    "duration" : 0,
+    "title" : "ngoi-truong-2 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_0b9b6a57c51278a58a866a77fa38d2ee_7cdb507141fcb697785479181d49e2ed_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ngoi-truong-3 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_0b9b6a57c51278a58a866a77fa38d2ee_7cdb507141fcb697785479181d49e2ed_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ngoi-truong-3 (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_0b9b6a57c51278a58a866a77fa38d2ee_f226e7075c376f2288ecf455685833bb_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ngoi-truong-4 (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_0b9b6a57c51278a58a866a77fa38d2ee_f226e7075c376f2288ecf455685833bb_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "ngoi-truong-4 (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/ngoi-truong-1/ngoi-truong-1.mp3",
-    "title" : "ngoi-truong-1",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_0b9b6a57c51278a58a866a77fa38d2ee_5a41f242b23f492d084b206e10cd54ec_1.mp3",
+    "title" : "ngoi-truong-1 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ngoi-truong-1/ngoi-truong-2.mp3",
-    "title" : "ngoi-truong-2",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_0b9b6a57c51278a58a866a77fa38d2ee_5a41f242b23f492d084b206e10cd54ec_2.mp3",
+    "title" : "ngoi-truong-1 (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ngoi-truong-1/ngoi-truong-3.mp3",
-    "title" : "ngoi-truong-3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_0b9b6a57c51278a58a866a77fa38d2ee_d560e16672266ab074c9c116339cacb6_1.mp3",
+    "title" : "ngoi-truong-2 (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/ngoi-truong-1/ngoi-truong-4.mp3",
-    "title" : "ngoi-truong-4",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_0b9b6a57c51278a58a866a77fa38d2ee_d560e16672266ab074c9c116339cacb6_2.mp3",
+    "title" : "ngoi-truong-2 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_0b9b6a57c51278a58a866a77fa38d2ee_7cdb507141fcb697785479181d49e2ed_1.mp3",
+    "title" : "ngoi-truong-3 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_0b9b6a57c51278a58a866a77fa38d2ee_7cdb507141fcb697785479181d49e2ed_2.mp3",
+    "title" : "ngoi-truong-3 (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_0b9b6a57c51278a58a866a77fa38d2ee_f226e7075c376f2288ecf455685833bb_1.mp3",
+    "title" : "ngoi-truong-4 (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_0b9b6a57c51278a58a866a77fa38d2ee_f226e7075c376f2288ecf455685833bb_2.mp3",
+    "title" : "ngoi-truong-4 (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
