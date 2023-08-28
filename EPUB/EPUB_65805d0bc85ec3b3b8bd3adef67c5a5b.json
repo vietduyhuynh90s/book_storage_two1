@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-05-09",
+    "published" : "2023-08-28",
     "duration" : 28858,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,53 +36,101 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://archive.org/download/loi-nhip-trai-tim_202009/1.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_65805d0bc85ec3b3b8bd3adef67c5a5b_904164c53baf85f38ff36a1182c9809c_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7200,
-    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa",
+    "duration" : 0,
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/loi-nhip-trai-tim_202009/2.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_65805d0bc85ec3b3b8bd3adef67c5a5b_904164c53baf85f38ff36a1182c9809c_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7200,
-    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa",
+    "duration" : 0,
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa (2)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/loi-nhip-trai-tim_202009/3.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_65805d0bc85ec3b3b8bd3adef67c5a5b_46c9c421a1bf2cdbb183707ef20e8bed_1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7200,
-    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa",
+    "duration" : 0,
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa (1)",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://archive.org/download/loi-nhip-trai-tim_202009/4.mp3",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_65805d0bc85ec3b3b8bd3adef67c5a5b_46c9c421a1bf2cdbb183707ef20e8bed_2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 7258,
-    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa",
+    "duration" : 0,
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_65805d0bc85ec3b3b8bd3adef67c5a5b_392a7a3c0f519239e849baaabee4fb43_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_65805d0bc85ec3b3b8bd3adef67c5a5b_392a7a3c0f519239e849baaabee4fb43_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa (2)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_65805d0bc85ec3b3b8bd3adef67c5a5b_4d0d194cab81705b6c1af652c6943c9c_1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa (1)",
+    "properties" : null,
+    "alternate" : null
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_65805d0bc85ec3b3b8bd3adef67c5a5b_4d0d194cab81705b6c1af652c6943c9c_2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 0,
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa (2)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://archive.org/download/loi-nhip-trai-tim_202009/1.mp3",
-    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_65805d0bc85ec3b3b8bd3adef67c5a5b_904164c53baf85f38ff36a1182c9809c_1.mp3",
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/loi-nhip-trai-tim_202009/2.mp3",
-    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_65805d0bc85ec3b3b8bd3adef67c5a5b_904164c53baf85f38ff36a1182c9809c_2.mp3",
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa (2)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/loi-nhip-trai-tim_202009/3.mp3",
-    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_65805d0bc85ec3b3b8bd3adef67c5a5b_46c9c421a1bf2cdbb183707ef20e8bed_1.mp3",
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa (1)",
     "children" : [ ]
   }, {
-    "href" : "https://archive.org/download/loi-nhip-trai-tim_202009/4.mp3",
-    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa",
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_65805d0bc85ec3b3b8bd3adef67c5a5b_46c9c421a1bf2cdbb183707ef20e8bed_2.mp3",
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_65805d0bc85ec3b3b8bd3adef67c5a5b_392a7a3c0f519239e849baaabee4fb43_1.mp3",
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_65805d0bc85ec3b3b8bd3adef67c5a5b_392a7a3c0f519239e849baaabee4fb43_2.mp3",
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa (2)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_65805d0bc85ec3b3b8bd3adef67c5a5b_4d0d194cab81705b6c1af652c6943c9c_1.mp3",
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa (1)",
+    "children" : [ ]
+  }, {
+    "href" : "https://raw.githubusercontent.com/quetcccd/audio_storage1/main/AUDIO/AUDIO_65805d0bc85ec3b3b8bd3adef67c5a5b_4d0d194cab81705b6c1af652c6943c9c_2.mp3",
+    "title" : "Truyện dài của Thụy Vũ | Nghe Truyện Xưa (2)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
