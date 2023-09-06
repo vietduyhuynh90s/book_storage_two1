@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-22",
-    "duration" : 10156,
+    "published" : "2023-09-06",
+    "duration" : 20312,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_de9a2cda5fc7a75d1350a7fd6f77654c_979dd77f1cff3ba92c6f926c918930ae.mp3",
+    "href" : "https://archive.org/download/chucmotngaytotlanh/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3503,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_de9a2cda5fc7a75d1350a7fd6f77654c_a1168de9e5292ecddc2ebeb77eae02af.mp3",
+    "href" : "https://archive.org/download/chucmotngaytotlanh/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3764,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_de9a2cda5fc7a75d1350a7fd6f77654c_0579673f15e2aeb2886e2c247fe4b747.mp3",
+    "href" : "https://archive.org/download/chucmotngaytotlanh/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 2889,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_de9a2cda5fc7a75d1350a7fd6f77654c_979dd77f1cff3ba92c6f926c918930ae.mp3",
+    "href" : "https://archive.org/download/chucmotngaytotlanh/1.mp3",
     "title" : "Nguyễn Nhật Ánh- chương 1 - truyện dài",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_de9a2cda5fc7a75d1350a7fd6f77654c_a1168de9e5292ecddc2ebeb77eae02af.mp3",
+    "href" : "https://archive.org/download/chucmotngaytotlanh/2.mp3",
     "title" : "Nguyễn Nhật Ánh- chương 2 - truyện dài",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_de9a2cda5fc7a75d1350a7fd6f77654c_0579673f15e2aeb2886e2c247fe4b747.mp3",
+    "href" : "https://archive.org/download/chucmotngaytotlanh/3.mp3",
     "title" : "Nguyễn Nhật Ánh- chương 3 - truyện dài",
     "children" : [ ]
   } ],

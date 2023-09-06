@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-28",
-    "duration" : 9360,
+    "published" : "2023-09-06",
+    "duration" : 11359,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,23 +36,15 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bcc3f9159b0cea2caf139e18d38539b_a311cea3f4584b993fc76fa54e71bda7_1.mp3",
+    "href" : "https://archive.org/download/BaOiMinhDiDau04/BaOiMinhDiDau_01.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "BaOiMinhDiDau 01 (1)",
+    "duration" : 1997,
+    "title" : "BaOiMinhDiDau 01",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bcc3f9159b0cea2caf139e18d38539b_a311cea3f4584b993fc76fa54e71bda7_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "BaOiMinhDiDau 01 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bcc3f9159b0cea2caf139e18d38539b_699c560ae04e114d39750bae034a8fcc.mp3",
+    "href" : "https://archive.org/download/BaOiMinhDiDau04/BaOiMinhDiDau_02.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 1999,
@@ -60,65 +52,37 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bcc3f9159b0cea2caf139e18d38539b_925276bd53ff8ff007f3a2fe0ad0f016_1.mp3",
+    "href" : "https://archive.org/download/BaOiMinhDiDau04/BaOiMinhDiDau_03.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "BaOiMinhDiDau 03 (1)",
+    "duration" : 2469,
+    "title" : "BaOiMinhDiDau 03",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bcc3f9159b0cea2caf139e18d38539b_925276bd53ff8ff007f3a2fe0ad0f016_2.mp3",
+    "href" : "https://archive.org/download/BaOiMinhDiDau04/BaOiMinhDiDau_04.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "BaOiMinhDiDau 03 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bcc3f9159b0cea2caf139e18d38539b_6c21a73cf44a9bdc7c6cadfc19e89ab2_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "BaOiMinhDiDau 04 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bcc3f9159b0cea2caf139e18d38539b_6c21a73cf44a9bdc7c6cadfc19e89ab2_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "BaOiMinhDiDau 04 (2)",
+    "duration" : 2895,
+    "title" : "BaOiMinhDiDau 04",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bcc3f9159b0cea2caf139e18d38539b_a311cea3f4584b993fc76fa54e71bda7_1.mp3",
-    "title" : "BaOiMinhDiDau 01 (1)",
+    "href" : "https://archive.org/download/BaOiMinhDiDau04/BaOiMinhDiDau_01.mp3",
+    "title" : "BaOiMinhDiDau 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bcc3f9159b0cea2caf139e18d38539b_a311cea3f4584b993fc76fa54e71bda7_2.mp3",
-    "title" : "BaOiMinhDiDau 01 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bcc3f9159b0cea2caf139e18d38539b_699c560ae04e114d39750bae034a8fcc.mp3",
+    "href" : "https://archive.org/download/BaOiMinhDiDau04/BaOiMinhDiDau_02.mp3",
     "title" : "BaOiMinhDiDau 02",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bcc3f9159b0cea2caf139e18d38539b_925276bd53ff8ff007f3a2fe0ad0f016_1.mp3",
-    "title" : "BaOiMinhDiDau 03 (1)",
+    "href" : "https://archive.org/download/BaOiMinhDiDau04/BaOiMinhDiDau_03.mp3",
+    "title" : "BaOiMinhDiDau 03",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bcc3f9159b0cea2caf139e18d38539b_925276bd53ff8ff007f3a2fe0ad0f016_2.mp3",
-    "title" : "BaOiMinhDiDau 03 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bcc3f9159b0cea2caf139e18d38539b_6c21a73cf44a9bdc7c6cadfc19e89ab2_1.mp3",
-    "title" : "BaOiMinhDiDau 04 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bcc3f9159b0cea2caf139e18d38539b_6c21a73cf44a9bdc7c6cadfc19e89ab2_2.mp3",
-    "title" : "BaOiMinhDiDau 04 (2)",
+    "href" : "https://archive.org/download/BaOiMinhDiDau04/BaOiMinhDiDau_04.mp3",
+    "title" : "BaOiMinhDiDau 04",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

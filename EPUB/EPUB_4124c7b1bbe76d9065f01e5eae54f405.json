@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
+    "published" : "2023-09-06",
     "duration" : 30701,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,17 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4124c7b1bbe76d9065f01e5eae54f405_7b3d9c7cff17d4ed02a891dd6ae78dbd_1.mp3",
+    "href" : "https://archive.org/download/NLCTHDNKNCT/Ng%C6%B0%E1%BB%9Di%20l%C3%A0%20cu%E1%BB%99c%20tu%20h%C3%A0nh%20%C4%91%E1%BA%B9p%20nh%E1%BA%A5t%20ki%E1%BA%BFp%20n%C3%A0y%20c%E1%BB%A7a%20t%C3%B4i%20-%20B%E1%BA%A1ch%20L%E1%BA%A1c%20Mai%20%28128kbit_AAC%29.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Người là cuộc tu hành đẹp nhất kiếp này của tôi - Bạch Lạc Mai (128kbit AAC) (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4124c7b1bbe76d9065f01e5eae54f405_7b3d9c7cff17d4ed02a891dd6ae78dbd_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Người là cuộc tu hành đẹp nhất kiếp này của tôi - Bạch Lạc Mai (128kbit AAC) (2)",
+    "duration" : 30701,
+    "title" : "Người là cuộc tu hành đẹp nhất kiếp này của tôi - Bạch Lạc Mai (128kbit AAC)",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4124c7b1bbe76d9065f01e5eae54f405_7b3d9c7cff17d4ed02a891dd6ae78dbd_1.mp3",
-    "title" : "Người là cuộc tu hành đẹp nhất kiếp này của tôi - Bạch Lạc Mai (128kbit AAC) (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_4124c7b1bbe76d9065f01e5eae54f405_7b3d9c7cff17d4ed02a891dd6ae78dbd_2.mp3",
-    "title" : "Người là cuộc tu hành đẹp nhất kiếp này của tôi - Bạch Lạc Mai (128kbit AAC) (2)",
+    "href" : "https://archive.org/download/NLCTHDNKNCT/Ng%C6%B0%E1%BB%9Di%20l%C3%A0%20cu%E1%BB%99c%20tu%20h%C3%A0nh%20%C4%91%E1%BA%B9p%20nh%E1%BA%A5t%20ki%E1%BA%BFp%20n%C3%A0y%20c%E1%BB%A7a%20t%C3%B4i%20-%20B%E1%BA%A1ch%20L%E1%BA%A1c%20Mai%20%28128kbit_AAC%29.mp3",
+    "title" : "Người là cuộc tu hành đẹp nhất kiếp này của tôi - Bạch Lạc Mai (128kbit AAC)",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

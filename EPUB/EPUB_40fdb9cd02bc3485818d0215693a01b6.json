@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-23",
+    "published" : "2023-09-06",
     "duration" : 34445,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,125 +36,41 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_40fdb9cd02bc3485818d0215693a01b6_6b4ecdfa5c9aaae6a6cc98d21902cc0a_1.mp3",
+    "href" : "https://archive.org/download/den-trang/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hay Hiếm Có (1)",
+    "duration" : 6452,
+    "title" : "Truyện Ngôn Tình Hay Hiếm Có",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_40fdb9cd02bc3485818d0215693a01b6_6b4ecdfa5c9aaae6a6cc98d21902cc0a_2.mp3",
+    "href" : "https://archive.org/download/den-trang/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hay Hiếm Có (2)",
+    "duration" : 13988,
+    "title" : "Truyện Ngôn Tình Hay Đang Làm Mưa Làm Gió",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_40fdb9cd02bc3485818d0215693a01b6_2dd01b79897bf73f1fa9305d14c385fb_1.mp3",
+    "href" : "https://archive.org/download/den-trang/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hay Đang Làm Mưa Làm Gió (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_40fdb9cd02bc3485818d0215693a01b6_2dd01b79897bf73f1fa9305d14c385fb_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hay Đang Làm Mưa Làm Gió (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_40fdb9cd02bc3485818d0215693a01b6_2dd01b79897bf73f1fa9305d14c385fb_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hay Đang Làm Mưa Làm Gió (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_40fdb9cd02bc3485818d0215693a01b6_2dd01b79897bf73f1fa9305d14c385fb_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hay Đang Làm Mưa Làm Gió (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_40fdb9cd02bc3485818d0215693a01b6_0a8d074e532e95386b5d85dac78f1deb_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Nữ Chính Bị Ngược (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_40fdb9cd02bc3485818d0215693a01b6_0a8d074e532e95386b5d85dac78f1deb_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Nữ Chính Bị Ngược (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_40fdb9cd02bc3485818d0215693a01b6_0a8d074e532e95386b5d85dac78f1deb_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Nữ Chính Bị Ngược (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_40fdb9cd02bc3485818d0215693a01b6_0a8d074e532e95386b5d85dac78f1deb_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Nữ Chính Bị Ngược (4)",
+    "duration" : 14005,
+    "title" : "Truyện Ngôn Tình Hay Nhất Về Nữ Chính Bị Ngược",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_40fdb9cd02bc3485818d0215693a01b6_6b4ecdfa5c9aaae6a6cc98d21902cc0a_1.mp3",
-    "title" : "Truyện Ngôn Tình Hay Hiếm Có (1)",
+    "href" : "https://archive.org/download/den-trang/1.mp3",
+    "title" : "Truyện Ngôn Tình Hay Hiếm Có",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_40fdb9cd02bc3485818d0215693a01b6_6b4ecdfa5c9aaae6a6cc98d21902cc0a_2.mp3",
-    "title" : "Truyện Ngôn Tình Hay Hiếm Có (2)",
+    "href" : "https://archive.org/download/den-trang/2.mp3",
+    "title" : "Truyện Ngôn Tình Hay Đang Làm Mưa Làm Gió",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_40fdb9cd02bc3485818d0215693a01b6_2dd01b79897bf73f1fa9305d14c385fb_1.mp3",
-    "title" : "Truyện Ngôn Tình Hay Đang Làm Mưa Làm Gió (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_40fdb9cd02bc3485818d0215693a01b6_2dd01b79897bf73f1fa9305d14c385fb_2.mp3",
-    "title" : "Truyện Ngôn Tình Hay Đang Làm Mưa Làm Gió (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_40fdb9cd02bc3485818d0215693a01b6_2dd01b79897bf73f1fa9305d14c385fb_3.mp3",
-    "title" : "Truyện Ngôn Tình Hay Đang Làm Mưa Làm Gió (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_40fdb9cd02bc3485818d0215693a01b6_2dd01b79897bf73f1fa9305d14c385fb_4.mp3",
-    "title" : "Truyện Ngôn Tình Hay Đang Làm Mưa Làm Gió (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_40fdb9cd02bc3485818d0215693a01b6_0a8d074e532e95386b5d85dac78f1deb_1.mp3",
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Nữ Chính Bị Ngược (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_40fdb9cd02bc3485818d0215693a01b6_0a8d074e532e95386b5d85dac78f1deb_2.mp3",
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Nữ Chính Bị Ngược (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_40fdb9cd02bc3485818d0215693a01b6_0a8d074e532e95386b5d85dac78f1deb_3.mp3",
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Nữ Chính Bị Ngược (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_40fdb9cd02bc3485818d0215693a01b6_0a8d074e532e95386b5d85dac78f1deb_4.mp3",
-    "title" : "Truyện Ngôn Tình Hay Nhất Về Nữ Chính Bị Ngược (4)",
+    "href" : "https://archive.org/download/den-trang/3.mp3",
+    "title" : "Truyện Ngôn Tình Hay Nhất Về Nữ Chính Bị Ngược",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

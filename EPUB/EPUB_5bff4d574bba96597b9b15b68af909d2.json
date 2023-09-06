@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
+    "published" : "2023-09-06",
     "duration" : 23465,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,77 +36,29 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bff4d574bba96597b9b15b68af909d2_83c60709544babd04c9d1ea34c654cde_1.mp3",
+    "href" : "https://archive.org/download/bepamcuame/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Đỗ Phương Thảo - Phần 01 (1)",
+    "duration" : 11230,
+    "title" : "Đỗ Phương Thảo - Phần 01",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bff4d574bba96597b9b15b68af909d2_83c60709544babd04c9d1ea34c654cde_2.mp3",
+    "href" : "https://archive.org/download/bepamcuame/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Đỗ Phương Thảo - Phần 01 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bff4d574bba96597b9b15b68af909d2_83c60709544babd04c9d1ea34c654cde_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Đỗ Phương Thảo - Phần 01 (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bff4d574bba96597b9b15b68af909d2_34537718ed2db16f8b92243a85723581_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Đỗ Phương Thảo - Phần 02 end (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bff4d574bba96597b9b15b68af909d2_34537718ed2db16f8b92243a85723581_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Đỗ Phương Thảo - Phần 02 end (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bff4d574bba96597b9b15b68af909d2_34537718ed2db16f8b92243a85723581_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Đỗ Phương Thảo - Phần 02 end (3)",
+    "duration" : 12235,
+    "title" : "Đỗ Phương Thảo - Phần 02 end",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bff4d574bba96597b9b15b68af909d2_83c60709544babd04c9d1ea34c654cde_1.mp3",
-    "title" : "Đỗ Phương Thảo - Phần 01 (1)",
+    "href" : "https://archive.org/download/bepamcuame/1.mp3",
+    "title" : "Đỗ Phương Thảo - Phần 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bff4d574bba96597b9b15b68af909d2_83c60709544babd04c9d1ea34c654cde_2.mp3",
-    "title" : "Đỗ Phương Thảo - Phần 01 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bff4d574bba96597b9b15b68af909d2_83c60709544babd04c9d1ea34c654cde_3.mp3",
-    "title" : "Đỗ Phương Thảo - Phần 01 (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bff4d574bba96597b9b15b68af909d2_34537718ed2db16f8b92243a85723581_1.mp3",
-    "title" : "Đỗ Phương Thảo - Phần 02 end (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bff4d574bba96597b9b15b68af909d2_34537718ed2db16f8b92243a85723581_2.mp3",
-    "title" : "Đỗ Phương Thảo - Phần 02 end (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5bff4d574bba96597b9b15b68af909d2_34537718ed2db16f8b92243a85723581_3.mp3",
-    "title" : "Đỗ Phương Thảo - Phần 02 end (3)",
+    "href" : "https://archive.org/download/bepamcuame/2.mp3",
+    "title" : "Đỗ Phương Thảo - Phần 02 end",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

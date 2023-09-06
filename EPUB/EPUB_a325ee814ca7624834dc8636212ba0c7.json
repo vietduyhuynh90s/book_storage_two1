@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-22",
+    "published" : "2023-09-06",
     "duration" : 17212,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,89 +36,41 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_a325ee814ca7624834dc8636212ba0c7_0d55b03c575c671a69e1fc7920da2744_1.mp3",
+    "href" : "https://archive.org/download/khi-tai-1/khi-tai-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khi-tai-1 (1)",
+    "duration" : 6980,
+    "title" : "khi-tai-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_a325ee814ca7624834dc8636212ba0c7_0d55b03c575c671a69e1fc7920da2744_2.mp3",
+    "href" : "https://archive.org/download/khi-tai-1/khi-tai-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khi-tai-1 (2)",
+    "duration" : 4106,
+    "title" : "khi-tai-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_a325ee814ca7624834dc8636212ba0c7_c90662e2620a1278359f901490174fba_1.mp3",
+    "href" : "https://archive.org/download/khi-tai-1/khi-tai-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khi-tai-2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_a325ee814ca7624834dc8636212ba0c7_c90662e2620a1278359f901490174fba_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khi-tai-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_a325ee814ca7624834dc8636212ba0c7_0b6893c9f35a206a91e989f2453d3c3c_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khi-tai-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_a325ee814ca7624834dc8636212ba0c7_0b6893c9f35a206a91e989f2453d3c3c_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khi-tai-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_a325ee814ca7624834dc8636212ba0c7_0b6893c9f35a206a91e989f2453d3c3c_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "khi-tai-3 (3)",
+    "duration" : 6126,
+    "title" : "khi-tai-3",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_a325ee814ca7624834dc8636212ba0c7_0d55b03c575c671a69e1fc7920da2744_1.mp3",
-    "title" : "khi-tai-1 (1)",
+    "href" : "https://archive.org/download/khi-tai-1/khi-tai-1.mp3",
+    "title" : "khi-tai-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_a325ee814ca7624834dc8636212ba0c7_0d55b03c575c671a69e1fc7920da2744_2.mp3",
-    "title" : "khi-tai-1 (2)",
+    "href" : "https://archive.org/download/khi-tai-1/khi-tai-2.mp3",
+    "title" : "khi-tai-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_a325ee814ca7624834dc8636212ba0c7_c90662e2620a1278359f901490174fba_1.mp3",
-    "title" : "khi-tai-2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_a325ee814ca7624834dc8636212ba0c7_c90662e2620a1278359f901490174fba_2.mp3",
-    "title" : "khi-tai-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_a325ee814ca7624834dc8636212ba0c7_0b6893c9f35a206a91e989f2453d3c3c_1.mp3",
-    "title" : "khi-tai-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_a325ee814ca7624834dc8636212ba0c7_0b6893c9f35a206a91e989f2453d3c3c_2.mp3",
-    "title" : "khi-tai-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_a325ee814ca7624834dc8636212ba0c7_0b6893c9f35a206a91e989f2453d3c3c_3.mp3",
-    "title" : "khi-tai-3 (3)",
+    "href" : "https://archive.org/download/khi-tai-1/khi-tai-3.mp3",
+    "title" : "khi-tai-3",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

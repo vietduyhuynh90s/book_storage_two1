@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-28",
+    "published" : "2023-09-06",
     "duration" : 12969,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,101 +36,53 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_64f1ce004e147203b095bfdb20e47465_bd34931e5acda0e6dcaf0f40cdb00848_1.mp3",
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hanh-phuc-1 (1)",
+    "duration" : 3600,
+    "title" : "hanh-phuc-1",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_64f1ce004e147203b095bfdb20e47465_bd34931e5acda0e6dcaf0f40cdb00848_2.mp3",
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hanh-phuc-1 (2)",
+    "duration" : 3600,
+    "title" : "hanh-phuc-2",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_64f1ce004e147203b095bfdb20e47465_171d18e6e3b02f37bcbf1543c356ac7c_1.mp3",
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hanh-phuc-2 (1)",
+    "duration" : 3600,
+    "title" : "hanh-phuc-3",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_64f1ce004e147203b095bfdb20e47465_171d18e6e3b02f37bcbf1543c356ac7c_2.mp3",
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-4.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hanh-phuc-2 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_64f1ce004e147203b095bfdb20e47465_816f8f863f1e45b0839295094d972f9e_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hanh-phuc-3 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_64f1ce004e147203b095bfdb20e47465_816f8f863f1e45b0839295094d972f9e_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hanh-phuc-3 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_64f1ce004e147203b095bfdb20e47465_f1a72421e40ef16dcc60498c2c4cd6dd_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hanh-phuc-4 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_64f1ce004e147203b095bfdb20e47465_f1a72421e40ef16dcc60498c2c4cd6dd_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "hanh-phuc-4 (2)",
+    "duration" : 2169,
+    "title" : "hanh-phuc-4",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_64f1ce004e147203b095bfdb20e47465_bd34931e5acda0e6dcaf0f40cdb00848_1.mp3",
-    "title" : "hanh-phuc-1 (1)",
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-1.mp3",
+    "title" : "hanh-phuc-1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_64f1ce004e147203b095bfdb20e47465_bd34931e5acda0e6dcaf0f40cdb00848_2.mp3",
-    "title" : "hanh-phuc-1 (2)",
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-2.mp3",
+    "title" : "hanh-phuc-2",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_64f1ce004e147203b095bfdb20e47465_171d18e6e3b02f37bcbf1543c356ac7c_1.mp3",
-    "title" : "hanh-phuc-2 (1)",
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-3.mp3",
+    "title" : "hanh-phuc-3",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_64f1ce004e147203b095bfdb20e47465_171d18e6e3b02f37bcbf1543c356ac7c_2.mp3",
-    "title" : "hanh-phuc-2 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_64f1ce004e147203b095bfdb20e47465_816f8f863f1e45b0839295094d972f9e_1.mp3",
-    "title" : "hanh-phuc-3 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_64f1ce004e147203b095bfdb20e47465_816f8f863f1e45b0839295094d972f9e_2.mp3",
-    "title" : "hanh-phuc-3 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_64f1ce004e147203b095bfdb20e47465_f1a72421e40ef16dcc60498c2c4cd6dd_1.mp3",
-    "title" : "hanh-phuc-4 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_64f1ce004e147203b095bfdb20e47465_f1a72421e40ef16dcc60498c2c4cd6dd_2.mp3",
-    "title" : "hanh-phuc-4 (2)",
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-4.mp3",
+    "title" : "hanh-phuc-4",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

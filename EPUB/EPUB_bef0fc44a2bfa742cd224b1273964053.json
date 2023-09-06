@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-23",
+    "published" : "2023-09-06",
     "duration" : 3643,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,29 +36,17 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/AUDIO/AUDIO_bef0fc44a2bfa742cd224b1273964053_cca59b2f0601e0815d19efdb485bb31a_1.mp3",
+    "href" : "https://ia902704.us.archive.org/4/items/bi-mat-cua-nuoc/bi-mat-cua-nuoc.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Trọn bộ (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/AUDIO/AUDIO_bef0fc44a2bfa742cd224b1273964053_cca59b2f0601e0815d19efdb485bb31a_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Trọn bộ (2)",
+    "duration" : 3643,
+    "title" : "Trọn bộ",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/AUDIO/AUDIO_bef0fc44a2bfa742cd224b1273964053_cca59b2f0601e0815d19efdb485bb31a_1.mp3",
-    "title" : "Trọn bộ (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/AUDIO/AUDIO_bef0fc44a2bfa742cd224b1273964053_cca59b2f0601e0815d19efdb485bb31a_2.mp3",
-    "title" : "Trọn bộ (2)",
+    "href" : "https://ia902704.us.archive.org/4/items/bi-mat-cua-nuoc/bi-mat-cua-nuoc.mp3",
+    "title" : "Trọn bộ",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

@@ -13,8 +13,8 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-23",
-    "duration" : 10180,
+    "published" : "2023-09-06",
+    "duration" : 20360,
     "abridged" : false,
     "conformsTo" : null,
     "numberOfPages" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_b61c9d28f4c6d576c912bebf19cfafb0_9dd93e6e10485afb68604b1dcd7d3ac1.mp3",
+    "href" : "https://archive.org/download/chien_cong_sieu_pham/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3371,
@@ -44,7 +44,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_b61c9d28f4c6d576c912bebf19cfafb0_5c3b07a5dca2e57cefeadaf41cd61f37.mp3",
+    "href" : "https://archive.org/download/chien_cong_sieu_pham/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3335,
@@ -52,7 +52,7 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_b61c9d28f4c6d576c912bebf19cfafb0_fe16df101685c55286a52150d8483c07.mp3",
+    "href" : "https://archive.org/download/chien_cong_sieu_pham/3.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3474,
@@ -61,15 +61,15 @@
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_b61c9d28f4c6d576c912bebf19cfafb0_9dd93e6e10485afb68604b1dcd7d3ac1.mp3",
+    "href" : "https://archive.org/download/chien_cong_sieu_pham/1.mp3",
     "title" : "Phần 1 - Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_b61c9d28f4c6d576c912bebf19cfafb0_5c3b07a5dca2e57cefeadaf41cd61f37.mp3",
+    "href" : "https://archive.org/download/chien_cong_sieu_pham/2.mp3",
     "title" : "Phần 2 - Đọc Truyện Đêm Khuya",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_b61c9d28f4c6d576c912bebf19cfafb0_fe16df101685c55286a52150d8483c07.mp3",
+    "href" : "https://archive.org/download/chien_cong_sieu_pham/3.mp3",
     "title" : "Phần 3 - Đọc Truyện Đêm Khuya",
     "children" : [ ]
   } ],

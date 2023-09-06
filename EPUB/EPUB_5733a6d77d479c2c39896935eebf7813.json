@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-19",
+    "published" : "2023-09-06",
     "duration" : 14562,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,101 +36,29 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5733a6d77d479c2c39896935eebf7813_251abc4eff839f6eca10418e148d5c07_1.mp3",
+    "href" : "https://archive.org/download/lieu-pham-tu-huan-v2.sna/01.%20C01_LieuPhamTuHuan_Het.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "01. C01 LieuPhamTuHuan Het (1)",
+    "duration" : 7281,
+    "title" : "01. C01 LieuPhamTuHuan Het",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5733a6d77d479c2c39896935eebf7813_251abc4eff839f6eca10418e148d5c07_2.mp3",
+    "href" : "https://archive.org/download/lieu-pham-tu-huan-v2.sna/01._C01_LieuPhamTuHuan_Het.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "01. C01 LieuPhamTuHuan Het (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5733a6d77d479c2c39896935eebf7813_251abc4eff839f6eca10418e148d5c07_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "01. C01 LieuPhamTuHuan Het (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5733a6d77d479c2c39896935eebf7813_251abc4eff839f6eca10418e148d5c07_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "01. C01 LieuPhamTuHuan Het (4)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5733a6d77d479c2c39896935eebf7813_703f33f67dcb4a2153912b3cc1679bed_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "01. C01 LieuPhamTuHuan Het (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5733a6d77d479c2c39896935eebf7813_703f33f67dcb4a2153912b3cc1679bed_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "01. C01 LieuPhamTuHuan Het (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5733a6d77d479c2c39896935eebf7813_703f33f67dcb4a2153912b3cc1679bed_3.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "01. C01 LieuPhamTuHuan Het (3)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5733a6d77d479c2c39896935eebf7813_703f33f67dcb4a2153912b3cc1679bed_4.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "01. C01 LieuPhamTuHuan Het (4)",
+    "duration" : 7281,
+    "title" : "01. C01 LieuPhamTuHuan Het",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5733a6d77d479c2c39896935eebf7813_251abc4eff839f6eca10418e148d5c07_1.mp3",
-    "title" : "01. C01 LieuPhamTuHuan Het (1)",
+    "href" : "https://archive.org/download/lieu-pham-tu-huan-v2.sna/01.%20C01_LieuPhamTuHuan_Het.mp3",
+    "title" : "01. C01 LieuPhamTuHuan Het",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5733a6d77d479c2c39896935eebf7813_251abc4eff839f6eca10418e148d5c07_2.mp3",
-    "title" : "01. C01 LieuPhamTuHuan Het (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5733a6d77d479c2c39896935eebf7813_251abc4eff839f6eca10418e148d5c07_3.mp3",
-    "title" : "01. C01 LieuPhamTuHuan Het (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5733a6d77d479c2c39896935eebf7813_251abc4eff839f6eca10418e148d5c07_4.mp3",
-    "title" : "01. C01 LieuPhamTuHuan Het (4)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5733a6d77d479c2c39896935eebf7813_703f33f67dcb4a2153912b3cc1679bed_1.mp3",
-    "title" : "01. C01 LieuPhamTuHuan Het (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5733a6d77d479c2c39896935eebf7813_703f33f67dcb4a2153912b3cc1679bed_2.mp3",
-    "title" : "01. C01 LieuPhamTuHuan Het (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5733a6d77d479c2c39896935eebf7813_703f33f67dcb4a2153912b3cc1679bed_3.mp3",
-    "title" : "01. C01 LieuPhamTuHuan Het (3)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_5733a6d77d479c2c39896935eebf7813_703f33f67dcb4a2153912b3cc1679bed_4.mp3",
-    "title" : "01. C01 LieuPhamTuHuan Het (4)",
+    "href" : "https://archive.org/download/lieu-pham-tu-huan-v2.sna/01._C01_LieuPhamTuHuan_Het.mp3",
+    "title" : "01. C01 LieuPhamTuHuan Het",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"

@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-08-21",
+    "published" : "2023-09-06",
     "duration" : 16902,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,53 +36,29 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e1ddd37f4490fce2357869a0284d30e4_13178b1a279aa770a4ab90d9d3950d56_1.mp3",
+    "href" : "https://archive.org/download/caychuoinondigiayxanh_201903/1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nguyễn Nhật Ánh - Phần 01 (1)",
+    "duration" : 8451,
+    "title" : "Nguyễn Nhật Ánh - Phần 01",
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e1ddd37f4490fce2357869a0284d30e4_13178b1a279aa770a4ab90d9d3950d56_2.mp3",
+    "href" : "https://archive.org/download/caychuoinondigiayxanh_201903/2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nguyễn Nhật Ánh - Phần 01 (2)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e1ddd37f4490fce2357869a0284d30e4_bdb49c768533cd2c77dc334fb51a8bd4_1.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nguyễn Nhật Ánh - Phần 02 end (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e1ddd37f4490fce2357869a0284d30e4_bdb49c768533cd2c77dc334fb51a8bd4_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Nguyễn Nhật Ánh - Phần 02 end (2)",
+    "duration" : 8451,
+    "title" : "Nguyễn Nhật Ánh - Phần 02 end",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e1ddd37f4490fce2357869a0284d30e4_13178b1a279aa770a4ab90d9d3950d56_1.mp3",
-    "title" : "Nguyễn Nhật Ánh - Phần 01 (1)",
+    "href" : "https://archive.org/download/caychuoinondigiayxanh_201903/1.mp3",
+    "title" : "Nguyễn Nhật Ánh - Phần 01",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e1ddd37f4490fce2357869a0284d30e4_13178b1a279aa770a4ab90d9d3950d56_2.mp3",
-    "title" : "Nguyễn Nhật Ánh - Phần 01 (2)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e1ddd37f4490fce2357869a0284d30e4_bdb49c768533cd2c77dc334fb51a8bd4_1.mp3",
-    "title" : "Nguyễn Nhật Ánh - Phần 02 end (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/duyhuynh672018/audio_storage1/main/AUDIO/AUDIO_e1ddd37f4490fce2357869a0284d30e4_bdb49c768533cd2c77dc334fb51a8bd4_2.mp3",
-    "title" : "Nguyễn Nhật Ánh - Phần 02 end (2)",
+    "href" : "https://archive.org/download/caychuoinondigiayxanh_201903/2.mp3",
+    "title" : "Nguyễn Nhật Ánh - Phần 02 end",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
