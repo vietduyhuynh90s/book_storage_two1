@@ -13,7 +13,7 @@
     "publisher" : "N/A",
     "subject" : null,
     "modified" : null,
-    "published" : "2023-07-05",
+    "published" : "2023-09-06",
     "duration" : 10929,
     "abridged" : false,
     "conformsTo" : null,
@@ -36,7 +36,7 @@
     "width" : 300
   } ],
   "readingOrder" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/AUDIO/AUDIO_195768e10ec2c381a3df710291af0df0_4fd621422784d0394ee0aea17d493645.mp3",
+    "href" : "https://ia802705.us.archive.org/18/items/dear-darling/dear-darling-1.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
     "duration" : 3643,
@@ -44,33 +44,21 @@
     "properties" : null,
     "alternate" : null
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/AUDIO/AUDIO_195768e10ec2c381a3df710291af0df0_56d735ecdfebd4c0331c0338465acdc8_1.mp3",
+    "href" : "https://ia802705.us.archive.org/18/items/dear-darling/dear-darling-2.mp3",
     "type" : "audio/mpeg",
     "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Phần 2 (1)",
-    "properties" : null,
-    "alternate" : null
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/AUDIO/AUDIO_195768e10ec2c381a3df710291af0df0_56d735ecdfebd4c0331c0338465acdc8_2.mp3",
-    "type" : "audio/mpeg",
-    "bitrate" : 128,
-    "duration" : 0,
-    "title" : "Phần 2 (2)",
+    "duration" : 3643,
+    "title" : "Phần 2",
     "properties" : null,
     "alternate" : null
   } ],
   "toc" : [ {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/AUDIO/AUDIO_195768e10ec2c381a3df710291af0df0_4fd621422784d0394ee0aea17d493645.mp3",
+    "href" : "https://ia802705.us.archive.org/18/items/dear-darling/dear-darling-1.mp3",
     "title" : "Phần 1",
     "children" : [ ]
   }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/AUDIO/AUDIO_195768e10ec2c381a3df710291af0df0_56d735ecdfebd4c0331c0338465acdc8_1.mp3",
-    "title" : "Phần 2 (1)",
-    "children" : [ ]
-  }, {
-    "href" : "https://raw.githubusercontent.com/vietduyhuynh90s/book_storage_two1/main/AUDIO/AUDIO_195768e10ec2c381a3df710291af0df0_56d735ecdfebd4c0331c0338465acdc8_2.mp3",
-    "title" : "Phần 2 (2)",
+    "href" : "https://ia802705.us.archive.org/18/items/dear-darling/dear-darling-2.mp3",
+    "title" : "Phần 2",
     "children" : [ ]
   } ],
   "@context" : "https://readium.org/webpub-manifest/context.jsonld"
